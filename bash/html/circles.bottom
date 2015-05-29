@@ -1,0 +1,13 @@
+
+
+<!--dynamically created content completed above-->
+<br>
+<br>
+<a href="About.docx">About this site</a><br>
+<a href="ForExecutives.docx">For Executives</a><br>
+<a href="ForDevelopers.docx">For Developers</a><br><br>
+<a href="frequencyProjectDescriptionsFiltered.txt">Word Frequency</a><br>
+<a href="frequencylanguages.txt">Language Frequency</a><br>
+<a href="mostActiveRepos.txt">Most Active Repositories</a><br>
+<a href="sortedCreationDates.txt">Repositories by Creation Date</a><br>
+

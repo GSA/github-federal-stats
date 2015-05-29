@@ -1,0 +1,15 @@
+
+
+<div class="CIRCLE_NAME circle">
+     <strong></strong>
+     CIRCLE_TEXT
+</div>
+
+<script>
+
+$('.CIRCLE_NAME.circle').circleProgress({
+    value: CIRCLE_VALUE/100,
+}).on('circle-animation-progress', function(event, progress) {
+    $(this).find('strong').html(parseInt(CIRCLE_VALUE * progress) + '<i>%</i>');
+});
+</script>

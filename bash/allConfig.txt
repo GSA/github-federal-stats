@@ -1,0 +1,5 @@
+scriptsDirectory:.
+outputGHDirectory:./output/GH/all/
+outputDataDirectory:./output/data/all/
+outputReportDirectory:./output/publish/all/
+outputTempDirectory:./output/temp/all/

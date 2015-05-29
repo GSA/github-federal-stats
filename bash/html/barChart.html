@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Bar Chart</title>
+
+
+  <script language="javascript" type="text/javascript" src="http://www.jqplot.com/src/jquery.min.js"></script>
+
+  <script language="javascript" type="text/javascript" src="http://www.jqplot.com/src/jquery.jqplot.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="http://www.jqplot.com/src/jquery.jqplot.min.css" />
+
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.dateAxisRenderer.min.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.canvasTextRenderer.min.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.canvasAxisTickRenderer.min.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.barRenderer.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+  var line1 = [['Cup Holder Pinion Bob', 7], ['Generic Fog Lamp', 9], ['HDTV Receiver', 15], 
+  ['8 Track Control Module', 12], [' Sludge Pump Fourier Modulator', 3], 
+  ['Transcender/Spice Rack', 6], ['Hair Spray Danger Indicator', 18]];
+ 
+  var plot1 = $.jqplot('chart1', [line1], {
+    title: 'Concern vs. Occurrance',
+    series:[{renderer:$.jqplot.BarRenderer}],
+    axesDefaults: {
+        tickRenderer: $.jqplot.CanvasAxisTickRenderer ,
+        tickOptions: {
+          angle: -30,
+          fontSize: '10pt'
+        }
+    },
+    axes: {
+      xaxis: {
+        renderer: $.jqplot.CategoryAxisRenderer
+      }
+    }
+  });
+});
+
+</script>
+</head>
+<body>
+
+<div id="chart1" style="height:300px; width:500px; margin-left:75px;"></div>
+
+
+</div>
+</body>
+</html>
