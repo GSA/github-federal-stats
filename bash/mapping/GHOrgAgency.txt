@@ -1,0 +1,135 @@
+org:type:agency:subagency
+18f:Government:GSA:18F
+adl-aicc:Grant?:DOD:Office of the Under Secretary of Defense for Personnel and Readiness
+adlnet:Grant?:DOD:Office of the Under Secretary of Defense for Personnel and Readiness
+arcticlcc:Government:Interior:Fish and Wildlife
+BBGInnovate:Government:Broadcasting Board of Governors:
+blue-button:Government:HHS:Office of the National Coordinator for Health IT
+businessusa:Government:BusinessUSA:BusinessUSA
+CA-CST-Library:Government:State:Consular Systems and Technology Division
+CA-CST-SII:Government:State:Consular Systems and Technology Division
+cfpb:Government:Consumer Financial Protection Bureau:
+chaos:FFRDC:Energy:"Lawrence Livermore National Security: LLC"
+cmsgov:Government:HHS:Centers for Medicare & Medicaid Services
+cocomans:FFRDC:Energy:Los Alamos National Labs
+commercegov:Government:Commerce:
+cooperhewitt:NGE:NGE:
+defense-cyber-crime-center:Government:DOD:USAF Defense Cyber Crime Center
+department-of-veterans-affairs:Government:VA:
+educationdatainitiative:NGE:NGE:adhocteam.us
+EEOC:Government:EEOC:
+energyapps:Government:Energy:
+erdc-cm:Government:DOD:US Army Corps of Engineers
+eregs:Government:Consumer Financial Protection Bureau:
+fcc:Government:FCC:
+fccdata:Government:FCC:
+FCCdev:Government:FCC:
+fda:Government:HHS:FDA
+Federal-Aviation-Administration:Government:Transportation:FAA
+federaltradecommission:Government:FTC:
+fedspendingtransparency:Government:GSA:fed-spending-transparency-collaboration@gsa.gov
+foreignassistance:Government:State:USAID
+globegit:Government:NASA:
+gopleader::Congressional:Eric Cantor
+government-services:Government:GSA:18F
+GreatSmokyMountainsNationalPark:Government:Interior:NPS
+gsa:Government:GSA:
+GSA-Archive:Government:GSA:
+hhs:Government:HHS:
+HHSDigitalMediaAPIPlatform:Government:HHS:
+HHSIDEAlab:Government:HHS:
+historyatstate:Government:State:Office of the Historian
+hpc:FFRDC:Energy:Los Alamos National Labs
+IIP-Design:Government:State:Bureau of International Information Programs
+IMDProjects::NGE:
+immojn:Government:Interior:NPS
+informaticslab:Government:HHS:CDC
+Innovation-Toolkit::NGE:PIF
+ioos:Government:NOAA:
+IRSgov:Government:Treasury:IRS
+JBEI:Government:Energy:
+JPLOpenSource:FFRDC:NASA:Jet Propulsion Laboratory
+kbase:Government:Energy:Department of Science
+libraryofcongress:Government:Congressional:
+losalamos:FFRDC:Energy:Los Alamos National Labs
+M-O-S-E-S:Government:DOD:United States Army Simulation and Training Technology Center
+mcc-gov:Government:The Millennium Challenge Corporation:
+nasa:Government:NASA:
+nasa-gibs:Government:NASA:
+NASA-rdt:Government:NASA:
+nasajpl:Government:NASA:
+NationalGuard:Government:DOD:National Guard
+nationalparkservice:Government:Interior:NPS
+ncats:Government:HHS:NIH
+ncbi:Government:HHS:NIH
+ncbitools:Government:HHS:NIH
+ncip:Government:HHS:NIH
+NCPP:Grant?:Energy:University of Colorado
+NCRN:Government:Interior:NPS
+NDAR:Government:HHS:NIH
+NeoGeographyToolkit:Government:NASA:
+NERSC:FFRDC:Energy:Lawrence Berkley National Laboratory
+ngds:Grant:Energy:
+nhanes:Government:HHS:CDC
+nhlbi:Government:HHS:NIH
+niaid:Government:HHS:NIH
+NIEM:Government:Homeland Security:
+NIST-BWS:Government:NIST:
+NMB-Dev:Government:National Mediation Board:
+NMML:Government:Commerce:NOAA
+noaa-gfdl:Government:Commerce:NOAA
+NOAA-ORR-ERD:Government:Commerce:NOAA
+nrel:FFRDC:Energy:National Renewable Energy Laboratory
+NREL-cookbooks:FFRDC:Energy:National Renewable Energy Laboratory
+ntia:Government:Commerce:National Telecommunications and Information Administration
+ombegov:Government:OMB:
+Open-Sat:Government:NASA:
+opengovplatform:Government:GSA:data.gov
+ozone-development::NGE:
+ozoneplatform::NGE:
+peacecorps:Government:Peace Corps:
+PM-Master:Government:NIST:
+PNNL:FFRDC:Energy:Pacific Northwest National Laboratory
+presidential-innovation-fellows:Government:Whitehouse:PIF
+project-open-data:Government:Whitehouse:
+redhawksdr::NGE:
+SEED-platform:Government:Energy:
+SelectUSA:Government:Commerce:
+SERVIR::NGE:
+Smithsonian:Government:Smithsonian:
+state-hiu:Government:State:
+sunpy::NGE:
+usagov:Government:GSA:
+usaid:Government:USAID:
+usasearch:Government:GSA:
+usbr:Government:Interior:Bureau of Reclamation
+usda:Government:USDA:
+USDA-ERS:Government:USDA:Economic Research Service
+usda-vs:Government:USDA:Veterinary Services
+usdepartmentoflabor:Government:Labor:
+USDeptVeteransAffairs:Government:VA:
+usepa:Government:EPA:
+USFWS:Government:Interior:FWS
+usg-scope:Government:GSA:
+USGCRP:FFRDC:NSF:University Corporation for Atmospheric Research
+usgpo:Government:GPO:
+usgs:Government:Interior:USGS
+USGS-Astrogeology:Government:Interior:USGS-Astrogeology
+USGS-CIDA:Government:Interior:USGS-CIDA
+usgs-cmg:Government:Interior:usgs-cmg
+USGS-OWI:Government:Interior:USGS-OWI
+USGS-R:Government:Interior:USGS-R
+USGS-WiM:Government:Interior:USGS-WiM
+usindianaffairs:Government:Interior:Indian Affairs
+usinterior:Government:Interior:
+usnationalarchives:Government:National Archives:
+usnistgov:Government:NIST:
+USPS:Government:USPS:
+USPTO:Government:Commerce:USPTO
+usstatedept:Government:State:
+vainnovation:Government:VA:VA Center for Innovation
+VHAINNOVATIONS:Government:VA:VHA Center for Innovation
+virtual-world-framework:Grant?:DoD:
+visionworkbench:Government:NASA:
+WFMRDA:Government:Interior:Wildland Fire Management
+whitehouse:Government:Whitehouse:
