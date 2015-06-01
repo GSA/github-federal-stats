@@ -75,7 +75,7 @@ $(document).ready(function() {
 <ul>
 <li><a href="overview.html">Overview</a></li>
 <li><a href="#tabs-2">Organizations</a></li>
-<li><a href="repos.html">Find Code</a></li>
+<li><a href="#tabs-3">Find Code</a></li>
 
 </ul>
 
@@ -122,4 +122,56 @@ $(document).ready(function() {
         <tbody>
 
 <!--Dynamically created content starts below-->
+
+
+<!--TABLE1-->
+
+
+
+<!--End of dynamically created content above-->
+ </tbody>
+    </table>
+
+</div>
+
+
+
+  <div id="tabs-3">    
+
+
+<table id="ghfeddescs" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Description</th>
+                <th>Project</th>
+            </tr>
+        </thead>
+
+        <tfoot>
+            <tr>
+                <th>Description</th>
+                <th>Project</th>
+            </tr>
+        </tfoot> 
+ 
+        <tbody>
+
+
+
+<!--Dynamically created content starts below-->
+
+
+
+<!--TABLE2-->
+
+
+<!--End of dynamically created content above-->
+
+
+
+</div>
+</body>
+</html>
+
+
 
