@@ -11,6 +11,8 @@ file=$1
   outputTempDirectory=`$configReader $configFile outputTempDirectory`
   scriptsDirectory=`$configReader $configFile scriptsDirectory`
 
+  descriptionHTMLTemp=$outputTempDirectory/descriptionTemp.html
+
 sed -n '/description":/,/"fork"/p' $file | sed -rn 's/.*description": "//;s/",.*//p' > $outputDataDirectory/orgs/"$org"projectDescriptions.txt
 cat $outputDataDirectory/orgs/"$org"projectDescriptions.txt >> $outputDataDirectory/projectDescriptions.txt
 
@@ -43,6 +45,13 @@ else
     createdAt=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputDataDirectory/orgs/"$org"FederalRepos.txt $line created_at`
     echo "$createdAt:$line"
     echo "$createdAt:$line" >> $outputDataDirectory/creationDates.txt 
+
+    description=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputDataDirectory/orgs/"$org"FederalRepos.txt $line description`
+    if [ -z "$description" ]; then
+      description="--"
+    fi
+
+    echo "<tr><td>$description</td><td><a href=\"https://github.com/$line\">$line</a></td></tr>" >> $descriptionHTMLTemp
   done < "$outputTempDirectory/projects.txt"
 
   ttlProjects=`cat $outputDataDirectory/orgs/"$org"projectDescriptions.txt | wc -l`
