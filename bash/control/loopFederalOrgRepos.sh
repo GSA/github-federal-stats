@@ -31,7 +31,10 @@ else
   orgMatrix=$outputReportDirectory/orgMatrix.txt
   orgXML=$outputReportDirectory/orgXML.xml
   orgHTML=$outputReportDirectory/index.html
+  orgHTMLTemp=$outputTempDirectory/org.html.temp
   orgHTML2=$outputReportDirectory/portable.html
+  descriptionHTMLPortable=$outputReportDirectory/descriptionPortable.html
+  descriptionHTMLTemp=$outputTempDirectory/descriptionTemp.html
 
   echo > $federalRepos
   echo > $federalOrgInfo
@@ -44,7 +47,11 @@ else
   echo -e "<data>" > $orgXML
   #cp -R $scriptsDirectory/html/DataTables-1.10.7 $outputReportDirectory
   cp $scriptsDirectory/html/*.docx $outputReportDirectory
-  cat $scriptsDirectory/html/datatable.top > $orgHTML
+#  cat $scriptsDirectory/html/datatable.top > $orgHTML
+  cat $scriptsDirectory/html/datatable.template > $orgHTML
+  echo > $orgHTMLTemp
+  echo > $descriptionHTMLTemp
+  cat $scriptsDirectory/html/descriptionHTML.top > $descriptionHTMLPortable
   cat $scriptsDirectory/html/datatableportable.top > $orgHTML2
   echo > $outputDataDirectory/projectDescriptions.txt
   echo > $outputDataDirectory/commitActivity.txt
@@ -129,7 +136,7 @@ else
 
     echo -e "<org><name>$org2</name><type>$orgtype</type><agency>$agency</agency><subagency>$subagency2</subagency><url>$url2</url><avatar>$avatar</avatar><blog>$blog2</blog><email>$email2</email><repos>$repos</repos>$addInfo2<bio>$bio2</bio></org>" >> $orgXML
 
-    echo -e "<tr><td>$avatar2</td><td>$org3</td><td>$orgtype</td><td>$agency</td><td>$subagency2</td><td>$blog3</td><td>$email3</td><td>$repos</td>$addInfo3<td>$bio3</td></tr>" >> $orgHTML
+    echo -e "<tr><td>$avatar2</td><td>$org3</td><td>$orgtype</td><td>$agency</td><td>$subagency2</td><td>$blog3</td><td>$email3</td><td>$repos</td>$addInfo3<td>$bio3</td></tr>" >> $orgHTMLTemp
     echo -e "<tr><td>$avatar2</td><td>$org3</td><td>$orgtype</td><td>$agency</td><td>$subagency2</td><td>$blog3</td><td>$email3</td><td>$repos</td>$addInfo3<td>$bio3</td></tr>" >> $orgHTML2
 
     echo -e "$org\t$orgtype\t$agency\t$subagency\t$url\t$avatar\t$blog\t$email\t$repos\t$addInfo\t$bio" >> $orgMatrix
@@ -137,8 +144,23 @@ else
     count=$((count + 1))
   done < "$orgIndex"
   echo -e "</data>" >> $orgXML
-  cat $scriptsDirectory/html/datatable.bottom >> $orgHTML
+
+#  cat $scriptsDirectory/html/datatable.bottom >> $orgHTML
+  echo $orgHTMLTemp
+  echo $orgHTML
+  echo $descriptionHTMLTemp
+  #replace orgHTMLTemp in orgHTML
+  FILE2=$(<"$orgHTML")
+  FILE1=$(<"$orgHTMLTemp")
+  echo "${FILE2//<!--TABLE1-->/$FILE1}" > $orgHTML
+
+  #replace descriptionHTMLTemp in orgHTML
+  FILE2=$(<"$orgHTML")
+  FILE1=$(<"$descriptionHTMLTemp")
+  echo "${FILE2//<!--TABLE2-->/$FILE1}" > $orgHTML
+
   cat $scriptsDirectory/html/datatableportable.bottom >> $orgHTML2
+  cat $scriptsDirectory/html/descriptionHTML.bottom >> $descriptionHTMLPortable
 fi
 echo "exit $0"
 
