@@ -46,7 +46,12 @@ else
   echo -e "Organization\tType\tAgency\tSubagency\tSite\tAvatar\tBlog\tE-Mail\tRepositories\tMissing Project Descriptions\tInfo" > $orgMatrix
   echo -e "<data>" > $orgXML
   #cp -R $scriptsDirectory/html/DataTables-1.10.7 $outputReportDirectory
+
+  cp -R $scriptsDirectory/html/CSS $outputReportDirectory
+  cp -R $scriptsDirectory/html/Images $outputReportDirectory
+  cp -R $scriptsDirectory/html/JS $outputReportDirectory
   cp $scriptsDirectory/html/*.docx $outputReportDirectory
+
 #  cat $scriptsDirectory/html/datatable.top > $orgHTML
   cat $scriptsDirectory/html/datatable.template > $orgHTML
   echo > $orgHTMLTemp
@@ -146,9 +151,15 @@ else
   echo -e "</data>" >> $orgXML
 
 #  cat $scriptsDirectory/html/datatable.bottom >> $orgHTML
-  echo $orgHTMLTemp
-  echo $orgHTML
-  echo $descriptionHTMLTemp
+#  echo $orgHTMLTemp
+#  echo $orgHTML
+#  echo $descriptionHTMLTemp
+
+  #replace circles in orgHTML
+  FILE2=$(<"$orgHTML")
+  FILE1=$(<"$outputTempDirectory/overview.html")
+  echo "${FILE2//<!--CIRCLE1-->/$FILE1}" > $orgHTML
+
   #replace orgHTMLTemp in orgHTML
   FILE2=$(<"$orgHTML")
   FILE1=$(<"$orgHTMLTemp")

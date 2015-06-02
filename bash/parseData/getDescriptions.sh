@@ -32,12 +32,14 @@ ttlPOCS=$((ttlPOCs+0))
 
 descPerc=$((ttlDescriptions*100/ttlProjects))
 pocsPerc=$((ttlPOCS*100/ttlPOCLines))
+
 cp -R $scriptsDirectory/html/jquery-circle-progress $outputReportDirectory
 
 #echo "missingPOCs:$missingPOCs"
 echo "ttlPOCs:$ttlPOCS"
 echo "ttlPOCLines:$ttlPOCLines"
 echo "pocsPerc:$pocsPerc"
-$scriptsDirectory/html/makeCirclePage.sh $configReader $configFile $outputReportDirectory/overview.html $pocsPerc $descPerc
+#$scriptsDirectory/html/makeCirclePage.sh $configReader $configFile $outputReportDirectory/overview.html $pocsPerc $descPerc
+$scriptsDirectory/html/makeCirclePage.sh $configReader $configFile $outputTempDirectory/overview.html $pocsPerc $descPerc
 
 echo "exit $0"
