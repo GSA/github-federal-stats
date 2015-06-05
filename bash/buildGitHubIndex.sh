@@ -1,7 +1,7 @@
-echo -e "\n---------------enter $0---------------"
+echo "enter $0"
 
 if [[ ( -z $1 || -z $2 || -z $3 ) ]]; then
-  echo "Usage: buildGitHubIndex.sh [token] [configReader] [configFile] [optional:refresh (true|fatotalse)] [optional:federalOrgs]"
+  echo "Usage: buildGitHubIndex.sh [token] [configReader] [configFile] [optional:refresh (true|false)] [optional:federalOrgs]"
 else
 
 STARTTIME=$(date +%s)
@@ -42,23 +42,7 @@ echo "Script started: $(date)"
       echo "outputGHDirectory:$outputGHDirectory$federalOrgs" >> $configFile.$federalOrgs      
       echo "outputDataDirectory:$outputDataDirectory$federalOrgs" >> $configFile.$federalOrgs      
       echo "outputReportDirectory:$outputReportDirectory$federalOrgs" >> $configFile.$federalOrgs
-      echo "outputTempDirectory:$outputTempDirectory$federalOrgs" >> $configFile.$federalOrgs 
-
-      flag=`$configReader $configFile refreshUSFederalList`     
-      echo "refreshUSFederalList:$flag" >> $configFile.$federalOrgs 
-
-      flag=`$configReader $configFile refreshGitHubOrgInfo`     
-      echo "refreshGitHubOrgInfo:$flag" >> $configFile.$federalOrgs 
-
-      flag=`$configReader $configFile refreshGitHubReposInfo`     
-      echo "refreshGitHubReposInfo:$flag" >> $configFile.$federalOrgs 
-
-      flag=`$configReader $configFile refreshGitHubCommitsInfo`     
-      echo "refreshGitHubCommitsInfo:$flag" >> $configFile.$federalOrgs 
-
-      flag=`$configReader $configFile refreshOrgsForAgency`     
-      echo "refreshOrgsForAgency:$flag" >> $configFile.$federalOrgs 
- 
+      echo "outputTempDirectory:$outputTempDirectory$federalOrgs" >> $configFile.$federalOrgs      
       configFile=$configFile."$federalOrgs"
 
       #reset directories...
@@ -97,35 +81,23 @@ echo "Script started: $(date)"
     tempAgency="${agency//_/ }"
 
     echo "agency is $tempAgency"
-
-  refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshOrgsForAgency $outputDataDirectory/$agency.repos`
-
-  echo "refresh orgs for agency $tempAgency = $refresh" 
-
-  if [[ ( $refresh = "true" ) ]]; then
-    echo "calling getOrgsforAgency.sh for $tempAgency "
-    $scriptsDirectory/mapping/getOrgsforAgency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputDataDirectory/$agency.repos
-  fi
-
-
+    `$scriptsDirectory/mapping/getOrgsforAgency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputTempDirectory/$agency.repos`
     
     #do check for subagency if name is a subagency...
-    #no need to check refresh because it would be there if there were none and data was already retrieved
-    ttlOrgs=`cat $outputDataDirectory/$agency.repos | wc -l`
+    ttlOrgs=`cat $outputTempDirectory/$agency.repos | wc -l`
     ttlOrgs=$((ttlOrgs + 0))
     if [ $ttlOrgs -eq 0 ]; then
-      echo "could not find agency...searching sub-agencies..." 
-      echo "calling getOrgsforSubagency.sh"
-      $scriptsDirectory/mapping/getOrgsforSubagency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputDataDirectory/$agency.repos
+      echo "could not find agency...searching sub-agencies..."  
+      `$scriptsDirectory/mapping/getOrgsforSubagency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputTempDirectory/$agency.repos`    
     fi
-    federalOrgs=$outputDataDirectory/$agency.repos
+    federalOrgs=$outputTempDirectory/$agency.repos
   fi
 
- # if [[ ( ! -z $federalOrgs ) ]]; then
-  #  echo "output data directory=$outputDataDirectory"
-   # echo "federal orgs=$federalOrgs"
-   # `cp $federalOrgs $outputDataDirectory`
-  #fi  
+  if [[ ( ! -z $federalOrgs ) ]]; then
+    echo "output data directory=$outputDataDirectory"
+    echo "federal orgs=$federalOrgs"
+    `cp $federalOrgs $outputDataDirectory`
+  fi  
 
   if [[ ( $refresh = "true" ) ]]; then
     if [[ ( -z $federalOrgs ) || ( $federalOrgs == *.repos ) ]]; then
@@ -146,4 +118,4 @@ echo "Script completed: $(date)"
 ENDTIME=$(date +%s)
 diff=$(($ENDTIME-$STARTTIME))
 echo "Total elapsed time: $(($diff / 60))m $(($diff % 60))s"
-echo -e "---------------exit $0---------------"
+echo "exit $0"
