@@ -1,4 +1,4 @@
-echo "enter $0"
+echo -e "\n---------------enter $0---------------"
 if [[ ( -z $1 || -z $2 || -z $3 ) ]]; then
   echo "Usage: calculateTotals.sh [token] [configReader] [configFile]"
 else
@@ -18,7 +18,7 @@ else
 
   echo "Total Federal Organizations,$ttlOrgs"
   echo "Total Federal Organizations,$ttlOrgs" > $outputDataDirectory/stats.txt
-  echo "<tr><td>Total Federal Organizations</td><td>$ttlOrgs</td></tr>" > $outputDataDirectory/htmlstats.txt
+  echo "<tr><td>Total Federal Organizations</td><td align=\"right\">$ttlOrgs</td></tr>" > $outputDataDirectory/htmlstats.txt
 
   $scriptsDirectory/parseData/getDescriptions.sh $configReader $configFile
   #$scriptsDirectory/parseData/getReposTtls.sh  $configReader $configFile description
@@ -32,8 +32,9 @@ else
 
   echo "checking creation times"
   cat $outputDataDirectory/creationDates.txt | sort -rn > $outputReportDirectory/sortedCreationDates.txt
+  $scriptsDirectory/parseData/groupCreationDates.sh $outputReportDirectory/sortedCreationDates.txt $outputReportDirectory/groupedCreationDates
 
   echo "creating sorted commit averages file"
   sort -t\: -k1,1nr $outputDataDirectory/commitActivity.txt > $outputReportDirectory/mostActiveRepos.txt
 fi
-echo "exit $0"
+echo -e "---------------exit $0---------------"
