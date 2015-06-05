@@ -3,3 +3,8 @@ outputGHDirectory:./output/GH/all/
 outputDataDirectory:./output/data/all/
 outputReportDirectory:./output/publish/all/
 outputTempDirectory:./output/temp/all/
+refreshUSFederalList:false
+refreshGitHubOrgInfo:false
+refreshGitHubReposInfo:false
+refreshGitHubCommitsInfo:false
+refreshOrgsForAgency:false

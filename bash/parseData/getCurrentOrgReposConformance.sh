@@ -1,4 +1,4 @@
-echo "enter $0"
+echo -e "\n---------------enter $0---------------"
 
 file=$1
   configReader=$2
@@ -31,14 +31,25 @@ if [ $projCount -eq 0 ]; then
   averageCommits=$((0))
 else
   #loop through project repos for an org
+  echo "looping through project repositories for $org"
+
   while read -r line
   do
-    #echo "scriptsDirectory=$scriptsDirectory"
-    temp=`$scriptsDirectory/retrieveData/pullWeeklyCommits.sh $token $line`
+    echo "line is $line"
+    reposDirectory=$outputDataDirectory/orgs/"$line"
+    refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubCommitsInfo $reposDirectory/weeklyStats.txt`
+
+  if [[ ( $refresh = "true" ) ]]; then
+    $scriptsDirectory/retrieveData/pullWeeklyCommits.sh $token $configReader $configFile $line
+  fi
+  #  temp=`cat $reposDirectory/weeklyStats.txt | sed '1,/all/d;/\]/,$d' | sed 's/,$//' | sed -e 's/^[ \t]*//' -e 's/[ \t]*$//' | awk '{ total += $1; count++ } END { if (count > 0 ) print total/count; else print 0 }'`
+    temp=`cat $reposDirectory/weeklyStatsAverage.txt`
+
     echo "$line : $temp"
     echo "$temp:$line" >> $outputDataDirectory/commitActivity.txt
+
     if [[ (! $temp = "") ]]; then
-      averageProjCommits=$(awk "BEGIN {print $averageProjCommits+$temp; exit}")
+       averageProjCommits=$(awk "BEGIN {print $averageProjCommits+$temp; exit}")
     fi
 
     #add to file containing creation dates
@@ -46,12 +57,27 @@ else
     echo "$createdAt:$line"
     echo "$createdAt:$line" >> $outputDataDirectory/creationDates.txt 
 
-    description=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputDataDirectory/orgs/"$org"FederalRepos.txt $line description`
+    echo "getting description"
+    description=`cat $reposDirectory/description.txt`
     if [ -z "$description" ]; then
-      description="--"
+      description=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputDataDirectory/orgs/"$org"FederalRepos.txt $line description`
+      if [ -z "$description" ]; then
+        description="--"
+      fi    
+      echo $description > $reposDirectory/description.txt
     fi
 
-    echo "<tr><td>$description</td><td><a href=\"https://github.com/$line\">$line</a></td></tr>" >> $descriptionHTMLTemp
+    echo "getting language"
+    language=`cat $reposDirectory/language.txt`
+    if [ -z "$language" ]; then
+      language=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputDataDirectory/orgs/"$org"FederalRepos.txt $line language`
+      if [ -z "$language" ]; then
+        language="--"
+      fi
+      echo $description > $reposDirectory/language.txt
+    fi
+
+    echo "<tr><td headers="Description">$description</td><td headers="Language">$language</td><td headers="Project"><a href=\"https://github.com/$line\">$line</a></td></tr>" >> $descriptionHTMLTemp
   done < "$outputTempDirectory/projects.txt"
 
   ttlProjects=`cat $outputDataDirectory/orgs/"$org"projectDescriptions.txt | wc -l`
@@ -72,14 +98,14 @@ echo "<averageWatchers>$averageWatchers</averageWatchers>" >> $outputDataDirecto
 echo "<averageIssues>$averageIssues</averageIssues>" >> $outputDataDirectory/currentStatsXML.txt
 echo "<averageCommits>$averageCommits</averageCommits>" >> $outputDataDirectory/currentStatsXML.txt
 
-echo "<td>$missingDescriptions</td>" > $outputDataDirectory/currentStatsHTML.txt
+echo "<td headers='Missing_Descriptions'>$missingDescriptions</td>" > $outputDataDirectory/currentStatsHTML.txt
 
 #round for html display
 averageWatchers2=`printf "%0.2f\n" $averageWatchers`
 averageIssues2=`printf "%0.2f\n" $averageIssues`
 averageCommits2=`printf "%0.2f\n" $averageCommits`
 
-echo "<td>$averageWatchers2</td>" >> $outputDataDirectory/currentStatsHTML.txt
-echo "<td>$averageIssues2</td>" >> $outputDataDirectory/currentStatsHTML.txt
-echo "<td>$averageCommits2</td>" >> $outputDataDirectory/currentStatsHTML.txt
-echo "exit $0"
+echo "<td headers='Average_Watchers'>$averageWatchers2</td>" >> $outputDataDirectory/currentStatsHTML.txt
+echo "<td headers='Average_Issues'>$averageIssues2</td>" >> $outputDataDirectory/currentStatsHTML.txt
+echo "<td headers='Average_Commits'>$averageCommits2</td>" >> $outputDataDirectory/currentStatsHTML.txt
+echo -e "---------------exit $0---------------"
