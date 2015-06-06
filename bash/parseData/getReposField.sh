@@ -16,7 +16,7 @@ scriptsDirectory=`$configReader $configFile scriptsDirectory`
 
 #echo $field
 
-sed -n "/\/$repo\",/,/score/p" $file | sed -n "/\"$field\"/p" | awk -F'"' '{print $4}'
+sed -n "/\/$repo\",/,/score/p" $file | sed -n "/$field/p" | awk -F'"' '{print $4}'
 
 
 #echo "exit $0"
