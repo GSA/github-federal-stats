@@ -1,7 +1,8 @@
-echo "enter $0"
+echo -e "\n---------------enter $0---------------"
+export LC_ALL=C
 
 if [[ ( -z $1 || -z $2 || -z $3 ) ]]; then
-  echo "Usage: buildGitHubIndex.sh [token] [configReader] [configFile] [optional:refresh (true|false)] [optional:federalOrgs]"
+  echo "Usage: buildGitHubIndex.sh [token] [configReader] [configFile] [optional:refresh (true|fatotalse)] [optional:federalOrgs]"
 else
 
 STARTTIME=$(date +%s)
@@ -22,6 +23,7 @@ echo "Script started: $(date)"
   configReader=$2
   configFile=$3
   outputDataDirectory=`$configReader $configFile outputDataDirectory`
+  outputSharedDataDirectory=`$configReader $configFile outputSharedDataDirectory`
   outputGHDirectory=`$configReader $configFile outputGHDirectory`
   outputReportDirectory=`$configReader $configFile outputReportDirectory`
   outputTempDirectory=`$configReader $configFile outputTempDirectory`
@@ -37,12 +39,41 @@ echo "Script started: $(date)"
       echo "creating a new config file from $configFile for $federalOrgs"
       #need to replace spaces with underscores
       federalOrgs="${federalOrgs// /_}"
-      echo "agency:$federalOrgs" > $configFile.$federalOrgs
-      echo "scriptsDirectory:$scriptsDirectory" >> $configFile.$federalOrgs
-      echo "outputGHDirectory:$outputGHDirectory$federalOrgs" >> $configFile.$federalOrgs      
-      echo "outputDataDirectory:$outputDataDirectory$federalOrgs" >> $configFile.$federalOrgs      
-      echo "outputReportDirectory:$outputReportDirectory$federalOrgs" >> $configFile.$federalOrgs
-      echo "outputTempDirectory:$outputTempDirectory$federalOrgs" >> $configFile.$federalOrgs      
+#      echo "agency:$federalOrgs" > $configFile.$federalOrgs
+#      echo "scriptsDirectory:$scriptsDirectory" >> $configFile.$federalOrgs
+#      echo "outputGHDirectory:$outputGHDirectory$federalOrgs" >> $configFile.$federalOrgs      
+#      echo "outputDataDirectory:$outputDataDirectory$federalOrgs" >> $configFile.$federalOrgs      
+#      echo "outputReportDirectory:$outputReportDirectory$federalOrgs" >> $configFile.$federalOrgs
+#      echo "outputTempDirectory:$outputTempDirectory$federalOrgs" >> $configFile.$federalOrgs 
+
+      echo -e "agency:$federalOrgs\nscriptsDirectory:$scriptsDirectory\noutputGHDirectory:$outputGHDirectory$federalOrgs\noutputDataDirectory:$outputDataDirectory$federalOrgs\noutputSharedDataDirectory:$outputSharedDataDirectory\noutputReportDirectory:$outputReportDirectory$federalOrgs\noutputTempDirectory:$outputTempDirectory$federalOrgs" > $configFile.$federalOrgs 
+
+#  outputSharedDataDirectory=`$configReader $configFile outputSharedDataDirectory`
+#      flag1=`$configReader $configFile refreshUSFederalList`     
+#     echo "refreshUSFederalList:$flag1" >> $configFile.$federalOrgs 
+
+#      flag2=`$configReader $configFile refreshGitHubOrgInfo`     
+#      echo "refreshGitHubOrgInfo:$flag2" >> $configFile.$federalOrgs 
+
+#      flag3=`$configReader $configFile refreshGitHubReposInfo`     
+#      echo "refreshGitHubReposInfo:$flag3" >> $configFile.$federalOrgs 
+
+#      flag4=`$configReader $configFile refreshGitHubCommitsInfo`     
+#      echo "refreshGitHubCommitsInfo:$flag4" >> $configFile.$federalOrgs 
+
+#      flag5=`$configReader $configFile refreshOrgsForAgency`     
+#      echo "refreshOrgsForAgency:$flag5" >> $configFile.$federalOrgs 
+
+
+      flag1=`$configReader $configFile refreshUSFederalList`     
+      flag2=`$configReader $configFile refreshGitHubOrgInfo`     
+      flag3=`$configReader $configFile refreshGitHubReposInfo`     
+      flag4=`$configReader $configFile refreshGitHubCommitsInfo`     
+      flag5=`$configReader $configFile refreshOrgsForAgency`     
+
+      echo -e "refreshUSFederalList:$flag1\nrefreshGitHubOrgInfo:$flag2\nrefreshGitHubReposInfo:$flag3\nrefreshGitHubCommitsInfo:$flag4\nrefreshOrgsForAgency:$flag5" >> $configFile.$federalOrgs
+
+ 
       configFile=$configFile."$federalOrgs"
 
       #reset directories...
@@ -81,23 +112,35 @@ echo "Script started: $(date)"
     tempAgency="${agency//_/ }"
 
     echo "agency is $tempAgency"
-    `$scriptsDirectory/mapping/getOrgsforAgency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputTempDirectory/$agency.repos`
-    
-    #do check for subagency if name is a subagency...
-    ttlOrgs=`cat $outputTempDirectory/$agency.repos | wc -l`
-    ttlOrgs=$((ttlOrgs + 0))
-    if [ $ttlOrgs -eq 0 ]; then
-      echo "could not find agency...searching sub-agencies..."  
-      `$scriptsDirectory/mapping/getOrgsforSubagency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputTempDirectory/$agency.repos`    
-    fi
-    federalOrgs=$outputTempDirectory/$agency.repos
+
+  refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshOrgsForAgency $outputDataDirectory/$agency.repos`
+
+  echo "refresh orgs for agency $tempAgency = $refresh" 
+
+  if [[ ( $refresh = "true" ) ]]; then
+    echo "calling getOrgsforAgency.sh for $tempAgency "
+    $scriptsDirectory/mapping/getOrgsforAgency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputDataDirectory/$agency.repos
   fi
 
-  if [[ ( ! -z $federalOrgs ) ]]; then
-    echo "output data directory=$outputDataDirectory"
-    echo "federal orgs=$federalOrgs"
-    `cp $federalOrgs $outputDataDirectory`
-  fi  
+
+    
+    #do check for subagency if name is a subagency...
+    #no need to check refresh because it would be there if there were none and data was already retrieved
+    ttlOrgs=`cat $outputDataDirectory/$agency.repos | wc -l`
+    ttlOrgs=$((ttlOrgs + 0))
+    if [ $ttlOrgs -eq 0 ]; then
+      echo "could not find agency...searching sub-agencies..." 
+      echo "calling getOrgsforSubagency.sh"
+      $scriptsDirectory/mapping/getOrgsforSubagency.sh $scriptsDirectory/mapping/GHOrgAgency.txt "$tempAgency" > $outputDataDirectory/$agency.repos
+    fi
+    federalOrgs=$outputDataDirectory/$agency.repos
+  fi
+
+ # if [[ ( ! -z $federalOrgs ) ]]; then
+  #  echo "output data directory=$outputDataDirectory"
+   # echo "federal orgs=$federalOrgs"
+   # `cp $federalOrgs $outputDataDirectory`
+  #fi  
 
   if [[ ( $refresh = "true" ) ]]; then
     if [[ ( -z $federalOrgs ) || ( $federalOrgs == *.repos ) ]]; then
@@ -118,4 +161,4 @@ echo "Script completed: $(date)"
 ENDTIME=$(date +%s)
 diff=$(($ENDTIME-$STARTTIME))
 echo "Total elapsed time: $(($diff / 60))m $(($diff % 60))s"
-echo "exit $0"
+echo -e "---------------exit $0---------------"
