@@ -1,5 +1,11 @@
 scriptsDirectory:.
 outputGHDirectory:./output/GH/
+outputSharedDataDirectory:./output/data/all
 outputDataDirectory:./output/data/
 outputReportDirectory:./output/publish/
 outputTempDirectory:./output/temp/
+refreshUSFederalList:false
+refreshGitHubOrgInfo:false
+refreshGitHubReposInfo:false
+refreshGitHubCommitsInfo:false
+refreshOrgsForAgency:false

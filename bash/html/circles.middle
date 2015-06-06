@@ -1,8 +1,8 @@
 
 
-<div class="CIRCLE_NAME circle">
+<div class="CIRCLE_NAME circle" style="margin-right:30px">
      <strong></strong>
-     CIRCLE_TEXT
+     <br><br><B>CIRCLE_TEXT</B>     
 </div>
 
 <script>
