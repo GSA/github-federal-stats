@@ -52,7 +52,7 @@ else
   cp -R $scriptsDirectory/html/JS $outputReportDirectory
   cp -R $scriptsDirectory/html/datasheets $outputReportDirectory
 
-  cat $scriptsDirectory/html/datatable.template > $orgHTML
+  cp $scriptsDirectory/html/datatable.template $orgHTML
   echo > $orgHTMLTemp
   echo > $descriptionHTMLTemp
 #  cat $scriptsDirectory/html/datatableportable.top > $orgHTML2
