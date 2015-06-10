@@ -21,8 +21,12 @@ echo -e "\n---------------enter $0---------------"
 sed -n '/description":/,/"fork"/p' $file | sed -rn 's/.*description": "//;s/",.*//p' > $outputSharedDataDirectory/orgs/"$org"projectDescriptions.txt
 cat $outputSharedDataDirectory/orgs/"$org"projectDescriptions.txt >> $outputDataDirectory/projectDescriptions.txt
 
+echo "entering getReposAverage.sh watchers"
 averageWatchers=`$scriptsDirectory/parseData/getReposAverage.sh $file watchers`
+echo "exiting getReposAverage.sh watchers"
+echo "entering getReposAverage.sh open_issues"
 averageIssues=`$scriptsDirectory/parseData/getReposAverage.sh $file open_issues`
+echo "exiting getReposAverage.sh open_issues"
 sed -n '/full_name/p' $file | sed -rn 's/"full_name": "//;s/",//p' | sed -e 's/^[ \t]*//' -e 's/[ \t]*$//' > $outputTempDirectory/projects.txt
 averageProjCommits=$((0))
 

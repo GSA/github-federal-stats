@@ -23,7 +23,7 @@
 <body bgcolor="#F8F8F8">
 
 <DIV style="font-size:24px; color:#00427c; background-image:url(Images/bg.png);" align="center">
-	<IMG src="Images/GSA.png" alt="GSA Logo" title="GSA Logo"> &nbsp; GitHub Dashboard<br>
+	<IMG src="Images/gsa.png" alt="GSA Logo" title="GSA Logo"> &nbsp; GitHub Dashboard<br>
 </DIV>
 
 <div id="tabs">
@@ -47,16 +47,16 @@
 
 <P>
 <DIV style="color:#51627e; background-color:#DEF0F8; height:40px; padding-top:22px">
-<a href="datasheets/about.html" style="color:#51627e">About this site</a> &nbsp; | &nbsp;
-<a href="datasheets/forExecutives.html" style="color:#51627e">For Executives</a> &nbsp; | &nbsp;
-<a href="datasheets/forDevelopers.html" style="color:#51627e">For Developers</a> &nbsp; |  &nbsp;
+<a href="datasheets/about.html" style="color:#51627e">About</a> &nbsp; | &nbsp;
+<a href="datasheets/forExecutives.html" style="color:#51627e">Executives</a> &nbsp; | &nbsp;
+<a href="datasheets/forDevelopers.html" style="color:#51627e">Developers</a> &nbsp; |  &nbsp;
 <a href="frequencyProjectDescriptionsFiltered.txt" style="color:#51627e">Word Frequency</a> &nbsp; | &nbsp;
 <a href="frequencylanguages.txt" style="color:#51627e">Language Frequency</a> &nbsp; | &nbsp;
 <a href="mostActiveRepos.txt" style="color:#51627e">Most Active Repositories</a> &nbsp; | &nbsp;
-<a href="sortedCreationDates.txt" style="color:#51627e">Repositories by Creation Date</a> &nbsp; | &nbsp;
-<a href="groupedCreationDatesDaily.txt" style="color:#51627e">Daily Creation Dates</a> &nbsp; | &nbsp;
-<a href="groupedCreationDatesMonthly.txt" style="color:#51627e">Monthly Creation Dates</a> &nbsp; | &nbsp;
-<a href="groupedCreationDatesYearly.txt" style="color:#51627e">Yearly Creation Dates</a> 
+<a href="newest.html" style="color:#51627e">Newest Repositories</a> &nbsp; | &nbsp;
+<a href="day.html" style="color:#51627e">New Repositories - 14 Days</a> &nbsp; | &nbsp;
+<a href="month.html" style="color:#51627e">New Repositories - 12 months</a> &nbsp; | &nbsp;
+<a href="year.html" style="color:#51627e">New Repositories by Year</a> 
 </DIV>
 </P>
 
