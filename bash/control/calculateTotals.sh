@@ -33,24 +33,29 @@ else
   echo "checking creation times"
   cat $outputDataDirectory/creationDates.txt | sort -rn > $outputReportDirectory/sortedCreationDates.txt
   sed -i '/^$/d' $outputReportDirectory/sortedCreationDates.txt
+  sed -i 's/\(.*\)T.*\(:.*\)/\1\2/' $outputReportDirectory/sortedCreationDates.txt
   $scriptsDirectory/parseData/groupCreationDates.sh $outputReportDirectory/sortedCreationDates.txt $outputReportDirectory/groupedCreationDates
 
   echo "inserting 2 week data into bar chart page template"
-#  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/day.html $outputReportDirectory/groupedCreationDatesDaily.txt "New GitHub Repositories Over the Past 14 Days" 14
-  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/day.html $scriptsDirectory/output/publish/all/groupedCreationDatesDaily.txt "New GitHub Repositories Over the Past 14 Days" 14
+  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/day.html $outputReportDirectory/groupedCreationDatesDaily.txt "New GitHub Repositories Over the Past 14 Days" 14
+#  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/day.html $scriptsDirectory/output/publish/all/groupedCreationDatesDaily.txt "New GitHub Repositories Over the Past 14 Days" 14
 
   echo "inserting 12 month data into bar chart page template"
-#  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/month.html $outputReportDirectory/groupedCreationDatesMonthly.txt "New GitHub Repositories Over the Past 12 Months" 12
-  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/month.html $scriptsDirectory/output/publish/all/groupedCreationDatesMonthly.txt "New GitHub Repositories Over the Past 12 Months" 12
+  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/month.html $outputReportDirectory/groupedCreationDatesMonthly.txt "New GitHub Repositories Over the Past 12 Months" 12
+#  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/month.html $scriptsDirectory/output/publish/all/groupedCreationDatesMonthly.txt "New GitHub Repositories Over the Past 12 Months" 12
 
-  echo "inserting 12 month data into bar chart page template"
-#  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/year.html $outputReportDirectory/groupedCreationDatesYearly.txt "New GitHub Repositories by Year" 10
-  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/year.html $scriptsDirectory/output/publish/all/groupedCreationDatesYearly.txt "New GitHub Repositories by Year" 10
+  echo "inserting year data into bar chart page template"
+  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/year.html $outputReportDirectory/groupedCreationDatesYearly.txt "New GitHub Repositories by Year" 10
+#  $scriptsDirectory/html/makeBarChart.sh $configReader $configFile $outputReportDirectory/year.html $scriptsDirectory/output/publish/all/groupedCreationDatesYearly.txt "New GitHub Repositories by Year" 10
 
   echo "creating top 20 newest repositories"
-  $scriptsDirectory/html/makeTop10.sh $configReader $configFile $outputReportDirectory/newest.html $scriptsDirectory/output/publish/all/sortedCreationDates.txt "Newest 20 Repositories" 20
+  $scriptsDirectory/html/makeTop10.sh $configReader $configFile $outputReportDirectory/newest.html $outputReportDirectory/sortedCreationDates.txt "Newest 20 Repositories" "Repository" "Creation Date" 20
 
   echo "creating sorted commit averages file"
+  sed -i '/^$/d' $outputDataDirectory/commitActivity.txt
   sort -t\: -k1,1nr $outputDataDirectory/commitActivity.txt > $outputReportDirectory/mostActiveRepos.txt
+
+  echo "creating top 20 most active repositories"
+  $scriptsDirectory/html/makeTop10.sh $configReader $configFile $outputReportDirectory/mostactive.html $outputReportDirectory/mostActiveRepos.txt "Most Active 20 Repositories" "Repository" "Commits per Week over 52 Weeks" 20
 fi
 echo -e "---------------exit $0---------------"

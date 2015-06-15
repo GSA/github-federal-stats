@@ -29,12 +29,8 @@ else
 
   federalRepos=$outputGHDirectory/federalRepos.txt
   federalOrgInfo=$outputGHDirectory/federalOrgInfo.txt
-  #orgMatrix=$outputReportDirectory/orgMatrix.txt
-  #orgXML=$outputReportDirectory/orgXML.xml
   orgHTML=$outputReportDirectory/index.html
   orgHTMLTemp=$outputTempDirectory/org.html.temp
-  #orgHTML2=$outputReportDirectory/portable.html
-  #descriptionHTMLPortable=$outputReportDirectory/descriptionPortable.html
   descriptionHTMLTemp=$outputTempDirectory/descriptionTemp.html
 
   echo > $federalRepos
@@ -44,8 +40,6 @@ else
 
   count=1
   echo "Preparing to loop through $ttlOrgs organizations"
-#  echo -e "Organization\tType\tAgency\tSubagency\tSite\tAvatar\tBlog\tE-Mail\tRepositories\tMissing Project Descriptions\tInfo" > $orgMatrix
- # echo -e "<data>" > $orgXML
 
   cp -R $scriptsDirectory/html/CSS $outputReportDirectory
   cp -R $scriptsDirectory/html/Images $outputReportDirectory
@@ -55,7 +49,6 @@ else
   cp $scriptsDirectory/html/datatable.template $orgHTML
   echo > $orgHTMLTemp
   echo > $descriptionHTMLTemp
-#  cat $scriptsDirectory/html/datatableportable.top > $orgHTML2
   echo > $outputDataDirectory/projectDescriptions.txt
   echo > $outputDataDirectory/commitActivity.txt
 
@@ -109,16 +102,12 @@ else
 
     $scriptsDirectory/parseData/getCurrentOrgReposConformance.sh $currentFederalRepos $configReader $configFile $token $org $outputDataDirectory $outputTempDirectory $scriptsDirectory $outputSharedDataDirectory
 
-    #addInfo=`cat $outputDataDirectory/currentStats.txt`
-    #addInfo2=`cat $outputDataDirectory/currentStatsXML.txt`
     addInfo3=`cat $outputDataDirectory/currentStatsHTML.txt`
     cat $currentFederalRepos >> $federalRepos
 
-    #org2=`$scriptsDirectory/parseData/urlEncode.sh $scriptsDirectory/parseData/xmlencode.sed $org`
     url2=`$scriptsDirectory/parseData/urlEncode.sh $scriptsDirectory/parseData/xmlencode.sed $url`
     blog2=`$scriptsDirectory/parseData/urlEncode.sh $scriptsDirectory/parseData/xmlencode.sed $blog`
     email2=`$scriptsDirectory/parseData/urlEncode.sh $scriptsDirectory/parseData/xmlencode.sed $email`
-    #bio2=`$scriptsDirectory/parseData/urlEncode.sh $scriptsDirectory/parseData/xmlencode.sed "$bio"`
     subagency2=`$scriptsDirectory/parseData/urlEncode.sh $scriptsDirectory/parseData/xmlencode.sed "$subagency"`
     avatar2="<img src=\"$avatar\" height=\"40\" width=\"40\">"
 
@@ -141,17 +130,10 @@ else
       bio3=$bio
     fi
     
-
-   # echo -e "<org><name>$org2</name><type>$orgtype</type><agency>$agency</agency><subagency>$subagency2</subagency><url>$url2</url><avatar>$avatar</avatar><blog>$blog2</blog><email>$email2</email><repos>$repos</repos>$addInfo2<bio>$bio2</bio></org>" >> $orgXML
-
     echo -e "<tr><td headers='Logo'>$avatar2</td><td headers='Name'>$org3</td><td headers='Type'>$orgtype</td><td headers='Agency'>$agency</td><td headers='Sub_Agency'>$subagency</td><td headers='Blog'>$blog3</td><td headers='Email'>$email3</td><td headers='Repositories'>$repos</td>$addInfo3<td headers='Organizational_Info'>$bio3</td></tr>" >> $orgHTMLTemp
-#    echo -e "<tr><td>$avatar2</td><td>$org3</td><td>$orgtype</td><td>$agency</td><td>$subagency2</td><td>$blog3</td><td>$email3</td><td>$repos</td>$addInfo3<td>$bio3</td></tr>" >> $orgHTML2
-
-#    echo -e "$org\t$orgtype\t$agency\t$subagency\t$url\t$avatar\t$blog\t$email\t$repos\t$addInfo\t$bio" >> $orgMatrix
 
     count=$((count + 1))
   done < "$orgIndex"
-  #echo -e "</data>" >> $orgXML
 
   echo "inserting organization data into web page template"
   $scriptsDirectory/parseData/insertDataIntoTemplate.sh $orgHTML $orgHTMLTemp "<!--TABLE1-->"

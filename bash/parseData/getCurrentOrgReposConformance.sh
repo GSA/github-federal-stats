@@ -61,33 +61,41 @@ else
     fi
 
     #add to file containing creation dates
-    createdAt=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt $line created_at`
+    createdAt=`$scriptsDirectory/parseData/getReposField.sh $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt $line created_at`
     echo "$createdAt:$line"
     echo "$createdAt:$line" >> $outputDataDirectory/creationDates.txt 
 
     echo "getting description"
-    
-    if [ ! -f $reposDirectory/description.txt ]; then
-      description=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt $line description`
+    refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubReposInfo $reposDirectory/description.txt`
+    if [[ ( $refresh = "true" ) ]]; then
+      description=`$scriptsDirectory/parseData/getReposField.sh $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt $line description`
       if [ -z "$description" ]; then
         description="--"
       fi    
+
+      if [ ! -d "$reposDirectory" ]; then
+        echo "making $reposDirectory directory."
+        mkdir -p $reposDirectory
+      fi
       echo $description > $reposDirectory/description.txt
     else
       description=`cat $reposDirectory/description.txt`
     fi
 
     echo "getting language"
-    if [ ! -f $reposDirectory/language.txt ]; then
-      language=`$scriptsDirectory/parseData/getReposField.sh $configReader $configFile $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt $line language`
+
+    refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubReposInfo $reposDirectory/languiage.txt`
+    if [[ ( $refresh = "true" ) ]]; then
+      language=`$scriptsDirectory/parseData/getReposField.sh $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt $line language`
       if [ -z "$language" ]; then
         language="--"
       fi
-      echo $description > $reposDirectory/language.txt
+      echo $language > $reposDirectory/language.txt
     else
       language=`cat $reposDirectory/language.txt`
     fi
-    echo "<tr><td headers="Description">$description</td><td headers="Language">$language</td><td headers="Project"><a href=\"https://github.com/$line\">$line</a></td></tr>" >> $descriptionHTMLTemp
+echo "language=$language"
+    echo "<tr><td headers='Project'><a href='https://github.com/$line'>$line</a></td><td headers='Language'>$language</td><td headers='Description'>$description</td></tr>" >> $descriptionHTMLTemp
   done < "$outputTempDirectory/projects.txt"
 
   ttlProjects=`grep -c ^ $outputSharedDataDirectory/orgs/"$org"projectDescriptions.txt`
@@ -103,10 +111,10 @@ fi
 
 echo "$missingDescriptions" > $outputDataDirectory/currentStats.txt
 
-echo "<missingDescriptions>$missingDescriptions</missingDescriptions>" > $outputDataDirectory/currentStatsXML.txt
-echo "<averageWatchers>$averageWatchers</averageWatchers>" >> $outputDataDirectory/currentStatsXML.txt
-echo "<averageIssues>$averageIssues</averageIssues>" >> $outputDataDirectory/currentStatsXML.txt
-echo "<averageCommits>$averageCommits</averageCommits>" >> $outputDataDirectory/currentStatsXML.txt
+#echo "<missingDescriptions>$missingDescriptions</missingDescriptions>" > $outputDataDirectory/currentStatsXML.txt
+#echo "<averageWatchers>$averageWatchers</averageWatchers>" >> $outputDataDirectory/currentStatsXML.txt
+#echo "<averageIssues>$averageIssues</averageIssues>" >> $outputDataDirectory/currentStatsXML.txt
+#echo "<averageCommits>$averageCommits</averageCommits>" >> $outputDataDirectory/currentStatsXML.txt
 
 echo "<td headers='Missing_Descriptions'>$missingDescriptions</td>" > $outputDataDirectory/currentStatsHTML.txt
 
