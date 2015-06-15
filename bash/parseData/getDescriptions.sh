@@ -13,14 +13,11 @@ ttlProjects=`$scriptsDirectory/parseData/getReposTtls.sh  $configReader $configF
 echo "Total projects,$ttlProjects" >> $outputDataDirectory/stats.txt
 echo "<tr><td>Total Projects</td><td align=\"right\">$ttlProjects</td></tr>" >> $outputDataDirectory/htmlstats.txt
 
-#echo "checking descriptions"
-#echo "$outputDataDirectory/projectDescriptions.txt"
 ttlDescriptions=`sed '/^\s*$/d' $outputDataDirectory/projectDescriptions.txt | wc -l`
 ttlDescriptions=$((ttlDescriptions+0)) 
 echo "Total projects with Descriptions,$ttlDescriptions" >> $outputDataDirectory/stats.txt
 echo "<tr><td>Total Projects with Descriptions</td><td align=\"right\">$ttlDescriptions</td></tr>" >> $outputDataDirectory/htmlstats.txt
 
-#echo "checking missing descriptions"
 missingDescriptions=$((ttlProjects-$ttlDescriptions)) 
 echo "Total projects without Descriptions,$missingDescriptions" >> $outputDataDirectory/stats.txt
 echo "<tr><td>Total Projects without Descriptions</td><td align=\"right\">$missingDescriptions</td></tr>" >> $outputDataDirectory/htmlstats.txt
@@ -35,11 +32,9 @@ pocsPerc=$((ttlPOCS*100/ttlPOCLines))
 
 cp -R $scriptsDirectory/html/jquery-circle-progress $outputReportDirectory
 
-#echo "missingPOCs:$missingPOCs"
 echo "ttlPOCs:$ttlPOCS"
 echo "ttlPOCLines:$ttlPOCLines"
 echo "pocsPerc:$pocsPerc"
-#$scriptsDirectory/html/makeCirclePage.sh $configReader $configFile $outputReportDirectory/overview.html $pocsPerc $descPerc
 $scriptsDirectory/html/makeCirclePage.sh $configReader $configFile $outputTempDirectory/overview.html $pocsPerc $descPerc
 
 echo "inserting overview data into web page template"
@@ -48,9 +43,5 @@ echo "inserting overview data into web page template"
 orgHTML=$outputReportDirectory/index.html
 
 $scriptsDirectory/parseData/insertDataIntoTemplate.sh $outputReportDirectory/index.html $outputTempDirectory/overview.html "<!--CIRCLE1-->"
-
-#FILE2=$(<"$orgHTML")
-#FILE1=$(<"$outputTempDirectory/overview.html")
-#echo "${FILE2//<!--CIRCLE1-->/$FILE1}" > $orgHTML
 
 echo -e "---------------exit $0---------------"
