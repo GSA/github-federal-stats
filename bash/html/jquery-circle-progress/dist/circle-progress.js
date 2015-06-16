@@ -51,7 +51,8 @@ License: MIT
          *     - { color: 'lime', image: 'http://i.imgur.com/pT0i89v.png' } - color displayed until the image is loaded
          */
         fill: {
-            gradient: ['#3aeabb', '#fdd250']
+            //gradient: ['#fdd250','#3aeabb' ]
+			image: ['Images/circle.png']
         },
 
         /**
