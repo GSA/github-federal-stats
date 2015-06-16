@@ -11,16 +11,16 @@ echo -e "\n---------------enter $0---------------"
 ttlProjects=`$scriptsDirectory/parseData/getReposTtls.sh  $configReader $configFile description $outputDirectory/stats.txt`
 #just going to ignore totals file and overwrite it
 echo "Total projects,$ttlProjects" >> $outputDataDirectory/stats.txt
-echo "<tr><td>Total Projects</td><td align=\"right\">$ttlProjects</td></tr>" >> $outputDataDirectory/htmlstats.txt
+echo "<tr><td>Total Project Repositories</td><td align=\"right\">$ttlProjects</td></tr>" >> $outputDataDirectory/htmlstats.txt
 
 ttlDescriptions=`sed '/^\s*$/d' $outputDataDirectory/projectDescriptions.txt | wc -l`
 ttlDescriptions=$((ttlDescriptions+0)) 
 echo "Total projects with Descriptions,$ttlDescriptions" >> $outputDataDirectory/stats.txt
-echo "<tr><td>Total Projects with Descriptions</td><td align=\"right\">$ttlDescriptions</td></tr>" >> $outputDataDirectory/htmlstats.txt
+echo "<tr><td>Total Project Repositories with Descriptions</td><td align=\"right\">$ttlDescriptions</td></tr>" >> $outputDataDirectory/htmlstats.txt
 
 missingDescriptions=$((ttlProjects-$ttlDescriptions)) 
 echo "Total projects without Descriptions,$missingDescriptions" >> $outputDataDirectory/stats.txt
-echo "<tr><td>Total Projects without Descriptions</td><td align=\"right\">$missingDescriptions</td></tr>" >> $outputDataDirectory/htmlstats.txt
+echo "<tr><td>Total Project Repositories without Descriptions</td><td align=\"right\">$missingDescriptions</td></tr>" >> $outputDataDirectory/htmlstats.txt
 
 ttlPOCLines=`sed '/*$/d' $outputDataDirectory/pocs.txt | wc -l`
 ttlPOCLines=$((ttlPOCLines-1))

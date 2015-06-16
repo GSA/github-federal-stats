@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title><!--PAGE TITLE--></title>
+<title><!--CHART1TITLE--></title>
 
 
   <script language="javascript" type="text/javascript" src="http://www.jqplot.com/src/jquery.min.js"></script>
@@ -16,11 +16,39 @@
 <script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.canvasAxisTickRenderer.min.js"></script>
 <script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.categoryAxisRenderer.min.js"></script>
 <script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.barRenderer.min.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.pieRenderer.min.js"></script>
+<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.donutRenderer.min.js"></script>
 
 	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
 	<link href='CSS/custom.css' rel='stylesheet' type='text/css'> 
-	<script type="text/javascript" language="javascript" src="JS/custom2.js"></script>
 
+<script>
+
+$(document).ready(function(){
+<!--start of dynamically generated content AFTER "var data ="-->
+
+  var data = 
+  <!--CHART1-->
+
+<!--end of dynamically generated content-->
+  var plot1 = jQuery.jqplot ('chart1', [data], 
+    { 
+      title: '<!--CHART1TITLE-->',      
+      seriesDefaults: {
+        // Make this a pie chart.
+        renderer: jQuery.jqplot.PieRenderer, 
+        rendererOptions: {
+          // Put data labels on the pie slices.
+          // By default, labels show the percentage of the slice.
+          showDataLabels: true
+        }
+      }, 
+      legend: { show:true, location: 'e' }
+    }
+  );
+});
+
+</script>
 </head>
 <body>
 
@@ -28,40 +56,10 @@
 	<A href="index.html"><IMG src="Images/gsa.png" alt="GSA Logo" title="GSA Logo" border="0"></A> &nbsp; GitHub Dashboard<br>
 </DIV>
 <P><br></P>
-<div id="topTen" align="center">
-
-<!--Dynamically created content starts below-->
-
-  <table id="ghfedorgs" class="display" cellspacing="0" summary="<!--PAGE TITLE-->">
-         <thead>
-            <tr style="background-color:#C9E8FA; ">
-                <th id="ID"   style="background-color:#C9E8FA;" width="20">ID</th>
-                <th id="<!--ELEMENT-->"   style="background-color:#C9E8FA;" width="400">
-			<!--ELEMENT-->
-		</th>
-                <th id="<!--RANKING FACTOR-->"   style="background-color:#C9E8FA;" width="100">
-			<!--RANKING FACTOR-->
-		</th>
-            </tr>
-        </thead>
-        <tbody>
-
-<!--TOPTEN1-->
-
-<!--End of dynamically created content above-->
-
- 	</tbody>
-</table>
+<div id="chart1" style="height:425px; width:500px; margin-left:75px;text-align:center" align="center"></div>
 <a href="<!--RAWDATA-->">Raw Data</a>
 </div>
 
-
-</div>
-
-
-
-
-<P><br><br></P><P></P>
 
 <P align="center">
 <DIV style="color:#51627e; background-color:#DEF0F8; height:40px; padding-top:22px; text-align:center">

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Bar Chart</title>
+<title><!--CHART1TITLE--></title>
 
 
   <script language="javascript" type="text/javascript" src="http://www.jqplot.com/src/jquery.min.js"></script>
@@ -27,12 +27,12 @@ $(document).ready(function(){
 <!--start of dynamically generated content AFTER "var line1 ="-->
 
   var line1 =
-<!--BARCHART1-->
+<!--CHART1-->
 
 <!--end of dynamically generated content-->
  
   var plot1 = $.jqplot('chart1', [line1], {
-    title: '<!--BARCHART1TITLE-->',
+    title: '<!--CHART1TITLE-->',
     series:[{renderer:$.jqplot.BarRenderer}],
     axesDefaults: {
         tickRenderer: $.jqplot.CanvasAxisTickRenderer ,
@@ -59,7 +59,7 @@ $(document).ready(function(){
 <P><br></P>
 <div id="chart1" style="height:300px; width:500px; margin-left:75px;text-align:center" align="center"></div>
 
-
+<a href="<!--RAWDATA-->">Raw Data</a>
 </div>
 
 
@@ -73,8 +73,8 @@ $(document).ready(function(){
 <a href="datasheets/about.html" style="color:#51627e">About</a> &nbsp; | &nbsp;
 <a href="datasheets/forExecutives.html" style="color:#51627e">Executives</a> &nbsp; | &nbsp;
 <a href="datasheets/forDevelopers.html" style="color:#51627e">Developers</a> &nbsp; |  &nbsp;
-<a href="frequencyProjectDescriptionsFiltered.txt" style="color:#51627e">Word Frequency</a> &nbsp; | &nbsp;
-<a href="frequencylanguages.txt" style="color:#51627e">Language Frequency</a> &nbsp; | &nbsp;
+<a href="word.html" style="color:#51627e">Word Frequency</a> &nbsp; | &nbsp;
+<a href="language.html" style="color:#51627e">Language Frequency</a> | &nbsp; 
 <a href="mostactive.html" style="color:#51627e">Most Active Repositories</a> &nbsp; | &nbsp;
 <a href="newest.html" style="color:#51627e">Newest Repositories</a> &nbsp; | &nbsp;
 <a href="day.html" style="color:#51627e">New Repositories - 14 Days</a> &nbsp; | &nbsp;

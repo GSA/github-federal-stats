@@ -33,7 +33,7 @@ $(function() {
     $('table.display').dataTable( {
 		
 		 
-        "scrollY": "450px",
+        "scrollY": "350px",
 
         "scrollCollapse": true,
 

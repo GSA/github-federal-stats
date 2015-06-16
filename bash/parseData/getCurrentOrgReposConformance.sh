@@ -95,7 +95,7 @@ else
       language=`cat $reposDirectory/language.txt`
     fi
 echo "language=$language"
-    echo "<tr><td headers='Project'><a href='https://github.com/$line'>$line</a></td><td headers='Language'>$language</td><td headers='Description'>$description</td></tr>" >> $descriptionHTMLTemp
+    echo "<tr><td headers='Project_Repository'><a href='https://github.com/$line'>$line</a></td><td headers='Language'>$language</td><td headers='Description'>$description</td></tr>" >> $descriptionHTMLTemp
   done < "$outputTempDirectory/projects.txt"
 
   ttlProjects=`grep -c ^ $outputSharedDataDirectory/orgs/"$org"projectDescriptions.txt`
