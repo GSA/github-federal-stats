@@ -1,6 +1,6 @@
 echo -e "\n---------------enter $0---------------"
-if [[ ( -z $1 || -z $2 || -z $3 || -z $4 || -z $5 || -z $6 || -z $7 || -z $8 ) ]]; then
-  echo "Usage: makeBarChart.sh [configReader] [configFile] [outputFile] [mappingFile] [title] [element name] [ranking factor name] [range]"
+if [[ ( -z $1 || -z $2 || -z $3 || -z $4 || -z $5 || -z $6 || -z $7 || -z $8 || -z $8 ) ]]; then
+  echo "Usage: makeBarChart.sh [configReader] [configFile] [outputFile] [mappingFile] [title] [element name] [ranking factor name] [range] [raw data]"
 #element name is the content being ranked (i.e. a name)
 #ranking factor is the criteria being used for the ranking (i.e. an update date)
 else
@@ -12,9 +12,10 @@ else
   element=$6
   rankingfactor=$7
   range=$8
+  original=$(basename $9)
 
-echo "elementy:$element"
-echo "rankingfactor:$rankingfactor"
+#echo "elementy:$element"
+#echo "rankingfactor:$rankingfactor"
 
   
   scriptsDirectory=`$configReader $configFile scriptsDirectory`
@@ -47,5 +48,7 @@ echo "rankingfactor:$rankingfactor"
   sed -i "s/<!--PAGE TITLE-->/$title/" $outputFile 
   sed -i "s/<!--RANKING FACTOR-->/$rankingfactor/" $outputFile 
   sed -i "s/<!--ELEMENT-->/$element/" $outputFile 
+
+  sed -i "s/<!--RAWDATA-->/$original/" $outputFile 
 fi
 
