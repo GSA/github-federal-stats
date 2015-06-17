@@ -1,9 +1,9 @@
 scriptsDirectory:.
-outputGHDirectory:./output/GH/
+outputGHDirectory:./output/GH
 outputSharedDataDirectory:./output/data/all
-outputDataDirectory:./output/data/
-outputReportDirectory:./output/publish/
-outputTempDirectory:./output/temp/
+outputDataDirectory:./output/data
+outputReportDirectory:./output/publish
+outputTempDirectory:./output/temp
 refreshUSFederalList:false
 refreshGitHubOrgInfo:false
 refreshGitHubReposInfo:false
