@@ -8,7 +8,7 @@ echo -e "\n---------------enter $0---------------"
   scriptsDirectory=`$configReader $configFile scriptsDirectory`
 
 #this is in this file to do a count...
-ttlProjects=`$scriptsDirectory/parseData/getReposTtls.sh  $configReader $configFile description $outputDirectory/stats.txt`
+ttlProjects=`$scriptsDirectory/parseData/getReposTtls.sh  $configReader $configFile description $outputDataDirectory/stats.txt`
 #just going to ignore totals file and overwrite it
 echo "Total projects,$ttlProjects" >> $outputDataDirectory/stats.txt
 echo "<tr><td>Total Project Repositories</td><td align=\"right\">$ttlProjects</td></tr>" >> $outputDataDirectory/htmlstats.txt
