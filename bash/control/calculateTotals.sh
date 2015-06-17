@@ -21,8 +21,9 @@ else
   echo "<tr><td>Total Federal Organizations</td><td align=\"right\">$ttlOrgs</td></tr>" > $outputDataDirectory/htmlstats.txt
 
   $scriptsDirectory/parseData/getDescriptions.sh $configReader $configFile
-  #$scriptsDirectory/parseData/getReposTtls.sh  $configReader $configFile description
-  $scriptsDirectory/parseData/frequency.sh  $configReader $configFile $outputDataDirectory/projectDescriptions.txt $outputReportDirectory projectDescriptions
+
+  echo "checking project Descriptions"
+  $scriptsDirectory/parseData/frequency.sh  $configReader $configFile $outputDataDirectory/projectDescriptions.txt $outputReportDirectory ProjectDescriptions
 
   `tr '\r' '\n' < $scriptsDirectory/parseData/stop-word-list.txt | grep -vwFf - $outputReportDirectory/frequencyProjectDescriptions.txt > $outputReportDirectory/frequencyProjectDescriptionsFiltered.txt`
 
