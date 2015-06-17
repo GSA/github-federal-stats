@@ -38,8 +38,8 @@ else
      # echo "truncating $theRankingFactor"
       theRankingFactor=`printf "%0.2f\n" $theRankingFactor`
     fi
-
-    echo "<tr><td headers='ID'>$x</td><td headers='$element'><a href='https://github.com/$project'>$theElement</a></td><td headers='$rankingfactor'>$theRankingFactor</td></tr>" >> $topTenTemp
+#need to correct this to allow other hrefs...
+    echo "<tr><td headers='ID'>$x</td><td headers='$element'><a href='https://github.com/$theElement'>$theElement</a></td><td headers='$rankingfactor'>$theRankingFactor</td></tr>" >> $topTenTemp
   done < $outputTempDirectory/topTenmapping.temp
 
   echo "inserting top Ten data into template at $outputFile"
