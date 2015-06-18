@@ -1,9 +1,9 @@
-scriptsDirectory:.
-outputGHDirectory:./output/GH/all
-outputDataDirectory:./output/data/all
-outputSharedDataDirectory:./output/data/all
-outputReportDirectory:./output/publish/all
-outputTempDirectory:./output/temp/all
+scriptsDirectory:/home/ec2-user/github/github-federal-stats/bash
+outputGHDirectory:/home/ec2-user/github/github-federal-stats/bash/output/GH/all
+outputDataDirectory:/home/ec2-user/github/github-federal-stats/bash/output/data/all
+outputSharedDataDirectory:/home/ec2-user/github/github-federal-stats/bash/output/data/all
+outputReportDirectory:/home/ec2-user/github/github-federal-stats/bash/output/publish/all
+outputTempDirectory:/home/ec2-user/github/github-federal-stats/bash/output/temp/all
 refreshUSFederalList:true
 refreshGitHubOrgInfo:true
 refreshGitHubReposInfo:true
