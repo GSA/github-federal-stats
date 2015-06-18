@@ -9,7 +9,7 @@ else
   iopage=$5
   refresh=$6
 
-  ./buildAll.sh $rootDirectory $buildToken $refresh
-  ./deployGHP.sh $rootDirectory $user $deploytoken $iopage
+  $rootDirectory/aws/driver/buildAll.sh $rootDirectory $buildToken $refresh
+  $rootDirectory/aws/driver/deployGHP.sh $rootDirectory $user $deploytoken $iopage
 fi
 echo -e "\n---------------exit $0---------------"
