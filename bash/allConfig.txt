@@ -4,8 +4,8 @@ outputDataDirectory:./output/data/all
 outputSharedDataDirectory:./output/data/all
 outputReportDirectory:./output/publish/all
 outputTempDirectory:./output/temp/all
-refreshUSFederalList:false
-refreshGitHubOrgInfo:false
-refreshGitHubReposInfo:false
-refreshGitHubCommitsInfo:false
-refreshOrgsForAgency:false
+refreshUSFederalList:true
+refreshGitHubOrgInfo:true
+refreshGitHubReposInfo:true
+refreshGitHubCommitsInfo:true
+refreshOrgsForAgency:true
