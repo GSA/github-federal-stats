@@ -46,7 +46,7 @@ echo "Script started: $(date)"
 #      echo "outputReportDirectory:$outputReportDirectory$federalOrgs" >> $configFile.$federalOrgs
 #      echo "outputTempDirectory:$outputTempDirectory$federalOrgs" >> $configFile.$federalOrgs 
 
-      echo -e "agency:$federalOrgs\nscriptsDirectory:$scriptsDirectory\noutputGHDirectory:$outputGHDirectory$federalOrgs\noutputDataDirectory:$outputDataDirectory$federalOrgs\noutputSharedDataDirectory:$outputSharedDataDirectory\noutputReportDirectory:$outputReportDirectory$federalOrgs\noutputTempDirectory:$outputTempDirectory$federalOrgs" > $configFile.$federalOrgs 
+      echo -e "agency:$federalOrgs\nscriptsDirectory:$scriptsDirectory\noutputGHDirectory:$outputGHDirectory/$federalOrgs\noutputDataDirectory:$outputDataDirectory/$federalOrgs\noutputSharedDataDirectory:$outputSharedDataDirectory\noutputReportDirectory:$outputReportDirectory/$federalOrgs\noutputTempDirectory:$outputTempDirectory/$federalOrgs" > $configFile.$federalOrgs 
 
 #  outputSharedDataDirectory=`$configReader $configFile outputSharedDataDirectory`
 #      flag1=`$configReader $configFile refreshUSFederalList`     
