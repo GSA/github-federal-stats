@@ -21,10 +21,11 @@ else
   head -n$range $mappingFile > $outputTempDirectory/mapping.temp
   if [ "$direction" == "backward" ]; then
     #put oldest first on x axis...
-    grep -n "" $outputTempDirectory/mapping.temp | sort -r -n | gawk -F : '{ print $2 }' > $outputTempDirectory/mapping.temp
+    grep -n "" $outputTempDirectory/mapping.temp | sort -r -n | gawk -F : '{ print $2 }' > $outputTempDirectory/mapping.temp2
   else
-    grep -n "" $outputTempDirectory/mapping.temp | sort -n | gawk -F : '{ print $2 }' > $outputTempDirectory/mapping.temp
+    grep -n "" $outputTempDirectory/mapping.temp | sort -n | gawk -F : '{ print $2 }' > $outputTempDirectory/mapping.temp2
   fi
+  cat $outputTempDirectory/mapping.temp2 > $outputTempDirectory/mapping.temp
 
   echo "[" > $barTemp
   while read -r entry
@@ -43,3 +44,4 @@ else
   sed -i "s/<!--RAWDATA-->/$original/" $outputFile 
 fi
 
+echo -e "\n---------------exit $0---------------"
