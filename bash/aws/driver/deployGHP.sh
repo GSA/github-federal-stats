@@ -6,7 +6,9 @@ else
   user=$2
   deployToken=$3
   iopage=$4
-
+echo "root: $rootDirectory"
+echo "user:$user"
+echo "iopage:$iopage"
   rm -rf ghp
   cp -R $rootDirectory/output/publish/all/ ghp
   cd ghp 
@@ -17,6 +19,6 @@ else
   git add .
   git commit -m "Latest GH Pages"
 
-  git push --force --quiet "https://$token@$iopage" master:gh-pages > /dev/null 2>&1
+  git push --force --quiet "https://$deployToken@$iopage" master:gh-pages > /dev/null 2>&1
 fi
 echo -e "\n---------------exit $0---------------"

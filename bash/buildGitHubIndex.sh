@@ -144,17 +144,17 @@ echo "Script started: $(date)"
 
   if [[ ( $refresh = "true" ) ]]; then
     if [[ ( -z $federalOrgs ) || ( $federalOrgs == *.repos ) ]]; then
-      ./retrieveData/pullFederalOrgs.sh $token $configReader $configFile
+      $scriptsDirectory/retrieveData/pullFederalOrgs.sh $token $configReader $configFile
     fi
 
     if [[ ( $federalOrgs == *.repos ) ]]; then
 	cp $federalOrgs $outputDataDirectory/federalOrgs.txt
     fi
-    ./control/loopFederalOrgRepos.sh $token $configReader $configFile
+    $scriptsDirectory/control/loopFederalOrgRepos.sh $token $configReader $configFile
   else
-    ./control/loopFederalOrgRepos.sh $token $configReader $configFile $refresh
+    $scriptsDirectory/control/loopFederalOrgRepos.sh $token $configReader $configFile $refresh
   fi
-  ./control/calculateTotals.sh $token $configReader $configFile
+  $scriptsDirectory/control/calculateTotals.sh $token $configReader $configFile
 fi
 echo "Script completed: $(date)"
 

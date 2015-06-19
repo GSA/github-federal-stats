@@ -14,13 +14,11 @@ else
     fi
   fi
 
-  cd $rootDirectory
   if [[ ( $refresh = "true" ) ]]; then
-    ./buildGitHubIndex.sh $buildToken ./control/getConfigElement.sh ./allConfigRefresh.txt true 2>&1 | tee alloutput.log
+    $rootDirectory/buildGitHubIndex.sh $buildToken $rootDirectory/control/getConfigElement.sh $rootDirectory/allConfigRefresh.txt true 2>&1 | tee $rootDirectory/alloutput.log
   else
-    ./buildGitHubIndex.sh $buildToken ./control/getConfigElement.sh ./allConfigCache.txt true 2>&1 | tee alloutput.log
+    $rootDirectory/buildGitHubIndex.sh $buildToken $rootDirectory/control/getConfigElement.sh $rootDirectory/allConfigCache.txt true 2>&1 | tee $rootDirectory/alloutput.log
   fi
-  cd ./output/publish/
-  cp -R . /var/www/html/
+  cp -R $rootDirectory/output/publish/all/ /var/www/html/
 fi
 echo -e "\n---------------exit $0---------------"
