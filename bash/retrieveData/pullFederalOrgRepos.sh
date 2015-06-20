@@ -11,10 +11,14 @@ echo > $currentOrg
   echo "checking the number of pages for repos API call"
   pages=`curl -Is "$theURL=1" | sed -n "/Link:/,/XSS/p" | awk -F'rel="next", ' '{print $2}' | sed -n 's/^.*&page=\(.*\)>;.*$/\1/p'`
 
+echo "$org has $pages pages"
+
   for i in `seq 1 $pages`;
   do
+    currURL="$theURL=$i"
     echo "Retrieving repos for $org from GitHub (page $i)"
-    curl -H "Authorization: token $1" "$theURL=$i" >> $currentOrg
+    echo "curl -H \"Authorization: token $1\" $currURL"
+    `curl -H "Authorization: token $1" $currURL >> $currentOrg`
   done
 fi
 echo -e "---------------exit $0---------------"

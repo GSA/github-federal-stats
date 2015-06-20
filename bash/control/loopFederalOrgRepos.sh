@@ -95,7 +95,7 @@ else
   
     refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubReposInfo $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt`
     if [[ ( $refresh = "true" ) ]]; then
-      $scriptsDirectory/retrieveData/pullFederalOrgRepos.sh $1 $org $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt
+      $scriptsDirectory/retrieveData/pullFederalOrgRepos.sh $token $org $outputSharedDataDirectory/orgs/"$org"FederalRepos.txt
     fi
 
     currentFederalRepos=$outputSharedDataDirectory/orgs/"$org"FederalRepos.txt
