@@ -14,7 +14,7 @@ else
   echo "refresh for federal organizations using GitHub=$refresh" 
   if [[ ( $refresh = "true" ) ]]; then
     echo "Retrieving federal organizations using GitHub"
-    curl -H "Authorization: token $1" https://government.github.com/community/ > $outputDataDirectory/federalOrgsRaw.txt 
+    curl -H "Authorization: token $1" "https://government.github.com/community/" > $outputDataDirectory/federalOrgsRaw.txt 
   fi
 
   sed -ne 's/.*\(https[^"]*\).*/\1/p' $outputDataDirectory/federalOrgsRaw.txt | sed -n -e '/18f/,$p' | sed '/whitehouse/q' > $outputDataDirectory/federalOrgs.txt 
