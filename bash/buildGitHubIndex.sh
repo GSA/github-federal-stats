@@ -2,7 +2,7 @@ echo -e "\n---------------enter $0---------------"
 export LC_ALL=C
 
 if [[ ( -z $1 || -z $2 || -z $3 ) ]]; then
-  echo "Usage: buildGitHubIndex.sh [token] [configReader] [configFile] [optional:refresh (true|fatotalse)] [optional:federalOrgs]"
+  echo "Usage: buildGitHubIndex.sh [token] [configReader] [configFile] [optional:refresh (true|false)] [optional:federalOrgs]"
 else
 
 STARTTIME=$(date +%s)
