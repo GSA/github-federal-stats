@@ -22,12 +22,15 @@ missingDescriptions=$((ttlProjects-$ttlDescriptions))
 echo "Total projects without Descriptions,$missingDescriptions" >> $outputDataDirectory/stats.txt
 echo "<tr><td>Total Project Repositories without Descriptions</td><td align=\"right\">$missingDescriptions</td></tr>" >> $outputDataDirectory/htmlstats.txt
 
+ttlReleases=`sed '/^\s*$/d' $outputDataDirectory/releases.txt | wc -l`
+
 ttlPOCLines=`sed '/*$/d' $outputDataDirectory/pocs.txt | wc -l`
 ttlPOCLines=$((ttlPOCLines-1))
 ttlPOCs=`sed -n '/[^[:space:]]/p' $outputDataDirectory/pocs.txt | wc -l`
 ttlPOCS=$((ttlPOCs+0))
 
 descPerc=$((ttlDescriptions*100/ttlProjects))
+releasePerc=$((ttlReleases*100/ttlProjects))
 pocsPerc=$((ttlPOCS*100/ttlPOCLines))
 
 cp -R $scriptsDirectory/html/jquery-circle-progress $outputReportDirectory
@@ -35,7 +38,7 @@ cp -R $scriptsDirectory/html/jquery-circle-progress $outputReportDirectory
 echo "ttlPOCs:$ttlPOCS"
 echo "ttlPOCLines:$ttlPOCLines"
 echo "pocsPerc:$pocsPerc"
-$scriptsDirectory/html/makeCirclePage.sh $configReader $configFile $outputTempDirectory/overview.html $pocsPerc $descPerc
+$scriptsDirectory/html/makeCirclePage.sh $configReader $configFile $outputTempDirectory/overview.html $pocsPerc $descPerc $releasePerc
 
 echo "inserting overview data into web page template"
 
