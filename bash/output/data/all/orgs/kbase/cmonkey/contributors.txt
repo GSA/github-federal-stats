@@ -1,0 +1,42 @@
+[
+  {
+    "login": "aekazakov",
+    "id": 8227137,
+    "avatar_url": "https://avatars.githubusercontent.com/u/8227137?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/aekazakov",
+    "html_url": "https://github.com/aekazakov",
+    "followers_url": "https://api.github.com/users/aekazakov/followers",
+    "following_url": "https://api.github.com/users/aekazakov/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aekazakov/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/aekazakov/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aekazakov/subscriptions",
+    "organizations_url": "https://api.github.com/users/aekazakov/orgs",
+    "repos_url": "https://api.github.com/users/aekazakov/repos",
+    "events_url": "https://api.github.com/users/aekazakov/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/aekazakov/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 128
+  },
+  {
+    "login": "indiagordon",
+    "id": 7736202,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7736202?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/indiagordon",
+    "html_url": "https://github.com/indiagordon",
+    "followers_url": "https://api.github.com/users/indiagordon/followers",
+    "following_url": "https://api.github.com/users/indiagordon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/indiagordon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/indiagordon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/indiagordon/subscriptions",
+    "organizations_url": "https://api.github.com/users/indiagordon/orgs",
+    "repos_url": "https://api.github.com/users/indiagordon/repos",
+    "events_url": "https://api.github.com/users/indiagordon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/indiagordon/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,1 @@
+Common Biorepository Model (CBM) aims to reduce the time and effort required by researchers to locate a biobank that has the specimens they need.

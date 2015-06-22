@@ -1,0 +1,42 @@
+[
+  {
+    "login": "arc-webservices",
+    "id": 9326415,
+    "avatar_url": "https://avatars.githubusercontent.com/u/9326415?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/arc-webservices",
+    "html_url": "https://github.com/arc-webservices",
+    "followers_url": "https://api.github.com/users/arc-webservices/followers",
+    "following_url": "https://api.github.com/users/arc-webservices/following{/other_user}",
+    "gists_url": "https://api.github.com/users/arc-webservices/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/arc-webservices/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/arc-webservices/subscriptions",
+    "organizations_url": "https://api.github.com/users/arc-webservices/orgs",
+    "repos_url": "https://api.github.com/users/arc-webservices/repos",
+    "events_url": "https://api.github.com/users/arc-webservices/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/arc-webservices/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 54
+  },
+  {
+    "login": "jasonduley",
+    "id": 6842640,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6842640?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jasonduley",
+    "html_url": "https://github.com/jasonduley",
+    "followers_url": "https://api.github.com/users/jasonduley/followers",
+    "following_url": "https://api.github.com/users/jasonduley/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jasonduley/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jasonduley/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jasonduley/subscriptions",
+    "organizations_url": "https://api.github.com/users/jasonduley/orgs",
+    "repos_url": "https://api.github.com/users/jasonduley/repos",
+    "events_url": "https://api.github.com/users/jasonduley/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jasonduley/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 37
+  }
+]

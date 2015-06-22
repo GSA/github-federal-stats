@@ -1,0 +1,1 @@
+The genome annotation service provides automated gene annotation based on the RAST system. This deploys both client and service components.

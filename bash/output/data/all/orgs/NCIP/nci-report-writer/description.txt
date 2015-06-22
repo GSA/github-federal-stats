@@ -1,0 +1,1 @@
+The NCI EVS Report Writer is a web-based tool that allows users to generate reports from terminologies available through the LexEVS terminology server; it supports download and printing to a variety of file types and formats.

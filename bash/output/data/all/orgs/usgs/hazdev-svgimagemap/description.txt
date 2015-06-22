@@ -1,0 +1,1 @@
+ImageMaps implemented as SVG for responsive resizing.

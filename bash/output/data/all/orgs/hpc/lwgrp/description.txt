@@ -1,0 +1,1 @@
+The Light-weight Group Library provides methods for MPI codes to quickly create and destroy process groups

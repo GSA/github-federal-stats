@@ -1,0 +1,22 @@
+[
+  {
+    "login": "BaydushLC",
+    "id": 10816828,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10816828?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BaydushLC",
+    "html_url": "https://github.com/BaydushLC",
+    "followers_url": "https://api.github.com/users/BaydushLC/followers",
+    "following_url": "https://api.github.com/users/BaydushLC/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BaydushLC/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BaydushLC/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BaydushLC/subscriptions",
+    "organizations_url": "https://api.github.com/users/BaydushLC/orgs",
+    "repos_url": "https://api.github.com/users/BaydushLC/repos",
+    "events_url": "https://api.github.com/users/BaydushLC/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BaydushLC/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

@@ -1,0 +1,6 @@
+Examples of using HTCondor to scale scientific processing to a computer cluster
+Examples of simple and complex operations on datalogging and control equipment
+Demo for the fictional state of Superior
+Automated deployment code for Campbell loggers
+NWIS Mapper
+The Aggregate Water-Use Database System (AWUDS) provides for the storage and retrieval of water-use data aggregated by county, hydrologic unit, and aquifer. 

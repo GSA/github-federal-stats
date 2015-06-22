@@ -1,0 +1,1 @@
+Crawler is a bare-bones spider designed to quickly and effectively build an index of all files and pages on a given Web site as well as the link relationship (both incoming and outgoing) between each page.

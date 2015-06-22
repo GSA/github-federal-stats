@@ -1,0 +1,42 @@
+[
+  {
+    "login": "brobey",
+    "id": 1302572,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1302572?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/brobey",
+    "html_url": "https://github.com/brobey",
+    "followers_url": "https://api.github.com/users/brobey/followers",
+    "following_url": "https://api.github.com/users/brobey/following{/other_user}",
+    "gists_url": "https://api.github.com/users/brobey/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/brobey/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/brobey/subscriptions",
+    "organizations_url": "https://api.github.com/users/brobey/orgs",
+    "repos_url": "https://api.github.com/users/brobey/repos",
+    "events_url": "https://api.github.com/users/brobey/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/brobey/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  },
+  {
+    "login": "junghans",
+    "id": 439483,
+    "avatar_url": "https://avatars.githubusercontent.com/u/439483?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/junghans",
+    "html_url": "https://github.com/junghans",
+    "followers_url": "https://api.github.com/users/junghans/followers",
+    "following_url": "https://api.github.com/users/junghans/following{/other_user}",
+    "gists_url": "https://api.github.com/users/junghans/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/junghans/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/junghans/subscriptions",
+    "organizations_url": "https://api.github.com/users/junghans/orgs",
+    "repos_url": "https://api.github.com/users/junghans/repos",
+    "events_url": "https://api.github.com/users/junghans/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/junghans/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

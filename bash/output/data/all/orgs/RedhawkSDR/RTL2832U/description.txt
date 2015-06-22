@@ -1,0 +1,1 @@
+A frontendInterfaces compliant device for the RTL2832U usb dongle

@@ -1,0 +1,1 @@
+Generates and cleans up temp files for automated tests

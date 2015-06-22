@@ -1,0 +1,1 @@
+QSearch uses a persistent key-value data store to provide super fast lookups of uniquely identifiable items as a drop-in component for web site search.

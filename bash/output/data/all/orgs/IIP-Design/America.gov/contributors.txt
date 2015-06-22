@@ -1,0 +1,42 @@
+[
+  {
+    "login": "NathanKleekamp",
+    "id": 1002258,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1002258?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NathanKleekamp",
+    "html_url": "https://github.com/NathanKleekamp",
+    "followers_url": "https://api.github.com/users/NathanKleekamp/followers",
+    "following_url": "https://api.github.com/users/NathanKleekamp/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NathanKleekamp/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NathanKleekamp/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NathanKleekamp/subscriptions",
+    "organizations_url": "https://api.github.com/users/NathanKleekamp/orgs",
+    "repos_url": "https://api.github.com/users/NathanKleekamp/repos",
+    "events_url": "https://api.github.com/users/NathanKleekamp/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NathanKleekamp/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 93
+  },
+  {
+    "login": "pfiled",
+    "id": 611222,
+    "avatar_url": "https://avatars.githubusercontent.com/u/611222?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pfiled",
+    "html_url": "https://github.com/pfiled",
+    "followers_url": "https://api.github.com/users/pfiled/followers",
+    "following_url": "https://api.github.com/users/pfiled/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pfiled/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pfiled/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pfiled/subscriptions",
+    "organizations_url": "https://api.github.com/users/pfiled/orgs",
+    "repos_url": "https://api.github.com/users/pfiled/repos",
+    "events_url": "https://api.github.com/users/pfiled/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pfiled/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

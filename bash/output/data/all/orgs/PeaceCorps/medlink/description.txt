@@ -1,0 +1,1 @@
+A project to make it easier for Peace Corps Volunteers to order their medical supplies from a local Peace Corps Office. Volunteers can order by sms or webform. PC Staff interact with the orders in a simple to use dashboard.

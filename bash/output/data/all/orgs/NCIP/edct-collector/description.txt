@@ -1,0 +1,1 @@
+The eDCT Collector is designed to collect and store data submitted to the system in accordance with the model designed in eDCT Form Builder.

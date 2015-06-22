@@ -1,0 +1,1 @@
+Implementation of a camera trap research information service

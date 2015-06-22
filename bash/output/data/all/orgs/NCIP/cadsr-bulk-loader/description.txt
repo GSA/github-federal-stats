@@ -1,0 +1,1 @@
+The caDSR Bulk Loader uploads metadata from an Excel spreadsheet into the caDSR.

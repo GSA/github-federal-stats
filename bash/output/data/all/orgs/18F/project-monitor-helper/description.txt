@@ -1,0 +1,1 @@
+A Ruby script that automatically generates the projects.json required by Project Monitor

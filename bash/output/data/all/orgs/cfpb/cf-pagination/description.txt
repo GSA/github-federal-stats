@@ -1,0 +1,1 @@
+Standard pagination component for Capital Framework.

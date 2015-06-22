@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://api.github.com/repos/hpc/lwgrp/releases/464356",
+    "assets_url": "https://api.github.com/repos/hpc/lwgrp/releases/464356/assets",
+    "upload_url": "https://uploads.github.com/repos/hpc/lwgrp/releases/464356/assets{?name}",
+    "html_url": "https://github.com/hpc/lwgrp/releases/tag/v1.0.2",
+    "id": 464356,
+    "tag_name": "v1.0.2",
+    "target_commitish": "master",
+    "name": "",
+    "draft": false,
+    "author": {
+      "login": "adammoody",
+      "id": 1105742,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1105742?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/adammoody",
+      "html_url": "https://github.com/adammoody",
+      "followers_url": "https://api.github.com/users/adammoody/followers",
+      "following_url": "https://api.github.com/users/adammoody/following{/other_user}",
+      "gists_url": "https://api.github.com/users/adammoody/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/adammoody/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/adammoody/subscriptions",
+      "organizations_url": "https://api.github.com/users/adammoody/orgs",
+      "repos_url": "https://api.github.com/users/adammoody/repos",
+      "events_url": "https://api.github.com/users/adammoody/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/adammoody/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-07-31T23:16:09Z",
+    "published_at": "2014-07-31T23:46:34Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/hpc/lwgrp/releases/assets/198442",
+        "id": 198442,
+        "name": "lwgrp-1.0.2.tar.gz",
+        "label": null,
+        "uploader": {
+          "login": "adammoody",
+          "id": 1105742,
+          "avatar_url": "https://avatars.githubusercontent.com/u/1105742?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/adammoody",
+          "html_url": "https://github.com/adammoody",
+          "followers_url": "https://api.github.com/users/adammoody/followers",
+          "following_url": "https://api.github.com/users/adammoody/following{/other_user}",
+          "gists_url": "https://api.github.com/users/adammoody/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/adammoody/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/adammoody/subscriptions",
+          "organizations_url": "https://api.github.com/users/adammoody/orgs",
+          "repos_url": "https://api.github.com/users/adammoody/repos",
+          "events_url": "https://api.github.com/users/adammoody/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/adammoody/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "application/x-gzip",
+        "state": "uploaded",
+        "size": 357599,
+        "download_count": 34,
+        "created_at": "2014-07-31T23:46:19Z",
+        "updated_at": "2014-07-31T23:46:21Z",
+        "browser_download_url": "https://github.com/hpc/lwgrp/releases/download/v1.0.2/lwgrp-1.0.2.tar.gz"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/hpc/lwgrp/tarball/v1.0.2",
+    "zipball_url": "https://api.github.com/repos/hpc/lwgrp/zipball/v1.0.2",
+    "body": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "login": "brettin",
+    "id": 991769,
+    "avatar_url": "https://avatars.githubusercontent.com/u/991769?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/brettin",
+    "html_url": "https://github.com/brettin",
+    "followers_url": "https://api.github.com/users/brettin/followers",
+    "following_url": "https://api.github.com/users/brettin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/brettin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/brettin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/brettin/subscriptions",
+    "organizations_url": "https://api.github.com/users/brettin/orgs",
+    "repos_url": "https://api.github.com/users/brettin/repos",
+    "events_url": "https://api.github.com/users/brettin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/brettin/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

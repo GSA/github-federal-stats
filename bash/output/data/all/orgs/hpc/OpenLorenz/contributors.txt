@@ -1,0 +1,22 @@
+[
+  {
+    "login": "ShockerWork",
+    "id": 3373103,
+    "avatar_url": "https://avatars.githubusercontent.com/u/3373103?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ShockerWork",
+    "html_url": "https://github.com/ShockerWork",
+    "followers_url": "https://api.github.com/users/ShockerWork/followers",
+    "following_url": "https://api.github.com/users/ShockerWork/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ShockerWork/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ShockerWork/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ShockerWork/subscriptions",
+    "organizations_url": "https://api.github.com/users/ShockerWork/orgs",
+    "repos_url": "https://api.github.com/users/ShockerWork/repos",
+    "events_url": "https://api.github.com/users/ShockerWork/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ShockerWork/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/18F/foia/releases/1211843",
+    "assets_url": "https://api.github.com/repos/18F/foia/releases/1211843/assets",
+    "upload_url": "https://uploads.github.com/repos/18F/foia/releases/1211843/assets{?name}",
+    "html_url": "https://github.com/18F/foia/releases/tag/0.1",
+    "id": 1211843,
+    "tag_name": "0.1",
+    "target_commitish": "master",
+    "name": "First push to production",
+    "draft": false,
+    "author": {
+      "login": "khandelwal",
+      "id": 636752,
+      "avatar_url": "https://avatars.githubusercontent.com/u/636752?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/khandelwal",
+      "html_url": "https://github.com/khandelwal",
+      "followers_url": "https://api.github.com/users/khandelwal/followers",
+      "following_url": "https://api.github.com/users/khandelwal/following{/other_user}",
+      "gists_url": "https://api.github.com/users/khandelwal/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/khandelwal/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/khandelwal/subscriptions",
+      "organizations_url": "https://api.github.com/users/khandelwal/orgs",
+      "repos_url": "https://api.github.com/users/khandelwal/repos",
+      "events_url": "https://api.github.com/users/khandelwal/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/khandelwal/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2015-03-05T15:25:55Z",
+    "published_at": "2015-04-24T13:36:50Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/18F/foia/tarball/0.1",
+    "zipball_url": "https://api.github.com/repos/18F/foia/zipball/0.1",
+    "body": "This checkpoints our first push to production. "
+  }
+]

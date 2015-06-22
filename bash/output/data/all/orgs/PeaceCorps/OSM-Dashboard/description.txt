@@ -1,0 +1,1 @@
+A visualization of the contributions to OpenStreetMap by those associated with Peace Corps. This takes the form of a publically available dashboard of key statistics.

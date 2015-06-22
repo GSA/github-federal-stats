@@ -1,0 +1,22 @@
+[
+  {
+    "login": "terriregan",
+    "id": 7433075,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7433075?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/terriregan",
+    "html_url": "https://github.com/terriregan",
+    "followers_url": "https://api.github.com/users/terriregan/followers",
+    "following_url": "https://api.github.com/users/terriregan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terriregan/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/terriregan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terriregan/subscriptions",
+    "organizations_url": "https://api.github.com/users/terriregan/orgs",
+    "repos_url": "https://api.github.com/users/terriregan/repos",
+    "events_url": "https://api.github.com/users/terriregan/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/terriregan/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,1 @@
+A component of API Umbrella. The gatekeeper is a custom reverse proxy that sits in front of your APIs and efficiently validates incoming requests.

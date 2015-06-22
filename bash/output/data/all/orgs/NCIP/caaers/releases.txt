@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/NCIP/caaers/releases/536002",
+    "assets_url": "https://api.github.com/repos/NCIP/caaers/releases/536002/assets",
+    "upload_url": "https://uploads.github.com/repos/NCIP/caaers/releases/536002/assets{?name}",
+    "html_url": "https://github.com/NCIP/caaers/releases/tag/caAERS-CCTS-2.7-M15",
+    "id": 536002,
+    "tag_name": "caAERS-CCTS-2.7-M15",
+    "target_commitish": "master",
+    "name": "",
+    "draft": false,
+    "author": {
+      "login": "baumgartnerpj",
+      "id": 3580769,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3580769?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/baumgartnerpj",
+      "html_url": "https://github.com/baumgartnerpj",
+      "followers_url": "https://api.github.com/users/baumgartnerpj/followers",
+      "following_url": "https://api.github.com/users/baumgartnerpj/following{/other_user}",
+      "gists_url": "https://api.github.com/users/baumgartnerpj/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/baumgartnerpj/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/baumgartnerpj/subscriptions",
+      "organizations_url": "https://api.github.com/users/baumgartnerpj/orgs",
+      "repos_url": "https://api.github.com/users/baumgartnerpj/repos",
+      "events_url": "https://api.github.com/users/baumgartnerpj/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/baumgartnerpj/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2014-07-29T17:23:58Z",
+    "published_at": "2014-09-04T17:42:09Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/NCIP/caaers/tarball/caAERS-CCTS-2.7-M15",
+    "zipball_url": "https://api.github.com/repos/NCIP/caaers/zipball/caAERS-CCTS-2.7-M15",
+    "body": ""
+  }
+]

@@ -1,0 +1,1 @@
+R tools for geo-web processing of gridded data via the Geo Data Portal. geoknife slices up gridded data according to overlap with irregular features, such as watersheds, lakes, points, etc.

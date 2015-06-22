@@ -1,0 +1,22 @@
+[
+  {
+    "login": "nstawski",
+    "id": 597093,
+    "avatar_url": "https://avatars.githubusercontent.com/u/597093?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nstawski",
+    "html_url": "https://github.com/nstawski",
+    "followers_url": "https://api.github.com/users/nstawski/followers",
+    "following_url": "https://api.github.com/users/nstawski/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nstawski/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nstawski/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nstawski/subscriptions",
+    "organizations_url": "https://api.github.com/users/nstawski/orgs",
+    "repos_url": "https://api.github.com/users/nstawski/repos",
+    "events_url": "https://api.github.com/users/nstawski/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nstawski/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://api.github.com/repos/chaos/lmt/releases/509709",
+    "assets_url": "https://api.github.com/repos/chaos/lmt/releases/509709/assets",
+    "upload_url": "https://uploads.github.com/repos/chaos/lmt/releases/509709/assets{?name}",
+    "html_url": "https://github.com/chaos/lmt/releases/tag/3.1.8",
+    "id": 509709,
+    "tag_name": "3.1.8",
+    "target_commitish": "master",
+    "name": "v3.1.8",
+    "draft": false,
+    "author": {
+      "login": "garlick",
+      "id": 169947,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/garlick",
+      "html_url": "https://github.com/garlick",
+      "followers_url": "https://api.github.com/users/garlick/followers",
+      "following_url": "https://api.github.com/users/garlick/following{/other_user}",
+      "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/garlick/subscriptions",
+      "organizations_url": "https://api.github.com/users/garlick/orgs",
+      "repos_url": "https://api.github.com/users/garlick/repos",
+      "events_url": "https://api.github.com/users/garlick/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/garlick/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-08-22T22:30:20Z",
+    "published_at": "2014-08-22T22:34:50Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/chaos/lmt/releases/assets/217845",
+        "id": 217845,
+        "name": "lmt-3.1.8.tar.gz",
+        "label": null,
+        "uploader": {
+          "login": "garlick",
+          "id": 169947,
+          "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/garlick",
+          "html_url": "https://github.com/garlick",
+          "followers_url": "https://api.github.com/users/garlick/followers",
+          "following_url": "https://api.github.com/users/garlick/following{/other_user}",
+          "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/garlick/subscriptions",
+          "organizations_url": "https://api.github.com/users/garlick/orgs",
+          "repos_url": "https://api.github.com/users/garlick/repos",
+          "events_url": "https://api.github.com/users/garlick/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/garlick/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "application/x-gzip",
+        "state": "uploaded",
+        "size": 540266,
+        "download_count": 34,
+        "created_at": "2014-08-22T22:34:40Z",
+        "updated_at": "2014-08-22T22:34:41Z",
+        "browser_download_url": "https://github.com/chaos/lmt/releases/download/3.1.8/lmt-3.1.8.tar.gz"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/chaos/lmt/tarball/3.1.8",
+    "zipball_url": "https://api.github.com/repos/chaos/lmt/zipball/3.1.8",
+    "body": "\r\n* Update license headers for GPLv2+\r\n\r\n* Stop tracking autotools products.\r\n"
+  }
+]

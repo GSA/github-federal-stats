@@ -1,0 +1,22 @@
+[
+  {
+    "login": "gregelin",
+    "id": 24979,
+    "avatar_url": "https://avatars.githubusercontent.com/u/24979?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gregelin",
+    "html_url": "https://github.com/gregelin",
+    "followers_url": "https://api.github.com/users/gregelin/followers",
+    "following_url": "https://api.github.com/users/gregelin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gregelin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gregelin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gregelin/subscriptions",
+    "organizations_url": "https://api.github.com/users/gregelin/orgs",
+    "repos_url": "https://api.github.com/users/gregelin/repos",
+    "events_url": "https://api.github.com/users/gregelin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gregelin/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

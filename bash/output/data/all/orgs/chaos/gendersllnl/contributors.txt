@@ -1,0 +1,42 @@
+[
+  {
+    "login": "chu11",
+    "id": 274859,
+    "avatar_url": "https://avatars.githubusercontent.com/u/274859?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/chu11",
+    "html_url": "https://github.com/chu11",
+    "followers_url": "https://api.github.com/users/chu11/followers",
+    "following_url": "https://api.github.com/users/chu11/following{/other_user}",
+    "gists_url": "https://api.github.com/users/chu11/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/chu11/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/chu11/subscriptions",
+    "organizations_url": "https://api.github.com/users/chu11/orgs",
+    "repos_url": "https://api.github.com/users/chu11/repos",
+    "events_url": "https://api.github.com/users/chu11/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/chu11/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 353
+  },
+  {
+    "login": "grondo",
+    "id": 741970,
+    "avatar_url": "https://avatars.githubusercontent.com/u/741970?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/grondo",
+    "html_url": "https://github.com/grondo",
+    "followers_url": "https://api.github.com/users/grondo/followers",
+    "following_url": "https://api.github.com/users/grondo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/grondo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/grondo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/grondo/subscriptions",
+    "organizations_url": "https://api.github.com/users/grondo/orgs",
+    "repos_url": "https://api.github.com/users/grondo/repos",
+    "events_url": "https://api.github.com/users/grondo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/grondo/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  }
+]

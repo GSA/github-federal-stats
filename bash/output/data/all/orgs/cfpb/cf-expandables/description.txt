@@ -1,0 +1,1 @@
+Standard expandable (show/hide) elements for Capital Framework.

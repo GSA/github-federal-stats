@@ -1,0 +1,1 @@
+Chef cookbook for performing system-level git configuration.

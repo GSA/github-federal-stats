@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/hpc/dcp/releases/2770",
+    "assets_url": "https://api.github.com/repos/hpc/dcp/releases/2770/assets",
+    "upload_url": "https://uploads.github.com/repos/hpc/dcp/releases/2770/assets{?name}",
+    "html_url": "https://github.com/hpc/dcp/releases/tag/v0.1.0-rc.2",
+    "id": 2770,
+    "tag_name": "v0.1.0-rc.2",
+    "target_commitish": "master",
+    "name": "v0.1.0-rc.2",
+    "draft": false,
+    "author": {
+      "login": "fintler",
+      "id": 143694,
+      "avatar_url": "https://avatars.githubusercontent.com/u/143694?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fintler",
+      "html_url": "https://github.com/fintler",
+      "followers_url": "https://api.github.com/users/fintler/followers",
+      "following_url": "https://api.github.com/users/fintler/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fintler/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fintler/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fintler/subscriptions",
+      "organizations_url": "https://api.github.com/users/fintler/orgs",
+      "repos_url": "https://api.github.com/users/fintler/repos",
+      "events_url": "https://api.github.com/users/fintler/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fintler/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2013-07-03T15:18:06Z",
+    "published_at": "2013-07-03T15:20:03Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/hpc/dcp/tarball/v0.1.0-rc.2",
+    "zipball_url": "https://api.github.com/repos/hpc/dcp/zipball/v0.1.0-rc.2",
+    "body": "* Set permissions, ownership, and time stamps when appropriate.\r\n* Set extended attributes when appropriate.\r\n* Aggregate speed rate is now displayed in the epilogue.\r\n* Symbolic link support.\r\n* Use block size instead of page size for copy buffer.\r\n* RPM creation fixes.\r\n* Many other minor bug fixes and tweaks."
+  }
+]

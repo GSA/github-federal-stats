@@ -1,0 +1,1 @@
+An experiment with using Travis-CI to a deploy a Sinatra app to Cloud Foundry

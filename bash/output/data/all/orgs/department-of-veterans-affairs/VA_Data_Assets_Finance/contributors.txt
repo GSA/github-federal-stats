@@ -1,0 +1,22 @@
+[
+  {
+    "login": "CourtneyShell",
+    "id": 10926255,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10926255?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CourtneyShell",
+    "html_url": "https://github.com/CourtneyShell",
+    "followers_url": "https://api.github.com/users/CourtneyShell/followers",
+    "following_url": "https://api.github.com/users/CourtneyShell/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CourtneyShell/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CourtneyShell/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CourtneyShell/subscriptions",
+    "organizations_url": "https://api.github.com/users/CourtneyShell/orgs",
+    "repos_url": "https://api.github.com/users/CourtneyShell/repos",
+    "events_url": "https://api.github.com/users/CourtneyShell/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CourtneyShell/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

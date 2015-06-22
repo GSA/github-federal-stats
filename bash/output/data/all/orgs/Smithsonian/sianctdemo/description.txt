@@ -1,0 +1,1 @@
+A demonstration UI for supporting researchers using camera trap.

@@ -1,0 +1,1 @@
+The XMI Handler provides a set of APIs to read from and write into XMI files. The XMI Handler parses a given XMI file and represent the model in Java objects. The APIs work with both ArgoUML and Enterprise Architect created XMI models.

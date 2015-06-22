@@ -1,0 +1,1 @@
+The NCI Metathesaurus (NCIm) Browser is a web-based terminology browser that allows users to browse and search the NCI Metathesaurus, a biomedical terminology database that maps terms from more than 70 terminology sources into some 1.5 million biomedical concepts.

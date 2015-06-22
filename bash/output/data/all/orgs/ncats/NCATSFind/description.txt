@@ -1,0 +1,1 @@
+Chrome plugin for resolving / rendering chemical structures from names and images.

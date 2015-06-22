@@ -1,0 +1,22 @@
+[
+  {
+    "login": "garlick",
+    "id": 169947,
+    "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/garlick",
+    "html_url": "https://github.com/garlick",
+    "followers_url": "https://api.github.com/users/garlick/followers",
+    "following_url": "https://api.github.com/users/garlick/following{/other_user}",
+    "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/garlick/subscriptions",
+    "organizations_url": "https://api.github.com/users/garlick/orgs",
+    "repos_url": "https://api.github.com/users/garlick/repos",
+    "events_url": "https://api.github.com/users/garlick/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/garlick/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 50
+  }
+]

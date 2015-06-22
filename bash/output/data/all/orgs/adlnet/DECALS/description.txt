@@ -1,0 +1,1 @@
+This repo is for Data for Enabling Content in Adaptive Learning Systems (DECALS) that is built on the RUSSEL platform is an open-source software project to manage and repurpose courses, documents and multimedia assets by providing services for managing ontologies ranging from general ontologies to taxonomies of learning objectives and ontologies related to learner models.

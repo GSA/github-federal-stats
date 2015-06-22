@@ -1,0 +1,1 @@
+This service wraps the ERDB software and allows querying the CDS via the ERDB using typecompiler generated clients rather than direct Perl imports of the ERDB code.

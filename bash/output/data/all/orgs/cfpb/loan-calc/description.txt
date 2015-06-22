@@ -1,0 +1,1 @@
+A node module to quickly calculate monthly payments and the total amount of interest paid for a fixed rate loan.

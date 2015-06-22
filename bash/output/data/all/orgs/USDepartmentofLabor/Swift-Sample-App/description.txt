@@ -1,0 +1,1 @@
+Sample app using the Swift Federal Data SDK. For documentation and a how-to, see:

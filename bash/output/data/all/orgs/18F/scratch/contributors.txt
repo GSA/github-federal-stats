@@ -1,0 +1,42 @@
+[
+  {
+    "login": "gbinal",
+    "id": 633088,
+    "avatar_url": "https://avatars.githubusercontent.com/u/633088?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gbinal",
+    "html_url": "https://github.com/gbinal",
+    "followers_url": "https://api.github.com/users/gbinal/followers",
+    "following_url": "https://api.github.com/users/gbinal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gbinal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gbinal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gbinal/subscriptions",
+    "organizations_url": "https://api.github.com/users/gbinal/orgs",
+    "repos_url": "https://api.github.com/users/gbinal/repos",
+    "events_url": "https://api.github.com/users/gbinal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gbinal/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  },
+  {
+    "login": "aaronsnow",
+    "id": 565152,
+    "avatar_url": "https://avatars.githubusercontent.com/u/565152?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/aaronsnow",
+    "html_url": "https://github.com/aaronsnow",
+    "followers_url": "https://api.github.com/users/aaronsnow/followers",
+    "following_url": "https://api.github.com/users/aaronsnow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aaronsnow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/aaronsnow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aaronsnow/subscriptions",
+    "organizations_url": "https://api.github.com/users/aaronsnow/orgs",
+    "repos_url": "https://api.github.com/users/aaronsnow/repos",
+    "events_url": "https://api.github.com/users/aaronsnow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/aaronsnow/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  }
+]

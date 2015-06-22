@@ -1,0 +1,1 @@
+Easily deploy Fugacious backed with Postgres via Docker and FIg.

@@ -1,0 +1,1 @@
+The Bagger application packages data files according to the BagIt specification.

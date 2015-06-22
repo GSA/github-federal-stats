@@ -1,0 +1,1 @@
+An API for using workflows related to camera trap research

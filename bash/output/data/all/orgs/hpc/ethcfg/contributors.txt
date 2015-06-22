@@ -1,0 +1,42 @@
+[
+  {
+    "login": "benmcclelland",
+    "id": 2184287,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2184287?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/benmcclelland",
+    "html_url": "https://github.com/benmcclelland",
+    "followers_url": "https://api.github.com/users/benmcclelland/followers",
+    "following_url": "https://api.github.com/users/benmcclelland/following{/other_user}",
+    "gists_url": "https://api.github.com/users/benmcclelland/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/benmcclelland/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/benmcclelland/subscriptions",
+    "organizations_url": "https://api.github.com/users/benmcclelland/orgs",
+    "repos_url": "https://api.github.com/users/benmcclelland/repos",
+    "events_url": "https://api.github.com/users/benmcclelland/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/benmcclelland/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  },
+  {
+    "login": "fintler",
+    "id": 143694,
+    "avatar_url": "https://avatars.githubusercontent.com/u/143694?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fintler",
+    "html_url": "https://github.com/fintler",
+    "followers_url": "https://api.github.com/users/fintler/followers",
+    "following_url": "https://api.github.com/users/fintler/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fintler/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fintler/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fintler/subscriptions",
+    "organizations_url": "https://api.github.com/users/fintler/orgs",
+    "repos_url": "https://api.github.com/users/fintler/repos",
+    "events_url": "https://api.github.com/users/fintler/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fintler/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,1 @@
+A Ruby client for the National Archives Catalog API

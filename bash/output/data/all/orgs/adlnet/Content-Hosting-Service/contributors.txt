@@ -1,0 +1,22 @@
+[
+  {
+    "login": "aworkman",
+    "id": 1395070,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1395070?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/aworkman",
+    "html_url": "https://github.com/aworkman",
+    "followers_url": "https://api.github.com/users/aworkman/followers",
+    "following_url": "https://api.github.com/users/aworkman/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aworkman/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/aworkman/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aworkman/subscriptions",
+    "organizations_url": "https://api.github.com/users/aworkman/orgs",
+    "repos_url": "https://api.github.com/users/aworkman/repos",
+    "events_url": "https://api.github.com/users/aworkman/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/aworkman/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

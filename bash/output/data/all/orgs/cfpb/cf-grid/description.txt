@@ -1,0 +1,1 @@
+A Less-based grid system using parametric mixins. Part of Capital Framework.

@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/ncbi/robotframework-pageobjects/releases/729632",
+    "assets_url": "https://api.github.com/repos/ncbi/robotframework-pageobjects/releases/729632/assets",
+    "upload_url": "https://uploads.github.com/repos/ncbi/robotframework-pageobjects/releases/729632/assets{?name}",
+    "html_url": "https://github.com/ncbi/robotframework-pageobjects/releases/tag/1.1.2",
+    "id": 729632,
+    "tag_name": "1.1.2",
+    "target_commitish": "master",
+    "name": "release for 1.1.2",
+    "draft": false,
+    "author": {
+      "login": "hellmanj",
+      "id": 1661356,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1661356?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hellmanj",
+      "html_url": "https://github.com/hellmanj",
+      "followers_url": "https://api.github.com/users/hellmanj/followers",
+      "following_url": "https://api.github.com/users/hellmanj/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hellmanj/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hellmanj/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hellmanj/subscriptions",
+      "organizations_url": "https://api.github.com/users/hellmanj/orgs",
+      "repos_url": "https://api.github.com/users/hellmanj/repos",
+      "events_url": "https://api.github.com/users/hellmanj/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hellmanj/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-11-24T17:51:26Z",
+    "published_at": "2014-11-24T17:10:00Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/ncbi/robotframework-pageobjects/tarball/1.1.2",
+    "zipball_url": "https://api.github.com/repos/ncbi/robotframework-pageobjects/zipball/1.1.2",
+    "body": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "login": "bciv",
+    "id": 4639962,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4639962?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bciv",
+    "html_url": "https://github.com/bciv",
+    "followers_url": "https://api.github.com/users/bciv/followers",
+    "following_url": "https://api.github.com/users/bciv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bciv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bciv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bciv/subscriptions",
+    "organizations_url": "https://api.github.com/users/bciv/orgs",
+    "repos_url": "https://api.github.com/users/bciv/repos",
+    "events_url": "https://api.github.com/users/bciv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bciv/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  }
+]

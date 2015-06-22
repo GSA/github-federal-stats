@@ -1,0 +1,22 @@
+[
+  {
+    "login": "DavidEBest",
+    "id": 933586,
+    "avatar_url": "https://avatars.githubusercontent.com/u/933586?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DavidEBest",
+    "html_url": "https://github.com/DavidEBest",
+    "followers_url": "https://api.github.com/users/DavidEBest/followers",
+    "following_url": "https://api.github.com/users/DavidEBest/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DavidEBest/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DavidEBest/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DavidEBest/subscriptions",
+    "organizations_url": "https://api.github.com/users/DavidEBest/orgs",
+    "repos_url": "https://api.github.com/users/DavidEBest/repos",
+    "events_url": "https://api.github.com/users/DavidEBest/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DavidEBest/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,1 @@
+Getting data services registered in the IOOS Service Registry

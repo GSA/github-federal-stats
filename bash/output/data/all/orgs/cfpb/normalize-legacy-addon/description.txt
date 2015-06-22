@@ -1,0 +1,1 @@
+An add-on to normalize.css that backfills v1 legacy browser support. It is built to be combined with newer versions of normalize.css.

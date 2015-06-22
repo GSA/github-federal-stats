@@ -1,0 +1,42 @@
+[
+  {
+    "login": "shawnbot",
+    "id": 113896,
+    "avatar_url": "https://avatars.githubusercontent.com/u/113896?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/shawnbot",
+    "html_url": "https://github.com/shawnbot",
+    "followers_url": "https://api.github.com/users/shawnbot/followers",
+    "following_url": "https://api.github.com/users/shawnbot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/shawnbot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/shawnbot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/shawnbot/subscriptions",
+    "organizations_url": "https://api.github.com/users/shawnbot/orgs",
+    "repos_url": "https://api.github.com/users/shawnbot/repos",
+    "events_url": "https://api.github.com/users/shawnbot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/shawnbot/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 538
+  },
+  {
+    "login": "meiqimichelle",
+    "id": 4827522,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4827522?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/meiqimichelle",
+    "html_url": "https://github.com/meiqimichelle",
+    "followers_url": "https://api.github.com/users/meiqimichelle/followers",
+    "following_url": "https://api.github.com/users/meiqimichelle/following{/other_user}",
+    "gists_url": "https://api.github.com/users/meiqimichelle/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/meiqimichelle/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/meiqimichelle/subscriptions",
+    "organizations_url": "https://api.github.com/users/meiqimichelle/orgs",
+    "repos_url": "https://api.github.com/users/meiqimichelle/repos",
+    "events_url": "https://api.github.com/users/meiqimichelle/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/meiqimichelle/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

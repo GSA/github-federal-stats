@@ -1,0 +1,1 @@
+REDHAWK IDE UI tests. The tests leverage SWTBot and a REDHAWK installation to perform UI tests of the IDE in a full runtime environment.

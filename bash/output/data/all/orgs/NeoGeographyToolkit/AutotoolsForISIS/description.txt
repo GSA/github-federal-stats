@@ -1,0 +1,1 @@
+This is a collection of scripts that will apply an Autotools build system to the USGS ISIS source code.

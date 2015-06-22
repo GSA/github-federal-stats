@@ -1,0 +1,1 @@
+A collection of libraries for shared functionality across the CTMS workspace, and particularly among the applications in the Clinical Trials Suite.

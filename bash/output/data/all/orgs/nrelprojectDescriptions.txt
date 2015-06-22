@@ -1,0 +1,50 @@
+Open source API management platform
+
+OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
+
+
+
+
+A component of API Umbrella. The web component provides the website frontend and web admin tool.
+A component of API Umbrella. The gatekeeper is a custom reverse proxy that sits in front of your APIs and efficiently validates incoming requests.
+
+
+A component of API Umbrella. The router provides the necessary configuration to join together API Umbrealla Gatekeeper with other open source proxies.
+
+
+
+OpenStudio's Measure Recommendation Engine
+OpenStudio AWS Gem is used to spin up a cluster of computers using Amazon's EC2 for use in OpenStudio Distributed Analysis.
+
+OpenStudio-Analysis Gem creates and configures the analysis.json files needed for running the OpenStudio Distributed Analysis workflow.
+
+
+HPXML to Home Energy Score Translator
+HARP_Opt: Horizontal Axis Rotor Performance Optimization
+
+An issue tracker for NREL's APIs available at https://developer.nrel.gov
+
+
+
+Source code for the California Title 24 Compliance Website. The website performs compliance checks on commercial buildings using a combination of OpenStudio, EnergyPlus, and CBECC-Com
+
+
+
+
+A component of API Umbrella. The static site provides the public website content using a static site generator and can be hosted with GitHub Pages.
+Please visit http://nrel.github.io/OpenWARP/ for more information.
+
+
+
+A component of API Umbrella. Provides configuration file parsing for the other API Umbrella components.
+
+
+
+
+Omnibus packaging for API Umbrella
+
+
+
+
+
+

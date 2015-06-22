@@ -1,0 +1,1 @@
+Framework for Detection Evaluation (F4DE) : set of evaluation tools for detection evaluations and for specific NIST-coordinated evaluations

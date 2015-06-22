@@ -1,0 +1,42 @@
+[
+  {
+    "login": "adammoody",
+    "id": 1105742,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1105742?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/adammoody",
+    "html_url": "https://github.com/adammoody",
+    "followers_url": "https://api.github.com/users/adammoody/followers",
+    "following_url": "https://api.github.com/users/adammoody/following{/other_user}",
+    "gists_url": "https://api.github.com/users/adammoody/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/adammoody/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/adammoody/subscriptions",
+    "organizations_url": "https://api.github.com/users/adammoody/orgs",
+    "repos_url": "https://api.github.com/users/adammoody/repos",
+    "events_url": "https://api.github.com/users/adammoody/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/adammoody/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 228
+  },
+  {
+    "login": "perkinjo",
+    "id": 12634023,
+    "avatar_url": "https://avatars.githubusercontent.com/u/12634023?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/perkinjo",
+    "html_url": "https://github.com/perkinjo",
+    "followers_url": "https://api.github.com/users/perkinjo/followers",
+    "following_url": "https://api.github.com/users/perkinjo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/perkinjo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/perkinjo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/perkinjo/subscriptions",
+    "organizations_url": "https://api.github.com/users/perkinjo/orgs",
+    "repos_url": "https://api.github.com/users/perkinjo/repos",
+    "events_url": "https://api.github.com/users/perkinjo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/perkinjo/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 24
+  }
+]

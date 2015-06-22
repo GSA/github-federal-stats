@@ -1,0 +1,1 @@
+Service for wrapping Narrative Job Service with additional functionality

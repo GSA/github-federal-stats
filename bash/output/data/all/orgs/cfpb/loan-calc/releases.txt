@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/cfpb/loan-calc/releases/267928",
+    "assets_url": "https://api.github.com/repos/cfpb/loan-calc/releases/267928/assets",
+    "upload_url": "https://uploads.github.com/repos/cfpb/loan-calc/releases/267928/assets{?name}",
+    "html_url": "https://github.com/cfpb/loan-calc/releases/tag/0.1.0",
+    "id": 267928,
+    "tag_name": "0.1.0",
+    "target_commitish": "master",
+    "name": "",
+    "draft": false,
+    "author": {
+      "login": "ascott1",
+      "id": 212533,
+      "avatar_url": "https://avatars.githubusercontent.com/u/212533?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ascott1",
+      "html_url": "https://github.com/ascott1",
+      "followers_url": "https://api.github.com/users/ascott1/followers",
+      "following_url": "https://api.github.com/users/ascott1/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ascott1/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ascott1/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ascott1/subscriptions",
+      "organizations_url": "https://api.github.com/users/ascott1/orgs",
+      "repos_url": "https://api.github.com/users/ascott1/repos",
+      "events_url": "https://api.github.com/users/ascott1/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ascott1/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-04-11T15:33:21Z",
+    "published_at": "2014-04-11T15:40:48Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/cfpb/loan-calc/tarball/0.1.0",
+    "zipball_url": "https://api.github.com/repos/cfpb/loan-calc/zipball/0.1.0",
+    "body": ""
+  }
+]

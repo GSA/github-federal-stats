@@ -1,0 +1,1 @@
+A Ruby client library for the EPA's UV Index REST API (http://www.epa.gov/enviro/facts/services.html#uvindex)

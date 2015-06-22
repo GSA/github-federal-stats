@@ -1,0 +1,1 @@
+The caGrid-workflow repository contains the caGrid Workflow Service, which enables orchestration across caGrid services using Taverna's SCUFL language.

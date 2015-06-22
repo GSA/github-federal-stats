@@ -1,0 +1,66 @@
+An extensible framework for genome assembly.
+
+The kb_seed module contains an import of a large body of code from the SEED project. These imports are performed on a periodic basis as new features developed on the SEED side are required in the KBase codebase. This deploys both client and service libraries.
+The m5nr is a MD5 based non-redundant sequence database that includes both protein and rRNA sequences.
+A service that provides import, upload, and download capabilities as well as tools for validating and converting between data types, both internal and external to KBase.
+Flux balance modeling service. Deploys both the client and service codes.
+This repo contains documents and guides that describe project principles, how-to docs, etc.
+An application programming interface for managing files. This service provides an AbstractHandle that can be used to reference data in different stores. This deploys both the client and service.
+AMETHST, or Analysis METHod Selection Tool, is an automated pipeline that makes it possible to objectively assess the relative performance of multiple analysis methods applied to annotation abundance data. Utilizing objective, permutation-based statistics, it can determine the best performing analysis from any arbitrary collection of analyses, and can also determine the degree to which each analysis step (e.g. normalization and reprocessing of the data, selection of distance/dissimilarity metric) affects the results produced by each analysis method.
+deploy_tools
+Next generation of KBase documents and code experiments
+User profile service (including basic Social profile)
+narrative job proxy
+Service for wrapping Narrative Job Service with additional functionality
+integration tests
+A set of common tooling for awe based workflows
+A service for assisting in mapping external ids to kbase ids.
+Module to instantiate auto-deploy during a standard build
+Provides user access capabilities to handles.
+Simple wrappers around fba tools.
+A command line and application programming interface to the KBase modeling services.
+A command line and application programming interface to the KBase genomics service.
+This service wraps the ERDB software and allows querying the CDS via the ERDB using typecompiler generated clients rather than direct Perl imports of the ERDB code.
+This module provides a workspace browser for workspaces. The main component of this repository is the workspace browser app that is contained in the ui-common repository. This repository provides the necessary release engineering to deploy the workspace browser as an independent component.
+KBase service code for RDP. A classifier of rRNA amplicon data contributed by the RDB Project. Deploys both client and service.
+The registry service provides a service registry for Services.  This deploys both the client and the service.
+This repository contains wrapper code to integrate the ModelSEED Perl libraries into KBase.
+This is a C implementation of the authentication clients.
+
+Detects Streptococcus repeats in genome sequences.
+
+The Workspace Service (WSS) is primarily a language independent remote storage and retrieval system for KBase typed objects (TO) defined with the KBase Interface Description Language (KIDL).
+The invocation service provides remote invocation of commands. A java script browser client for interactive remote invocation (IRIS) is included. This deploys  the client, service and javascript web application.
+
+This repository is a container for developing and deploying KBase modules. To use this, you must already have a \"runtime\" directory, which contains the neccesary binaries and libraries. For an idea of what is expected to be in this runtime, consult the [bootstrap repository](https://git.kbase.us/bootstrap.git/).
+Identification of core annotation pipeline (CAP)
+High level documents regarding the design and architecture of KBase
+Towards a unified data api for KBase
+The awe_service repository provides KBase release engineering tools for the deployment of the AWE client and server. The AWE repository is included as a submodule in the awe_service repository and is maintained at http://github.com/MG-RAST/AWE.
+authentication services for kbase
+The genome annotation service provides automated gene annotation based on the RAST system. This deploys both client and service components.
+
+bootstrap for runtime data
+A collection of utilities for working with AWE
+Support for a pool of production awe clients
+
+Plant related genome wide association studies.
+Scripts and other tools for collecting metrics and generating reports and summaries.
+This module contains utility code and data used in the creation of KBase distributions.
+Generated documentation and accompanying descriptive documentation for KBase infrastructure
+
+workspace-browser
+This provides an emulation of the Globus Nexus API that can be used to support authentication back ends other than Globus Nexus.
+The KBase Data Importer allows users to upload data for use in KBase.
+The KBase Type Compiler consumes a type-document and produces a server and implementation libraries in one languages and client libraries in multiple supported languages.
+The KBase ID service provides access to the mappings between KBase identifiers and external identifiers (the original identifiers for data that was migrated from other databases into KBase). This deploys both the client and service.
+A collection of examples showing how various modules work together. This is primarily used for training and learning.
+Enables deployment of shock server and clients within the kbase release environment
+The KBase genome browser
+Basic java client for Shock.
+
+
+Central store quality control.
+This service provides a set of methods for querying, manipulating, and analyzing multiple sequence alignments and phylogenetic trees.
+The mgrast_pipeline repository provides KBase release engineering tools for the deployment of the MG-RAST pipeline. The MG-RAST pipeline repository is included as a submodule in the mgrast_pipeline repository and is maintained at http://github.com/MG-RAST/pipeline.
+feature values

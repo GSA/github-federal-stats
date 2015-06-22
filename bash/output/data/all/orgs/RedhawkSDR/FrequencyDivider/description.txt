@@ -1,0 +1,1 @@
+This component divides the frequency content of the input stream by the desired divisor

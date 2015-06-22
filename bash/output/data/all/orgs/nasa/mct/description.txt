@@ -1,0 +1,1 @@
+Mission Control Technologies is a real-time monitoring and visualization platform. See an overview and demo at http://ti.arc.nasa.gov/OpenMCT/. Download MCT plugins at https://github.com/nasa/MCT-Plugins.

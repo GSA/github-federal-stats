@@ -1,0 +1,1 @@
+An open source, semi-automated, control design tool for subsonic aircraft engine simulations written in the MATLAB/Simulink environment. The Tool for Turbine Engine Closed-loop Transient Analysis provides the user a preliminary estimate of the closed-loop transient performance of an engine model.

@@ -1,0 +1,1 @@
+View Permissions, Queues, Memberships for a given user

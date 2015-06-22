@@ -1,0 +1,22 @@
+[
+  {
+    "login": "MikePulsiferDOL",
+    "id": 1970829,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1970829?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MikePulsiferDOL",
+    "html_url": "https://github.com/MikePulsiferDOL",
+    "followers_url": "https://api.github.com/users/MikePulsiferDOL/followers",
+    "following_url": "https://api.github.com/users/MikePulsiferDOL/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MikePulsiferDOL/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MikePulsiferDOL/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MikePulsiferDOL/subscriptions",
+    "organizations_url": "https://api.github.com/users/MikePulsiferDOL/orgs",
+    "repos_url": "https://api.github.com/users/MikePulsiferDOL/repos",
+    "events_url": "https://api.github.com/users/MikePulsiferDOL/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MikePulsiferDOL/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

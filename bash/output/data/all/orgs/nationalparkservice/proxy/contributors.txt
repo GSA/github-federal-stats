@@ -1,0 +1,42 @@
+[
+  {
+    "login": "nateirwin",
+    "id": 10443,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10443?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nateirwin",
+    "html_url": "https://github.com/nateirwin",
+    "followers_url": "https://api.github.com/users/nateirwin/followers",
+    "following_url": "https://api.github.com/users/nateirwin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nateirwin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nateirwin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nateirwin/subscriptions",
+    "organizations_url": "https://api.github.com/users/nateirwin/orgs",
+    "repos_url": "https://api.github.com/users/nateirwin/repos",
+    "events_url": "https://api.github.com/users/nateirwin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nateirwin/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  },
+  {
+    "login": "ldnash",
+    "id": 8005360,
+    "avatar_url": "https://avatars.githubusercontent.com/u/8005360?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ldnash",
+    "html_url": "https://github.com/ldnash",
+    "followers_url": "https://api.github.com/users/ldnash/followers",
+    "following_url": "https://api.github.com/users/ldnash/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ldnash/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ldnash/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ldnash/subscriptions",
+    "organizations_url": "https://api.github.com/users/ldnash/orgs",
+    "repos_url": "https://api.github.com/users/ldnash/repos",
+    "events_url": "https://api.github.com/users/ldnash/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ldnash/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

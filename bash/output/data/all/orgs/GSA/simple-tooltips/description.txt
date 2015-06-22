@@ -1,0 +1,1 @@
+simple-tooltips customized plugin for wordpress

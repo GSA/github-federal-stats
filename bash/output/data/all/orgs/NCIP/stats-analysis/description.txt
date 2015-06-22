@@ -1,0 +1,1 @@
+The purpose of Stats Analysis API is to allow programmatic and logical access to the underlying Data Mart via clinical genomic domain objects.

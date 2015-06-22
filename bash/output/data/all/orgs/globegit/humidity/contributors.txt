@@ -1,0 +1,22 @@
+[
+  {
+    "login": "salisbury",
+    "id": 129723,
+    "avatar_url": "https://avatars.githubusercontent.com/u/129723?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/salisbury",
+    "html_url": "https://github.com/salisbury",
+    "followers_url": "https://api.github.com/users/salisbury/followers",
+    "following_url": "https://api.github.com/users/salisbury/following{/other_user}",
+    "gists_url": "https://api.github.com/users/salisbury/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/salisbury/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/salisbury/subscriptions",
+    "organizations_url": "https://api.github.com/users/salisbury/orgs",
+    "repos_url": "https://api.github.com/users/salisbury/repos",
+    "events_url": "https://api.github.com/users/salisbury/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/salisbury/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

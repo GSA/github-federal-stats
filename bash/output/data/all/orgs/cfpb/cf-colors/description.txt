@@ -1,0 +1,1 @@
+:warning: THIS REPO IS DEPRECATED :warning: You can find the color variables in cf-core.

@@ -1,0 +1,44 @@
+R statistical package cookbook
+
+
+openstudio cookbook for chef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A chef cookbook to install the git 1.8 package from IUS on RHEL systems
+A chef cookbook to install and setup the yum security plugin
+A chef cookbook for cron-wap
+
+Chef cookbook for installing automongobackup
+
+
+A chef cookbook for installing and running the freegeoip service
+
+
+
+
+
+
+
+
+
+
+
+
+Chef cookbook for performing system-level git configuration.
+
+A chef cookbook to install and setup the yum-cron package
+
+

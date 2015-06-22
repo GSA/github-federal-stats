@@ -1,0 +1,1 @@
+Contains the source and build scripts for the VITA49 Libraries There is source for both C++ and JAVA

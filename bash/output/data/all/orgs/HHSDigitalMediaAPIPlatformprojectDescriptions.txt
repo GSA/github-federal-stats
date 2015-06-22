@@ -1,0 +1,10 @@
+HHS Digital Media module for Drupal 7
+Wordpress plugin to add a custom post type for HHS digital media syndication
+HTML & Javascript module for searching and embedding HHS Digital Media
+HHS Digital Media module for Joomla version 1.5
+HHS Digital Media module for Joomla versions 2.5 and 3.x
+
+Javascript SDK for HHS Digital Media API
+Java SDK for HHS Digital Media API
+ObjectiveC SDK for HHS Digital Media API
+PHP SDK for HHS Digital Media API

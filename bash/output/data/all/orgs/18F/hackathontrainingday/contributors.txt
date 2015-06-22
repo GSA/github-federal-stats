@@ -1,0 +1,42 @@
+[
+  {
+    "login": "leahbannon",
+    "id": 4323988,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4323988?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/leahbannon",
+    "html_url": "https://github.com/leahbannon",
+    "followers_url": "https://api.github.com/users/leahbannon/followers",
+    "following_url": "https://api.github.com/users/leahbannon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/leahbannon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/leahbannon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/leahbannon/subscriptions",
+    "organizations_url": "https://api.github.com/users/leahbannon/orgs",
+    "repos_url": "https://api.github.com/users/leahbannon/repos",
+    "events_url": "https://api.github.com/users/leahbannon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/leahbannon/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 35
+  },
+  {
+    "login": "rebeccawilliams",
+    "id": 1725454,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1725454?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rebeccawilliams",
+    "html_url": "https://github.com/rebeccawilliams",
+    "followers_url": "https://api.github.com/users/rebeccawilliams/followers",
+    "following_url": "https://api.github.com/users/rebeccawilliams/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rebeccawilliams/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rebeccawilliams/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rebeccawilliams/subscriptions",
+    "organizations_url": "https://api.github.com/users/rebeccawilliams/orgs",
+    "repos_url": "https://api.github.com/users/rebeccawilliams/repos",
+    "events_url": "https://api.github.com/users/rebeccawilliams/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rebeccawilliams/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

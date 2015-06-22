@@ -1,0 +1,1 @@
+One way of determining the amount of local processes on a node using MPI 2.

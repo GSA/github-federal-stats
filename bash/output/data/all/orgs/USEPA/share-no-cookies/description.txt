@@ -1,0 +1,1 @@
+A non-jQuery dependent way to share your content without cookies

@@ -1,0 +1,1 @@
+Jekyll search plugin based on lunr.js and jekyll_pages_api

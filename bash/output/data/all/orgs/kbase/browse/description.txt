@@ -1,0 +1,1 @@
+This module provides a workspace browser for workspaces. The main component of this repository is the workspace browser app that is contained in the ui-common repository. This repository provides the necessary release engineering to deploy the workspace browser as an independent component.

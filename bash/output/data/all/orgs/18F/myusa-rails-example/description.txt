@@ -1,0 +1,1 @@
+An example Rails app that connects to MyUSA

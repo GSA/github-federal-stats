@@ -1,0 +1,1 @@
+This service provides a set of methods for querying, manipulating, and analyzing multiple sequence alignments and phylogenetic trees.

@@ -1,0 +1,1 @@
+Light weight angular app that documents ss REST services

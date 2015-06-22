@@ -1,0 +1,1 @@
+Scan domains for various web things, like HTTP/HTTPS configuration.

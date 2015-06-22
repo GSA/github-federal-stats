@@ -1,0 +1,4 @@
+The link service is used to create links to content and metadata on FDsys
+How to use FDsys sitemaps to crawl for content and metadata
+User Guides for XML on the FDsys Bulk Data Repository
+Information about FDsys metadata

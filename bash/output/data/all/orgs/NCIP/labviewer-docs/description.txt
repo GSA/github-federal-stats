@@ -1,0 +1,1 @@
+LabViewer-docs git repository contains relevant documents to LabViewer web application.

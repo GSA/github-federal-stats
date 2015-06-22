@@ -1,0 +1,42 @@
+[
+  {
+    "login": "vacowallsl-va",
+    "id": 8028973,
+    "avatar_url": "https://avatars.githubusercontent.com/u/8028973?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vacowallsl-va",
+    "html_url": "https://github.com/vacowallsl-va",
+    "followers_url": "https://api.github.com/users/vacowallsl-va/followers",
+    "following_url": "https://api.github.com/users/vacowallsl-va/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vacowallsl-va/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vacowallsl-va/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vacowallsl-va/subscriptions",
+    "organizations_url": "https://api.github.com/users/vacowallsl-va/orgs",
+    "repos_url": "https://api.github.com/users/vacowallsl-va/repos",
+    "events_url": "https://api.github.com/users/vacowallsl-va/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vacowallsl-va/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  },
+  {
+    "login": "vaslawter",
+    "id": 10730118,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10730118?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vaslawter",
+    "html_url": "https://github.com/vaslawter",
+    "followers_url": "https://api.github.com/users/vaslawter/followers",
+    "following_url": "https://api.github.com/users/vaslawter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vaslawter/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vaslawter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vaslawter/subscriptions",
+    "organizations_url": "https://api.github.com/users/vaslawter/orgs",
+    "repos_url": "https://api.github.com/users/vaslawter/repos",
+    "events_url": "https://api.github.com/users/vaslawter/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vaslawter/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

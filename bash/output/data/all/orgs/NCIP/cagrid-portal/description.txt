@@ -1,0 +1,1 @@
+The caGrid-portal repository provides a visualization of caGrid services. It includes the open source Liferay portal container, and several Java JSR-compliant portlets to query and invoke grid services

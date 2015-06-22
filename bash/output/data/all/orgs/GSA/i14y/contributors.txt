@@ -1,0 +1,22 @@
+[
+  {
+    "login": "loren",
+    "id": 42840,
+    "avatar_url": "https://avatars.githubusercontent.com/u/42840?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/loren",
+    "html_url": "https://github.com/loren",
+    "followers_url": "https://api.github.com/users/loren/followers",
+    "following_url": "https://api.github.com/users/loren/following{/other_user}",
+    "gists_url": "https://api.github.com/users/loren/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/loren/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/loren/subscriptions",
+    "organizations_url": "https://api.github.com/users/loren/orgs",
+    "repos_url": "https://api.github.com/users/loren/repos",
+    "events_url": "https://api.github.com/users/loren/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/loren/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 56
+  }
+]

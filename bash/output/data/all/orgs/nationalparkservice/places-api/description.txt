@@ -1,0 +1,1 @@
+An API, written in node as express middleware, built to work with the OSM API database schema. Used internally by Places.

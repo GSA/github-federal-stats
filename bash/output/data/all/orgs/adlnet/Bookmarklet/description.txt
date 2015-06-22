@@ -1,0 +1,1 @@
+This bookmarklet sample is used to report informal learning to a Learning Record Store (LRS) using the Experience API (\

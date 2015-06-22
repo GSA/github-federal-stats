@@ -1,0 +1,22 @@
+[
+  {
+    "login": "Ed-at-GSA",
+    "id": 11926306,
+    "avatar_url": "https://avatars.githubusercontent.com/u/11926306?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Ed-at-GSA",
+    "html_url": "https://github.com/Ed-at-GSA",
+    "followers_url": "https://api.github.com/users/Ed-at-GSA/followers",
+    "following_url": "https://api.github.com/users/Ed-at-GSA/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Ed-at-GSA/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Ed-at-GSA/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Ed-at-GSA/subscriptions",
+    "organizations_url": "https://api.github.com/users/Ed-at-GSA/orgs",
+    "repos_url": "https://api.github.com/users/Ed-at-GSA/repos",
+    "events_url": "https://api.github.com/users/Ed-at-GSA/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Ed-at-GSA/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 85
+  }
+]

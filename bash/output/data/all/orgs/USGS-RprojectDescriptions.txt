@@ -1,0 +1,46 @@
+This R package is designed to obtain its water quality sample data, streamflow data, and metadata directly from either the USGS  or EPA, as well as user-supplied text files.
+R tools for geo-web processing of gridded data via the Geo Data Portal. geoknife slices up gridded data according to overlap with irregular features, such as watersheds, lakes, points, etc.
+Tools for interacting with the General Lake Model (GLM) in R
+Tools for interfacing R with ScienceBase data services
+An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season (WRTDS)
+Calculates Hydrologic Indicator stats and fundamental properties of daily streamflow for a given set of data
+sensorQC is a flexible framework for QAQCing high-frequency data for a continuously evolving catalogue of sensors
+Graphical USGS water science R functions.
+Services for creating coastal change hazards items for the marine.usgs.gov/coastalchangehazardsportal
+Base USGS water science R functions.
+Statistic USGS water science R functions.
+Splash page for USGS-R organization
+backend tools for powstreams
+
+A set of tools to process Acoustic Doppler Velocimeter data into estimates of the gas transfer velocity (k). 
+Instantaneous rainfall data processing for defining event periods, determination of antecedent rainfall conditions and X-hr intensities. Provides graphical display of instantaneous rainfall with event periods and hydrographs.
+Collection of functions to simplify data retrieval, model creation, and model analysis of censored surrogate regressions.
+Water quality USGS water science R functions.
+Tools for soil moisture data retrieval and visualization
+
+Tools for Powell Center working group on stream metabolism
+
+Introduction material for USGS-R water users.
+
+Scripts and report generator
+lake temperature data package for GLTC
+
+Collection of questions and answers about using R within the USGS.
+Time-series Observation Model
+Data sets as data.frames and as text files for examples in the USGS core pacakges
+Tools for hydrologic optical analysis
+
+USGS water science R functions for LOAD ESTimation of constituents in rivers and streams.
+Initial code for studying ToxCast data in relation to measured concentrations.
+report generation in R
+stream metabolism R package
+Wisconsin Lake Modeling Aggregation
+Tools for the Geological survey R Archive Network
+
+
+Compilation of tools to aid in hydrologic and water quality analysis.
+package for use in splitting flow-weighted samples
+The static content for owi.usgs.gov/R
+A geospatial water feature package for USGS data
+plotting foundation for timeseries reporting
+NetCDF Discrete Sampling Geometry package for R

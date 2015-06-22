@@ -1,0 +1,1 @@
+A component of API Umbrella. The router provides the necessary configuration to join together API Umbrealla Gatekeeper with other open source proxies.

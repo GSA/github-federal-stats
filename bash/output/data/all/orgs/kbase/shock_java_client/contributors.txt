@@ -1,0 +1,42 @@
+[
+  {
+    "login": "MrCreosote",
+    "id": 1686141,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1686141?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MrCreosote",
+    "html_url": "https://github.com/MrCreosote",
+    "followers_url": "https://api.github.com/users/MrCreosote/followers",
+    "following_url": "https://api.github.com/users/MrCreosote/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MrCreosote/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MrCreosote/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MrCreosote/subscriptions",
+    "organizations_url": "https://api.github.com/users/MrCreosote/orgs",
+    "repos_url": "https://api.github.com/users/MrCreosote/repos",
+    "events_url": "https://api.github.com/users/MrCreosote/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MrCreosote/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 49
+  },
+  {
+    "login": "indiagordon",
+    "id": 7736202,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7736202?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/indiagordon",
+    "html_url": "https://github.com/indiagordon",
+    "followers_url": "https://api.github.com/users/indiagordon/followers",
+    "following_url": "https://api.github.com/users/indiagordon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/indiagordon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/indiagordon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/indiagordon/subscriptions",
+    "organizations_url": "https://api.github.com/users/indiagordon/orgs",
+    "repos_url": "https://api.github.com/users/indiagordon/repos",
+    "events_url": "https://api.github.com/users/indiagordon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/indiagordon/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

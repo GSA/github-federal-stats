@@ -1,0 +1,9 @@
+Global Change Information System
+Ontology for the Global Change Information System
+Compare contents between instances of the Global Change Information System
+GCIS QA tests
+GCIS Python Client
+
+GCIS RDF import scripts
+Perl GCIS Client
+GCIS synchronization modules

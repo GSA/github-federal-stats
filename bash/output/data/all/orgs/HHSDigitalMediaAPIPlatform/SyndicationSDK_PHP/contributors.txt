@@ -1,0 +1,42 @@
+[
+  {
+    "login": "dnarkiewicz",
+    "id": 4965711,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4965711?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dnarkiewicz",
+    "html_url": "https://github.com/dnarkiewicz",
+    "followers_url": "https://api.github.com/users/dnarkiewicz/followers",
+    "following_url": "https://api.github.com/users/dnarkiewicz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dnarkiewicz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dnarkiewicz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dnarkiewicz/subscriptions",
+    "organizations_url": "https://api.github.com/users/dnarkiewicz/orgs",
+    "repos_url": "https://api.github.com/users/dnarkiewicz/repos",
+    "events_url": "https://api.github.com/users/dnarkiewicz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dnarkiewicz/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 42
+  },
+  {
+    "login": "ednark",
+    "id": 600683,
+    "avatar_url": "https://avatars.githubusercontent.com/u/600683?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ednark",
+    "html_url": "https://github.com/ednark",
+    "followers_url": "https://api.github.com/users/ednark/followers",
+    "following_url": "https://api.github.com/users/ednark/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ednark/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ednark/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ednark/subscriptions",
+    "organizations_url": "https://api.github.com/users/ednark/orgs",
+    "repos_url": "https://api.github.com/users/ednark/repos",
+    "events_url": "https://api.github.com/users/ednark/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ednark/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 23
+  }
+]

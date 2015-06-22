@@ -1,0 +1,22 @@
+[
+  {
+    "login": "samuelkgutierrez",
+    "id": 987639,
+    "avatar_url": "https://avatars.githubusercontent.com/u/987639?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/samuelkgutierrez",
+    "html_url": "https://github.com/samuelkgutierrez",
+    "followers_url": "https://api.github.com/users/samuelkgutierrez/followers",
+    "following_url": "https://api.github.com/users/samuelkgutierrez/following{/other_user}",
+    "gists_url": "https://api.github.com/users/samuelkgutierrez/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/samuelkgutierrez/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/samuelkgutierrez/subscriptions",
+    "organizations_url": "https://api.github.com/users/samuelkgutierrez/orgs",
+    "repos_url": "https://api.github.com/users/samuelkgutierrez/repos",
+    "events_url": "https://api.github.com/users/samuelkgutierrez/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/samuelkgutierrez/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 40
+  }
+]

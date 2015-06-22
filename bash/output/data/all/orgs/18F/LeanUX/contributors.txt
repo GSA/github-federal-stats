@@ -1,0 +1,22 @@
+[
+  {
+    "login": "brethauer",
+    "id": 7635133,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7635133?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/brethauer",
+    "html_url": "https://github.com/brethauer",
+    "followers_url": "https://api.github.com/users/brethauer/followers",
+    "following_url": "https://api.github.com/users/brethauer/following{/other_user}",
+    "gists_url": "https://api.github.com/users/brethauer/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/brethauer/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/brethauer/subscriptions",
+    "organizations_url": "https://api.github.com/users/brethauer/orgs",
+    "repos_url": "https://api.github.com/users/brethauer/repos",
+    "events_url": "https://api.github.com/users/brethauer/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/brethauer/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 7
+  }
+]

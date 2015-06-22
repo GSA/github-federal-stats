@@ -1,0 +1,1 @@
+Trick Simulation Environment. Trick provides a common set of simulation capabilities and utilities to build simulations automatically.

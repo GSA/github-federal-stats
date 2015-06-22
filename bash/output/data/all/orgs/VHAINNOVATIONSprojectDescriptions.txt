@@ -1,0 +1,24 @@
+Infobuttons are context-sensitive links embedded in the electronic health record (EHR). They use clinical context information from the EHR, such as patient demographics, medications, diagnoses, user role, and clinical setting to help find answers to clinicians' and patients' questions using online health information resources. 
+The Mental Healh eScreening (MHE) project gives the VA OEF/OIF, mental health, and primary care communities the ability to automate collection and scoring of screening instruments in order to improve efficiency in treating patients
+The Chemotherapy Ordering Management System (COMS) is a web-based application providing oncology teams with ordering, preparation, and documentation of chemotherapy
+Radiology Protocol Tool Recorder (RAPTOR) is an automated, electronic tool allowing radiologists to optimize advanced medical imaging protocols
+Alert Watch And Respond Engine (AWARE) is an automated tool enabling clinicians, supervisors, and administrations to monitor and track alert responses in CPRS
+eHMP ADK and Applets; a Single Page Application (SPA) written with Marionette/Backbone.js for implementing a VistA EHR User Interface
+The VA After Visit Summary (AVS) is designed to automatically capture data from CPRS including visit information, orders, instructions and more, and reformat the information into a patient-centered, clinic discharge summary for veteran outpatients in an easy to understand format
+Family History in CPRS is an enhancement to the VA's Computerized Patient Record System GUI application that adds the ability to enter a patient's family history data.
+This application stores and forwards reviews of anatomical pathology images for primary diagnosis and consultive services
+Phonak - Hearing Aid App: a solution enabling patients to receive hearing aid adjustments remotely via a Bluetooth, Internet-enabled smartphone. 
+This purpose of this project is to increase enrollment in MyHealtheVet (MHV)
+The Daily Plan was found to increase patient safety during hospitalization. By importing provider orders into a health summary, patients receive an itinerary for each day in the hospital. These patient-specific reports, one or two pages in length, reflect current orders such as allergies, medications, procedures, and diet.
+An enhancement of CPRS/VistA, the “Maternity Tracker”, assists the coordination of maternity care in a seamless fashion between VA and Non-VA providers, in order to support optimal care of pregnant Veterans.
+The Pre-Procedural Checklist Tool is a tool that allows multiple authors to work together in completing pre-procedure statuses for patients in VistA
+GE Pressure Ulcer Prevention and Assessment Tools: the proposed multi-modality solution consists of: a portable real-time prevention system for continuous non-intrusive monitoring of patient pose and motion to ensure the periodic performance of repositioning protocols; a handheld assessment probe for comprehensive skin and pressure ulcer characterization to provide effective assessment and progress tracking; and a decision support system for automatic archiving of ulcer characterization and analytics results, as well as the delivery of high-quality evidence-based ulcer care.  
+A web-based application to enable schedulers to preview, edit and send appointment letters electronically
+Enhanced Lab Order Management Menu
+Elom Demo
+The Automated Surgical Risk Calculator for Mortality Innovation is a project to develop a tool from CPRS through the “Tools” drop down that will auto-fill pertinent information into the developed risk calculator.  The Automated Risk Calculator will utilize the generated data and allow for the user to manually input required information to support clinical decision-making regarding perioperative risk.  The tool will then allow for information to be written back to the patients file in CPRS.  In addition, a secondary tool will be created to store and develop a repository for research of risk calculations developed.  
+REVAMP (Remote Veteran Apnea Management Platform) is a personalized, interactive web application designed to improve management of Veterans with obstructive sleep apnea (OSA)
+
+One VA Pharmacy is the development of a prototype that extends the existing Veterans Health Information Systems and Technology Architecture (VistA) to provide pharmacists direct access to any active, refillable prescription from any VA Healthcare System.
+The Donate My Data (DmD) project allows people to volunteer to donate their medical data residing in VistA for use by developers or other projects.  It obfuscates key identifiers to keep the real identity of the record holders data private.
+The Perceptive Reach innovation combines technology, outreach and clinical support to deliver a clinically based data-driven early intervention and treatment solution aimed at suicide prevention

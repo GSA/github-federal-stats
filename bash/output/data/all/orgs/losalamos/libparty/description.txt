@@ -1,0 +1,1 @@
+A general purpose particle library designed to run on next-generation hardware such as MICs and GPUs.

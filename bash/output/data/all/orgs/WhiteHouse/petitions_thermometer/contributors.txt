@@ -1,0 +1,22 @@
+[
+  {
+    "login": "sheldonrampton",
+    "id": 2838758,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2838758?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/sheldonrampton",
+    "html_url": "https://github.com/sheldonrampton",
+    "followers_url": "https://api.github.com/users/sheldonrampton/followers",
+    "following_url": "https://api.github.com/users/sheldonrampton/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sheldonrampton/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/sheldonrampton/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sheldonrampton/subscriptions",
+    "organizations_url": "https://api.github.com/users/sheldonrampton/orgs",
+    "repos_url": "https://api.github.com/users/sheldonrampton/repos",
+    "events_url": "https://api.github.com/users/sheldonrampton/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/sheldonrampton/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

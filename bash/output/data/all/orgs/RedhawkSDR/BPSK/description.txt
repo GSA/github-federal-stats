@@ -1,0 +1,1 @@
+This component performs a BPSK demodulation using a clock (reference) and a data input

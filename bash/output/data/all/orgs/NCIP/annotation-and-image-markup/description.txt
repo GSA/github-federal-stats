@@ -1,0 +1,1 @@
+Annotation and Image Markup (AIM) is the first project to propose and create a standard means of adding information and knowledge to an image in a clinical environment, so that image content can be easily and automatically searched.

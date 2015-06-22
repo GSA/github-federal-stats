@@ -1,0 +1,1 @@
+MGM for version 2.0 is a complete rewrite of manager, replacing several components, and enabling future enhancement.

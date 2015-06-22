@@ -1,0 +1,15 @@
+deliverable from siddaraju for google app integration mini-project
+NMB Coding Standards 
+Various explorations of polymer coding patterns
+New KS incorporates polymer and .docx file text extraction, etc...
+query component for arbitration cases
+a list component for Arbitration case display in the AWS system
+ajax module for arbitrator request page communication
+generic document client in polymer
+sharing files between drive and appengine
+redirect page for the NMB Website
+arbitrator request component for AWS system
+old project example, see upqueue.py
+old data backup system in erlang
+repo for our private pages and templates
+selector from array of objects

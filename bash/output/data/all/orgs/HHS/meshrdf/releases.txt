@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/HHS/meshrdf/releases/1433982",
+    "assets_url": "https://api.github.com/repos/HHS/meshrdf/releases/1433982/assets",
+    "upload_url": "https://uploads.github.com/repos/HHS/meshrdf/releases/1433982/assets{?name}",
+    "html_url": "https://github.com/HHS/meshrdf/releases/tag/meshrdf-0.9",
+    "id": 1433982,
+    "tag_name": "meshrdf-0.9",
+    "target_commitish": "master",
+    "name": "MeSH RDF 0.9 (Beta)",
+    "draft": false,
+    "author": {
+      "login": "danizen",
+      "id": 4966193,
+      "avatar_url": "https://avatars.githubusercontent.com/u/4966193?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/danizen",
+      "html_url": "https://github.com/danizen",
+      "followers_url": "https://api.github.com/users/danizen/followers",
+      "following_url": "https://api.github.com/users/danizen/following{/other_user}",
+      "gists_url": "https://api.github.com/users/danizen/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/danizen/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/danizen/subscriptions",
+      "organizations_url": "https://api.github.com/users/danizen/orgs",
+      "repos_url": "https://api.github.com/users/danizen/repos",
+      "events_url": "https://api.github.com/users/danizen/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/danizen/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2015-06-18T15:59:18Z",
+    "published_at": "2015-06-18T17:24:50Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/HHS/meshrdf/tarball/meshrdf-0.9",
+    "zipball_url": "https://api.github.com/repos/HHS/meshrdf/zipball/meshrdf-0.9",
+    "body": "Please see the [release notes|http://hhs.github.io/meshrdf/release-notes.html]."
+  }
+]

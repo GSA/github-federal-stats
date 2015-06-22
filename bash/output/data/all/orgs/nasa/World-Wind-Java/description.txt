@@ -1,0 +1,1 @@
+World Wind, an open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004. It is now developed by NASA staff and open source community developers.

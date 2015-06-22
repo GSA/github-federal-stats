@@ -1,0 +1,1 @@
+A chef cookbook to install the git 1.8 package from IUS on RHEL systems

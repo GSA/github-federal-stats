@@ -1,0 +1,22 @@
+[
+  {
+    "login": "abirger",
+    "id": 3603740,
+    "avatar_url": "https://avatars.githubusercontent.com/u/3603740?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/abirger",
+    "html_url": "https://github.com/abirger",
+    "followers_url": "https://api.github.com/users/abirger/followers",
+    "following_url": "https://api.github.com/users/abirger/following{/other_user}",
+    "gists_url": "https://api.github.com/users/abirger/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/abirger/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/abirger/subscriptions",
+    "organizations_url": "https://api.github.com/users/abirger/orgs",
+    "repos_url": "https://api.github.com/users/abirger/repos",
+    "events_url": "https://api.github.com/users/abirger/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/abirger/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 7
+  }
+]

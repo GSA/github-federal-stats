@@ -1,0 +1,42 @@
+[
+  {
+    "login": "mplegendre",
+    "id": 4440062,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4440062?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mplegendre",
+    "html_url": "https://github.com/mplegendre",
+    "followers_url": "https://api.github.com/users/mplegendre/followers",
+    "following_url": "https://api.github.com/users/mplegendre/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mplegendre/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mplegendre/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mplegendre/subscriptions",
+    "organizations_url": "https://api.github.com/users/mplegendre/orgs",
+    "repos_url": "https://api.github.com/users/mplegendre/repos",
+    "events_url": "https://api.github.com/users/mplegendre/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mplegendre/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 101
+  },
+  {
+    "login": "dongahn",
+    "id": 862123,
+    "avatar_url": "https://avatars.githubusercontent.com/u/862123?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dongahn",
+    "html_url": "https://github.com/dongahn",
+    "followers_url": "https://api.github.com/users/dongahn/followers",
+    "following_url": "https://api.github.com/users/dongahn/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dongahn/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dongahn/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dongahn/subscriptions",
+    "organizations_url": "https://api.github.com/users/dongahn/orgs",
+    "repos_url": "https://api.github.com/users/dongahn/repos",
+    "events_url": "https://api.github.com/users/dongahn/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dongahn/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 6
+  }
+]

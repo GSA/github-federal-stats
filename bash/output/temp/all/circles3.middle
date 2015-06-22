@@ -1,0 +1,15 @@
+
+
+<div class="circle3 circle" style="margin-right:30px">
+     <strong></strong>
+     <br><br><B>Repositoriesy<br>with Releases</B>     
+</div>
+
+<script>
+
+$('.circle3.circle').circleProgress({
+    value: 5/100,
+}).on('circle-animation-progress', function(event, progress) {
+    $(this).find('strong').html(parseInt(5 * progress) + '<i>%</i>');
+});
+</script>

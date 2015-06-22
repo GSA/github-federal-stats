@@ -1,0 +1,22 @@
+[
+  {
+    "login": "gbinal",
+    "id": 633088,
+    "avatar_url": "https://avatars.githubusercontent.com/u/633088?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gbinal",
+    "html_url": "https://github.com/gbinal",
+    "followers_url": "https://api.github.com/users/gbinal/followers",
+    "following_url": "https://api.github.com/users/gbinal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gbinal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gbinal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gbinal/subscriptions",
+    "organizations_url": "https://api.github.com/users/gbinal/orgs",
+    "repos_url": "https://api.github.com/users/gbinal/repos",
+    "events_url": "https://api.github.com/users/gbinal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gbinal/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 14
+  }
+]

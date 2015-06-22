@@ -1,0 +1,42 @@
+Federal Data SDK built in the Swift programming language.  Follow the link for the documentation:
+iOS SDK to ease access to DOL's and other federal agencies' APIs.  For a list of APIs that this SDK has been tested against, please see the wiki.  For documentation, please see the readme. For sample code, please visit http://usdepartmentoflabor.github.io/iOS-Sample-App/.
+Sample app using the Swift Federal Data SDK.  For documentation and a how-to, see:
+This code illustrates how to create a dashboard that will display graphs using the JIT, FLOT, and jQuery cycle API's in a section of a website.
+A Mac menu bar app that sends a request every 15 minutes to the RESTful web API of your choice and displays a meter and time in ms for the response.
+The data.json for DOL, including the individual data.json files for each of DOL's \"organizations.\"
+Ruby SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://usdepartmentoflabor.github.io/Ruby-Sample-App/.
+Desktop version of the OSHA Heat Safety Tool, created as a proof of concept by the Office of Public Affairs in response to a suggestion from the public. Inside the ZIP file is the compiled app that you can run on your computer (Mac).
+Get the latest economic indicators from BLS & ETA
+A sample app using the federal API SDK for iOS.  For documentation, see http://usdepartmentoflabor.github.io/iOS-Sample-App/
+This is a sample project using the API SDK for iOS that demonstrates how it can be used for non-DOL APIs.  This universal (iPhone & iPad) app displays a list of agencies provided by a GSA-owned web service that the user can then select to view that agency's progress with the digital strategy.  Currently, the only agency list available is a list of all agencies, regardless of whether they're reporting progress on the federal digital strategy (some are agencies within a cabinet department).
+prototype of a modernization of the OSHA Heat Safety App, built in Swift and employing new features, including a 7-day forecast and wind chill warnings.
+The back-end and admin UI code for the next evolution of DOL's open data API.
+Admin interface for APIv2
+A selection of test cases used to test accessibility and Section 508 compliance of mobile applications
+Having trouble using DOL's API?  Feel free to use the issues tab.  If you are having trouble with any of our SDKs, please see their github pages.
+
+PHP SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.
+.Net SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers.
+Consolidates public data listing files (data.json) into one department-wide JSON file
+
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers. 
+Blackberry SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.
+A sample app using the Ruby Federal SDK.  Documentation can be found at http://USDepartmentofLabor.github.io/Ruby-Sample-App.
+A sample app using the federal API SDK for Android.
+This is a timesheet to record the hours that you work and calculate the amount you may be owed by your employer. It also includes overtime pay calculations at a rate of one and one-half times (1.5) the regular rate of pay for all hours you work over 40 in a workweek. This DOL-Timesheet does not handle items such as tips, commissions, bonuses, deductions, holiday pay, pay for weekends, shift differentials, or pay for regular days of rest.
+Get the latest economic indicators from BLS & ETA
+A class that exposes functions that enable common conversions between US (Imperial) and metric measurements
+Java Class that will calculate the heat index
+A Swift object to support the OSHA Heat Safety App
+The solution begins with the question “Was this page helpful,” which captures the feedback from the user about the page that is displayed on the browser. This can be easily integrated in all or desired pages as per the need. Once the data is gathered and stored in database, the data can be viewed in different views by supervisor(s) or administrator(s). This solution can be applied to as many websites as you desire and connect to one or many database(s).
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers.
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers.
+A sample app using the federal API SDK for ColdFusion.
+Sample app and documentation for the PHP Federal SDK.  Documentation can be found at http://usdepartmentoflabor.github.io/PHP-Sample-App
+Sample app and documentation for the Blackberry Federal SDK.
+
+Developer.dol.gov
+SDK to ease access to federal APIs, including DOL's
+
+SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.

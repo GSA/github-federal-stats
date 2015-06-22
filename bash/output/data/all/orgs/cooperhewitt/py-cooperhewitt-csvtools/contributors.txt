@@ -1,0 +1,22 @@
+[
+  {
+    "login": "copea",
+    "id": 7840840,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7840840?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/copea",
+    "html_url": "https://github.com/copea",
+    "followers_url": "https://api.github.com/users/copea/followers",
+    "following_url": "https://api.github.com/users/copea/following{/other_user}",
+    "gists_url": "https://api.github.com/users/copea/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/copea/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/copea/subscriptions",
+    "organizations_url": "https://api.github.com/users/copea/orgs",
+    "repos_url": "https://api.github.com/users/copea/repos",
+    "events_url": "https://api.github.com/users/copea/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/copea/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 7
+  }
+]

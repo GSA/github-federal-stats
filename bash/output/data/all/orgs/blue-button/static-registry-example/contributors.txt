@@ -1,0 +1,22 @@
+[
+  {
+    "login": "jmandel",
+    "id": 313089,
+    "avatar_url": "https://avatars.githubusercontent.com/u/313089?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jmandel",
+    "html_url": "https://github.com/jmandel",
+    "followers_url": "https://api.github.com/users/jmandel/followers",
+    "following_url": "https://api.github.com/users/jmandel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jmandel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jmandel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jmandel/subscriptions",
+    "organizations_url": "https://api.github.com/users/jmandel/orgs",
+    "repos_url": "https://api.github.com/users/jmandel/repos",
+    "events_url": "https://api.github.com/users/jmandel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jmandel/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 38
+  }
+]

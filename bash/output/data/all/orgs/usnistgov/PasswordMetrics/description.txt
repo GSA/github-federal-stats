@@ -1,0 +1,1 @@
+Python code for 1) permuting randomly-generated passwords for easier entry on mobile devices, and 2) for estimating entropy lost as a result of said permutation.

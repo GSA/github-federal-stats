@@ -1,0 +1,1 @@
+Generate static ontology members for IOOS parameters using Maven schemagen plugin

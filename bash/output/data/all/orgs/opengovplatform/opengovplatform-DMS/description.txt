@@ -1,0 +1,1 @@
+Welcome to the Open Government Platform! The full code for OGPL is at https://github.com/opengovplatform/opengovplatform. Below you'll see the first code for the data management system.

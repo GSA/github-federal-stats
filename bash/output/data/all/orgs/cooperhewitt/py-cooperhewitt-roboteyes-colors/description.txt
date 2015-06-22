@@ -1,0 +1,1 @@
+Functions for extracting color palettes from an image.

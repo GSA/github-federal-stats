@@ -1,0 +1,22 @@
+[
+  {
+    "login": "bhwilliamson",
+    "id": 275694,
+    "avatar_url": "https://avatars.githubusercontent.com/u/275694?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bhwilliamson",
+    "html_url": "https://github.com/bhwilliamson",
+    "followers_url": "https://api.github.com/users/bhwilliamson/followers",
+    "following_url": "https://api.github.com/users/bhwilliamson/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bhwilliamson/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bhwilliamson/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bhwilliamson/subscriptions",
+    "organizations_url": "https://api.github.com/users/bhwilliamson/orgs",
+    "repos_url": "https://api.github.com/users/bhwilliamson/repos",
+    "events_url": "https://api.github.com/users/bhwilliamson/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bhwilliamson/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 48
+  }
+]

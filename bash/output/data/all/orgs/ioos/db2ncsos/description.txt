@@ -1,0 +1,1 @@
+scripts to go from database query or time-series files+simple metadata -> hash -> ncSOS/NODC compatible netcdf using file templates

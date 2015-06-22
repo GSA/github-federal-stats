@@ -1,0 +1,22 @@
+[
+  {
+    "login": "ramirezg",
+    "id": 4596845,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4596845?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ramirezg",
+    "html_url": "https://github.com/ramirezg",
+    "followers_url": "https://api.github.com/users/ramirezg/followers",
+    "following_url": "https://api.github.com/users/ramirezg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ramirezg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ramirezg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ramirezg/subscriptions",
+    "organizations_url": "https://api.github.com/users/ramirezg/orgs",
+    "repos_url": "https://api.github.com/users/ramirezg/repos",
+    "events_url": "https://api.github.com/users/ramirezg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ramirezg/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 29
+  }
+]

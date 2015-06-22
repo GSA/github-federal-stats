@@ -1,0 +1,1 @@
+A component of API Umbrella. The web component provides the website frontend and web admin tool.

@@ -1,0 +1,42 @@
+[
+  {
+    "login": "abencomo",
+    "id": 7515273,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7515273?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/abencomo",
+    "html_url": "https://github.com/abencomo",
+    "followers_url": "https://api.github.com/users/abencomo/followers",
+    "following_url": "https://api.github.com/users/abencomo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/abencomo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/abencomo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/abencomo/subscriptions",
+    "organizations_url": "https://api.github.com/users/abencomo/orgs",
+    "repos_url": "https://api.github.com/users/abencomo/repos",
+    "events_url": "https://api.github.com/users/abencomo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/abencomo/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 165
+  },
+  {
+    "login": "robert-nado",
+    "id": 7596948,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7596948?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/robert-nado",
+    "html_url": "https://github.com/robert-nado",
+    "followers_url": "https://api.github.com/users/robert-nado/followers",
+    "following_url": "https://api.github.com/users/robert-nado/following{/other_user}",
+    "gists_url": "https://api.github.com/users/robert-nado/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/robert-nado/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/robert-nado/subscriptions",
+    "organizations_url": "https://api.github.com/users/robert-nado/orgs",
+    "repos_url": "https://api.github.com/users/robert-nado/repos",
+    "events_url": "https://api.github.com/users/robert-nado/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/robert-nado/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  }
+]

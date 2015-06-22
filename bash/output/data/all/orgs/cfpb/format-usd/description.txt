@@ -1,0 +1,1 @@
+Convert a number or string to a USD-formatted string

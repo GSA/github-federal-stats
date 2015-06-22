@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/GSA/ckanext-googleanalyticsbasic/releases/1086764",
+    "assets_url": "https://api.github.com/repos/GSA/ckanext-googleanalyticsbasic/releases/1086764/assets",
+    "upload_url": "https://uploads.github.com/repos/GSA/ckanext-googleanalyticsbasic/releases/1086764/assets{?name}",
+    "html_url": "https://github.com/GSA/ckanext-googleanalyticsbasic/releases/tag/Release1.27",
+    "id": 1086764,
+    "tag_name": "Release1.27",
+    "target_commitish": "master",
+    "name": "Release 1.27",
+    "draft": false,
+    "author": {
+      "login": "ykhadilkar-rei",
+      "id": 3237208,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3237208?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ykhadilkar-rei",
+      "html_url": "https://github.com/ykhadilkar-rei",
+      "followers_url": "https://api.github.com/users/ykhadilkar-rei/followers",
+      "following_url": "https://api.github.com/users/ykhadilkar-rei/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ykhadilkar-rei/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ykhadilkar-rei/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ykhadilkar-rei/subscriptions",
+      "organizations_url": "https://api.github.com/users/ykhadilkar-rei/orgs",
+      "repos_url": "https://api.github.com/users/ykhadilkar-rei/repos",
+      "events_url": "https://api.github.com/users/ykhadilkar-rei/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ykhadilkar-rei/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2015-03-16T22:46:36Z",
+    "published_at": "2015-03-24T21:49:43Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/GSA/ckanext-googleanalyticsbasic/tarball/Release1.27",
+    "zipball_url": "https://api.github.com/repos/GSA/ckanext-googleanalyticsbasic/zipball/Release1.27",
+    "body": ""
+  }
+]

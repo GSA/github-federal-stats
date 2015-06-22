@@ -1,0 +1,1 @@
+Allows you to tap into a list of current jobs openings with federal, state, and local government agencies. Jobs are searchable by keyword, location, agency, schedule, or any combination of these.

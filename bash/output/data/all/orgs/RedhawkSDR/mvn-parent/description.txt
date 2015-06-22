@@ -1,0 +1,1 @@
+This parent pom is used when performing a Maven/Tycho build of the REDHAWK IDE.

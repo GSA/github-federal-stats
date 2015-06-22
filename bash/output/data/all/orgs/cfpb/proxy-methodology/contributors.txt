@@ -1,0 +1,42 @@
+[
+  {
+    "login": "Scotchester",
+    "id": 1044670,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1044670?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Scotchester",
+    "html_url": "https://github.com/Scotchester",
+    "followers_url": "https://api.github.com/users/Scotchester/followers",
+    "following_url": "https://api.github.com/users/Scotchester/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Scotchester/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Scotchester/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Scotchester/subscriptions",
+    "organizations_url": "https://api.github.com/users/Scotchester/orgs",
+    "repos_url": "https://api.github.com/users/Scotchester/repos",
+    "events_url": "https://api.github.com/users/Scotchester/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Scotchester/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 10
+  },
+  {
+    "login": "josephremy",
+    "id": 8517444,
+    "avatar_url": "https://avatars.githubusercontent.com/u/8517444?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/josephremy",
+    "html_url": "https://github.com/josephremy",
+    "followers_url": "https://api.github.com/users/josephremy/followers",
+    "following_url": "https://api.github.com/users/josephremy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/josephremy/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/josephremy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/josephremy/subscriptions",
+    "organizations_url": "https://api.github.com/users/josephremy/orgs",
+    "repos_url": "https://api.github.com/users/josephremy/repos",
+    "events_url": "https://api.github.com/users/josephremy/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/josephremy/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

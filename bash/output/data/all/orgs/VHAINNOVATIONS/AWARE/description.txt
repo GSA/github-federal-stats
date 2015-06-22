@@ -1,0 +1,1 @@
+Alert Watch And Respond Engine (AWARE) is an automated tool enabling clinicians, supervisors, and administrations to monitor and track alert responses in CPRS

@@ -1,0 +1,22 @@
+[
+  {
+    "login": "hahnemann",
+    "id": 1313217,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1313217?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hahnemann",
+    "html_url": "https://github.com/hahnemann",
+    "followers_url": "https://api.github.com/users/hahnemann/followers",
+    "following_url": "https://api.github.com/users/hahnemann/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hahnemann/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hahnemann/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hahnemann/subscriptions",
+    "organizations_url": "https://api.github.com/users/hahnemann/orgs",
+    "repos_url": "https://api.github.com/users/hahnemann/repos",
+    "events_url": "https://api.github.com/users/hahnemann/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hahnemann/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

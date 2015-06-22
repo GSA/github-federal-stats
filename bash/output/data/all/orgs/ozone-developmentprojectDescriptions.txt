@@ -1,0 +1,36 @@
+Pluggable map capability
+The Inter-Widget Communication used by the Ozone Platform
+OZONE Platform Web Desktop
+Application Search and Discovery
+Guidelines, standards and documentation for OZONE Platform
+OZONE Platform RESTful API Controller
+Set of applications, webtops, and other components for demoing the Ozone Platform
+A collection of Vagrant configurations for build and deployment
+Ansible playbooks for aid in deploying the ozone platform.
+Public website for all Ozone products (OWF and OZP)
+OZONE Heads-up Display
+OZONE Platform Center UI
+Provides an adapter from the OWF7 Widget Javascript to the OZP-IWC bus.
+An all-in-one example of IWC hosting server with a sample database and sample application.
+An advanced tool and user interface allowing super users and developers to, at a minimum, assemble widgets into dashboards.
+An example application using a remotely hosted IWC Bus, deployable using node.js & grunt.
+OZONE Platform JVM RESTful API Controller
+A simple utility for testing basic features of IWC
+
+
+
+Repository to submit and track OZP community request for review and prioritization by the OZP team
+Piwik plugin to enable non-superusers to create and manage their own website metrics
+Angular wrappers for the IWC
+Interactive Helper for OZP
+This repo will house the jmeter scripts for testing the REST controllers.
+A piwik plugin to support use of client certificates checked against an authorization server.
+
+Repository containing React.js and Reflux.js components which are shared by the center-ui and hud-ui projects.
+A refactor of the OWF 7.0 backend.
+OZP Gatling Scripts
+A set of utilities handling injection of security banners into an HTML page
+A common toolbar for use on Webtop, Center and HUD
+A piwik plugin to allow for automatically login to the web interface with client certificates
+Icon set for Ozone
+The mock endpoints and JSON Schemas for OZP data types.

@@ -1,0 +1,58 @@
+the all new clean and UI callback enabled app formerly known as Kepler (AKA pollen-planets)
+Cooper Hewitt: The Typeface created by Chester Jenkins
+Cooper-Hewitt's Collection Database
+A proof-of-concept Chromecast application for web-based signage in museums
+It's full of planets!
+palette-server is a small little WSGI-compliant httpony to extract colours from an image.
+Who's on first?
+The timeline’s goal is to visualize an individual object’s history relative to the velocity of major events that define the larger collection.
+get set up with your own Elasticsearch instance for searching the Cooper Hewitt's collection
+Cooper Hewitt's Python tools for wrangling colours
+frontend tools for working with images
+work in progress for doing fun things with our images
+A simple Flask-based HTTPony for processing file uploads with Tesseract and extracting accession numbers.
+
+These are the people in the Cooper-Hewitt collection
+Drop-in code and libraries for using elasticsearch in a Flamework project
+
+a little httpony to calculate the shannon entropy for an image
+A very simple WSGI-compliant HTTPony for doing IP lookups.
+Tools for talking to and working with TMS data
+Python bindings for the Cooper-Hewitt collections API
+
+There are many wrappers for the Slack API. This one is ours.
+its our API, on your phone
+@micahwalter as a service
+Tools for working with museum collections.
+it's for downloading things
+get your csv
+a little node module to call into the Cooper-Hewitt API
+Go libraries and utilities for working with Unicode character data.
+Listen to a Redis PubSub chanhel and then rebroadcast over WebSockets.
+Data. To ask: Who's on first?
+an early experiment
+Tools for working with Unicode data
+takes two images and returns a set of comparison metrics
+Cooper-Hewitt's Python library for reading and writing CSV files and managing (most of) the Unicode pain.
+A simple Flask-based HTTP pony server to dither images.
+A simple Flask-based HTTP pony server for doing colour extraction.
+Utility functions for Flask apps
+Tools. For Dates. And times.
+Functions for calculating and deriving properties for an image using Shannon entropy.
+Functions for extracting color palettes from an image.
+Drop-in code and libraries to use the Cooper-Hewitt API in your Flamework projects.
+
+Go wrapper for the Cooper Hewitt API
+Tools for working with Gearman
+
+Functions for generating black and white images using Bill Atkinson's dithering algorithm.
+Simple drop-in library code for calling the Wikipedia API from a Flamework project.
+
+
+Meta package to install all the Cooper Hewitt computer vision libraries.
+A simple Flask-based HTTP pony to lookup Unicode character names for a string.
+
+A simple Flask-based HTTP pony server for extracting \"Shannon-related\" properties from images.
+Base class for flamework-api derived API classes
+a little thing to grab a new artisanal int
+Tools for working with memcache

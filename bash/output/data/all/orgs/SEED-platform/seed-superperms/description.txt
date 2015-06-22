@@ -1,0 +1,1 @@
+Expanded permissions handling for SEED
