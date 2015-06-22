@@ -1,1 +1,0 @@
-Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies

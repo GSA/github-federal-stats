@@ -1,1 +1,0 @@
-A service for assisting in mapping external ids to kbase ids.

@@ -1,1 +1,0 @@
-The caDSR Object Cart application provides shopping cart-type operations for caDSR data objects.

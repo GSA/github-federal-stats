@@ -1,1 +1,0 @@
-MVP offers a method for extracting 3D that utilizes all views of the terrain, not just pair-wise combinations.

@@ -1,1 +1,0 @@
-The NCI EVS Mapping Tool supports mapping between term lists, value sets, terminology subsets, or whole terminologies using a mix of automated and manual methods. This initial prototype release is used internally by EVS, but will need further development to reach a broader user community.

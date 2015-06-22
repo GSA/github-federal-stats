@@ -1,1 +1,0 @@
-The Peace Corps Countries & Regions REST API provides read-only access and currently supports JSON data format. Developers, designers, engineers, and partners are all encouraged to leverage the Peace Corps Countries & Regions API to build innovative tools and/or creatively share this data.

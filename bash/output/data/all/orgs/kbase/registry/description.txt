@@ -1,1 +1,0 @@
-The registry service provides a service registry for Services. This deploys both the client and the service.

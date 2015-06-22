@@ -1,1 +1,0 @@
-The caGrid2 project includes enhancements to the caGrid core services to support WS* and SHA2, which enables the National Cancer Informatics Platform's interoperability strategy.

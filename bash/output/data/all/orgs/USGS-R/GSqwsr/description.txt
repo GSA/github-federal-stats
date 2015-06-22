@@ -1,1 +1,0 @@
-Collection of functions to simplify data retrieval, model creation, and model analysis of censored surrogate regressions.

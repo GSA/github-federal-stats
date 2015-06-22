@@ -1,1 +1,0 @@
-The Cancer Clinical Information Suite (caCIS) project contains the middleware components that allow source system to transmit the clinical data to the recipient systems using different transmission formats as well as protocols.

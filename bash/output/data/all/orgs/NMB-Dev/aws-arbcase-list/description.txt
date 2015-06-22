@@ -1,1 +1,0 @@
-a list component for Arbitration case display in the AWS system

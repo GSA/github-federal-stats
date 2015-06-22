@@ -1,1 +1,0 @@
-WIP: Team standards for implementing website and API analytics.

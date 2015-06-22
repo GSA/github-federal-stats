@@ -1,1 +1,0 @@
-A service that will resize images based on requirements

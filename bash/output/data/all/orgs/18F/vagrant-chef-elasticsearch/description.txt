@@ -1,1 +1,0 @@
-A simple Vagrant setup to get you started with running Elasticsearch

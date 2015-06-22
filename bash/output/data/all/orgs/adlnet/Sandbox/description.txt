@@ -1,1 +1,0 @@
-The Virtual World Sandbox provides multiplayer simulation and collaborative authoring capabilities in a web browser without plugins.

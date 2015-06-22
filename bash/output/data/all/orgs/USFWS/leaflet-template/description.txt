@@ -1,1 +1,0 @@
-A web mapping template built with Leaflet.js

@@ -1,1 +1,0 @@
-This is caCORE SDK pre 4.1.1 version repository. These releases are not being supported. Please visit cacore-sdk repository for current development.

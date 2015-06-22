@@ -1,1 +1,0 @@
-Embed a Virtual World Sandbox instance into an edX course

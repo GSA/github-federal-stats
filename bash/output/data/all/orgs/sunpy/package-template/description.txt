@@ -1,1 +1,0 @@
-The Affiliated Package template for SunPy. Lovingly borrowed from astropy/package-template.

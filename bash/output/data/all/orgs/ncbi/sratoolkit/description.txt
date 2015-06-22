@@ -1,1 +1,0 @@
-SRAToolkit has been REPLACED - see README

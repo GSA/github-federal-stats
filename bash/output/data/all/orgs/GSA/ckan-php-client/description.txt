@@ -1,1 +1,0 @@
-A PHP client for the CKAN data catalog

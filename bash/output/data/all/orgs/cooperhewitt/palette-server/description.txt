@@ -1,1 +1,0 @@
-palette-server is a small little WSGI-compliant httpony to extract colours from an image.

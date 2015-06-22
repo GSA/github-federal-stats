@@ -1,1 +1,0 @@
-A Tool to help import the content of the Learning Registry into a data store of your choice

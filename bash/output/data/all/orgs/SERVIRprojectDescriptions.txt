@@ -1,8 +1,0 @@
-Example of clipping, zipping and shipping SERVIR sourced vector and raster data.
-General purpose browser for TRMM data with the ability to create custom time composites.
-
-Processes incoming fire data from NASA and uses geofencing to trigger SMS messages from FrontlineSMS. 
-
-Scripts to access and compile near real time NASA satellite data into ArcGIS Server time-enabled map services
-Scripts for calculating TRMM composites from custom time paramaters
-

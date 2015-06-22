@@ -1,1 +1,0 @@
-Generates a subset of a relational database that respects foreign key constraints

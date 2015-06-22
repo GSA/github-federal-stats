@@ -1,1 +1,0 @@
-A Java package, nominally built in NetBeans, that allows use of DAVE-ML simulation models within tools such as Mathwork's Simulink(R) and Matlab(R) products

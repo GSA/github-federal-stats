@@ -1,1 +1,0 @@
-The Pre-Procedural Checklist Tool is a tool that allows multiple authors to work together in completing pre-procedure statuses for patients in VistA

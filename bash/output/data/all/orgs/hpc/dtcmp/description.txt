@@ -1,1 +1,0 @@
-Datatype Compare (DTCMP) Library for sorting and ranking distributed data using MPI

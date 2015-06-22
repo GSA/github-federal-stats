@@ -1,1 +1,0 @@
-The invocation service provides remote invocation of commands. A java script browser client for interactive remote invocation (IRIS) is included. This deploys the client, service and javascript web application.

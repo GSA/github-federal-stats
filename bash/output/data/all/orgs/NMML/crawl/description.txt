@@ -1,1 +1,0 @@
-R package for modeling animal movement with continuous-time correlated random walk models

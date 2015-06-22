@@ -1,1 +1,0 @@
-Guidance on transitioning from a SCORM environment to a TLA environment

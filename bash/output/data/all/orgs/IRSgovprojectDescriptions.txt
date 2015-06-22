@@ -1,3 +1,0 @@
-The IDES Data Preparation .NET project repository demonstrates a sample working application developed using .NET Framework.  
-The IDES Data Preparation Java project repository demonstrates a sample working application developed using Java. 
-The IDES Data Preparation OpenSSL project repository demonstrates commands to decrypt notifications received from IDES.

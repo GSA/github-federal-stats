@@ -1,1 +1,0 @@
-APIWrapper.js file commonly used with SCORM with xAPI calls embedded

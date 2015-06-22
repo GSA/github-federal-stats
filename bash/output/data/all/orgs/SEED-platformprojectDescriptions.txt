@@ -1,3 +1,0 @@
-Standard Energy Efficiency Data Platform
-Expanded permissions handling for SEED
-File import utility for SEED – Map Clean Merge

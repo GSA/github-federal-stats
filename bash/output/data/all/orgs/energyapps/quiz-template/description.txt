@@ -1,1 +1,0 @@
-Quiz Template, where we build the css and dom

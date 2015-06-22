@@ -1,8 +1,0 @@
-Virtual World Framework
-A game designed to teach STEM concepts to high school students under the ADL True Game-based Learning project.
-Public website of the Virtual World Framework project.
-Example VWF applications. 
-Pong implemented in the Virtual World Framework.
-Bootstrap script for the VWF website.
-Source art files for the mars-game repo
-VWF downloads website.

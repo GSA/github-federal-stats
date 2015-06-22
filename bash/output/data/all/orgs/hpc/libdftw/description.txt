@@ -1,1 +1,0 @@
-A distributed and decentralized filesystem treewalk function, similiar to the interface of linux's ftw(3). libdftw automatically and dynamically balances the treewalk workload across many nodes in a large distributed system.

@@ -1,1 +1,0 @@
-A collection of compressed files with each file containing a cFE port to a specific platform.

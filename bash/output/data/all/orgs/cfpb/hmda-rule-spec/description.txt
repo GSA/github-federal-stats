@@ -1,1 +1,0 @@
-Language-agnostic rule specification for the HMDA file specification and edit checks.

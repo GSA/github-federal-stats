@@ -1,1 +1,0 @@
-The Leo framework - The VINCI-developed Natural Language Processing(NLP) infrastructure using UIMA.

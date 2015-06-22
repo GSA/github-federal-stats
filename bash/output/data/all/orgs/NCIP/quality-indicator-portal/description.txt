@@ -1,1 +1,0 @@
-Quality Indicator (QI) Portal allows users to submit and retrieve quality data for biospecimens.

@@ -1,1 +1,0 @@
-Machine-readable schema for describing action items within the president's digital strategy, and for reporting on its progress

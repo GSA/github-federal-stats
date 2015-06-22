@@ -1,1 +1,0 @@
-pyfpds is a python wrapper around the FPDS ATOM feed

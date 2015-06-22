@@ -1,1 +1,0 @@
-The awe_service repository provides KBase release engineering tools for the deployment of the AWE client and server. The AWE repository is included as a submodule in the awe_service repository and is maintained at http://github.com/MG-RAST/AWE.

@@ -1,1 +1,0 @@
-iPhone App for caGrid is an application to access services and data on caGrid and a Grid Summary Service to maintain grid information in support of the app.

@@ -1,1 +1,0 @@
-The Re-Usability Support System for eLearning (RUSSEL) is an open-source software project to manage and repurpose courses, documents and multimedia assets.

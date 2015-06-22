@@ -1,1 +1,0 @@
-The Learning Registry Wordpress Plugin is packaged with a collection of widgets that makes it easy to retrieve Learning Registry resources by subject, national standard, or by arbitrary search terms on any Wordpress powered website.

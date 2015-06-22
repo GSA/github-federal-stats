@@ -1,1 +1,0 @@
-a graphical user interface for publishing to the learning registry

@@ -1,1 +1,0 @@
-Yeoman generator for Capital Framework

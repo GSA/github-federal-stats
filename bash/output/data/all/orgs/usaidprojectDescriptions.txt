@@ -1,5 +1,0 @@
-Do you have ideas or requests on how to use or improve USAID's APIs or the data we've opened at usaid.gov/data? Click on the \"issues\" tab to start a discussion.
-USAID Latin America and Caribbean Open Data Hackathon 2015
-The Kathmandu Tracing Guide, developed by USAID's GeoCenter for training purposes and hosted on Github for more easily editable and mobile devices.
-Meeting notes from the Ebola Working Group
-

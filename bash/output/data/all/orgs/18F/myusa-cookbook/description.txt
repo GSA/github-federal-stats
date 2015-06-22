@@ -1,1 +1,0 @@
-Chef cookbook to install and configure MyUSA

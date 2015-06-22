@@ -1,9 +1,0 @@
-Open Data Policy — Managing Information as an Asset
-Turns a Database into a Secure, RESTful API
-this repo is an ESRI toolbox and tool(s) that export ESRI Feature Classes to open data formats, CSV, JSON, and GeoJSON
-Proof of concept to dynamically generate RESTful APIs from static CSVs
-G8 Metadata Mapping
-Validates JSON files
-A multi-format tool to generate and maintain agency.gov/data catalog files.
-A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities. 
-

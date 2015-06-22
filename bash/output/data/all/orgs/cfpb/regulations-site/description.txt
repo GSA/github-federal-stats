@@ -1,1 +1,0 @@
-All the code to present display regulations on the web.

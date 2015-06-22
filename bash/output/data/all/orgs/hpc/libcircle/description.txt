@@ -1,1 +1,0 @@
-An API to provide an efficient distributed queue on a cluster. Libcircle is currently used in production to quickly traverse and perform operations on a file tree which contains several hundred-million file nodes.

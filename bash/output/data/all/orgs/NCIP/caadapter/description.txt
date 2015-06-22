@@ -1,1 +1,0 @@
-caAdapter provides model mapping, data mapping and transformation services among data sources like HL7 and Regulatory Data Sets.

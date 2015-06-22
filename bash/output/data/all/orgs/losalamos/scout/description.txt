@@ -1,1 +1,0 @@
-Scout -- Domain Specific Language & Toolchain

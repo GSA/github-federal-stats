@@ -1,1 +1,0 @@
-Tools used to build both interactive and visual sitemaps of crawler results

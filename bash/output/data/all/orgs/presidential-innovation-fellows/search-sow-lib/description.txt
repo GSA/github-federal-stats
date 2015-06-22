@@ -1,1 +1,0 @@
-Prototype searchable SOW library

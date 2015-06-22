@@ -1,1 +1,0 @@
-Convert a United States dollar-formatted string into a number.

@@ -1,1 +1,0 @@
-The Unity-SCORM Integration Toolkit is a demonstration of how content developers can use a game engine to create SCORM-Conformant content.

@@ -1,1 +1,0 @@
-Python Turbulence Detection Algorithm (PyTDA)

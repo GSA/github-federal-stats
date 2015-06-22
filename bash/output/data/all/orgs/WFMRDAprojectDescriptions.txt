@@ -1,4 +1,0 @@
-Tools for managing structure point and cadastral datasets for wildland fire
-Tools to automate data collection for WFDSS
-QAACT - Tools for checking WFDSS data for quality, completeness, and for assessing changes between versions
-Tools for calculating metrics on wildland fires

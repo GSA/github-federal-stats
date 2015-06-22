@@ -1,1 +1,0 @@
-Widget for embedding earthquake list(s) on web pages.

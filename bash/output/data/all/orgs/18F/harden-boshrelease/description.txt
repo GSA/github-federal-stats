@@ -1,1 +1,0 @@
-Ubuntu Hardening Bosh Release

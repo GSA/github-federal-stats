@@ -1,1 +1,0 @@
-A node module to calculate the overall cost of a loan.

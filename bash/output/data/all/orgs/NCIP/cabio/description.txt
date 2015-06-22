@@ -1,1 +1,0 @@
-caBIO (cancer Bioinformatics Infrastructure Objects) is a resource for accessing molecular annotations from curated data sources.

@@ -1,1 +1,0 @@
-Display Storify content inside PopcornJS

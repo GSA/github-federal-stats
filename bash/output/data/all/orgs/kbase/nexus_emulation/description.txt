@@ -1,1 +1,0 @@
-This provides an emulation of the Globus Nexus API that can be used to support authentication back ends other than Globus Nexus.

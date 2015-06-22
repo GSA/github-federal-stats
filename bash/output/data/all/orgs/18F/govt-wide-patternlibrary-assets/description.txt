@@ -1,1 +1,0 @@
-This is the open source repository for the Government Wide Pattern Library visual design assets.

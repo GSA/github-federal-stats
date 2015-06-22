@@ -1,1 +1,0 @@
-The NPPES Provider Registry as a Django Application Plugin

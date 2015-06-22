@@ -1,1 +1,0 @@
-A collection of acquisition APIs by Project RFP-EZ.

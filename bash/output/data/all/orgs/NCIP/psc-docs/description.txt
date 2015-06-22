@@ -1,1 +1,0 @@
-This is the documentation repository for the Patient Study Calendar (PSC) Project that is under the NCIP channel.

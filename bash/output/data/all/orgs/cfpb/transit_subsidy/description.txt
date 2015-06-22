@@ -1,1 +1,0 @@
-Open source version of a simple Transit Subsidy intake form. This is what is commonly used by United Stated federal government agencies. This is a public domain work of the US Government.

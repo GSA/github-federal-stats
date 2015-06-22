@@ -1,1 +1,0 @@
-A guide to using Lean UX on your project

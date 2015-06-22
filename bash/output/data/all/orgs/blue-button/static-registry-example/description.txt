@@ -1,1 +1,0 @@
-Example BB+ Registry as a statically hosted site

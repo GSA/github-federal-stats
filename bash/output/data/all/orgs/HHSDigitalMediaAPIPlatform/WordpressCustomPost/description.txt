@@ -1,1 +1,0 @@
-Wordpress plugin to add a custom post type for HHS digital media syndication

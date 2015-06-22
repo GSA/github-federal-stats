@@ -1,1 +1,0 @@
-The Semantic Integration Workbench (SIW) is a caCORE tool that assists users in adding consistent metadata to a UML model, or verifying consistency, by tagging their domain model with matching concepts from the NCI Thesaurus.

@@ -1,1 +1,0 @@
-Enterprise Data Collection Tool (eDCT) Form Builder allows users to design data collection instruments utilizing a “drag-and-drop” interface.

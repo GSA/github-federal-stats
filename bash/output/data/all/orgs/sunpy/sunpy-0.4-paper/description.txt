@@ -1,1 +1,0 @@
-Paper describing SunPy 0.4 for submission in the SciPy special edition of CSD

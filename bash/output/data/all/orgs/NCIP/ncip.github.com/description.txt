@@ -1,1 +1,0 @@
-This is the repository for the NCIP channel page. It hosts the wiki pages and the issue tracker related to the migration activity.

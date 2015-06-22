@@ -1,1 +1,0 @@
-The NCI Term Suggestion application is used both standalone and in the EVS terminology browsers to get community feedback and contributions to both NCI and EVS partner terminology products.

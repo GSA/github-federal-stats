@@ -1,1 +1,0 @@
-A waveform that performs FM demodulation and provides power spectral density output at key points in the demod.

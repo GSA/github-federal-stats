@@ -1,1 +1,0 @@
-Walk through the creation of a sample visualization using sample data

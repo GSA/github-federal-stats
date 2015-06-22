@@ -1,1 +1,0 @@
-An experiment to make CloudFront/S3 deployments nice and easy.

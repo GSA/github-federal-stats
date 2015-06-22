@@ -1,1 +1,0 @@
-The Stats Application Commons provides various utility functions such as mail server, scheduling, string manipulation, data download management, and caching functions.

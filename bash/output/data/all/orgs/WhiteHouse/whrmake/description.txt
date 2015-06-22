@@ -1,1 +1,0 @@
-A drush make file for compiling the code necessary to implement much of the functionality of the new responsive whitehouse.gov

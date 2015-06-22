@@ -1,1 +1,0 @@
-GliderDAC Compliance Checker plugin

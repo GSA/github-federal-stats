@@ -1,1 +1,0 @@
-PHP SDK for HHS Digital Media API

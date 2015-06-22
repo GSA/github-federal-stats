@@ -1,1 +1,0 @@
-Python script to generate HTML and JSON content

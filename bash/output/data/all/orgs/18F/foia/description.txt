@@ -1,1 +1,0 @@
-Please check out https://github.com/18F/foia-hub/issues to track our work. This repo is for project wide discussion, blogging, and scratch space for 18F's FOIA modernization team.

@@ -1,1 +1,0 @@
-A web based catalog of IOOS services and datasets

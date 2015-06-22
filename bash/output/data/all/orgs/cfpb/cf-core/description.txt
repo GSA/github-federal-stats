@@ -1,1 +1,0 @@
-Core styles for starting a Capital Framework project. It includes Normalize.css, variables, media query and utility mixins, class utilities and standard base styling.

@@ -1,1 +1,0 @@
-Release Manifest for Cloud Foundry

@@ -1,1 +1,0 @@
-A component of API Umbrella. Provides configuration file parsing for the other API Umbrella components.

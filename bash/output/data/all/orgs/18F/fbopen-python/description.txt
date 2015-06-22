@@ -1,1 +1,0 @@
-Python access to the FBOpen API

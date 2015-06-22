@@ -1,1 +1,0 @@
-Peace Corps website API for Volunteer Openings. As the name suggests, the data this API exposes is all current Volunteer Openings (JSRs) and the fields exposed are the same as those seen on the front-end of each JSR page.

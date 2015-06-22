@@ -1,1 +1,0 @@
-This HTML5/jQuery Mobile sample demonstrates a simple conference web application with QR codes for the Experience API (\

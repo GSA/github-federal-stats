@@ -1,1 +1,0 @@
-The caDSR Sentinel tool allows users to create and manage Alert Definitions for content in the caDSR

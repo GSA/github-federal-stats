@@ -1,8 +1,0 @@
-
-Web based Registry platform for managing synthetic biological parts
-Web based DNA sequence editing and analysis tool
-
-
-
-
-Dockerized ICE

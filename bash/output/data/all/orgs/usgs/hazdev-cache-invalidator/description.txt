@@ -1,1 +1,0 @@
-Application/library used to invalidate cached pages

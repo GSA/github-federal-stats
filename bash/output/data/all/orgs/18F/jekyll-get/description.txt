@@ -1,1 +1,0 @@
-Jekyll plugin to download data from external JSON sources to use in generating a site

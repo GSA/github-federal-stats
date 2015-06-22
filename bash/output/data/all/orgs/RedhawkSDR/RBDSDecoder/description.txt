@@ -1,1 +1,0 @@
-This component decodes RBDS data from broadcast FM using the RBDS Standard Specification

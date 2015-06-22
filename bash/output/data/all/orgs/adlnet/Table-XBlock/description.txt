@@ -1,1 +1,0 @@
-Table XBlock is powerful tool used to create interactive and trackable tables in an edX course.

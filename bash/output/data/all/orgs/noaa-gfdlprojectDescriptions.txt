@@ -1,8 +1,0 @@
-Modular Ocean Model
-GFDL's Flexible Modeling System
-NOAA-GFDL's Sea Ice Simulator version 2
-GFDL Climate Model Icebergs
-Example configurations for MOM6 and SIS2
-
-
-

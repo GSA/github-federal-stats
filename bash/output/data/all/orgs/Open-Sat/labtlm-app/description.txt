@@ -1,1 +1,0 @@
-Telemetry output application designed for lab environments using UDP

@@ -1,1 +1,0 @@
-This component takes in four input streams and mixes them into a single output

@@ -1,1 +1,0 @@
-ProjectMonitor is a CI display aggregator. It displays the status of multiple Continuous Integration builds on a single web page.

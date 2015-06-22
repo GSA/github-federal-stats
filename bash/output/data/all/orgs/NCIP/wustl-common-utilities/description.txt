@@ -1,1 +1,0 @@
-WUSTL Common Utilities is a Open Source project primarily used by caTissue Suite.

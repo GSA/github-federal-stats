@@ -1,1 +1,0 @@
-Repository for building conda packages needed for SunPy CI testing.

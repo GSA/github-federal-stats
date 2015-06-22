@@ -1,1 +1,0 @@
-caDSR Form Builder allows users to leverage Common Data Element (CDE) metadata to create forms that replicate the content of Case Report Forms (CRFs).

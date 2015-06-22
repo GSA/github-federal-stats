@@ -1,1 +1,0 @@
-The Migration Tool is a java application, based on the API and developed within the caTissue project. The migration involves extracting input legacy data into an interim caTissue staging database and then running the caTissue Migration Tool, which will validate and load the staging data into the target caTissue instance.

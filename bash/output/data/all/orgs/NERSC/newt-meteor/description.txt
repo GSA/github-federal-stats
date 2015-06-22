@@ -1,1 +1,0 @@
-Newt based authentication that works with Meteor accounts login

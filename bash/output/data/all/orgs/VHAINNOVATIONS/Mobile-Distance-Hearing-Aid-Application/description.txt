@@ -1,1 +1,0 @@
-Phonak - Hearing Aid App: a solution enabling patients to receive hearing aid adjustments remotely via a Bluetooth, Internet-enabled smartphone.

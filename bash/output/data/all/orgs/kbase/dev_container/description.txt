@@ -1,1 +1,0 @@
-This repository is a container for developing and deploying KBase modules. To use this, you must already have a \

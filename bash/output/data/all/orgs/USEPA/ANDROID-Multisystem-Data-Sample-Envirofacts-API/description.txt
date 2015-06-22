@@ -1,1 +1,0 @@
-Android Sample: Envirofacts MultiSystem Representational State Transfer (REST) Application Programming Interface (API)

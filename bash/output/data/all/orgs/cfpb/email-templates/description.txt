@@ -1,1 +1,0 @@
-Design, research, and front-end implementation of responsive email templates for the CFPB.

@@ -1,1 +1,0 @@
-Frontend styleguide for 18F

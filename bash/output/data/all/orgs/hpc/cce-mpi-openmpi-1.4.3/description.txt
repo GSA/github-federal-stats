@@ -1,1 +1,0 @@
-CCE MPI: Open MPI 1.4.3

@@ -1,1 +1,0 @@
-Common Logging Module (CLM) is a set of tools that provides a flexible and comprehensive solution for auditing and logging. CLM includes Event Logging, Automated Object State Logging, Asynchronous Logging to database, Query API's and a web based Log Locator Tool.

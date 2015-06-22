@@ -1,1 +1,0 @@
-An advanced tool and user interface allowing super users and developers to, at a minimum, assemble widgets into dashboards.

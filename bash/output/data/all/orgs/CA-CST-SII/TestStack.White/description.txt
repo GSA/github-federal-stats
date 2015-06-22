@@ -1,1 +1,0 @@
-Based off the https://github.com/TestStack/White project

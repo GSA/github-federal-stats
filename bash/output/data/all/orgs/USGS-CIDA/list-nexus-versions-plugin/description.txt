@@ -1,1 +1,0 @@
-Jenkins Plugin to add a parameter dropdown filled with artifact versions existing in Nexus

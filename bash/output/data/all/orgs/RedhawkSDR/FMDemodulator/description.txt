@@ -1,1 +1,0 @@
-This component performs an FM demodulation using the liquid-dsp library (http://liquidsdr.org)

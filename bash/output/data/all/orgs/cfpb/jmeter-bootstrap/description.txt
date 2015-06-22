@@ -1,1 +1,0 @@
-Downloads JMeter and JMeter plugins and demonstrates usage via examples. Suggested to be used as a git submodule

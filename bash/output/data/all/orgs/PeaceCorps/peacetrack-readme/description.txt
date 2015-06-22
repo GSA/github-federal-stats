@@ -1,1 +1,0 @@
-Creating a mobile solution for Volunteers to log their activity information in the field - Master Repo for documenting requirements

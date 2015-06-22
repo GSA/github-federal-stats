@@ -1,1 +1,0 @@
-A simple Flask-based HTTP pony to lookup Unicode character names for a string.

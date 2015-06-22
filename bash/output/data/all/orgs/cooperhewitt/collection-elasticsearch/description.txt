@@ -1,1 +1,0 @@
-get set up with your own Elasticsearch instance for searching the Cooper Hewitt's collection

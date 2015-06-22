@@ -1,1 +1,0 @@
-Responsive Interactive Voice Response (rivr)

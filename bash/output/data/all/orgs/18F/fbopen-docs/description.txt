@@ -1,1 +1,0 @@
-staging our redesign of the fbopen docs

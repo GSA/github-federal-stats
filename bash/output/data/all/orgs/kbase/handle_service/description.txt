@@ -1,1 +1,0 @@
-An application programming interface for managing files. This service provides an AbstractHandle that can be used to reference data in different stores. This deploys both the client and service.

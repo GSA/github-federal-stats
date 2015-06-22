@@ -1,1 +1,0 @@
-This is the documentation repository for the caIntegrator project repository under the NCIP channel.

@@ -1,1 +1,0 @@
-Web library for getting location information from a user.

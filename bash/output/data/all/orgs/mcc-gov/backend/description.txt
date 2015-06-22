@@ -1,1 +1,0 @@
-Backend scripts to generate data from internal databases

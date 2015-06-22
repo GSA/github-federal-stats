@@ -1,1 +1,0 @@
-A simple way to facilitate subjective testing using a web server and a web browser.

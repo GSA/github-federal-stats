@@ -1,1 +1,0 @@
-A set of principles, practices, idioms, and strategies pertaining to automated software testing and its adoption

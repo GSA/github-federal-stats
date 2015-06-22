@@ -1,1 +1,0 @@
-Terraform Configuration for setting up a VPC and Instances for our work with the FEC

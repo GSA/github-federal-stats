@@ -1,1 +1,0 @@
-Relay is a mobile first experience that allows journalists to report on breaking news situations in real time. Users can follow updates through Email and SMS alerts and can catch up on coverage by using the timeline based interface.

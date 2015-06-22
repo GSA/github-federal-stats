@@ -1,1 +1,0 @@
-Simple PHP wrapper to port one site's look and feel to another's content

@@ -1,1 +1,0 @@
-A sample app using the federal API SDK for iOS. For documentation, see http://usdepartmentoflabor.github.io/iOS-Sample-App/

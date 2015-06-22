@@ -1,1 +1,0 @@
-eXcat OpenGIS CSW client

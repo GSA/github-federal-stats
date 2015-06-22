@@ -1,1 +1,0 @@
-The Workspace Service (WSS) is primarily a language independent remote storage and retrieval system for KBase typed objects (TO) defined with the KBase Interface Description Language (KIDL).

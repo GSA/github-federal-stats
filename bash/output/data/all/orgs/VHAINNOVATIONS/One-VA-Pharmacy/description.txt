@@ -1,1 +1,0 @@
-One VA Pharmacy is the development of a prototype that extends the existing Veterans Health Information Systems and Technology Architecture (VistA) to provide pharmacists direct access to any active, refillable prescription from any VA Healthcare System.

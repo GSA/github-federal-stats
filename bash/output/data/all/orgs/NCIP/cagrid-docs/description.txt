@@ -1,1 +1,0 @@
-The caGrid-docs repository contains caGrid-related documentation, including Admin/Developer/User guides, design documents, and presentations.

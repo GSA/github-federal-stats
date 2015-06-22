@@ -1,1 +1,0 @@
-Location based app for iOS.

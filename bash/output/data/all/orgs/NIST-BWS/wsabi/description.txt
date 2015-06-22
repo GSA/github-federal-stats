@@ -1,1 +1,0 @@
-iOS Client for WS-Biometric Devices
