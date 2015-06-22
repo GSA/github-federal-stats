@@ -1,1 +1,0 @@
-Research prototype for fast launch of MPI jobs

@@ -1,1 +1,0 @@
-Federal Data SDK built in the Swift programming language. Follow the link for the documentation:

@@ -1,9 +1,0 @@
-NIEM is a community-driven, standards-based approach to exchanging information.
-NIEM-conformant schemas representing types and elements required per the DATA Act.
-A catalog of commonly used ways to implement NIEM. Find what you need. Share what you can.
-Development workspace for NIEM-UML for 3.0 
-A golden rule of NIEM is \"if it exists, use it.\" So share your IEPDs for reuse! They can be reused partially or fully, saving time and money.
-NIEM Emergency Management domain model content.  We're gathering community business requirements to form a domain update to the model.
-
-This repository holds a simple IEPD template that can be forked to a new repository that a user can leverage as the starting point for his/her own IEPD (based on the template). The template conforms to the new NIEM Model Package Description (MPD) 3.0 specification.
-NIEM 3.0 NDR Schematron rule testing

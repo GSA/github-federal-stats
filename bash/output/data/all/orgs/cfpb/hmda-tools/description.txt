@@ -1,1 +1,0 @@
-Tools to make importing and analyzing mortgage application data easier. This is a public domain work of the US Government.

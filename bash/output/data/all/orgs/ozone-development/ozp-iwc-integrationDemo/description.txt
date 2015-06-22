@@ -1,1 +1,0 @@
-An all-in-one example of IWC hosting server with a sample database and sample application.

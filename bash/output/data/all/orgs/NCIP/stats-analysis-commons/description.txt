@@ -1,1 +1,0 @@
-The Stats Analysis Commons API handles the messaging services between projects.

@@ -1,1 +1,0 @@
-Chef cookbooks used for deployment of 18F stuff on AWS opsworks

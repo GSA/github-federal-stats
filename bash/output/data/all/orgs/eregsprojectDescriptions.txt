@@ -1,2 +1,0 @@
-This is the documentation repository for the eRegulations effort.
-A test repository to experiment with how Huboard and other add-ons can help us organize and track work.

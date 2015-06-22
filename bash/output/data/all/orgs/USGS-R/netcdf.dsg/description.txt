@@ -1,1 +1,0 @@
-NetCDF Discrete Sampling Geometry package for R

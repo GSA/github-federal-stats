@@ -1,1 +1,0 @@
-Source code for the California Title 24 Compliance Website. The website performs compliance checks on commercial buildings using a combination of OpenStudio, EnergyPlus, and CBECC-Com

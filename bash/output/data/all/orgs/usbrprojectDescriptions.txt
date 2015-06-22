@@ -1,7 +1,0 @@
-Pisces is a time series database and desktop application that graphs and analyzes time series data. Pisces is designed to organize, graph, and analyze natural resource data that varies with time: gauge height, river flow, water temperature, etc. 
-HDB POET Hydrologic Database - Perusal or Editing Tool  
-S&T Project 3265: Investigation of Software Tools for Visualization of Results from Water Resources Planning Models
-Convert dss files to various formats
-This is the GitHub Home for USBR
-Code used to generate TimML files from GIS data.
-Hydro$ense is a Hydro-Economic Net Benefit Maximizer. Provided supply and demand for water with the associated economic supply-cost and demand-price, this program solves for the economic partial-equilibrium solution by maximimizing the Consumer and Producer Surplus.

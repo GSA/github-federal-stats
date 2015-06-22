@@ -1,1 +1,0 @@
-The Aggregate Water-Use Database System (AWUDS) provides for the storage and retrieval of water-use data aggregated by county, hydrologic unit, and aquifer.

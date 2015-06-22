@@ -1,1 +1,0 @@
-The IOOS Glider DAC site/scripts/tools

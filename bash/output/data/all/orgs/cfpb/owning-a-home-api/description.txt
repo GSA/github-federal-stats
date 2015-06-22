@@ -1,1 +1,0 @@
-The API that drives the Owning A Home project.

@@ -1,1 +1,0 @@
-ObjectiveC SDK for HHS Digital Media API

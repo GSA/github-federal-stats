@@ -1,1 +1,0 @@
-C3PR is a web-based application that can be used for end-to-end registration of patients in clinical trials.

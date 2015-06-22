@@ -1,1 +1,0 @@
-A Parallel Haskell framework for particle-based Monte Carlo simulations

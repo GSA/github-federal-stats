@@ -1,1 +1,0 @@
-This set of recipes compiles the pre-requisite libraries as well as the NetCDF library

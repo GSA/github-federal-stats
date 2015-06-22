@@ -1,1 +1,0 @@
-Chef role cookbook for setting up a Consul cluster node - https://github.com/johnbellone/consul-cookbook

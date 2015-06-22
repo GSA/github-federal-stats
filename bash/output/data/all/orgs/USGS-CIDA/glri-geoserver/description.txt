@@ -1,1 +1,0 @@
-Custom GeoServer DataStores, WPS Processing and WAR Overlay supporting GLRI effort

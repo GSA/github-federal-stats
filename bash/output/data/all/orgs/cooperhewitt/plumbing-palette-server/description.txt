@@ -1,1 +1,0 @@
-A simple Flask-based HTTP pony server for doing colour extraction.

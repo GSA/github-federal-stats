@@ -1,1 +1,0 @@
-A graphical interface for creating maps with NPMap.js.

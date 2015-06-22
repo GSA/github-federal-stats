@@ -1,1 +1,0 @@
-SWIG-based wrapper code around REFPROP for languages such as python, c#, java, etc.

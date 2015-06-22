@@ -1,1 +1,0 @@
-Grid services for Bioconductor packages for preprocessing of microarray data, DNA copy number assessment, and SELDI-TOF mass spec peak finding.

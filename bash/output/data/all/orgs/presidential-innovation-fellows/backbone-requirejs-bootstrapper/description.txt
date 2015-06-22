@@ -1,1 +1,0 @@
-Backbone project fully loaded with RequireJS, Bower, Grunt compatibility, Bootstrap, and jQuery.

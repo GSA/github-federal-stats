@@ -1,1 +1,0 @@
-DEPRECATED: All 18F team data is now stored in 18F/data-private

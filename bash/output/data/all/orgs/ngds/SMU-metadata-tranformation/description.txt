@@ -1,1 +1,0 @@
-Code base for transforming publications database metadata to USGIN/ISO XML for NGDS.

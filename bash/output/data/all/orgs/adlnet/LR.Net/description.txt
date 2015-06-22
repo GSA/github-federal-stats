@@ -1,1 +1,0 @@
-A .Net client library for the Learning Registry

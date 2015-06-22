@@ -1,1 +1,0 @@
-a quick server to harvest URLs from participating sites to populate recommendation system.

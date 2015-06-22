@@ -1,1 +1,0 @@
-User profile service (including basic Social profile)

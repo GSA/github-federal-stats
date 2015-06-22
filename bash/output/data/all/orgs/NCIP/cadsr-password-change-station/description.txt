@@ -1,1 +1,0 @@
-The purpose of the caDSR Password Change Station is to allow users to set and reset the password used for logging in to the caDSR Tools.

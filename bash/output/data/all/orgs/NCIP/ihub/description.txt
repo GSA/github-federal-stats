@@ -1,1 +1,0 @@
-iHub enables data integration between a clinical data management system (CDMS) and clinical trial management applications such as caTissue and the Cancer Adverse Event Reporting System (caAERS).

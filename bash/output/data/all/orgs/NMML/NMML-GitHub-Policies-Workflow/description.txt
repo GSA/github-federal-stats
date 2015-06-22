@@ -1,1 +1,0 @@
-Documentation of guidelines and workflow best practices for NMML git/github users

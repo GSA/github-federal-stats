@@ -1,4 +1,0 @@
-<tr><td>Total Federal Organizations</td><td align="right">134</td></tr>
-<tr><td>Total Project Repositories</td><td align="right">2417</td></tr>
-<tr><td>Total Project Repositories with Descriptions</td><td align="right">1942</td></tr>
-<tr><td>Total Project Repositories without Descriptions</td><td align="right">475</td></tr>

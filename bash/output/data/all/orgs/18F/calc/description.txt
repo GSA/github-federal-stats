@@ -1,1 +1,0 @@
-An estimator for hourly rates on professional services contracts

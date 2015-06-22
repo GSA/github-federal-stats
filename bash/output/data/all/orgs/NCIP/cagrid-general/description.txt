@@ -1,1 +1,0 @@
-The caGrid-general repository contains third party libraries that are used commonly across the caGrid project.

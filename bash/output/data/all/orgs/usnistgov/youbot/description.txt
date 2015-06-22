@@ -1,1 +1,0 @@
-Robotic platform for industrial control systems cybersecurity research. We use the research-grade Youbot as the robotics platform for our research. The ROS framework is used for inter-process communication, and Python is the language used for application development.

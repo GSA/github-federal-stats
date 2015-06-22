@@ -1,1 +1,0 @@
-An experiment in taking data from the Federal Election Commission and harmonizing/cleaning it up to make it easier for external developers to use and analyze.

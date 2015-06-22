@@ -1,1 +1,0 @@
-GeoTIFF IOSP for NetCDF-Java

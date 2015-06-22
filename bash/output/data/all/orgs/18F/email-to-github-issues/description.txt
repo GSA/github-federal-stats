@@ -1,1 +1,0 @@
-(INACTIVE) A Mandrill Inbound email webhook that opens GitHub issues. Great for approving HTTPS certificates.

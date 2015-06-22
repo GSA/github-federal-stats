@@ -1,1 +1,0 @@
-The caTissue Print Service provides the framework for printing labels for specimens, specimen collection groups and containers from the caTissue application.

@@ -1,1 +1,0 @@
-Up is a simple utility to encrypt secrets and upload them to a specified S3 bucket, all in a shell script!

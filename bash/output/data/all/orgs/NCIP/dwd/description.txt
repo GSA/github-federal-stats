@@ -1,1 +1,0 @@
-Distance Weighted Discrimination performs statistical corrections to reduce systematic biases in microarray data sets.

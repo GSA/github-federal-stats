@@ -1,1 +1,0 @@
-A responsive login page for Saleforce Communities using Bootstrap

@@ -1,1 +1,0 @@
-Collab is a Django project with a standard set of configurations to provide services to reusable apps.

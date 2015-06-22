@@ -1,3 +1,0 @@
-Web application for creating data management plans
-TEON Web Map
-Project Tracking System

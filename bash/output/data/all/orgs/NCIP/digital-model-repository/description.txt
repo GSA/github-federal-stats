@@ -1,1 +1,0 @@
-Digital Model Repository is a web-based digital repository for the purpose of archiving, retrieving and exchanging cancer modeling modules and the data that link to it.

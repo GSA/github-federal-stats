@@ -1,1 +1,0 @@
-LabViewer is a web application used to view and store clinical laboratory data

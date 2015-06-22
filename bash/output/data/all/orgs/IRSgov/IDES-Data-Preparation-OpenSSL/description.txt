@@ -1,1 +1,0 @@
-The IDES Data Preparation OpenSSL project repository demonstrates commands to decrypt notifications received from IDES.

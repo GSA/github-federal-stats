@@ -1,4 +1,0 @@
-Sources for the BioAssay Research Database
-Layered Chemical Identifier
-Chrome plugin for resolving / rendering chemical structures from names and images.
-Example plugins for the BARD API

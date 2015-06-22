@@ -1,1 +1,0 @@
-An extensible framework for genome assembly.

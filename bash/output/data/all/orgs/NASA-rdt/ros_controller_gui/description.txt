@@ -1,1 +1,0 @@
-The Controller GUI for ROS package

@@ -1,1 +1,0 @@
-A second version of the wsabi iPad app for biometric device control over Web Services.

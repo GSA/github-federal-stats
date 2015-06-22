@@ -1,1 +1,0 @@
-WCAG and Section 508 accessibility audits from the command line.

@@ -1,1 +1,0 @@
-A set of common Grunt tasks for Capital Framework components.

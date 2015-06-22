@@ -1,1 +1,0 @@
-The KBase Data Importer allows users to upload data for use in KBase.

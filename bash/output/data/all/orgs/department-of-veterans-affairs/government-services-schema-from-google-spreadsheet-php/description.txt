@@ -1,1 +1,0 @@
-This is a template for creating government services schema using a Google Spreadsheet.

@@ -1,1 +1,0 @@
-The NASA Tournament Lab (NTL) challenge to create an algorithm to help Robonaut \

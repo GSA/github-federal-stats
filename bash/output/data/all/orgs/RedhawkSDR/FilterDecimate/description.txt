@@ -1,1 +1,0 @@
-This component filters and decimates data using the liquid-dsp library (http://liquidsdr.org). The only operational filter modes are lowpass and bandpass. The Output Rate property can only be set to a value that is a rational factor of the input rate.

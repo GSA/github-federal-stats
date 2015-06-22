@@ -1,7 +1,0 @@
-Library containing the expat XML parser
-Object-based Application Template
-Command ingest application designed for lab environments using UDP
-Telemetry output application designed for lab environments using UDP
-A collection of compressed files with each file containing a cFE port to a specific platform.
-Scheduler application designed for lab environments
-CFS Application Runtime Environment

@@ -1,1 +1,0 @@
-A simple way to access all the GitHub repos of US federal agencies.

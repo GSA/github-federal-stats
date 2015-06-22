@@ -1,1 +1,0 @@
-This repository contains wrapper code to integrate the ModelSEED Perl libraries into KBase.

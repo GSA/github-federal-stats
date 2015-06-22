@@ -1,1 +1,0 @@
-Plots of timeseries data for geomagnetic observatories

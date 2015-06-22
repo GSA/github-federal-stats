@@ -1,1 +1,0 @@
-The caTissue Dynamic Extensions allows to quickly make new data or capabilities available in caTissue for discovery and use by the community.

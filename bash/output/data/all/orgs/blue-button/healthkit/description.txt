@@ -1,1 +1,0 @@
-Experimental iOS 8 Repo to interface Blue Button data to Apple HealthKit

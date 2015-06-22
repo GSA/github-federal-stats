@@ -1,1 +1,0 @@
-Google Maps and Socrata Integration (originally developed for innovation.cms.gov)

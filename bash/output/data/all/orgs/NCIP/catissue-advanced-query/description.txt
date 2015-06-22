@@ -1,1 +1,0 @@
-The caTissue Advanced Query allows users to query any data in caTissue including complex conditions and associations.

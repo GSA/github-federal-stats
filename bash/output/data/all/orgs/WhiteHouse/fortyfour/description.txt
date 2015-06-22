@@ -1,1 +1,0 @@
-7.x base theme for White House sites

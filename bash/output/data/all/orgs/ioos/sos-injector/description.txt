@@ -1,1 +1,0 @@
-Injection modules for registering sensors and inserting observations to an SOS (developed against 52 North)

@@ -1,1 +1,0 @@
-Components for creating a team Hub using Jekyll

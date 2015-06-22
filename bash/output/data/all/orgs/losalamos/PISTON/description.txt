@@ -1,1 +1,0 @@
-A Portable Cross-Platform Framework for Data-Parallel Visualization Operators

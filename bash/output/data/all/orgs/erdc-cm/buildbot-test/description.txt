@@ -1,1 +1,0 @@
-Setting up a dummy package to work on builtbot and testing framework for proteus

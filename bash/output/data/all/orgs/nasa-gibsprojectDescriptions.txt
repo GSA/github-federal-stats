@@ -1,9 +1,0 @@
-Examples of using GIBS with various web mapping libraries
-Interactively browse global, full-resolution satellite imagery 
-
-
-Exploring data curtains using Cesium
-Wireframes and designs for NASA Worldview
-OnEarth Vagrant VM
-Configuration and branding for NASA EOSDIS Worldview
-Generic branding with basic configuration

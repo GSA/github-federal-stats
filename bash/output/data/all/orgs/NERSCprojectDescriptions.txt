@@ -1,6 +1,0 @@
-
-Scripts for running Hadoop on demand on NERSC systems.
-Repository used for NERSC training
-Current Model of NCEMhub repository
-CHOS: The CHroot OS that lets users choose their OS.
-Newt based authentication that works with Meteor accounts login

@@ -1,1 +1,0 @@
-Mercury Lab project written in Django with Django Rest Framework

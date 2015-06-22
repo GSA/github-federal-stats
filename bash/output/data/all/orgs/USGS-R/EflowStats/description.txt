@@ -1,1 +1,0 @@
-Calculates Hydrologic Indicator stats and fundamental properties of daily streamflow for a given set of data

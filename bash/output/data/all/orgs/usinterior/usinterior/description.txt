@@ -1,1 +1,0 @@
-This is the GitHub Home for DOI. This is a test repo for using Github as a WAF that CKAN can access. Code base for the myAmerica Developer Summit 2015

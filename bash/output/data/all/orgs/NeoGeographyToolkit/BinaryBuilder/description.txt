@@ -1,1 +1,0 @@
-Script for generating the binary builds of Stereo Pipeline

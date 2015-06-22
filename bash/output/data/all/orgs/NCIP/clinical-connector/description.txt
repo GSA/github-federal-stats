@@ -1,1 +1,0 @@
-Clinical Connector enables the integration of participant registration and laboratory data between the Cancer Central Clinical Database (C3D) and the C3PR and LabViewer clinical trial management applications.

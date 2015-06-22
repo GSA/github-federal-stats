@@ -1,1 +1,0 @@
-A service that provides import, upload, and download capabilities as well as tools for validating and converting between data types, both internal and external to KBase.

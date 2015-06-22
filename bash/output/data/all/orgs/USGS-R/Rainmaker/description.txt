@@ -1,1 +1,0 @@
-Instantaneous rainfall data processing for defining event periods, determination of antecedent rainfall conditions and X-hr intensities. Provides graphical display of instantaneous rainfall with event periods and hydrographs.

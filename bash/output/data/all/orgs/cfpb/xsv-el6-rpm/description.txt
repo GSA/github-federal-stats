@@ -1,1 +1,0 @@
-RPM build of the XSV toolkit

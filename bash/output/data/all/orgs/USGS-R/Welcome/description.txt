@@ -1,1 +1,0 @@
-Collection of questions and answers about using R within the USGS.

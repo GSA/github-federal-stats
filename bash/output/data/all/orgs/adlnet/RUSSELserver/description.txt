@@ -1,1 +1,0 @@
-The server-related web scripts associated with the Re-Usability Support System for eLearning (RUSSEL) project.

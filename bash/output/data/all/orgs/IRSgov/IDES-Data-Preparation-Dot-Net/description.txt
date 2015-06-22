@@ -1,1 +1,0 @@
-The IDES Data Preparation .NET project repository demonstrates a sample working application developed using .NET Framework.

@@ -1,1 +1,0 @@
-This is a citation exporting web service

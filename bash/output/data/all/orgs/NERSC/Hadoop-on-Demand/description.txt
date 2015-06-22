@@ -1,1 +1,0 @@
-Scripts for running Hadoop on demand on NERSC systems.

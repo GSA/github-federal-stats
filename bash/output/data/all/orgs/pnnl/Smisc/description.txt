@@ -1,1 +1,0 @@
-Sego Miscellaneous: A collection of functions for statistical computing and data manipulation in R

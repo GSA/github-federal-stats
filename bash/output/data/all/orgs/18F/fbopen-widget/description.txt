@@ -1,1 +1,0 @@
-Generates a JavaScript snippet for searching FBOpen

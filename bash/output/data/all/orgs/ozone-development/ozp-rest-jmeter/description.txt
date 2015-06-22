@@ -1,1 +1,0 @@
-This repo will house the jmeter scripts for testing the REST controllers.

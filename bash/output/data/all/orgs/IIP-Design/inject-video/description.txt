@@ -1,1 +1,0 @@
-jQuery plugin that replaces a placeholder image with YouTube video.

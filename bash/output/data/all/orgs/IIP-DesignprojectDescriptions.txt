@@ -1,8 +1,0 @@
-
-jQuery Accordion that mostly complies with WAI-Aria 1.0 Authoring Practices.
-
-
-
-
-jQuery plugin that replaces a placeholder image with YouTube video.
-The America.gov base theme

@@ -1,1 +1,0 @@
-The caDSR Freestyle Search engine performs weighted semantic searches on the content of Administered Items in the caDSR.

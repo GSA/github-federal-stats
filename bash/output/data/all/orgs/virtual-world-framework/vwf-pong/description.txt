@@ -1,1 +1,0 @@
-Pong implemented in the Virtual World Framework.

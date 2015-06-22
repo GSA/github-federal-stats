@@ -1,1 +1,0 @@
-A simple code used for OpenMP sanity.

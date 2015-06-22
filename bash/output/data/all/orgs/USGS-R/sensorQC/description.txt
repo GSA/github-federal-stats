@@ -1,1 +1,0 @@
-sensorQC is a flexible framework for QAQCing high-frequency data for a continuously evolving catalogue of sensors

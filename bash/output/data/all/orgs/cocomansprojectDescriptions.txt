@@ -1,4 +1,0 @@
-Multi-scale plasma physics proxy applications.
-
-Papers, talks, reports, etc. for the CoCoMANS LDRD project. All approved for external release.
-Multi-scale materials science proxy applications.

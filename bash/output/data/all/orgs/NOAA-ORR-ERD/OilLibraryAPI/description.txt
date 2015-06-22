@@ -1,1 +1,0 @@
-A web-based querying api for the oil library

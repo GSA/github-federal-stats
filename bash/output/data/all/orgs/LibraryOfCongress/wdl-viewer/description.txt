@@ -1,1 +1,0 @@
-A fast, responsive HTML5 viewer for scanned items, developed for the World Digital Library. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.

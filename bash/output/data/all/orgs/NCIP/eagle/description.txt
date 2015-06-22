@@ -1,1 +1,0 @@
-Environment And Genetics in Lung cancer Etiology (EAGLE) data portal allows capture and integrative query and analysis of epdemiology and microarray data.

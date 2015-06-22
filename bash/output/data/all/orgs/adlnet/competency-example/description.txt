@@ -1,1 +1,0 @@
-Python Bottle app demonstrating using Medbiquitous' Competency Framework for defining competencies and the Experience API for tracking their progress and completion.

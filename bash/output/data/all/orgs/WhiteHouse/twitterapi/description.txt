@@ -1,1 +1,0 @@
-Drupal module with a simple interface for Twitter's REST API

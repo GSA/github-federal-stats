@@ -1,1 +1,0 @@
-EC2mapper is a web application that provides a user-friendly interface to view Amazon AWS network configurations, while allowing changes to be easily tracked over time.

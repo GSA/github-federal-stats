@@ -1,1 +1,0 @@
-Federalist is a unified interface for publishing static government websites.

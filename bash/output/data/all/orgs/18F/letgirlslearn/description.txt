@@ -1,1 +1,0 @@
-A Jekyll-powered microsite, live at https://letgirlslearn.peacecorps.gov

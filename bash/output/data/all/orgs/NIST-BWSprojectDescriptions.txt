@@ -1,5 +1,0 @@
-iOS Client for WS-Biometric Devices
-A second version of the wsabi iPad app for biometric device control over Web Services.
-
-multipart/x-mixed-replace handler for AFNetworking
-XE Template Engine (COAT)

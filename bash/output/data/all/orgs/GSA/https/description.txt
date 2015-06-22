@@ -1,1 +1,0 @@
-The proposed HTTPS-Only Standard for federal domains.

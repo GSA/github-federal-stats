@@ -1,1 +1,0 @@
-A compilation of assets to jump start a new web UI project with 18F branding.

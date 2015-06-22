@@ -1,1 +1,0 @@
-A system for assessing whether an individual is income-eligible for Medicaid.

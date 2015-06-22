@@ -1,1 +1,0 @@
-OpenStudio-Analysis Gem creates and configures the analysis.json files needed for running the OpenStudio Distributed Analysis workflow.

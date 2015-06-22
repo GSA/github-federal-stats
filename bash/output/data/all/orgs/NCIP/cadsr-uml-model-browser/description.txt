@@ -1,1 +1,0 @@
-The caDSR UML Model Browser supports browsing and searching UML Models that have been transformed into caDSR metadata via the UML Loader

@@ -1,1 +1,0 @@
-The IDES Data Preparation Java project repository demonstrates a sample working application developed using Java.

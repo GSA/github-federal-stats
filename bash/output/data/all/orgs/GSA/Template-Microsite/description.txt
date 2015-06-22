@@ -1,1 +1,0 @@
-A template for a lightweight microsite using markdown. Good for collaboration, as well.

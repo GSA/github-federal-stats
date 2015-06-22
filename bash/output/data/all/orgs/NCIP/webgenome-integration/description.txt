@@ -1,1 +1,0 @@
-Application to integrate WebGenome application with Rembrandt portal to allow plotting of array based data.

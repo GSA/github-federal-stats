@@ -1,1 +1,0 @@
-ProtExpress supports proteomics experiment and protocol data management as well as eXperimental Archive (XAR) file creation.

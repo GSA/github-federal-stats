@@ -1,1 +1,0 @@
-This R package is designed to obtain its water quality sample data, streamflow data, and metadata directly from either the USGS or EPA, as well as user-supplied text files.

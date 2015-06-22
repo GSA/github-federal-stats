@@ -1,1 +1,0 @@
-cgMDR has tools enabling semantic annotation from its own metadata repository but also can resolve metadata and terminologies.

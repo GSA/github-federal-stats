@@ -1,1 +1,0 @@
-Matplotlib object oriented style system

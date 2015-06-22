@@ -1,1 +1,0 @@
-caTRIP (Cancer Translational Research Information Platform) allows users to query across caGrid data services, join on common data elements and view their results in a user-friendly interface, in support of translational research.

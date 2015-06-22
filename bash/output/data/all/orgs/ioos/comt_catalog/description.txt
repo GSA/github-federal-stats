@@ -1,1 +1,0 @@
-THREDDS catalogs for comt_catalog.sura.org:/var/www/thredds_instance/content/thredds

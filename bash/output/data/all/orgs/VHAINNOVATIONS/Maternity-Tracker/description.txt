@@ -1,1 +1,0 @@
-An enhancement of CPRS/VistA, the “Maternity Tracker”, assists the coordination of maternity care in a seamless fashion between VA and Non-VA providers, in order to support optimal care of pregnant Veterans.

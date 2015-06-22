@@ -1,1 +1,0 @@
-Uses Javascript to query the Social Media Registry and GitHub APIs and list details about all federal open source code on GitHub

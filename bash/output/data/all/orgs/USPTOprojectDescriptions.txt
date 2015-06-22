@@ -1,2 +1,0 @@
-The USPTO's open source UI style guide, pattern library, and Bootstrap theme.
-Assignment search html page types

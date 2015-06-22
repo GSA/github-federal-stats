@@ -1,1 +1,0 @@
-Basic java client for Shock.

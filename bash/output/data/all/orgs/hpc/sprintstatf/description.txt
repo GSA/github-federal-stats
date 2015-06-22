@@ -1,1 +1,0 @@
-Print a stat struct using a method similar to sprintf(3).

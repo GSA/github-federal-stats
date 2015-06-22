@@ -1,1 +1,0 @@
-The caDSR Administration Tool is the main administrative interface to all of the basic editing and maintenance features and components of caDSR tools.

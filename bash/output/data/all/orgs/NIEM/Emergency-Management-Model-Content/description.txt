@@ -1,1 +1,0 @@
-NIEM Emergency Management domain model content. We're gathering community business requirements to form a domain update to the model.

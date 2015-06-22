@@ -1,1 +1,0 @@
-Provides a quick and easy way to generate graphs from your xAPI data, as well as a powerful query language to manipulate it

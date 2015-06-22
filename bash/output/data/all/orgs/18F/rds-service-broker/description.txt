@@ -1,1 +1,0 @@
-DEPRECATED: an RDS service broker for Cloud Foundry written in Ruby. see:

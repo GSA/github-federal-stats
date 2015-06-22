@@ -1,1 +1,0 @@
-A lightweight listing of /developer pages in government, including embed-ready html code and structured xml.

@@ -1,1 +1,0 @@
-Wordpress Plugin to interact with Open311 API

@@ -1,1 +1,0 @@
-REMBRANDT (REepository of Molecular BRAin Neoplasia DaTa) database was developed to allow analysis of data from molecularly characterized primary brain tumors and correlate those data with extensive retrospective and prospective clinical data.

@@ -1,1 +1,0 @@
-The NCI Term Browser is a web-based browser that allows users to search all terminologies, value sets and mappings on the LexEVS terminology server, to browse individual sources, and to easily follow the many links that connect them.

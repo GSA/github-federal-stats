@@ -1,1 +1,0 @@
-Patient Study Calendar is a web application for tracking patients in clinical trials.

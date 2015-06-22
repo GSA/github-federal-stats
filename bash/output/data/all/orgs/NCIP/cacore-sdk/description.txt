@@ -1,1 +1,0 @@
-The caCORE Software Development Kit (SDK) generates a system built on the principles of Model Driven Architecture (MDA), n-tier architecture and a common API for data access. When the caCORE SDK-generated system is combined with controlled vocabularies and registered metadata, the resulting software system, called \
