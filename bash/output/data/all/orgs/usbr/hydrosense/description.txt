@@ -1,0 +1,1 @@
+Hydro$ense is a Hydro-Economic Net Benefit Maximizer. Provided supply and demand for water with the associated economic supply-cost and demand-price, this program solves for the economic partial-equilibrium solution by maximimizing the Consumer and Producer Surplus.

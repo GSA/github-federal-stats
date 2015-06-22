@@ -1,0 +1,1 @@
+A component of API Umbrella. The static site provides the public website content using a static site generator and can be hosted with GitHub Pages.

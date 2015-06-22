@@ -1,0 +1,4 @@
+{
+  "message": "API rate limit exceeded for Ed-at-GSA.",
+  "documentation_url": "https://developer.github.com/v3/#rate-limiting"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "login": "jessmartin",
+    "id": 27258,
+    "avatar_url": "https://avatars.githubusercontent.com/u/27258?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jessmartin",
+    "html_url": "https://github.com/jessmartin",
+    "followers_url": "https://api.github.com/users/jessmartin/followers",
+    "following_url": "https://api.github.com/users/jessmartin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jessmartin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jessmartin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jessmartin/subscriptions",
+    "organizations_url": "https://api.github.com/users/jessmartin/orgs",
+    "repos_url": "https://api.github.com/users/jessmartin/repos",
+    "events_url": "https://api.github.com/users/jessmartin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jessmartin/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 20
+  }
+]

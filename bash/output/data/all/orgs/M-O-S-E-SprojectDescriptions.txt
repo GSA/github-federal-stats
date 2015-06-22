@@ -1,0 +1,6 @@
+MOSES Grid Manager
+After Action Review (AAR) module for OpenSimulator
+Command and Control script used to allow mgm to start and stop processes on a separate host.
+MGM for version 2.0 is a complete rewrite of manager, replacing several components, and enabling future enhancement.
+An Opensim Region module for MGM integration
+

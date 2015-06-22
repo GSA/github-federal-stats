@@ -37,6 +37,7 @@ else
   echo > $federalOrgInfo
   echo > $outputDataDirectory/pocs.txt
   echo > $outputDataDirectory/creationDates.txt 
+  echo > $outputDataDirectory/releases.txt
 
   count=1
   echo "Preparing to loop through $ttlOrgs organizations"

@@ -1,0 +1,12 @@
+A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.  Project mailing list can be found at http://listserv.loc.gov/archives/chronam-users.html.
+A web application developed by Zepheira for the Library of Congress National Digital Information Infrastructure and Preservation Program (NDIIPP) which allows users to create and share embeddable interfaces to digital cultural heritage collections. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+Work with BagIt packages from Python.
+A historical gazetteer project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects. 
+Java library and command line to support BagIt. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+A fast, responsive HTML5 viewer for scanned items, developed for the World Digital Library. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+Experiment doing BagIt processing in a static web application
+A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+The Bagger application packages data files according to the BagIt specification.
+The Library of Congress and the Florida Center for Library Automation developed the PREMIS in METS (PiM) Toolbox. The project provides PREMIS:METS conversion and validation tools that support the implementation of PREMIS in the METS container format.
+Library of Congress metadata structures.

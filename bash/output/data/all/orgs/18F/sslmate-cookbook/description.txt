@@ -1,0 +1,1 @@
+A chef cookbook for installing SSLMate and some optional helper scripts.

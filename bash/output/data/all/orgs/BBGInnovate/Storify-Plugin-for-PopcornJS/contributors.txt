@@ -1,0 +1,22 @@
+[
+  {
+    "login": "jflowers45",
+    "id": 1021048,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1021048?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jflowers45",
+    "html_url": "https://github.com/jflowers45",
+    "followers_url": "https://api.github.com/users/jflowers45/followers",
+    "following_url": "https://api.github.com/users/jflowers45/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jflowers45/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jflowers45/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jflowers45/subscriptions",
+    "organizations_url": "https://api.github.com/users/jflowers45/orgs",
+    "repos_url": "https://api.github.com/users/jflowers45/repos",
+    "events_url": "https://api.github.com/users/jflowers45/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jflowers45/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 7
+  }
+]

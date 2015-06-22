@@ -1,0 +1,1 @@
+A piwik plugin to allow for automatically login to the web interface with client certificates

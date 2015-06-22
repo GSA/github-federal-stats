@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/kbase/handle_service/releases/756704",
+    "assets_url": "https://api.github.com/repos/kbase/handle_service/releases/756704/assets",
+    "upload_url": "https://uploads.github.com/repos/kbase/handle_service/releases/756704/assets{?name}",
+    "html_url": "https://github.com/kbase/handle_service/releases/tag/v0.1-beta",
+    "id": 756704,
+    "tag_name": "v0.1-beta",
+    "target_commitish": "master",
+    "name": "Beta release for Handle Service",
+    "draft": false,
+    "author": {
+      "login": "brettin",
+      "id": 991769,
+      "avatar_url": "https://avatars.githubusercontent.com/u/991769?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/brettin",
+      "html_url": "https://github.com/brettin",
+      "followers_url": "https://api.github.com/users/brettin/followers",
+      "following_url": "https://api.github.com/users/brettin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/brettin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/brettin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/brettin/subscriptions",
+      "organizations_url": "https://api.github.com/users/brettin/orgs",
+      "repos_url": "https://api.github.com/users/brettin/repos",
+      "events_url": "https://api.github.com/users/brettin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/brettin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2014-12-04T20:26:20Z",
+    "published_at": "2014-12-04T20:29:18Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/kbase/handle_service/tarball/v0.1-beta",
+    "zipball_url": "https://api.github.com/repos/kbase/handle_service/zipball/v0.1-beta",
+    "body": "This is a near feature complete beta release in Perl. There still additional features to implement (see handle_service.spec) and the python, java, and javascript client class HandleService still need to be implemented."
+  }
+]

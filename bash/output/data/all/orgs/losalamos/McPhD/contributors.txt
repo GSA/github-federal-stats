@@ -1,0 +1,42 @@
+[
+  {
+    "login": "invalid-email-address",
+    "id": 148100,
+    "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/invalid-email-address",
+    "html_url": "https://github.com/invalid-email-address",
+    "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+    "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+    "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+    "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+    "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+    "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 62
+  },
+  {
+    "login": "kosmikus",
+    "id": 293191,
+    "avatar_url": "https://avatars.githubusercontent.com/u/293191?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/kosmikus",
+    "html_url": "https://github.com/kosmikus",
+    "followers_url": "https://api.github.com/users/kosmikus/followers",
+    "following_url": "https://api.github.com/users/kosmikus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/kosmikus/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/kosmikus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/kosmikus/subscriptions",
+    "organizations_url": "https://api.github.com/users/kosmikus/orgs",
+    "repos_url": "https://api.github.com/users/kosmikus/repos",
+    "events_url": "https://api.github.com/users/kosmikus/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/kosmikus/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 52
+  }
+]

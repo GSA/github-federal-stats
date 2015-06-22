@@ -1,0 +1,1 @@
+caTissue Suite uses Keyword Search to provide searching and indexing capabilities.

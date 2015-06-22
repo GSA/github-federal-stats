@@ -1,0 +1,42 @@
+[
+  {
+    "login": "rfeigel",
+    "id": 8582216,
+    "avatar_url": "https://avatars.githubusercontent.com/u/8582216?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rfeigel",
+    "html_url": "https://github.com/rfeigel",
+    "followers_url": "https://api.github.com/users/rfeigel/followers",
+    "following_url": "https://api.github.com/users/rfeigel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rfeigel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rfeigel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rfeigel/subscriptions",
+    "organizations_url": "https://api.github.com/users/rfeigel/orgs",
+    "repos_url": "https://api.github.com/users/rfeigel/repos",
+    "events_url": "https://api.github.com/users/rfeigel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rfeigel/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 10
+  },
+  {
+    "login": "larryprior",
+    "id": 8581891,
+    "avatar_url": "https://avatars.githubusercontent.com/u/8581891?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/larryprior",
+    "html_url": "https://github.com/larryprior",
+    "followers_url": "https://api.github.com/users/larryprior/followers",
+    "following_url": "https://api.github.com/users/larryprior/following{/other_user}",
+    "gists_url": "https://api.github.com/users/larryprior/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/larryprior/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/larryprior/subscriptions",
+    "organizations_url": "https://api.github.com/users/larryprior/orgs",
+    "repos_url": "https://api.github.com/users/larryprior/repos",
+    "events_url": "https://api.github.com/users/larryprior/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/larryprior/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  }
+]

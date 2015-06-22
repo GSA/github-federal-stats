@@ -1,0 +1,1 @@
+jQuery Accordion that mostly complies with WAI-Aria 1.0 Authoring Practices.

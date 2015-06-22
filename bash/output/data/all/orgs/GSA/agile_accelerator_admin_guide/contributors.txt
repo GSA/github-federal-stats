@@ -1,0 +1,22 @@
+[
+  {
+    "login": "mvogelgesang",
+    "id": 4053083,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4053083?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mvogelgesang",
+    "html_url": "https://github.com/mvogelgesang",
+    "followers_url": "https://api.github.com/users/mvogelgesang/followers",
+    "following_url": "https://api.github.com/users/mvogelgesang/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mvogelgesang/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mvogelgesang/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mvogelgesang/subscriptions",
+    "organizations_url": "https://api.github.com/users/mvogelgesang/orgs",
+    "repos_url": "https://api.github.com/users/mvogelgesang/repos",
+    "events_url": "https://api.github.com/users/mvogelgesang/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mvogelgesang/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  }
+]

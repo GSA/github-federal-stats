@@ -1,0 +1,1 @@
+A node module to get the U.S. state closest to the user's position.

@@ -1,0 +1,1 @@
+KBase service code for RDP. A classifier of rRNA amplicon data contributed by the RDB Project. Deploys both client and service.

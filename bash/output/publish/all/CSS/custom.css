@@ -1,0 +1,62 @@
+
+
+table.dataTable thead .sorting, 
+table.dataTable thead .sorting_asc, 
+table.dataTable thead .sorting_desc {
+    background : none;
+}
+
+table.dataTable thead th,
+table.dataTable tfoot th {
+  font-weight: bold;
+  background-image:url(Images/TR_bg.png);
+
+}
+table.dataTable thead th,
+table.dataTable thead td {
+  padding: 2px 2px;
+  border-bottom: 1px solid #111;
+  background-image:url(Images/TR_bg.png);
+
+}
+
+
+
+P,A,BODY,TD,TH,DIV,SPAN,TR {font-family: 'Roboto Condensed', sans-serif; font-size:13px;}
+
+LI {font-size:15px;}
+
+a { text-decoration:none; color:#333; }
+
+#div1 {
+    border-radius: 25px;
+    background:#5698B1;
+    
+    width: 255px;
+    height: 30px; color:#FFF; font-weight:bold; font-size:17px; }
+	
+	#div2 {
+    border-radius: 25px;
+    background:#A8DFE3
+   
+    width: 255px;
+    height: 30px; color:#FFF; font-weight:bold; font-size:17px; }
+	
+	#div3 {
+    border-radius: 25px;
+    background:#6995DC;
+    
+    width: 255px;
+    height: 30px; color:#FFF; font-weight:bold; font-size:17px; }
+
+
+THEAD, TFOOT { background-color:#FFF; background-image:none;   }
+
+
+.dataTables_paginate {
+	margin: 3px;
+	padding: 3px;
+	letter-spacing:2px;
+}
+	
+	

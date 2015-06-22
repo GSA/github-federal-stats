@@ -1,0 +1,22 @@
+[
+  {
+    "login": "rchadwic",
+    "id": 1257870,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1257870?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rchadwic",
+    "html_url": "https://github.com/rchadwic",
+    "followers_url": "https://api.github.com/users/rchadwic/followers",
+    "following_url": "https://api.github.com/users/rchadwic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rchadwic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rchadwic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rchadwic/subscriptions",
+    "organizations_url": "https://api.github.com/users/rchadwic/orgs",
+    "repos_url": "https://api.github.com/users/rchadwic/repos",
+    "events_url": "https://api.github.com/users/rchadwic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rchadwic/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

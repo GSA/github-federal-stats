@@ -1,0 +1,1 @@
+A simple, system independent infrastructure for performing web scraping. Utilizes Vagrant virtualbox interface and puppet provisioning to create and execute scraping of web content to structured data quickly and easily without modifying your core system.

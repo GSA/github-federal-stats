@@ -1,0 +1,1 @@
+Installs/Configures Rabbit MQ with sane defaults.

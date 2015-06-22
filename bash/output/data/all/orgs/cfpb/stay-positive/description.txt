@@ -1,0 +1,1 @@
+Node module to keep a number positive

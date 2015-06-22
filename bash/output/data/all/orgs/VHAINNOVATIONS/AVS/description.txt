@@ -1,0 +1,1 @@
+The VA After Visit Summary (AVS) is designed to automatically capture data from CPRS including visit information, orders, instructions and more, and reformat the information into a patient-centered, clinic discharge summary for veteran outpatients in an easy to understand format

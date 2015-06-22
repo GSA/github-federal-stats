@@ -1,0 +1,1 @@
+iptablesbuild is effectively a configuration manager for iptables. It is intended to manage iptables configurations in a centralized location for multiple systems.

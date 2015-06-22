@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/NCIP/lexevs/releases/889817",
+    "assets_url": "https://api.github.com/repos/NCIP/lexevs/releases/889817/assets",
+    "upload_url": "https://uploads.github.com/repos/NCIP/lexevs/releases/889817/assets{?name}",
+    "html_url": "https://github.com/NCIP/lexevs/releases/tag/v6.2.FINAL",
+    "id": 889817,
+    "tag_name": "v6.2.FINAL",
+    "target_commitish": "master",
+    "name": "LexEVS 6.2",
+    "draft": false,
+    "author": {
+      "login": "fragosog",
+      "id": 2165212,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2165212?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/fragosog",
+      "html_url": "https://github.com/fragosog",
+      "followers_url": "https://api.github.com/users/fragosog/followers",
+      "following_url": "https://api.github.com/users/fragosog/following{/other_user}",
+      "gists_url": "https://api.github.com/users/fragosog/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/fragosog/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/fragosog/subscriptions",
+      "organizations_url": "https://api.github.com/users/fragosog/orgs",
+      "repos_url": "https://api.github.com/users/fragosog/repos",
+      "events_url": "https://api.github.com/users/fragosog/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/fragosog/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2015-01-22T19:25:51Z",
+    "published_at": "2015-01-27T17:02:02Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/NCIP/lexevs/tarball/v6.2.FINAL",
+    "zipball_url": "https://api.github.com/repos/NCIP/lexevs/zipball/v6.2.FINAL",
+    "body": ""
+  }
+]

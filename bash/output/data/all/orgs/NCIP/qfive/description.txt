@@ -1,0 +1,1 @@
+QFive provides a probabilistic classification algorithm using the spectra from either SELDI or MALDI-TOF mass spectrometry results as input.

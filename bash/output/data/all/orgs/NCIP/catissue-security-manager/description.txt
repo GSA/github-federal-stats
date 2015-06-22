@@ -1,0 +1,1 @@
+caTissue Suite uses Common Security Module (CSM) software to accomplish the security requirements. caTissue Security Manager is an extention to CSM API addressing caTissue suite needs.

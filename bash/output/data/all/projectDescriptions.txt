@@ -1,0 +1,2361 @@
+
+Generates a subset of a relational database that respects foreign key constraints
+API Standards for 18F
+Lightweight analytics reporting and publishing tool for Google Analytics data. Powers https://analytics.usa.gov.
+18F's TLS standards, practices, and operations.
+Innovation platform and collaboration marketplace
+18F's main website.
+An open API server, data import tools, and sample apps to help small businesses search for opportunities to work with the U.S. government.
+A shell script which turns your Mac into an awesome web development machine.
+An experiment in taking data from the Federal Election Commission and harmonizing/cleaning it up to make it easier for external developers to use and analyze.
+A simple time tracking experiment
+Resources and Materials for the /Developer Program
+Please check out https://github.com/18F/foia-hub/issues to track our work. This repo is for project wide discussion, blogging, and scratch space for 18F's FOIA modernization team. 
+A consolidated FOIA request hub.
+How the .gov domain space is doing at best practices and federal requirements.
+Connect better with government
+Jekyll plugin to download data from external JSON sources to use in generating a site
+This is the main repo for the Government Wide Pattern Library project.
+Exploring a reimagined website for the Federal Election Commission.
+The website content for api.data.gov
+Scan domains for various web things, like HTTP/HTTPS configuration.
+If Gov Then That
+Documentation hub for the 18F team
+18F's Answers Platform, based on Code for America's Honolulu Answers
+Continuous deployment made easy and secure
+A site to track our projects' status and much, much more...
+Webhook for automatically generating 18F sites a la GitHub pages
+18F's code of conduct.
+A simple, system independent infrastructure for performing web scraping. Utilizes Vagrant virtualbox interface and puppet provisioning to create and execute scraping of web content to structured data quickly and easily without modifying your core system.
+An estimator for hourly rates on professional services contracts
+get the size of one or more URLs
+A place to think and work on a new Peace Corps website.
+a Jekyll Plugin that generates a JSON file with data for all the Pages in your Site
+an approval process automation tool
+Python library to extract text from PDF, and default to OCR when text extraction fails.
+Information about how to respond to and prevent sexual assault on college and university campuses.
+A repo to organize the guidelines and best practices for accessibility at 18f.
+Frontend styleguide for 18F
+Server- and client-side web application for the OpenFEC data site.
+Beginning and Advanced lessons in javascript with a focus on functional programming.  This repo contains both exercises and solutions.  It is used by 18F to train its internal staff, but of course anyone is welcome to use it and possibly contribute.
+A set of principles, practices, idioms, and strategies pertaining to automated software testing and its adoption
+Discovery is a market research tool for the OASIS procurement vehicle. 
+A **draft** guide for the Agile Delivery Services BPA
+A demonstration of protosketching techniques
+Backend and web service for searching a database imported from CSV files (someday generally, but Prices Paid for now.)
+GUI for the PricesPaid market research
+A sandbox for opensource demonstrations of GitHub
+
+Documentation site for 18F's deployment of Cloud Foundry
+Federalist is a unified interface for publishing static government websites.
+(RETIRED) Initial mocks for a FOIA hub.
+Sendak integrates user, project, and deployment management for 18F
+OmniAuth strategy for MyUSA
+GitHub pages repository
+A complete agency API program.  
+Projects of the 18F Analytics Guild. For the 18F analytics standards, visit
+The SBIR-EZ project, whose goal is to simplify the process of participating in the Small Business Innovation Research Program
+A scraper for the SBIR topics housed on dodsbir.net
+Landing pages to promote the Treasury's new myRA initiative.
+Information on the extractive industries in the U.S. from Federal data.
+General 18F design issues, discussion, and shared resources/artifacts
+A search/similarity/discovery API over information from FOIA responses.
+
+A package for API Usability testing
+The 18F Women in Tech & Data Hackathon + Training Day November 7, 2014
+Release Manifest for Cloud Foundry
+Notes on the 18F-hosted Co-Working Sessions
+The 18F testing cookbook
+A search index and API server for anyone requiring basic, fast search of highly curated content.
+A handbook for those wishing to recruit a self-organizing volunteer group to address organizational needs
+A Jekyll-powered microsite, live at https://letgirlslearn.peacecorps.gov
+Python access to the FBOpen API
+A simple Vagrant setup to get you started with running Elasticsearch
+A microsite of hackathons hosted by 18F
+Charmander is a simple template for producing Jekyll static sites using Vagrant, Gulp, Bourbon, Neat, Bitters, and Bower.
+pyfpds is a python wrapper around the FPDS ATOM feed
+staging our redesign of the fbopen docs
+Digital Services Innovation Center's Open Opportunities - on the Midas platform
+A collection of 18F guides.
+(INACTIVE) A Mandrill Inbound email webhook that opens GitHub issues. Great for approving HTTPS certificates.
+A starter Flask app that uses the Flakes front-end framework
+Election data can be confusing. Searching through it, shouldn't be.
+Central point for all 18F Air Force Small Business projects
+18F's client agreements and related materials
+18F Consulting
+This is where we put materials relating to the user experience of MyUSA. Code goes into https://github.com/18F/myusa. 
+This small DATA Act pilot contains code that translates agency data to a uniform DATA act format.
+A thin layer between your users and the USPS API
+2014 PIF Application
+ElasticSearch in a Docker container
+Meet bronto, a BEAST of a thesaurus.
+A lightweight scorecard for clients and products that can be used at the beginning of client engagement or during and can help highlight areas that may impact success.
+Public repo for collaborative working on 18F's fee and labor rate strategy
+A chef cookbook for installing SSLMate and some optional helper scripts.
+
+Easily deploy Fugacious backed with Postgres via Docker and FIg.
+Generates a JavaScript snippet for searching FBOpen
+This is an experimental repository to prototype some Ajax and GUI ideas
+Experimental proxy to make GA data public. 
+
+A draft/work-in-progress playbook for Section 508-friendly procurement
+Ruby access to the GSA Auctions API
+A repo to organize training at 18f.
+Jekyll template for 18F Guides
+Every Kid in a Park
+Up is a simple utility to encrypt secrets and upload them to a specified S3 bucket, all in a shell script!
+Dispelling myths.
+Pruning/promotion of properties, deep merges, and joins for Ruby Hash objects
+scrapers to create iso metadata
+simple template for mapwarper - should be integrated and ported to ruby
+An experiment with using Travis-CI to a deploy a Sinatra app to Cloud Foundry
+[HireEZ v2] Doing heavy lifting in the land of government hiring.
+FAB is the FBOpen A/B test project
+A collection of position descriptions for digital jobs in government.  
+Chef cookbooks used for deployment of 18F stuff on AWS opsworks
+A Hub that links together all of the U.S. Digital Service teams
+A coming soon page for MyUSA
+ProjectMonitor is a CI display aggregator. It displays the status of multiple Continuous Integration builds on a single web page.
+18F's contributions to the GSA enterprise data inventory and public data listing
+A Node.js template for cross-browser functional tests with Sauce Labs
+Design collaboration.
+A collection of notes taken about the USPS APIs
+Chef cookbook for provisioning Midas
+A guide for anyone interested in joining the 18F team
+
+An example Rails app that connects to MyUSA
+Repository for the DOL/HWD FOH Charette 
+DEPRECATED: All 18F team data is now stored in 18F/data-private
+Standardization, munging, redaction, and publishing of weekly snippets
+Very simple code to demonstrate how to use the PricesPaidAPI (P3)
+Python web app that let's you upload URLs, tag, collect into portfolios, vote, and export the results as .csv files.
+Simple Authentication module used by PricesPaidGUI and PricesPaidAPI
+Components for creating a team Hub using Jekyll
+API for bronto thesaurus
+DEPRECATED: an RDS service broker for Cloud Foundry written in Ruby. see:
+A standalone search crawler and API for Jekyll sites.
+[WIP] EITI data and maps for DOI
+A place for @noahkunin to store presentation materials about devops
+A mock version of pay.gov for rapid testing
+Low level Ruby access to the Answers Platform API
+18F guide for building inclusive and accessible digital products.
+Generates and cleans up temp files for automated tests
+WIP: a gem to cycle through environment variables
+A command-line parser/usage generator wrapping minimist
+A FICAM profile for OpenID
+ideas for 18F projects
+DEPRECATED: Initial repo for some shared thoughts around a shopping cart idea.
+18F's mission, vision, and the core values that inform our culture and working models
+A WIP
+government requirements for shipping products
+Agile Principles and Practice, documented by the 18F Agile Guild
+A Ruby gem for reading and writing Interagency Agreement PDFs
+WIP: Team standards for implementing website and API analytics.
+
+
+An 18F Consulting Protosketch
+Validates YAML data against a schema
+An experiment to make CloudFront/S3 deployments nice and easy.
+A chef cookbook to install and setup the Mirage market research tool
+Ubuntu Hardening Bosh Release
+A reference project for Sendak - touches a file.
+Cookbook repo for afsbirez.
+Always be billin'
+Terraform Configuration for setting up a VPC and Instances for our work with the FEC
+A Chef cookbook to install and create configs for Shipper
+This is a repository for Rob
+A compilation of assets to jump start a new web UI project with 18F branding.
+A scratchpad for miscellaneous files
+Randomize into cohorts based on zip code as found by geolocation of IP address w/ freegeoip to aid in JS for experimentation
+This is the installation materials for the PriceHistory project, which consists of several repos.
+Team Rectangle!
+Project microsite for the Navy Reserve.
+A Ruby script that automatically generates the projects.json required by Project Monitor
+Explore relationship between the Report on Budget Execution and Budgetary Resources (SF-133) and the DATA Act.
+Financial models and spreadsheets of Software-development
+Code written during the DATA act agile workshop
+File hosting as a service.
+18F Cloud Foundry Bosh Release for customizations
+A place to explore and evolve a new site for the Federal Election Commission.
+CitySDK Data Workshop -- Innovation District Showcase Dashboard
+Generate a safe record locator (used for ticketing systems). 
+PIF website, jekyll flavored
+Testing Military OneSource on Federalist
+Evaluating DevOps capability.
+A sandbox for a program that bundles and commoditizes a range of 18F engagement options.  
+A playground repo for APIs
+This is a repository for Rob
+Formats Plugin for CKAN
+This is a d3-implemented interactive model to explain technical debt
+Dockerfile and instructions for running Oracle database in a Docker container.
+(Inactive) The Air Force Research Laboratory's Small Business Hub
+A guide to using Lean UX on your project
+Some exploratory schemas for DATA Act implementation
+billing tools/scripts for AWS
+Hello World apps for Cloud Foundry
+Create a folder of archived git repositories, using a csv to identify which repositories to clone.
+Chef cookbook to install and configure MyUSA
+Slides for 18FC
+A pa11y reporter for continuous integration environments 
+This is a repository for Aaron
+Just jamming' --- some exploration of parsing emails representing shopping lists
+A proposal for various live dashboards (not affiliated with the 18F Dashboard project)
+Navy Reserve \"Ready to Serve\" Mobile Web Application
+Scripts to assist with the configuration and operation of Cloud Foundry.
+
+EKIP API
+This is the open source repository for the Government Wide Pattern Library visual design assets.
+Jekyll search plugin based on lunr.js and jekyll_pages_api
+Cloud Foundry notifications for Hubot
+18F Testing Grouplet
+Prototype for SBIR-EZ.
+Historical Archive of AICC Documents - No Longer Maintained
+cmi5 Specification (an xAPI Profile for LMS systems)
+PENS (Package Exchange Notification Services) Specification
+
+ADL's Open Source Learning Record Store (LRS) is used to store learning data collected with the Experience API.
+The Virtual World Sandbox provides multiplayer simulation and collaborative authoring capabilities in a web browser without plugins.
+Wrapper to simplify communication to an LRS
+The ADL 3D Repository is a website for uploading, finding, and downloading 3D models.
+Provides a quick and easy way to generate graphs from your xAPI data, as well as a powerful query language to manipulate it
+These client examples for the Experience API (\"Tin Can API\") can help you learn and get started using the new API.
+The Experience API Learning Record Store Conformance Test.
+The Unity-SCORM Integration Toolkit is a demonstration of how content developers can use a game engine to create SCORM-Conformant content.
+APIWrapper.js file commonly used with SCORM with xAPI calls embedded
+ADL Experience API Verbs
+This HTML5/jQuery Mobile sample demonstrates a simple conference web application with QR codes for the Experience API (\"Tin Can API\").
+This bookmarklet sample is used to report informal learning to a Learning Record Store (LRS) using the Experience API (\"Tin Can API\").
+Assisting in developing xAPI statements and communicating with a Learning Record Store (LRS)
+A .Net client library for the Learning Registry
+A community-supplied python library for the Experience API (\"Tin Can API\"). 
+Document describing how to report SCORM data to the Experience API.
+a graphical user interface for publishing to the learning registry
+This example reporting tool for the Experience API (\"Tin Can API\") displays the Leaderboard on a large screen with data collected from the LRSGame.
+Watch edX's tracking log for changes, convert events to xAPI format, and publish them to an LRS
+Services to expose the Learning Registry search Index
+A Tool to help import the content of the Learning Registry into a data store of your choice
+Integration of xAPI using jQuery Mobile with course examples and templates to get you started
+A datatables and bootstrap based xAPI statement viewer for easier reading
+A shorthand syntax for communicating xAPI Statements
+The Re-Usability Support System for eLearning (RUSSEL) is an open-source software project to manage and repurpose courses, documents and multimedia assets. 
+
+
+Table XBlock is powerful tool used to create interactive and trackable tables in an edX course.
+
+The repo contains the source files for our EdX course and Edx extensions
+
+Walk through the creation of a sample visualization using sample data
+The Learning Registry Wordpress Plugin is packaged with a collection of widgets that makes it easy to retrieve Learning Registry resources by subject, national standard, or by arbitrary search terms on any Wordpress powered website.
+This is a test repository to define the workflow needed to iterate the Experience API specification on GitHub.
+Using jQuery to send statements written in markup to a Learning Record Store (LRS)
+Python Bottle app demonstrating using Medbiquitous' Competency Framework for defining competencies and the Experience API for tracking their progress and completion.
+Repo for the xAPI Vocabulary Working Group
+
+This is a github version of the xAPI CoP Charter Template. For more information, visit http://xapi.adlnet.gov/xapi-cop-directory/
+Team World of xAPICraft
+This repo is for Data for Enabling Content in Adaptive Learning Systems (DECALS) that is built on the RUSSEL platform is an open-source software project to manage and repurpose courses, documents and multimedia assets by providing services for managing ontologies ranging from general ontologies to taxonomies of learning objectives and ontologies related to learner models.
+
+This project explores xAPI integration possibilities and best practices with EPUB3
+Send Youtube Video interactions to an LRS with xAPI
+An organized list of ADL's resources available on github
+Cache and process xAPI data server-side for improved client-side performance
+Google Web Toolkit (GWT) files for the RUSSEL project.
+A prototype extensible intelligent tutoring framework designed to teach different types of subject matter on different platforms
+
+Guidance on transitioning from a SCORM environment to a TLA environment
+a quick server to harvest URLs from participating sites to populate recommendation system.
+Integration of xAPI with http://gitbook.io books
+Prototype to provide CRUD services and validation for learner competency information
+xAPI Community of Practice (CoP) Charter Template
+Build, save and share your queries to a LRS. Don't report without it!
+MarsGame Sandbox
+A resource archive for xAPI Design Cohorts
+A simple set of CRUD services to manage Sandbox assets
+This xAPI Design Cohort (Season 3) team set out to create/design an informal learning experience and use the Experience API to report the learning experience information between platforms in a corporate environment.
+xAPI-enabled Android Roses app
+The server-related web scripts associated with the Re-Usability Support System for eLearning (RUSSEL) project.
+Embed a Virtual World Sandbox instance into an edX course
+A metadata conversion script that generates Learning Registry envelopes from Central Army Registry metadata
+
+ADL Sandbox's blog and documentation Wordpress theme.
+A lightweight service (Web API) to provide basic CRUD services, file uploads, content metadata information, content downloads and to serve as a minimal content hosting web service.
+IFest XAPI integration demo game
+
+Unreal Engine 4 integrations with the Experience API
+
+Documentation for the Sandbox project
+Web application for creating data management plans
+TEON Web Map
+Project Tracking System
+Relay is a mobile first experience that allows journalists to report on breaking news situations in real time.  Users can follow updates through Email and SMS alerts and can catch up on coverage by using the timeline based interface.
+BBG Live Streaming Audio Player
+A suite of Node.js applications that provides push (realtime) sports information
+Display Storify content inside PopcornJS
+Secret Smithsonian
+A Ruby Gem API Client Library for the CXP API
+Responsive Interactive Voice Response (rivr)
+Documentation pages and API Explorer for the BBG Content Exchange Platform
+USG Socialmedia Monitoring Dashboard
+A simple php site for Ourblock Community Radio station player/page
+
+
+CXP \"Executive Dashboard\" demo app
+Mapping project using Leaflet.js
+The Blue Button JavaScript Library
+Reference Implementation for the Blue Button Health Record Format
+Experimental iOS 8 Repo to interface Blue Button data to Apple HealthKit
+Blue Button+ Implementation Guide
+Blue Button provider and receiver (app) API and website. Currently sponsored by ONC.
+Redesigning the patient medical record.
+Utility for converting C-CDA XML file to a simplified version in JSON.
+Helping consumers find their health data.
+Exploring JSON representation for claims data
+The Blue Button Toolkit website.
+A database and API for tracking data holder V/D/T and BB adoption.
+Blue Button Status Board for Data Holders
+The official Blue Button Ruby gem.
+An example implementation of a BlueButton+ registry
+Site for Blue Button Trust Bundle
+
+Example BB+ Registry as a statically hosted site
+The API for the Blue Button Connector
+BusinessUSA Open Source project
+
+Repository for FOUO code accessible by the CA-CST development community only
+Repository for open source code accessible by the general development community
+AWS CLI Scripts
+Based off the https://github.com/TestStack/White project
+CAST HTML Help
+images and JS scripts
+CAST rules and metrics
+SDLC Templates in .dotx format
+Systems Integration & Innovation Division's Public Colaboration Site
+Demo repository for CA/CST Coding Standards
+qu is a data platform created to serve our public data sets. This is a public domain work of the US Government. 
+Gently push content from development to production. This is a public domain work of the US Government.
+An application that lets an organization collect ideas, comment on them, and vote them up. 
+A site for the CFPB to share and discuss its technology work with the world.
+A set of design principles and standards for the Consumer Financial Protection Bureau.
+EC2mapper is a web application that provides a user-friendly interface to view Amazon AWS network configurations, while allowing changes to be easily tracked over time.
+Collab is a Django project with a standard set of configurations to provide services to reusable apps.
+All the code to parse a regulation. 
+Unbiased mortgage rate comparison tool for homebuyers.
+A tool for loading arbitrary content into Elasticsearch and serving that content on the web.
+Open source version of a simple Transit Subsidy intake form.  This is what is commonly used by United Stated federal government agencies. This is a public domain work of the US Government.
+All the code to present display regulations on the web. 
+A repository for the discussion and publication of the CFPB front-end team standards.
+Project-wide documentation for Capital Framework, a set of modular front-end components developed at the Consumer Financial Protection Bureau.
+A Jekyll template for project documentation
+
+An engine that supplies the API that allows users to read regulations and their various layers. 
+Tools to make caching easier in Django
+Tools to make importing and analyzing mortgage application data easier. This is a public domain work of the US Government.
+A project template containing default open source files for new projects
+A node module to calculate the interest paid, principal paid, remaining balance, and monthly payment of a loan.
+Tool that allows users to find the 10 closest HUD-approved housing counselors by the centroid of a ZIP code. They can print those based on the results on the web page.
+
+In-progress redesign of the consumerfinance.gov website.
+Downloads JMeter and JMeter plugins and demonstrates usage via examples. Suggested to be used as a git submodule
+Documentation to support upcoming data platform API and data sets
+
+A silly git inspector
+An interactive front-end for exploring the Home Mortgage Disclosure Act data set
+Form Builder app for Collab
+
+
+
+
+cfpb's API-keyless, batch geocoder
+
+
+A simple engine for backend widgets
+Yeoman generator for Capital Framework
+Data loader for Grasshopper 
+Prototype for HMDA visualization
+The API that drives the Owning A Home project. 
+WCAG and Section 508 accessibility audits from the command line.
+A Less-based grid system using parametric mixins. Part of Capital Framework.
+Design, research, and front-end implementation of responsive email templates for the CFPB.
+A node module to quickly calculate monthly payments and the total amount of interest paid for a fixed rate loan.
+Implementation of the rule engine for the edit checks for the HMDA Pilot project.
+Lookup APIs to assist in edit checks for the HMDA Pilot project.
+An extensible site rendering system
+Documentation for the eRegulations project. 
+
+Language-agnostic rule specification for the HMDA file specification and edit checks.
+Templates for consumerfinance.gov pages running on Sheer
+Advanced typographic patterns, including lists, links, and headers for Capital Framework.
+Custom icon font for Capital Framework.
+
+
+
+Collab app to meet new people
+Testing the amount of time it takes to process an average HMDA .dat file.
+
+Front-end to Grasshopper, cfpb's nascent geocoder
+Core styles for starting a Capital Framework project. It includes Normalize.css, variables, media query and utility mixins, class utilities and standard base styling.
+A set of common Grunt tasks for Capital Framework components.
+Address Parsing REST API
+Enhanced form styles for Capital Framework.
+A node module to calculate the overall cost of a loan.
+
+pluggable authorization management
+A collection wp-cli commands used at the CFPB.
+A node module to get the U.S. state closest to the user's position.
+
+
+
+Precision feedback for images and documents.
+
+Standard layout components for Capital Framework.
+Standard expandable (show/hide) elements for Capital Framework.
+Button components for Capital Framework.
+Sensible defaults for new CFPB machines
+
+
+An add-on to normalize.css that backfills v1 legacy browser support. It is built to be combined with newer versions of normalize.css.
+This is a simple plugin to add open graph data to a WordPress action hook.
+
+Internal Grunt task for automating project documentation and semantic versioning.
+Convert a United States dollar-formatted string into a number.
+
+Node module to keep a number positive
+One-way DOM-to-model data-binding.
+Check if a loan is jumbo or high balance.
+
+
+:warning: THIS REPO IS DEPRECATED :warning: You can find the color variables in cf-core.
+:warning: THIS REPO IS DEPRECATED :warning:
+An open source enterprise data warehousing and analysis platform.
+
+
+RPM build of the XSV toolkit
+
+
+
+:space_invader:
+
+
+
+
+A node module to test for a USD formatted input.
+Convert a number or string to a USD-formatted string
+Yeoman generator for CFPB node modules
+Publish ECCU files to Akamai
+
+Contains Jade templates for creating docs and demos for Capital Framework components.
+
+
+
+
+Standard pagination component for Capital Framework.
+
+
+
+
+Distributed I/O Daemon - a 9P file server
+Parallel filesystem I/O benchmark
+SLURM: A Highly Scalable Resource Manager
+Lustre Monitoring Tools
+LLNL's Branch of Lustre
+disk overwrite utility
+Lustre KDMU Development
+Some lustre-related scripts and utilities in use at LLNL.
+Lustre Monitoring Tools Java GUI
+ldiskfs backend filesystem for Lustre
+Cerebro is a collection of cluster monitoring tools and libraries.
+Mrsh is a set of remote shell programs that use munge authentication rather than reserved ports for security.  The code for mrsh is based on the source code for rsh, rshd, rlogin, rlogind, and rcp.
+cluster power control
+network block device over 9P transport
+linux cluster diskless support
+Get Remaining Time library
+quota utilities for NFS and Lustre file systems
+cluster node diagnostics
+e2fsprogs patched to support lustre and renamed to avoid conflicting with e2fsprogs
+
+9P kernel modules
+
+file system benchmark specializing in path search
+dotkit modified for use with dpkg-scripts in /usr/local
+Support for root over network block device
+Genders is a static cluster configuration database used for cluster configuration management.  It is used by a variety of tools and scripts for management of large clusters.
+ tools for packaging software in /usr/local using debs \t
+dpkg modified for use with dpkg-scripts in /usr/local
+apt modified for use with dpkg-scripts in /usr/local
+Whatsup is cluster node up/down detection utility. 
+The Gendersllnl package is a local genders package that contains libraries with extra helper functions.
+Google Maps and Socrata Integration (originally developed for innovation.cms.gov)
+CMS Developer Site
+
+Multi-scale plasma physics proxy applications.
+
+Papers, talks, reports, etc. for the CoCoMANS LDRD project. All approved for external release.
+Multi-scale materials science proxy applications.
+Official instructions that are directly relevant to work performed by @CommerceGov on Github.
+the all new clean and UI callback enabled app formerly known as Kepler (AKA pollen-planets)
+Cooper Hewitt: The Typeface created by Chester Jenkins
+Cooper-Hewitt's Collection Database
+A proof-of-concept Chromecast application for web-based signage in museums
+It's full of planets!
+palette-server is a small little WSGI-compliant httpony to extract colours from an image.
+Who's on first?
+The timeline’s goal is to visualize an individual object’s history relative to the velocity of major events that define the larger collection.
+get set up with your own Elasticsearch instance for searching the Cooper Hewitt's collection
+Cooper Hewitt's Python tools for wrangling colours
+frontend tools for working with images
+work in progress for doing fun things with our images
+A simple Flask-based HTTPony for processing file uploads with Tesseract and extracting accession numbers.
+
+These are the people in the Cooper-Hewitt collection
+Drop-in code and libraries for using elasticsearch in a Flamework project
+
+a little httpony to calculate the shannon entropy for an image
+A very simple WSGI-compliant HTTPony for doing IP lookups.
+Tools for talking to and working with TMS data
+Python bindings for the Cooper-Hewitt collections API
+
+There are many wrappers for the Slack API. This one is ours.
+its our API, on your phone
+@micahwalter as a service
+Tools for working with museum collections.
+it's for downloading things
+get your csv
+a little node module to call into the Cooper-Hewitt API
+Go libraries and utilities for working with Unicode character data.
+Listen to a Redis PubSub chanhel and then rebroadcast over WebSockets.
+Data. To ask: Who's on first?
+an early experiment
+Tools for working with Unicode data
+takes two images and returns a set of comparison metrics
+Cooper-Hewitt's Python library for reading and writing CSV files and managing (most of) the Unicode pain.
+A simple Flask-based HTTP pony server to dither images.
+A simple Flask-based HTTP pony server for doing colour extraction.
+Utility functions for Flask apps
+Tools. For Dates. And times.
+Functions for calculating and deriving properties for an image using Shannon entropy.
+Functions for extracting color palettes from an image.
+Drop-in code and libraries to use the Cooper-Hewitt API in your Flamework projects.
+
+Go wrapper for the Cooper Hewitt API
+Tools for working with Gearman
+
+Functions for generating black and white images using Bill Atkinson's dithering algorithm.
+Simple drop-in library code for calling the Wikipedia API from a Flamework project.
+
+
+Meta package to install all the Cooper Hewitt computer vision libraries.
+A simple Flask-based HTTP pony to lookup Unicode character names for a string.
+
+A simple Flask-based HTTP pony server for extracting \"Shannon-related\" properties from images.
+Base class for flamework-api derived API classes
+a little thing to grab a new artisanal int
+Tools for working with memcache
+
+The object of the Digital Crime Scene Challenge is for participants to use their forensic and investigative skills to focus on potential digital evidence and conduct triage/analysis of such evidence.
+The official site of the Veterans Affairs Digital Service.
+
+The GI Bill Comparison Tool
+The Leo framework - The VINCI-developed Natural Language Processing(NLP) infrastructure using UIMA. 
+
+These are open VBA data assets.
+THis is a template for generating government services schema from Google Spreadsheet using PHP.
+
+This is a template for creating government services schema using a Google Spreadsheet.
+This is a repository for the vetsuccess API.
+This is a simple PHP script for converting excel files to JSON, CSV and XML.
+This is a repository for the US Department of Veterans Affairs Data Assets that do not have URLs. This is a temporary solution. 
+This is a a repository for open NCA Data Assets.
+This is a repository for the US Department of Veterans Affairs Data Assets that do not have URLs. This is a temporary solution. 
+This an a repository for VA - OM data assets for  Open Data.  
+Data assets for VA's Office of Small and Disadvantaged Business Utilization in the department's Open Data effort
+Code From TechJam Fall 2013
+Team Awesome Nighthawks' Competition Entry
+
+
+
+
+VA private care eligbility info tool.
+Assets for the Office of Finance, Data Quality Service requested by Maggie Cook (FDQS) and Lisa Mavrogianis (OPP) for May quarterly IDC reporting.
+
+
+
+
+Data assets from the VA Office of General Council related to the open data effort
+This repository is for VA open Human Resurces (HR) data. 
+Space Based Solar Power
+Templates of map, chart, and timelines
+
+Map of EIA-860 Power Plants
+A Climate Dashboard Prototype
+d3 for consumption infographic
+lpo
+Best Practices 
+production data from seds d3 map
+Quiz on the Grid using Quiz Template
+Timeline for the EM section of the website.
+
+
+The code base to pull down when creating a new project
+Quiz Template, where we build the css and dom
+
+
+
+History of Nuclear Energy
+National Labs map
+Codebase for an example workflow to integrate into energy.gov
+Wind Turbine Graphic for the Department of Energy
+Geothermal Map
+Consumption graphic
+App Frame using Foundation Responsive Framework
+
+Using the sankey d3 example for energy and chemical data
+Quiz Generating Script, built in quiz-template
+A computational methods and simulation toolkit
+
+Clone of triangle source
+clone of numexpr svn repository
+GRIB_API package based on version 1.9.16
+IPython notebooks involving proteus
+PYGRIB - Python Module for Reading GRIB files version 1.9.6
+A Python distribution for the HPCMP
+Python Interface to PROJ.4 Library based on version 1.9.2
+Module for solving 3D, non-hydrostatic, turbulent, incompressible air/water flow (multi-phase RANS)
+Setting up a dummy package to work on builtbot and testing framework for proteus
+Testing webpage suppport
+Talk on levee modeling for FEMTEC 2011
+The ERDC Computational Mechanics Brown Bag Seminar code and presentation repository
+clone of tetgen source
+clone of superlu repository
+clone of nose
+clone of hdf5
+Python Modules for netCDF-4
+Levee models
+Research on projections schemes
+
+
+Geophysics working group of the [HPC]^3  workshop
+Git clone of zlib source
+clone of szip source
+The Differential Algebraic Equation Toolkit
+
+A very simple software package example that includes a Makefile
+Example of new Proteus Gauges
+Mirror of petsc-dev
+netCDF version 4.1.3
+
+Stationary Lidar analysis
+This is a lightweight repository for storing Proteus performance profiles
+JASPER package needed for GRIB_API
+
+IPython notebook for visualizing precipitation data
+Analytical wave solutions (linear monochromatic, wavetrain, solitary, Stokes, etc.)
+Proteus Scalability Studies/Reports
+IPython profiles for various environments
+Analysis of Single Beam LARC data
+Verification and validation tests for computational models of air/water flow
+This is the documentation repository for the eRegulations effort.
+A test repository to experiment with how Huboard and other add-ons can help us organize and track work.
+Crawler is a bare-bones spider designed to quickly and effectively build an index of all files and pages on a given Web site as well as the link relationship (both incoming and outgoing) between each page.  
+Evolution of LPFM Stations
+
+creating the low power FM map
+Tools used to build both interactive and visual sitemaps of crawler results
+
+WordPress Sidebar Widget to allow filtering indexes by built in and custom taxonomies. 
+Various jQuery and Google Analytics tools used on FCC.gov
+
+By aggregating otherwise distributed institutional knowledge, DeveloperView overlays a third dimension of information over a Web page and provides Web site stake holders the ability to view, organize, and collaborate in the management of site content
+A Python SDK for the FCC's Accessibility Clearinghouse APIs
+The FCC's digital strategy progress reports.
+Convert JSON output from the FCC mobile measurement application to CSV
+Universal Service Fund E-Rate program data for FY2010 from FCC Forms 471 (Blocks 1, 4, and 5)
+Simple PHP wrapper to port one site's look and feel to another's content
+FCC study area boundary data available for download from online SAB map.
+Prototype of simple right rail content
+QSearch uses a persistent key-value data store to provide super fast lookups of uniquely identifiable items as a drop-in component for web site search.
+TVStudy Data Processing and Constraint Generation software to generate pairwise interference constraint files for use in the repacking process of the incentive auction software
+AM Tower Locator Tool
+A CentOS 6.3 Vagrant box for generating synthetic data
+pirate action version 2
+
+Machine readable data of public FCC Spectrum band plans 
+This data provides the public with shapefile data that can be downloaded to view detailed CGSA boundaries.
+Results files for Auction901
+
+
+International Bureau - International Traffic Data 2010
+This repository contains the data which fulfills the requirements of the Federal Communication Commission’s November 19 Further Notice of Proposed Rulemaking.  It lists census blocks that are reported on the National Broadband Map as unserved by fixed broadband with advertised speeds of 3 Mbps downstream and 768 kbps upstream.  The data relies on the current version of the National Broadband Map, using data as of December 31, 2011.
+Connect America Fund Phase 1 Round 2
+FCC Rate-of-Return Map
+Connectivity & Health in Virginia
+
+
+
+
+Wireless License Boundaries
+CAM output experiment map
+map for the 706 report
+
+visuals for cost map
+Connect America Phase II – Final Map
+
+Interactive maps showing fiber connectivity to public schools and libraries.
+
+Benchmarks for the API Backends
+
+openFDA is a research project to provide open APIs, raw data downloads, documentation and examples, and a developer community for an important collection of FDA public datasets.
+openFDA web site.
+datamapper binding to the NDC database
+
+The Attacker Phase: Phase 2 challenged contestants to circumvent an existing honeypot and prevent it from collecting information on incoming calls. Droid Rachel circumvents the existing honeypot by employing a four-step targeting process that screens out phone numbers potentially connected to a honeypot, and optimizes Droid Rachel’s ability to send robocalls using unsuspecting consumers’ Android phones.
+The Creator Phase: Phase 1 challenged contestants to build a honeypot that identifies inaccurate information in incoming calls, such as spoofed caller IDs, or determines which calls are likely robocalls. Jon’s honeypot uses a combination of an audio captcha filter, call detail analysis, and recording and transcription analysis to determine, on a sliding scale, the likelihood that an incoming call was a robocall.
+The Detective Phase: Phase 3 challenged participants to analyze call data from an existing honeypot and develop algorithms that predict which calls are likely robocalls. 
+A public repository to track issues around the relaunch of USASpending.gov
+Presentation and comments from the September 26, 2014 Data Transparency Town Hall
+RH calculator
+Kerberos authentication for BrowserCMS
+A project to make accessible government services
+Great Smoky Mountains National Park Trails
+
+For Training
+Data.gov source code and issue tracker
+The US federal government's web traffic.
+The proposed HTTPS-Only Standard for federal domains.
+PDF Filler is a RESTful service (API) to aid in the completion of existing PDF-based forms and empowers web developers to use browser-based forms and modern web standards to facilitate the collection of information.  
+A lightweight listing of /developer pages in government, including embed-ready html code and structured xml.  
+Uses Javascript to query the Social Media Registry and GitHub APIs and list details about all federal open source code on GitHub
+Project Open Data Dashboard
+Assorted data from the General Services Administration.
+USA.gov's list of government URLs that don't end in .gov or .mil
+Generic RESTful Interface for databases 
+data.gov extension
+ASIS (Advanced Social Image Search) indexes Flickr and Instagram images and provides a search API across both indexes.
+Allows you to tap into a list of car, drug, food, and product safety recalls. Recalls are searchable by keyword, issuing agency, date, UPC code, vehicle-specific attributes, or any combination of these.
+Allows you to tap into a list of current jobs openings with federal, state, and local government agencies. Jobs are searchable by keyword, location, agency, schedule, or any combination of these.
+Open and structured content models drafted by a cross-agency working group.
+Machine-readable schema for describing action items within the president's digital strategy, and for reporting on its progress
+A sandbox for loose collaboration on assorted open data projects
+MyUSA - reimagine how citizens interact with government through an experience designed around their needs rather than a confusing and fragmented bureaucracy.
+Source code from around, inside, and outside the federal government that can be helpful to federal agencies building mobile apps.
+Generates reports to describe agencies' progress in realizing the goals of the President's Digital Government Strategy 
+A hub for accepting public feedback on government APIs
+The MyGov Discovery API provides a service to discover related government content. Each page is assigned tags, which are used to find similarly tagged pages.
+The MyGov Discovery Bar allows visitors to government websites to find relevant content across federal agencies.
+US Public Participation Playbook
+Space for IAE Architecture and code documentation
+A collection of example and template resources for agencies producing APIs
+Documentation to support upcoming data platform API and data sets
+Allows sites to serve and track changes of root level XML, JSON, and other data files without directly uploading files to the server
+Standards, Tools, and Guidance for offering web content as a web service
+A barebones API
+A slightly reorganized version of Foundation, with core mobile styles up front (for the most part) and tablet and desktop second. 
+Repository of synonyms, protected words, stop words, and localizations
+Do you have feedback, ideas, questions, or feature requests for GSA APIs?  Use this repository's Issue Tracker to join the discussion.
+Reginfo.gov XML Forms Report Data Parser
+Middleware adapter to proxy the GitHub Issues API as an Open311 GeoReport v2 endpoint
+US Government unclaimed money metasearch
+Repository for IAE architectural documents.
+A tool for managing a CKAN data catalog
+PHP Class to retrieve details about federal open source code hosted on GitHub  
+
+The Enterprise Data Inventory is a CKAN based data management system for private and public data management
+Wordpress Plugin to interact with Open311 API
+An experiment to make a jekyll-powered catalog generator
+Frontend for creating/editing tasks through the mygov-account tasks api
+Sinatra app used to display the top 25 forms using data from Reginfo.gov
+Design assets associated with data.gov
+A CSV-based version
+My BusinessUSA
+A style guide for Data.gov
+Issues reported for the for the DFAS.mil RWD application compatibility test-cycle. 
+Crowdsource test-cycle for the CIO.gov web site 
+Crowdsource test-cycle for the HHS.gov web site for Administration for Children and Families (ACF) 7_2014
+OmniAuth strategy for MyGov
+A Ruby client library for the EPA's UV Index REST API (http://www.epa.gov/enviro/facts/services.html#uvindex)
+Demonstration on how to build an app that uses MyUSA for login
+A test script you can use as a starting point for testing your mobile web site.
+Prices Paid Portal API
+Application built and used by the FSSI Data Management team to ingest, process, and output data.
+CSV Containing a listing of federal agencies and organizations including any bureaus.
+Search engine for agencies' published content
+Issues reported for the for the NIH-HCI application compatibility test-cycle 12/2014.
+A simple way to access all the GitHub repos of US federal agencies.  
+
+A collection of federal agency logos
+A list of government domains
+
+GSA's administration and implementation of github.com/gsa
+Issues reported for the for the NOAA-CrowdMag Android application compatibility test-cycle 8/2014.
+Identity Management for Data.gov and Related Systems
+A PHP client for the CKAN data catalog
+Archive of vocab.data.gov
+custom data.gov plugin
+
+labs.data.gov home page repo
+A lightweight SDK for PHP applications to interact with the MyGov Account APIs and OAuth login
+Tasks API: Create task blueprints for MyUSA users to add to their profiles
+A Sizable App Registration Rotator for Wordpress, Drupal and HTML5
+A template for a lightweight microsite using markdown.  Good for collaboration, as well.  
+Issues reported for the for the ABMC iPhone application compatibility test-cycle 8/2014.
+Crowdsource test cycle for the USAD FSIS  
+
+API documentation for the Social Media Registry
+Resources and Materials for Search Engine Optimization for .Gov Websites
+
+
+
+Issues reported for the for the NOAA-CrowdMag iOS application compatibility test-cycle 12/2014.
+Central Repository for \"Generic\" Crowd-Source Testing Artifacts That are Shared Across Test-Cycles 
+Based on fckeditor project at RubyForge
+API documentation for the eMuseum API
+custom data.gov plugin
+A lightweight method for calling an agency's Social Media Registry entries.  
+Modus Operandi API
+custom data.gov plugin
+ArcGis map custom plugin for data.gov
+Issues reported for the for the Connect.gov application compatibility test-cycle 1/2015
+custom data.gov plugin
+custom data.gov plugin
+custom data.gov plugin
+custom data.gov plugin
+usa-search
+Responsive slider for use on the Sites.USA.Gov Wordpress platform
+Code snippets and solutions for presentation layers to the catalog
+Theme for Data Catalog 
+Comment validator for WordPress comment form, instead of sending users to default error page
+Brainstorming the integration of federal APIs in USA.gov
+Identity Provider for Data.gov and Related Systems
+custom data.gov plugin
+
+Uses Salesforce Holiday Object to determine holidays / non-business days
+Mustache templates for data.json
+View Permissions, Queues, Memberships for a given user
+Data.gov specific fixes for custom-permalinks
+A responsive login page for Saleforce Communities using Bootstrap
+Open Source Framework for GSA - use this framework as a reference when open sourcing your code base
+This repository documents the FAS Technology Solution Divisions (TSD) manifesto for Agile Configuration Management
+
+Pages and layout for our website.
+Agile SDLC Documentation repository for GSA IT's Technology Solution Division
+
+custom data.gov plugin
+An API and mobile interface for the USA.gov FAQs
+A community for Salesforce programs within the Federal government.  
+Gallery of widgets powered by the Social Media Registry
+Basic ckan extension to add google analytics tracking code in page header
+Alternate versions of the Project Open Data schema
+custom data.gov plugin
+custom data.gov plugin
+SAML2 Athentication extension
+also a test site
+Issues reported for the for the HHS_MAIN compatibility test-cycle 9/2014
+Developer Hub for GSA 
+simple-tooltips customized plugin for wordpress
+An API for GSA auctions data. 
+custom data.gov plugin
+Bash scripts to generate metrics on U.S. Federal usage of GitHub using the GitHub APIs
+Pillbox at the National Library of Medicine
+Custom CKAN extension for Healthdata.gov
+Code and documentation for the release of MeSH in RDF format
+Pillbox for Developers data processing code
+Pillbox for Developers homepage
+The new Pillbox Engine. A local web-based application for downloading and management of DailyMed SPL Data
+
+A public repository for sharing codes
+
+A repository for sharing DAP tracing code with other OpDivs
+HHS Organization Page
+
+HHS Digital Media module for Drupal 7
+Wordpress plugin to add a custom post type for HHS digital media syndication
+HTML & Javascript module for searching and embedding HHS Digital Media
+HHS Digital Media module for Joomla version 1.5
+HHS Digital Media module for Joomla versions 2.5 and 3.x
+
+Javascript SDK for HHS Digital Media API
+Java SDK for HHS Digital Media API
+ObjectiveC SDK for HHS Digital Media API
+PHP SDK for HHS Digital Media API
+Tools for working with CMS Health Provider Data
+Provider JSON
+A system for assessing whether an individual is income-eligible for Medicaid.
+Certified Health Product List (CHPL) OpenAPI
+Medical License Verification System - A standardized medical licenses code and means for verification (Includes a reference implementation)
+This repository for the Health Resilience Technology project.  It includes source code for this open source, open government project.
+The NPPES Provider Registry as a Django Application Plugin
+A simple RESTful API for Direct Certificate fetching and validation via LDAP and DNS
+Foreign Relations of the United States - TEI XML source files
+Do you have feedback or requests for the Office of the Historian's website, datasets, or APIs? Use this feedback tracker to start the discussion. Click on the \"issues\" tab to start a discussion.
+dcp is a distributed file copy program that automatically distributes and dynamically balances work equally across nodes in a large distributed system without centralized state.
+An API to provide an efficient distributed queue on a cluster. Libcircle is currently used in production to quickly traverse and perform operations on a file tree which contains several hundred-million file nodes.
+Some example MPI programs
+A distributed and decentralized filesystem treewalk function, similiar to the interface of linux's ftw(3). libdftw automatically and dynamically balances the treewalk workload across many nodes in a large distributed system.
+Scalable dynamic library and python loading in HPC environments
+Generate an optimal rootfs hybridize list of files that should be symlinked to NFS mount and not required before NFS mount happens
+SCR caches checkpoint data in storage on the compute nodes of a Linux cluster to provide a fast, scalable checkpoint / restart capability for MPI codes.
+Very simple MPI sanity code. Nothing more, nothing less.
+Parallelized gnu-coreutils
+iptablesbuild is effectively a configuration manager for iptables. It is intended to manage iptables configurations in a centralized location for multiple systems.
+Simple MPI application that approximates memory usage of MPI libraries.
+A Splunk app for fast detangling of supercomputer logs.
+User space POSIX-like file system in main memory
+useful? cluster. scripts!
+The Light-weight Group Library provides methods for MPI codes to quickly create and destroy process groups
+Prerequisites, Packages, Services, Sanity check tools
+CCE MPI: Open MPI 1.4.4
+Perform external ethernet interface configuration and hostnames
+parallel execution command, on host or across a cluster, run commands, copy, etc
+A tool to transfer permission of files to others in a linux-based environment.
+Datatype Compare (DTCMP) Library for sorting and ranking distributed data using MPI
+Web-based HPC dashboard and more
+generate cluster pxe files from a flat config file
+Print a stat struct using a method similar to sprintf(3).
+Open MPI platform files
+Tool to detect and report leaked MPI objects like MPI_Requests and MPI_Datatypes
+An application that uses RCA to get the mesh coordinates of NIDs within an allocation.
+HOWTO dump and reload a PERCEUS db from a flat-file configuration
+low level ugni based network tests for Trinity 
+One way of determining the amount of local processes on a node using MPI 2.
+CCE Open MPI 1.7.1
+MVAPICH2-1.9 with patches for CCE
+Perl scripts to process ibnetdiscover to extract network topology info
+A mess of buggy python scripts used for handling unusual repetitive file system maintenance tasks.
+A simple code used for OpenMP sanity.
+Yet another branch of lustre.
+CCE MPI: Open MPI 1.4.3
+
+CCE Open MPI 1.6.4
+
+MVAPICH2-2.0 tarball with CCE patches
+Communication library for bootstrapping MPI
+Research prototype for fast launch of MPI jobs
+Lightweight virtual machine clustering technology based on QEMU and KVM
+
+jQuery Accordion that mostly complies with WAI-Aria 1.0 Authoring Practices.
+
+
+
+
+jQuery plugin that replaces a placeholder image with YouTube video.
+The America.gov base theme
+Visualization code for network projects
+Map widgets for I&M Vital Signs
+
+Enjoy the View test map using ESRI-leaflet
+Testing This Sandbox
+Visualization utilities for the NPScape landscape dynamics project
+HTML site for code - very basic.
+Mobile Virtual Reality Mine Safety Training iPad Prototype
+Toxic Substance Quick Reference Guides for the iPhone Prototype
+Joomla installation for main Lab web site
+UMLS SOAP access via NodeJS
+CDC R&D Lab Research Project Management System
+PTT Advisor iOS app to provide clinical decision support for prolonged partial thromboplastin time (PTT).
+Cross-Platform prototype app to display the 2010 CDC STD Guidelines
+NIOSH Facepiece Respirator Guide Prototype
+STD Guide iPhone Prototype, Version 2
+Web prototype to demonstrate related laboratory ordering terms
+Health literacity assessment prototype
+Graphical elements used by CDC R&D Lab
+Family Heath iPhone App prototype
+HIV Risk Assessment Tool prototype
+A Google Glass starter app
+Tracking code for the IIU applab website
+
+Visualization tool for public health related news surveillance.
+Web prototype for coordinating public health event communications
+Integrated Surveillance Portal web site.
+STD Guide, Version 1 prototype
+Set of small prototypes to test cross-platform developer tools.
+MMWR Navigator iPad Prototype
+MMWR Map Navigator Prototype
+Public Health Information eXchange
+Twitter monitoring for public health situational awareness.
+Central Line Insertion Practices (CLIP) adherence monitoring iPad app prototype
+Pages repo
+Library for connecting to UMLS metathesaurus in Java
+Repository for nifty cardboard code
+Website for Mobile Apps using Bootstrap
+Guided twitter messages for surveillance prototype.
+MMWR Express App for Android
+Death reporting reference app for Android
+Monitor sites and servers
+Location based app for iOS.
+
+Second generation STD mobile app using jQuery Mobile
+
+
+2014 STD Treatment Guide for Android
+Python script to generate HTML and JSON content
+Lydia Project Mobile App for iOS
+WordPress version of App Lab
+surround
+PassportJS Authentication Strategy for MyUSA.gov
+A Python library for collecting Met/Ocean observations
+conda-recipes for IOOS packages
+Python tool to check your datasets vs compliance standards
+A web based catalog of IOOS services and datasets
+IOOS DMAC System Integration Test project 
+Prototypes for the SECOORA skill score
+
+metadata companion library for paegan data model
+Getting data services registered in the IOOS Service Registry
+CF Standard Names for Java
+IOOS Metadata Mapper frontend
+Inject stations/observations from an arbitrary database into an IOOS 52 North SOS
+IOOS Testbed 2 Server NcML & metadata files
+THREDDS catalogs for comt_catalog.sura.org:/var/www/thredds_instance/content/thredds
+
+IOOS Coastal and Ocean Modeling Testbed.  See:
+Python tools for manipulating NCML (NetCDF Markup) files
+Experiments in aggregating national met/ocean data into a single SOS instance.  How big is too big?
+Injection modules for registering sensors and inserting observations to an SOS (developed against 52 North)
+IOOS 52°North SOS
+XML Stylesheet Transformations to support (primarily) translations to/from ISO 19115-2 and views of ISO 19115-2. 
+Icons and other stock IOOS material
+
+Shared IOOS SOS resources
+Validation library for IOOS SOS responses
+Example usage of the sos-injector
+
+NcSOS deployment best practices, successes and issues
+Generate user-friendly, consistent KML's from IOOS SOS Milestone 1 end points, for fixed-location stations
+
+
+scripts to go from database query or time-series files+simple metadata -> hash -> ncSOS/NODC compatible netcdf using file templates
+Instructions and Guidelines for use of Controlled Vocabularies in IOOS-compliant data services
+
+IOOS Testbed 1 Server NcML & metadata files
+Generate static ontology members for IOOS parameters using Maven schemagen plugin
+IOOS github pages
+Status Application for Glider DAC
+Presents etree interface to netcdf4-python objects using NCML data model
+IOOS National Glider Data Assembly Center (V2)
+Schemas and Schematrons for validating ISO 19115-2 and related standard metadata.
+Ipython Notebooks demonstrating cool things with IOOS data
+Some Ipython notebooks used in the IOOS Coastal Ocean Modeling Testbed (COMT)
+Catalogs for IOOS Glider DAC v2
+
+beginning examples using the flot javascript library to graph from web services such as ncSOS,ndbc SOS and thredds(wms get feature info and ncss)
+
+GliderDAC Compliance Checker plugin
+OGC CITE CTL tests for IOOS SOS implementations
+The IOOS Glider DAC site/scripts/tools
+The IDES Data Preparation .NET project repository demonstrates a sample working application developed using .NET Framework.  
+The IDES Data Preparation Java project repository demonstrates a sample working application developed using Java. 
+The IDES Data Preparation OpenSSL project repository demonstrates commands to decrypt notifications received from IDES.
+
+Web based Registry platform for managing synthetic biological parts
+Web based DNA sequence editing and analysis tool
+
+
+
+
+Dockerized ICE
+JPL Statechart Autocoder Rev. 2
+An extensible framework for genome assembly.
+
+The kb_seed module contains an import of a large body of code from the SEED project. These imports are performed on a periodic basis as new features developed on the SEED side are required in the KBase codebase. This deploys both client and service libraries.
+The m5nr is a MD5 based non-redundant sequence database that includes both protein and rRNA sequences.
+A service that provides import, upload, and download capabilities as well as tools for validating and converting between data types, both internal and external to KBase.
+Flux balance modeling service. Deploys both the client and service codes.
+This repo contains documents and guides that describe project principles, how-to docs, etc.
+An application programming interface for managing files. This service provides an AbstractHandle that can be used to reference data in different stores. This deploys both the client and service.
+AMETHST, or Analysis METHod Selection Tool, is an automated pipeline that makes it possible to objectively assess the relative performance of multiple analysis methods applied to annotation abundance data. Utilizing objective, permutation-based statistics, it can determine the best performing analysis from any arbitrary collection of analyses, and can also determine the degree to which each analysis step (e.g. normalization and reprocessing of the data, selection of distance/dissimilarity metric) affects the results produced by each analysis method.
+deploy_tools
+Next generation of KBase documents and code experiments
+User profile service (including basic Social profile)
+narrative job proxy
+Service for wrapping Narrative Job Service with additional functionality
+integration tests
+A set of common tooling for awe based workflows
+A service for assisting in mapping external ids to kbase ids.
+Module to instantiate auto-deploy during a standard build
+Provides user access capabilities to handles.
+Simple wrappers around fba tools.
+A command line and application programming interface to the KBase modeling services.
+A command line and application programming interface to the KBase genomics service.
+This service wraps the ERDB software and allows querying the CDS via the ERDB using typecompiler generated clients rather than direct Perl imports of the ERDB code.
+This module provides a workspace browser for workspaces. The main component of this repository is the workspace browser app that is contained in the ui-common repository. This repository provides the necessary release engineering to deploy the workspace browser as an independent component.
+KBase service code for RDP. A classifier of rRNA amplicon data contributed by the RDB Project. Deploys both client and service.
+The registry service provides a service registry for Services.  This deploys both the client and the service.
+This repository contains wrapper code to integrate the ModelSEED Perl libraries into KBase.
+This is a C implementation of the authentication clients.
+
+Detects Streptococcus repeats in genome sequences.
+
+The Workspace Service (WSS) is primarily a language independent remote storage and retrieval system for KBase typed objects (TO) defined with the KBase Interface Description Language (KIDL).
+The invocation service provides remote invocation of commands. A java script browser client for interactive remote invocation (IRIS) is included. This deploys  the client, service and javascript web application.
+
+This repository is a container for developing and deploying KBase modules. To use this, you must already have a \"runtime\" directory, which contains the neccesary binaries and libraries. For an idea of what is expected to be in this runtime, consult the [bootstrap repository](https://git.kbase.us/bootstrap.git/).
+Identification of core annotation pipeline (CAP)
+High level documents regarding the design and architecture of KBase
+Towards a unified data api for KBase
+The awe_service repository provides KBase release engineering tools for the deployment of the AWE client and server. The AWE repository is included as a submodule in the awe_service repository and is maintained at http://github.com/MG-RAST/AWE.
+authentication services for kbase
+The genome annotation service provides automated gene annotation based on the RAST system. This deploys both client and service components.
+
+bootstrap for runtime data
+A collection of utilities for working with AWE
+Support for a pool of production awe clients
+
+Plant related genome wide association studies.
+Scripts and other tools for collecting metrics and generating reports and summaries.
+This module contains utility code and data used in the creation of KBase distributions.
+Generated documentation and accompanying descriptive documentation for KBase infrastructure
+
+workspace-browser
+This provides an emulation of the Globus Nexus API that can be used to support authentication back ends other than Globus Nexus.
+The KBase Data Importer allows users to upload data for use in KBase.
+The KBase Type Compiler consumes a type-document and produces a server and implementation libraries in one languages and client libraries in multiple supported languages.
+The KBase ID service provides access to the mappings between KBase identifiers and external identifiers (the original identifiers for data that was migrated from other databases into KBase). This deploys both the client and service.
+A collection of examples showing how various modules work together. This is primarily used for training and learning.
+Enables deployment of shock server and clients within the kbase release environment
+The KBase genome browser
+Basic java client for Shock.
+
+
+Central store quality control.
+This service provides a set of methods for querying, manipulating, and analyzing multiple sequence alignments and phylogenetic trees.
+The mgrast_pipeline repository provides KBase release engineering tools for the deployment of the MG-RAST pipeline. The MG-RAST pipeline repository is included as a submodule in the mgrast_pipeline repository and is maintained at http://github.com/MG-RAST/pipeline.
+feature values
+A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.  Project mailing list can be found at http://listserv.loc.gov/archives/chronam-users.html.
+A web application developed by Zepheira for the Library of Congress National Digital Information Infrastructure and Preservation Program (NDIIPP) which allows users to create and share embeddable interfaces to digital cultural heritage collections. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+Work with BagIt packages from Python.
+A historical gazetteer project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects. 
+Java library and command line to support BagIt. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+A fast, responsive HTML5 viewer for scanned items, developed for the World Digital Library. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+Experiment doing BagIt processing in a static web application
+A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.
+The Bagger application packages data files according to the BagIt specification.
+The Library of Congress and the Florida Center for Library Automation developed the PREMIS in METS (PiM) Toolbox. The project provides PREMIS:METS conversion and validation tools that support the implementation of PREMIS in the METS container format.
+Library of Congress metadata structures.
+Dynamic object-oriented programming support for the Go language
+Program analysis tool based on software performance counters
+A Portable Cross-Platform Framework for Data-Parallel Visualization Operators
+Cell-Based Adaptive Mesh Refinement
+Go language interface to the Libcircle distributed-queue API
+Go language interface to the PAPI performance API
+Exascale papers and presentations
+A Parallel Haskell framework for particle-based Monte Carlo simulations
+Go language interface to the Intel 64 RDRAND instruction
+SN Application Proxy
+Organization Pages
+Parallel version of the Bash shell
+Scout -- Domain Specific Language & Toolchain
+QUO: run-time tuning of process binding policies made easy
+A compact hash algorithm for CPUs and GPUs using OpenCL
+Continuum Dynamics Evaluation and Test Suite
+Suite of software to automate HPC system testing under Moab
+A perfect hash code for CPUs and GPUs using OpenCL
+Network Correctness and Performance Testing Language
+Monte Carlo code for Neutrino Transport
+Expose race conditions in Makefiles
+HILO: Quasi Diffusion Accelerated Monte Carlo on Hybrid Architectures
+A general purpose particle library designed to run on next-generation hardware such as MICs and GPUs.
+Unstructured mesh hydrodynamics for advanced architectures
+Matriarch: A Framework for Automated Performance Analysis
+MOSES Grid Manager
+After Action Review (AAR) module for OpenSimulator
+Command and Control script used to allow mgm to start and stop processes on a separate host.
+MGM for version 2.0 is a complete rewrite of manager, replacing several components, and enabling future enhancement.
+An Opensim Region module for MGM integration
+
+Millennium Challenge Corporation's Open Data Catalog
+Backend scripts to generate data from internal databases
+Just random snippets of code
+Scripts to generate IATI compliant file for MCC using data from MCC Open Data Catalog
+Code that MCC uses to generate IATI XML v1.03
+Tools to scrape or convert data
+Mission Control Technologies is a real-time monitoring and visualization platform. See an overview and demo at http://ti.arc.nasa.gov/OpenMCT/. Download MCT plugins at https://github.com/nasa/MCT-Plugins.
+World Wind, an open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004. It is now developed by NASA staff and open source community developers.
+Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
+Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
+Operating System Abstraction Layer
+The X-Plane Communications Toolbox is a research tool used to interact with the X-Plane flight simulator
+The API documentation for several NASA APIs.  
+Space Weather and the Sun.
+Create Microsoft Documents automatically using Text and Template files
+The Open Scheduling and Planning Interface for Exploration (OpenSPIFe) is an integrated planning and scheduling toolkit based on hundreds of hours of expert observation, use, and refinement of state-of-the-art planning and scheduling technology for several applications within NASA.
+Library for rigorous verification of non-linear arithmetic
+An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that gives a developer the ability to create simulations of such thermodynamic systems as turbomachinery and gas turbines. Keywords: TMATS, Control System, Numerical Methods, Newton-Raphson, Jacobian Calculation, Propulsion, Aircraft Engine, Jet, Turbofan, Turbojet, Compressor, Turbine, Nozzle, Inlet, open source
+Machine-readable schema for NASA's response to the president's digital strategy.
+NASA Ames Crisis Mapping Toolkit
+
+Do you have feedback, ideas, or questions for NASA APIs? Use this repository's Issue Tracker to join the discussion. For more information visit http://open.nasa.gov/developer. 
+libSPRITE is a set of libraries that have been used on several past projects including flight, technology demonstration, and simulation projects. libSPRITE provides a diverse set of functions to attempt to simplify coding and reduce code errors. For example, libSPRITE defines engineering units as types (i.e., Meters or Radians instead of double or int). It includes an engineering unit aware math library. libSPRITE includes a task scheduling system that abstracts pthreads and includes a publish subscribe data system for data routing. In addition, libSPRITE includes an optional binding to the Lua scripting language for configuring the program, setting parameters, running Lua scripts within C++ tasks and even interacting with the application during runtime.
+
+
+EEPROM File System
+contains the NASA open source software catalog for automatic deployment to code.nasa.gov
+
+NASA PVS Library of Formal Developments
+
+DEVELOP National Program Python module
+Core Flight Executive
+Matplotlib object oriented style system
+An open source, semi-automated, control design tool for subsonic aircraft engine simulations written in the MATLAB/Simulink environment.  The Tool for Turbine Engine Closed-loop Transient Analysis provides the user a preliminary estimate of the closed-loop transient performance of an engine model.
+A Java package, nominally built in NetBeans, that allows use of DAVE-ML simulation models within tools such as Mathwork's Simulink(R) and Matlab(R) products
+Welcome to the Medicaid Provider Enrollment Screening Portal
+
+Python Turbulence Detection Algorithm (PyTDA)
+Cassini Structured Homepages uses LDAP authorization to provide a security layer to webpage content
+Marshall MRMS Mosaic Python Toolkit
+Formation Flying Repository
+
+NASTRAN is the NASA Structural Analysis System, a finite element analysis program (FEA)
+Python Advanced Microwave Precipitation Radiometer Data Toolkit (PyAMPR)
+Modified Snowmelt Runoff model for forecasting snowmelt in central northern Chile.
+EADIN_Lite Network Protocol
+Well-Clear Boundary Models for Integration of UAS in the NAS
+
+Examples of using GIBS with various web mapping libraries
+Interactively browse global, full-resolution satellite imagery 
+
+
+Exploring data curtains using Cesium
+Wireframes and designs for NASA Worldview
+OnEarth Vagrant VM
+Configuration and branding for NASA EOSDIS Worldview
+Generic branding with basic configuration
+Everything Project
+ROS package for use with Cyton Gamma Arms
+The Controller GUI for ROS package
+Applications for Google Glass Experiment
+Robotic Arm Project for Teaching and Out-Reach
+ros_android_core
+NASA Tournament Lab (NTL) International Space Station (ISS) Food Intake Tracker (FIT) app for ISS crew to use on their iPads.
+This algorithm code (from the Phase 1 Asteroid Tracker Challenge) provides the optimum subarray selection per set of object tracks provided in a predefined configuration using a fixed number of dishes - See more about the challenge at: http://www.topcoder.com/asteroids/tracker/  This code was generated via a challenge on the NASA Tournament Lab (NTL) supported by NASA's Center of Excellence for Collaborative Innovation (CoECI).
+The NASA Tournament Lab (NTL) challenge to create an algorithm to help Robonaut \"see\" objects and recognize them.  This repository contains the set of winning algorithms that are being used to develop the next generation Robonaut control software.
+This code includes the algorithms tht resulted from a challenge on the NASA Tournament Lab (NTL).  This challenge was to study select satellite imagery of the region of the lost tomb of Genghis Khan and then develop an algorithm that will recognize human built, and potentially historically significant, structures found in those images
+The Planetary Data System API provides a common API to allow access to data across all PDS nodes. NASA has recorded over 100 terabytes of space images, telemetry, models and just about everything one can imagine from all the planetary missions from the past 30 years. The data stored is within NASA’s planetary data system (PDS). The PDS databases have developed in a disparate fashion over the years with different architectures and formats for different scientific needs; thereby making acquisition of data problematic. This API addresses this problem to make the data more accessible by users of the data.
+The Lunar Mapping and Modeling Portal (LMMP) is a system that has been built to support lunar exploration activities that will enable return of both manned and unmanned missions to the Moon. It provides a web-based Portal and a suite of interactive visualization and analysis tools to enable mission planners, lunar scientists, and engineers to access mapped lunar data products from past and current lunar missions. It also addresses the lunar science community, the lunar commercial community, education and public outreach (E/PO), and anyone else interested in accessing or utilizing lunar data. 
+Code from the United States Agency for International Development (USAID) and Humanity United (HU) challenge for Atrocity Prevention Modeling in collaboration with NASA’s Center of Excellence for Collaboration (CoECI).
+NASA Tournament Lab (NTL) challenge to develop an algorithm that can detect craters from imagery.
+The Healthcare Fraud Prevention Partnership (HFPP) through United States Centers for Medicare & Medicaid Services (CMS) in collaboration with NASA’s Center of Excellence for Collaboration (CoECI), Harvard, and TopCoder developed software that supports a data exchange network that enables healthcare insurance-paying entities in both the public and private sector to safely and securely share information for purposes of prevention and detection of fraud, waste and abuse across partners.
+The Solution Mechanism Guide (SMG) is a tool to educate our scientists and managers about what tools are available for them to utilize in order to solve the challenges of spaceflight.
+NASA Tournament Lab (NTL) Electrocardiogram (ECG) algorithm challenge code
+This repository houses code for the United States Office of Personnel Management Service Credit Re-deposit/Deposit (SCRD) Application.
+Code from the United States Centers for Medicare & Medicaid Services (CMS) challenge in  collaboration with NASA’s Center of Excellence for Collaboration (CoECI), Harvard, and TopCoder developed an iPhone app and reporting web application used to track and compile “transfers of value” (e.g. gift, meal, speaking fee) from industry manufacturers (e.g. pharmaceutical companies) to physicians. 
+Earth Science Climate Resilience Data Challenge (CRDC):  With growing climate risk, it is evermore necessary to grow innovative capacity for resilience and adaptation. Using open climate data, imagine the possibilities of new applications that could fuel climate resilience efforts for communities and ecosystems as well as empower people to make smart decisions for the future. NASA and USGS invite you to take a step toward resilience by imagining solutions to our planet’s complex climate risks.
+CMS Provider enrollment application developed via CoECI.
+
+A JavaScript mapping library for the National Park Service, built as a Leaflet plugin.
+An unofficial repository of National Park Service data.
+A graphical interface for creating maps with NPMap.js.
+Deprecated in favor of NPMap.js.
+An API, written in node as express middleware, built to work with the OSM API database schema. Used internally by Places.
+Node \"tasks\" used for data manipulation, consolidation, cleanup, transformation, etc.
+The National Park Service's basemap.
+Data from the Places system.
+A responsive design for NPS.gov.
+The Places website.
+
+A tracing guide for the National Park Service's Places system.
+A simple JSON, XML, and text proxy.
+A short-lived session store.
+A simple Geobuf proxy.
+A simple Node proxy for pulling GeoJSON from ArcGIS Server feature services.
+Automating tile generation and display for National Park Service geospatial species data.
+
+A service that will resize images based on requirements
+
+Post messages to Slack using its restful API.
+
+DEPRECATED
+The NPMap team's CRON tasks.
+Sources for the BioAssay Research Database
+Layered Chemical Identifier
+Chrome plugin for resolving / rendering chemical structures from names and images.
+Example plugins for the BARD API
+A new way to view journal articles
+SRA Tools
+JATS Preview Stylesheets
+NGS Language Bindings
+SRAToolkit has been REPLACED - see README
+Implementation of the Page Object pattern with Robot Framework and selenium. Also facilitites page object pattern independent of Robot Framework
+ncbi-vdb
+This is a citation exporting web service
+PMC XML Converters
+OSIRIS is a public domain quality assurance software package that facilitates the assessment of multiplex short tandem repeat (STR) DNA profiles based on laboratory-specific protocols.  OSIRIS evaluates the raw electrophoresis data contained in .fsa or .hid files using an independently derived mathematically-based sizing algorithm.  OSIRIS currently supports ABI capillary analytical platforms and numerous commercially available marker kits including all CODIS-compliant kits as well as those favored by biomedical laboratories. 
+
+deflake.py  Helps debug a non determinate test (or any flaky program) by running it until it exits with a non-zero exit code.
+
+Documentation for NCBI BLAST AMI
+
+Assorted plugins for Solr
+NCBI CSS
+Annotation and Image Markup (AIM) is the first project to propose and create a standard means of adding information and knowledge to an image in a clinical environment, so that image content can be easily and automatically searched.
+A CTS2 Framework Service Plugin based on LexEVS
+The LexEVS Terminology Service.
+caAERS is a web application for recording and reporting adverse events that occur during cancer clinical trials
+The caGrid-docs repository contains caGrid-related documentation, including Admin/Developer/User guides, design documents, and presentations.
+The Common Security Module (CSM) provides a comprehensive solution to common security objectives, with flexible delivery of security tools to allow application developers to integrate security with minimal coding effort. This helps eliminate the need for development teams to create their own security methodology. CSM provides solutions for authentication, authorization, and user provisioning.
+caTissue Suite is a modular, open-source, specimen inventory and tracking system.
+ caNanoLab is a web-based portal designed to capture nanotechnology data.
+Patient Study Calendar is a web application for tracking patients in clinical trials.
+This is the repository for the NCIP channel page.  It hosts the wiki pages and the issue tracker related to the migration activity. 
+Common Biorepository Model (CBM) aims to reduce the time and effort required by researchers to locate a biobank that has the specimens they need.
+caIntegrator brings together clinical, microarray and medical imaging data for integrative data query and analysis.
+caAdapter provides model mapping, data mapping and transformation services among data sources like HL7 and Regulatory Data Sets.
+The NCI EVS Mapping Tool supports mapping between term lists, value sets, terminology subsets, or whole terminologies using a mix of automated and manual methods. This initial prototype release is used internally by EVS, but will need further development to reach a broader user community.
+caOBR (Cancer Open Biomedical Resources) is a tool for indexing cancer informatics resources within the NCBO (National Center for Biomedical Ontologies) Resource Index.
+The cancer models database (caMOD) provides information about animal models for human cancer to the public research community.
+The CDE Curation Tool supports creation and editing of Data Element Concepts, Value Domains, and Data Elements.
+ISO 21090 Localization Common Library is a specializead and constrained version of the ISO 21090 Healthcre Data Types. Localization is the list of approved ISO 21090 data types created by CBIIT, along with common implementation artifacts.
+The Pathway Interaction Database (PID) is software supporting the access and display of information about bio-molecular interactions and cellular processes assembled into signaling pathways.
+The caCORE Software Development Kit (SDK) generates a system built on the principles of Model Driven Architecture (MDA), n-tier architecture and a common API for data access. When the caCORE SDK-generated system is combined with controlled vocabularies and registered metadata, the resulting software system, called \"caCORE-like\" system, is \"semantically integrated.\" 
+The Migration Tool is a java application, based on the API and developed within the caTissue project.  The migration involves extracting input legacy data into an interim caTissue staging database and then running the caTissue Migration Tool, which will validate and load the staging data into the target caTissue instance.
+The caGrid2 project includes enhancements to the caGrid core services to support WS* and SHA2, which enables the National Cancer Informatics Platform's interoperability strategy.
+The caGrid core infrastructure project includes the caGrid core services and tooling, which enables the National Cancer Informatics Platform's interoperability strategy.
+caHUB CDR v6.3
+Files needed for Galaxy tools used to run Trinity_CTAT workflows.
+
+caArray is a web-based application supporting the storage, annotation, and sharing of microarray data.
+This repository holds documents for the caCORE SDK project under the NCIP channel. See https://github.com/NCIP/cacore-sdk for further information.
+The XMI Handler provides a set of APIs to read from and write into XMI files. The XMI Handler parses a given XMI file and represent the model in Java objects. The APIs work with both ArgoUML and Enterprise Architect created XMI models.
+Common Logging Module (CLM) is a set of tools that provides a flexible and comprehensive solution for auditing and logging. CLM includes Event Logging, Automated Object State Logging, Asynchronous Logging to database, Query API's and a web based Log Locator Tool.
+This is caCORE SDK pre 4.1.1 version repository. These releases are not being supported. Please visit cacore-sdk repository for current development.
+This is the documentation repository for Cancer Adverse Event Reporting System (caAERS) project that is under the NCIP channel
+The In Vivo Imaging Middleware (IVIM) (better known as IVI Middleware) is a set of open source tools and middleware that provide interoperability between DICOM and the caGrid. IVIM development is driven by common use cases from radiology and pathology for common activities, such as central review in image-based clinical trials and data and application sharing in secure high-performance environments.
+Enterprise Data Collection Tool (eDCT) Form Builder allows users to design data collection instruments utilizing a “drag-and-drop” interface.
+The eDCT Collector is designed to collect and store data submitted to the system in accordance with the model designed in eDCT Form Builder.
+The National Biomedical Imaging Archive (NBIA) is a free and open source service and software application that enables users to securely store, search, and download diagnostic medical images, providing a searchable national repository integrating in vivo cancer images with clinical and genomic data. Using role-based security, NBIA provides web-based access to de-identified DICOM images, image markup, annotations, and rich meta data.
+Alview : Alignment View for BAM files - a fast,portable tool for viewing short reads as native GUI, command line or via webserver
+Cancer Genome-Wide Association Studies (caGWAS) allows researchers to integrate, query, report, and analyze significant associations between genetic variations and disease, drug response or other clinical outcomes
+This is the documentation repository for the caIntegrator project repository under the NCIP channel.
+This is the documentation repository for caArray project that is under the NCIP channel.
+caLIMS is a Laboratory Information Management System (LIMS) that tracks a complete laboratory workflow to generate experimental results for data repositories or data management services.
+GeneConnect is a mapping service that interlinks genomic identifiers.
+Distance Weighted Discrimination performs statistical corrections to reduce systematic biases in microarray data sets.
+This is the documentation repository for the Patient Study Calendar (PSC) Project that is under the NCIP channel.
+The taverna-grid repository is a Taverna Workbench plug-in to support invocation of caGrid 1.x services. 
+The Cancer Clinical Information Suite (caCIS) project contains the middleware components that allow source system to transmit the clinical data to the recipient systems using different transmission formats as well as protocols.
+This repository contains all the documentation for the Clinical Information Suite (caCIS) project under the NCIP channel. 
+The NCI EVS Value Set Editor is used to create and maintain CTS 2 value set and pick list definitions for loading into the LexEVS terminology server, which resolves the definitions against referenced terminologies. This initial prototype release is used internally to generate all value sets published by EVS, but will need further development to reach a broader user community.
+Python tools for accessing caCORE services that include pyCaCORE code generator, caBIO client (pyCaBIO) and EVS client (pyEVS)
+The caGrid2 project includes enhancements to the caGrid core services to support WS* and SHA2, which enables the National Cancer Informatics Platform's interoperability strategy.
+Clinical Connector enables the integration of participant registration and laboratory data between the Cancer Central Clinical Database (C3D) and the C3PR and LabViewer clinical trial management applications.
+The caDSR UML Model Browser supports browsing and searching UML Models that have been transformed into caDSR metadata via the UML Loader
+cgMDR has tools enabling semantic annotation from its own metadata repository but also can resolve metadata and terminologies.
+The caDSR Object Cart application provides shopping cart-type operations for caDSR data objects.
+The Semantic Integration Workbench (SIW) is a caCORE tool that assists users in adding consistent metadata to a UML model, or verifying consistency, by tagging their domain model with matching concepts from the NCI Thesaurus.
+The caDSR Administration Tool is the main administrative interface to all of the basic editing and maintenance features and components of caDSR tools.
+iHub enables data integration between a clinical data management system (CDMS) and clinical trial management applications such as caTissue and the Cancer Adverse Event Reporting System (caAERS).
+WebGenome is a web application for creating genomic plots of gene expression and copy number data.
+The Stats Analysis Commons API handles the messaging services between projects. 
+The Stats Analysis Server performs on-the-fly statistical calculations for other applications.
+Application to integrate WebGenome application with Rembrandt portal to allow plotting of array based data.
+eDCT Common project contains the common code used by eDCT Collector, eDCT Formbuilder and eDCT Analytics projects.
+caDSR Utils contains common utility libraries that are used by other caDSR related projects.
+Contains both the framework for exposing R functions as web services and websites and the R code itself
+caELMIR provides the pre-clinical scientist with a data management system to record experimental data.
+LabViewer is a web application used to view and store clinical laboratory data
+iPhone App for caGrid is an application to access services and data on caGrid and a Grid Summary Service to maintain grid information in support of the app.
+ProtExpress supports proteomics experiment and protocol data management as well as eXperimental Archive (XAR) file creation.
+Bambino: SNP caller and Alignment Viewer for Next Gen Data
+The caTissue Dynamic Extensions allows to quickly make new data or capabilities available in caTissue for discovery and use by the community.
+The caTissue Docs repository holds the documentation related to the caTissue Core and other caTissue related projects.
+The caTissue Test contains a set of utilities to query and get results from each configured caTissue instance.
+The caTissue Tools contain several tools that integrate with the caTissue application.
+The caDSR APIs allow developers to build an application to access caDSR metadata and search the database, or to retrieve caDSR Metadata to customize local data collection applications
+caTissue Suite uses Common Security Module (CSM) software to accomplish the security requirements. caTissue Security Manager is an extention to CSM API addressing caTissue suite needs.
+Resolves URIs for CTS2
+caTissue Utilities include caGridLogger, Bioreposreport, caTissueCoreAPIExamples and caTissueLoader to help caTissue suite users.
+eDCT Analytics is a Web application that provide an easy and dynamic interface to navigate collected data through the eDCT Collector and enable ad-hoc data trend research and detection. 
+
+Wustl Common Package is used by the caTissue project.
+caTissue Suite uses Keyword Search to provide searching and indexing capabilities.
+caTissue Commons Module is used by the caTissue project under the NCIP channel.
+Interfaces to participant manager and registration services to share registration information with other applications.
+Metadata Based Query is used by the caTissue.
+caTissue IDP Authentication Manager is an Open Source project used by caTissue Suite for IDP integration. 
+Digital  Model Repository is a web-based digital repository for the purpose of archiving, retrieving and exchanging cancer modeling modules and the data that link to it.
+caGrid Analytical and Data services for LexEVS.
+caTissue Suite uses JASIG CAS (Common Authentication Service) to provide Single Sign-On support with other applications. The caTissue application uses the HTTP request filter provided by CAS to intercept all requests and redirect the user to the Login page in case the user is not already logged in.
+VISDA (VIsual Statistical Data Analyzer) is analytical tool for cluster modeling and visualization of microarray data.
+
+
+The caDSR Sentinel tool allows users to create and manage Alert Definitions for content in the caDSR
+C3PR is a web-based application that can be used for end-to-end registration of patients in clinical trials.
+This is the document repository of the c3pr project under the NCIP channel.
+cancer Bench-to-Beside (caB2B) is an open-source query tool that permits translational research scientists to search and combine data from virtually any caGrid data service.
+Data for caIntegrator
+caImage supports the storage and display of pathology images as well as the capture of and search for annotations associated with those images.
+This repository holds documents for the Common Security Module (CSM) project under the NCIP channel. See https://github.com/NCIP/common-security-module for further information.
+LabViewer-docs git repository contains relevant documents to LabViewer web application.
+*NOTE* the entire caGrid repository was migrated to capture the total release history, including all branches. Please do not checkout and use this repository, instead use the relevant cagrid-* github project.
+The NCI Term Browser is a web-based browser that allows users to search all terminologies, value sets and mappings on the LexEVS terminology server, to browse individual sources, and to easily follow the many links that connect them.
+The NCI Metathesaurus (NCIm) Browser is a web-based terminology browser that allows users to browse and search the NCI Metathesaurus, a biomedical terminology database that maps terms from more than 70 terminology sources into some 1.5 million biomedical concepts.
+The NCI Term Suggestion application is used both standalone and in the EVS terminology browsers to get community feedback and contributions to both NCI and EVS partner terminology products.
+The NCI EVS Report Writer is a web-based tool that allows users to generate reports from terminologies available through the LexEVS terminology server; it supports download and printing to a variety of file types and formats.
+Grid services for Bioconductor packages for preprocessing of microarray data, DNA copy number assessment, and SELDI-TOF mass spec peak finding.
+The caGrid-portal repository provides a visualization of caGrid services. It includes the open source Liferay portal container, and several Java JSR-compliant portlets to query and invoke grid services
+The caGrid-workflow repository contains the caGrid Workflow Service, which enables orchestration across caGrid services using Taverna's SCUFL language.
+The caGrid-general repository contains third party libraries that are used commonly across the caGrid project.
+caGrid-grid-incubation contains projects that use or enhance caGrid, that were contributed by the community.
+caTRIP (Cancer Translational Research Information Platform) allows users to query across caGrid data services, join on common data elements and view their results in a user-friendly interface, in support of translational research.
+The purpose of the caDSR Password Change Station is to allow users to set and reset the password used for logging in to the caDSR Tools.
+The CDE Browser is the primary starting point for exploring the contents of the caDSR.
+caDSR Form Builder allows users to leverage Common Data Element (CDE) metadata to create forms that replicate the content of Case Report Forms (CRFs).
+cgMDR has tools enabling semantic annotation from its own metadata repository but also can resolve metadata and terminologies.
+The caTissue Print Service provides the framework for printing labels for specimens, specimen collection groups and containers from the caTissue application.
+The caDSR Freestyle Search engine performs weighted semantic searches on the content of Administered Items in the caDSR.
+The caDSR Grid Dataservice is a caGrid enabled dataservice that is generated using caGrid framework.
+The caDSR Bulk Loader uploads metadata from an Excel spreadsheet into the caDSR.
+caBIO (cancer Bioinformatics Infrastructure Objects) is a resource for accessing molecular annotations from curated data sources. 
+This repository holds documents for the Cancer Models Database(caMOD) project under the NCIP channel.
+QFive provides a probabilistic classification algorithm using the spectra from either SELDI or MALDI-TOF mass spectrometry results as input.
+Quality Indicator (QI) Portal allows users to submit and retrieve quality data for biospecimens.
+WUSTL Common Utilities is a Open Source project primarily used by caTissue Suite.
+eDCT caDSR-API-Server Project integrates eDCT Form Builder with caDSR API and caDSR object cart.
+A remote (RMI) access wrapper around LexEVS.
+The caTissue Advanced Query allows users to query any data in caTissue including complex conditions and associations.
+Metadata driven mechanism to provide \"simple query\" functionality in caTissue Suite.
+
+I-spy data portal allows integrative query and analysis of molecular data and clinical annotations.
+Environment And Genetics in Lung cancer Etiology (EAGLE) data portal allows capture and integrative query and analysis of epdemiology and microarray data.
+A collection of libraries for shared functionality across the CTMS workspace, and particularly among the applications in the Clinical Trials Suite.
+Cancer Molecular Analysis (CMA) portal allows integrative query and analysis of molecular data and clinical annotations.
+The Stats Application Commons provides various utility functions such as mail server, scheduling, string manipulation,  data download management, and caching functions.
+The purpose of Stats Analysis API is to allow programmatic and logical access to the underlying Data Mart via clinical genomic domain objects.
+The caTissue caCORE SDK is used by caTissue project to dynamically generate code from a UML model.
+The Global Specimen Identifier (GSID) Service is a NCI Enterprise Service. Global Specimen Identifer (GSID) is defined as the entity that contains a Globally Unique Idenitifer (UUID) and associated attributes that consists of a name value pair. A UUID is defined as a 16 byte identifier that is intended to be globally unique. There are 3 x 10^38 unique identifiers that can be obtained through the service.
+Reporting and analysis of caTissue test scripts and results.
+REMBRANDT (REepository of Molecular BRAin Neoplasia DaTa) database was developed to allow analysis of data from molecularly characterized primary brain tumors and correlate those data with extensive retrospective and prospective clinical data.
+\"OCGIS\" is short for OpenClimateGIS, a set of geoprocessing and calculation tools for CF-compliant climate datasets.
+
+NCPP source code
+NPS forest vegetation analysis in R
+Code for NCRN water visualizer
+
+Files for NPMap overlay.
+Forest Veg Shiny website code
+Code for NCRN bird visualizer
+Scripts for working with NDAR Data
+The NASA Ames Stereo Pipeline is a suite of automated geodesy & stereogrammetry tools designed for processing planetary imagery captured from orbiting and landed robotic explorers on other planets.
+Tools to do photometric correction and mosaicking
+Script for generating the binary builds of Stereo Pipeline
+This is a collection of scripts that will apply an Autotools build system to the USGS ISIS source code.
+A job dispatcher for distributed processing
+Application-specific scripts
+MVP offers a method for extracting 3D that utilizes all views of the terrain, not just pair-wise combinations.
+Additional tools for working with StereoPipeline data.
+A comprehensive, distributed, and fully automated test suite for the Ames Stereo Pipeline (ASP)
+NGT utility libraries
+
+Scripts for running Hadoop on demand on NERSC systems.
+Repository used for NERSC training
+Current Model of NCEMhub repository
+CHOS: The CHroot OS that lets users choose their OS.
+Newt based authentication that works with Meteor accounts login
+CKAN extension for NGDS-specific customizations
+Use this repository's issue tracker to post comments, bug reports, and help questions on installing and running NGDS CKAN.
+
+
+This repository contains requirements, user story, architectural design and other related documents for the NGDS project.
+A repository for tracking issues with metadata in the National Geothermal Data System
+
+
+
+Code base for transforming publications database metadata to USGIN/ISO XML for NGDS.
+
+Issue tracker for known and upcoming issues with NGDS services
+
+repository for docs and code related to implementing DataOne Tier1 member node API on an NGDS CKAN stack.
+
+
+Intro to NHANES on github
+Listserv Announcements - Archive
+
+NIEM is a community-driven, standards-based approach to exchanging information.
+NIEM-conformant schemas representing types and elements required per the DATA Act.
+A catalog of commonly used ways to implement NIEM. Find what you need. Share what you can.
+Development workspace for NIEM-UML for 3.0 
+A golden rule of NIEM is \"if it exists, use it.\" So share your IEPDs for reuse! They can be reused partially or fully, saving time and money.
+NIEM Emergency Management domain model content.  We're gathering community business requirements to form a domain update to the model.
+
+This repository holds a simple IEPD template that can be forked to a new repository that a user can leverage as the starting point for his/her own IEPD (based on the template). The template conforms to the new NIEM Model Package Description (MPD) 3.0 specification.
+NIEM 3.0 NDR Schematron rule testing
+iOS Client for WS-Biometric Devices
+A second version of the wsabi iPad app for biometric device control over Web Services.
+
+multipart/x-mixed-replace handler for AFNetworking
+XE Template Engine (COAT)
+deliverable from siddaraju for google app integration mini-project
+NMB Coding Standards 
+Various explorations of polymer coding patterns
+New KS incorporates polymer and .docx file text extraction, etc...
+query component for arbitration cases
+a list component for Arbitration case display in the AWS system
+ajax module for arbitrator request page communication
+generic document client in polymer
+sharing files between drive and appengine
+redirect page for the NMB Website
+arbitrator request component for AWS system
+old project example, see upqueue.py
+old data backup system in erlang
+repo for our private pages and templates
+selector from array of objects
+A repository and wiki in support of the R User meetings coordinated by Jeff Laake
+R package for modeling animal movement with continuous-time correlated random walk models
+Temporal occupancy R package
+hierachical distance sampling 
+Tools and analysis procedures related to the Bering-Arctic Seal Surveys
+Documentation of guidelines and workflow best practices for NMML git/github users
+Utilities for working with Wildlife Computers WC-DAP data files
+Ice seal abundance estimation using spatio-temporal hierarchical model
+a testing ground for NMML users to learn more about git and github
+Additional useful functions when modeling animal movement with crawl
+R package for Bayesian inference of abundance trends
+R package for fitting known-fate, dynamic N-mixture models
+Simulation experiment for assessing validity Steller sea lion / fisheries interaction methods in the literature
+
+The NMML Polar Ecosystems Program (PEP) telemetry data model represents the Oracle 11g database structure and objects used to store and process data from telemetry devices.
+geographic resources for the study of Alaska harbor seals
+SQL scripts and other docs related to the PEP PostgreSQL/PostGIS database (pepgeo)
+A demo of programming a spatial regression MCMC with Rcpp/RcppArmadillo 
+
+MCMC algorithms for MSCJS
+
+Modular Ocean Model
+GFDL's Flexible Modeling System
+NOAA-GFDL's Sea Ice Simulator version 2
+GFDL Climate Model Icebergs
+Example configurations for MOM6 and SIS2
+
+
+
+The General NOAA Operational Modeling Environment
+Compass Rose UI - a javascript control for selecting velocity and direction for wind and water.
+A web-based querying api for the oil library
+python wrappers for libgd graphics drawing lib
+Javascript client that uses the WebGnomeAPI to create and run py_gnome models.
+Unit conversion code developed by NOAA Emergency Response division -- focused on Oil Spill Response needs.
+Python NOAA Unit Converter for OIl Spills
+NOAA Unit Conversion for Oil Spills
+Assorted libraries and scripts for working with the General NOAA Operational Modeling Environment
+Recipes for building conda packages for many (all?) of the third party packages required by ORR tools -- specifically GNOME
+The API service that interfaces with py_gnome
+
+Unigrid Templates for MailChimp
+A repository for MOJN presentation materials for 2015 Data Management Training
+A repository for R code snippets
+JOTR Vegetation Inventory Map Style
+Open source API management platform
+
+OpenStudio is a cross-platform collection of software tools to support whole building energy modeling using EnergyPlus and advanced daylight analysis using Radiance.
+
+
+
+
+A component of API Umbrella. The web component provides the website frontend and web admin tool.
+A component of API Umbrella. The gatekeeper is a custom reverse proxy that sits in front of your APIs and efficiently validates incoming requests.
+
+
+A component of API Umbrella. The router provides the necessary configuration to join together API Umbrealla Gatekeeper with other open source proxies.
+
+
+
+OpenStudio's Measure Recommendation Engine
+OpenStudio AWS Gem is used to spin up a cluster of computers using Amazon's EC2 for use in OpenStudio Distributed Analysis.
+
+OpenStudio-Analysis Gem creates and configures the analysis.json files needed for running the OpenStudio Distributed Analysis workflow.
+
+
+HPXML to Home Energy Score Translator
+HARP_Opt: Horizontal Axis Rotor Performance Optimization
+
+An issue tracker for NREL's APIs available at https://developer.nrel.gov
+
+
+
+Source code for the California Title 24 Compliance Website. The website performs compliance checks on commercial buildings using a combination of OpenStudio, EnergyPlus, and CBECC-Com
+
+
+
+
+A component of API Umbrella. The static site provides the public website content using a static site generator and can be hosted with GitHub Pages.
+Please visit http://nrel.github.io/OpenWARP/ for more information.
+
+
+
+A component of API Umbrella. Provides configuration file parsing for the other API Umbrella components.
+
+
+
+
+Omnibus packaging for API Umbrella
+
+
+
+
+
+
+R statistical package cookbook
+
+
+openstudio cookbook for chef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A chef cookbook to install the git 1.8 package from IUS on RHEL systems
+A chef cookbook to install and setup the yum security plugin
+A chef cookbook for cron-wap
+
+Chef cookbook for installing automongobackup
+
+
+A chef cookbook for installing and running the freegeoip service
+
+
+
+
+
+
+
+
+
+
+
+
+Chef cookbook for performing system-level git configuration.
+
+A chef cookbook to install and setup the yum-cron package
+
+
+A simple way to facilitate subjective testing using a web server and a web browser.
+Feedback for the IT Dashboard's IT Performance Metrics
+Library containing the expat XML parser
+Object-based Application Template
+Command ingest application designed for lab environments using UDP
+Telemetry output application designed for lab environments using UDP
+A collection of compressed files with each file containing a cFE port to a specific platform.
+Scheduler application designed for lab environments
+CFS Application Runtime Environment
+Welcome to the Open Government Platform!  The full code for OGPL is at https://github.com/opengovplatform/opengovplatform.  Below you'll see the first code for the data management system.   
+Welcome to the Open Government Platform!  You'll find here a growing set of open source, open government platform code that allows any city, organization, or government to create an open data site.  Below you'll see the first code for the Website, its CMS, Data Management System (DMS) and Visitor Relationship Management (VRM). The Open Government Platform (OGPL) is a joint product from India and the United States to promote transparency and greater citizen engagement by making more government data, documents, tools, and processes publicly available through a freely available, open source platform. By making this available in useful machine-readable formats it allows developers, analysts, media, and academia to develop new applications and insights that will help give citizens more information for better decisions. In using an open source method of development, the OGPL community will provide future technology enhancements, open government solutions, and community-based technical support. OGPL has become an example of a new era of diplomatic collaborations that benefit the global community that promote government transparency, citizen-focused applications, and enrich humanity.  The code below is the alpha code base for an OGPL instance. We are currently seeking pre-alpha testers and experienced open source developers to provide recommendations as additional modules are released to the open source community.  If you are interested in being part of OGPL, please contact us on the Contact Us page at http://www.opengovplatform.org or on Twitter at @OGPL.
+This is the Release of Beta Code base of the Open Government Platform (OGPL), which is a growing set of open source code that allows any city, organization or government to create an open data site. Below you'll see the code base for the Data Portal, its CMS, Data Management System (DMS) and Visitor Relationship Management (VRM).  The Open Government Platform (OGPL) is a joint product from India and the United States to promote transparency and greater citizen engagement by making more government data, documents, tools, and processes publicly available through a freely available, open source platform. By making this available in useful machine-readable formats it allows developers, analysts, media and academia to develop new applications and insights that will help give citizens more information for better decisions.   In using an open source method of development, the OGPL community will provide future technology enhancements, open government solutions, and community-based technical support. OGPL has become an example of a new era of diplomatic collaborations that benefit the global community that promote government transparency, citizen-focused applications, and enrich humanity.  The code below is the alpha code base for an OGPL instance. We are currently seeking pre-alpha testers and experienced open source developers to provide recommendations as additional modules are released to the open source community.   If you are interested in being part of OGPL, please contact us at opengovplatform.org or on Twitter at @OGPL Changes and enhancements incorporate in this release can be seen in the Readme.md file below. 
+Drupal 7 OGPL codebase
+datagov distribution repository
+Pluggable map capability
+The Inter-Widget Communication used by the Ozone Platform
+OZONE Platform Web Desktop
+Application Search and Discovery
+Guidelines, standards and documentation for OZONE Platform
+OZONE Platform RESTful API Controller
+Set of applications, webtops, and other components for demoing the Ozone Platform
+A collection of Vagrant configurations for build and deployment
+Ansible playbooks for aid in deploying the ozone platform.
+Public website for all Ozone products (OWF and OZP)
+OZONE Heads-up Display
+OZONE Platform Center UI
+Provides an adapter from the OWF7 Widget Javascript to the OZP-IWC bus.
+An all-in-one example of IWC hosting server with a sample database and sample application.
+An advanced tool and user interface allowing super users and developers to, at a minimum, assemble widgets into dashboards.
+An example application using a remotely hosted IWC Bus, deployable using node.js & grunt.
+OZONE Platform JVM RESTful API Controller
+A simple utility for testing basic features of IWC
+
+
+
+Repository to submit and track OZP community request for review and prioritization by the OZP team
+Piwik plugin to enable non-superusers to create and manage their own website metrics
+Angular wrappers for the IWC
+Interactive Helper for OZP
+This repo will house the jmeter scripts for testing the REST controllers.
+A piwik plugin to support use of client certificates checked against an authorization server.
+
+Repository containing React.js and Reflux.js components which are shared by the center-ui and hud-ui projects.
+A refactor of the OWF 7.0 backend.
+OZP Gatling Scripts
+A set of utilities handling injection of security banners into an HTML page
+A common toolbar for use on Webtop, Center and HUD
+A piwik plugin to allow for automatically login to the web interface with client certificates
+Icon set for Ozone
+The mock endpoints and JSON Schemas for OZP data types.
+OZONE Widget Framework
+Metrics module for OZONE Widget Framework
+OZONE Marketplace
+Scripts to customize Tomcat with OZONE development settings
+OZONE Security plugin system
+OZONE App Config plugin
+OZONE Messaging plugin
+OZONE Marketplace documentation
+OZONE Auditing plugin
+OWF Custom Ant Commands 
+Repository locations for the Ozone Platform releases
+A project to make it easier for Peace Corps Volunteers to order their medical supplies from a local Peace Corps Office. Volunteers can order by sms or webform. PC Staff interact with the orders in a simple to use dashboard. 
+CLOSED - Giving potential applicants a view into the Volunteer opportunities available, along with additional data to make an informed decision to join Peace Corps.
+Developers, we invite you to plug into Peace Corps' mission! This repo is for you to introduce yourself to us, and for us to update the community on upcoming projects.
+The Peace Corps Countries & Regions REST API provides read-only access and currently supports JSON data format. Developers, designers, engineers, and partners are all encouraged to leverage the Peace Corps Countries & Regions API to build innovative tools and/or creatively share this data.
+Mobile data tracking notebook for Peace Corps Volunteers in the field to record hard to remember details of activities that they will be required to report on later. 
+Peace Corps website API for Volunteer Openings. As the name suggests, the data this API exposes is all current Volunteer Openings (JSRs) and the fields exposed are the same as those seen on the front-end of each JSR page.
+Offer open Peace Corps data (peacecorps.gov/open/) from current CSVs as pseudo-API
+A customization of the Ushahidi Platform for Peace Corps Volunteers serving in Azerbaijan
+Ushahidi Web Crowdmap 
+Android solution to track Volunteer activities in the field
+Creating a mobile tool for Malaria prevention, information, and medicine tracking for Peace Corps Volunteers
+Creating a mobile tool for Malaria prevention, information, and medicine tracking for Peace Corps Volunteers
+A visualization of the contributions to OpenStreetMap by those associated with Peace Corps. This takes the form of a publically available dashboard of key statistics. 
+Creating a mobile solution for Volunteers to log their activity information in the field - Master Repo for documenting requirements
+Creating a mobile solution to track Volunteer activities in the field
+Demo API for Realtrack Indicators.
+Creating a mobile tool for Malaria prevention, information, and medicine tracking for Peace Corps Volunteers
+Serve side support platform for Peace Corps mobile applications
+
+This is a work in progress to offer Peace Corps Volunteers recipes from various Volunteer-created cookbooks
+Creating a mobile solution for Volunteers to log their activity information in the field - Android version
+The T4D Toolkit is a constantly-updated repository for tools, websites, resources, readings, contacts, and best practices related to T4D—the audience being primarily the Peace Corps Volunteer in the field.
+Hackathon-inspired project to build engaging app of Volunteer opportunities
+The Volunteerism Toolkit is a repository for tools, resources, and best practices related to Volunteerism.
+Policy Machine
+
+Extract features from time series using moving windows of regression fits
+ReteBiome
+
+
+
+
+ Sego Miscellaneous: A collection of functions for statistical computing and data manipulation in R
+Software platform to make buying web work better for everyone.
+A Platform for Conecting People and Government
+SOW Composer by RFP-EZ. Email for live demo -> rfpez@sba.gov
+Parses FTP dumps from FedBizOpps.
+WARNING: Unstable, use at your own risk! Refactor coming soon. -- Time your forms. Make them easier.
+Alpha Data.gov Magazine
+Jekyll-powered homepage for RFP-EZ.
+Backbone project fully loaded with RequireJS, Bower, Grunt compatibility, Bootstrap, and jQuery.
+A collection of acquisition APIs by Project RFP-EZ.
+Spreading the ability for millions of Americans to easily and securely download their own health information electronically
+Hire-EZ Is a demonstration application that demonstrates the flexibility of RFP-EZ.
+Design files from Project MyGov
+Snapshot of Green Button Adoption
+
+Interactive API Documentation for Presidential Innovation Fellows' Projects.
+Chef cookbooks for the AERS Config
+Designs for Presidential Innovation Fellows business cards
+PP4GSAADV is a Chrome extension which provides Prices Paid data within the GSA Advantage site
+Prototype of a JavaScript app to facilitate selection of ELA software for purchase
+
+
+
+This is a repo to hold infographics, diagrams, texts, etc. about the PIF program.
+Presidential Innovation Fellows Organization website
+Prototype searchable SOW library
+
+API-stye veneer for GSA Advantage search
+
+Frontend for rfpez-apis.
+The Chrome Extensions for SAM Helper and the helper configuration editor
+Open Data Policy — Managing Information as an Asset
+Turns a Database into a Secure, RESTful API
+this repo is an ESRI toolbox and tool(s) that export ESRI Feature Classes to open data formats, CSV, JSON, and GeoJSON
+Proof of concept to dynamically generate RESTful APIs from static CSVs
+G8 Metadata Mapping
+Validates JSON files
+A multi-format tool to generate and maintain agency.gov/data catalog files.
+A WordPress plugin to help agencies kickstart their open data efforts by allowing citizens to browse existing datasets and vote for suggested priorities. 
+
+REDHAWK Core Framework
+REDHAWK Documentation
+ REDHAWK Basic Components
+REDHAWK Eclipse IDE
+REDHAWK Integration of GNU Radio
+
+Contains the source and build script for the REDHAWK USRP_UHD device
+REDHAWK Eclipse Core
+A waveform that performs FM demodulation and provides power spectral density output at key points in the demod.
+Contains the REDHAWK python implementation of the generic REST API
+Contains the REDHAWK RTL Demo front end client
+REDHAWK Eclipse Code Generator
+REDHAWK IDE Product
+REDHAWK GPP Device
+Contains the source and build script for the REDHAWK Basic Components SigGen.
+A somewhat generic FEI controller that will make allocations and connections based on the properties set.
+The REDHAWK Web Admin Console
+Contains the REDHAWK RTL Demo backend server application
+A frontendInterfaces compliant device for the RTL2832U usb dongle
+REDHAWK Code Generators
+Contains the source and build script for the REDHAWK SourceVITA49 component
+Contains the source and build script for the REDHAWK SinkVITA49 component
+This component performs a BPSK demodulation using a clock (reference) and a data input
+This component filters and decimates data using the liquid-dsp library (http://liquidsdr.org). The only operational filter modes are lowpass and bandpass. The Output Rate property can only be set to a value that is a rational factor of the input rate.
+This component performs an FM demodulation using the liquid-dsp library (http://liquidsdr.org)
+This component decodes RBDS data from broadcast FM using the RBDS Standard Specification
+Contains the source and build script for the REDHAWK Basic Components AmFmPmBasebandDemod component.
+Contains the source and build script for the REDHAWK Basic Components psd.
+Contains the source and build script for the REDHAWK Basic Components RedhawkDevUtils library
+Contains the source and build script for the REDHAWK Basic Components unwrap component.
+REDHAWK Explorer RAP Product
+ This parent pom is used when performing a Maven/Tycho build of the REDHAWK IDE.
+This component differentially decodes a binary input stream
+This component divides the frequency content of the input stream by the desired divisor
+This component takes in four input streams and mixes them into a single output
+rtlNode
+
+Contains the source and build scripts for the VITA49 Libraries There is source for both C++ and JAVA
+Contains the source and build script for the REDHAWK Basic Components DataConverter.
+Contains the source and build script for the REDHAWK Basic Components agc.
+Contains the source and build script for the REDHAWK Basic Components medianfilter.
+Contains the source and build script for the REDHAWK Basic Components sinksocket.
+Contains the source and build script for the REDHAWK Basic Components sourcesocket.
+Contains the source and build script for the REDHAWK Basic Components TuneFilterDecimate.
+Contains the source and build script for the REDHAWK Basic Components whitenoise component.
+ RF Simulator Library - FM RDS Simulator
+FmRdsSimulator
+ REDHAWK Core BulkIO Interfaces
+REDHAWK SCA EMF Model
+REDHAWK Explorer Product
+REDHAWK IDE UI tests. The tests leverage SWTBot and a REDHAWK installation to perform UI tests of the IDE in a full runtime environment.
+Standard Energy Efficiency Data Platform
+Expanded permissions handling for SEED
+File import utility for SEED – Map Clean Merge
+Welcome to SelectUSA.gov. SelectUSA seeks to highlight the many advantages the United States offers as a location for business and investment.  From a vast domestic market, to a transparent legal system, to the most innovative companies in the world, America is the place for business.
+
+Example of clipping, zipping and shipping SERVIR sourced vector and raster data.
+General purpose browser for TRMM data with the ability to create custom time composites.
+
+Processes incoming fire data from NASA and uses geofencing to trigger SMS messages from FrontlineSMS. 
+
+Scripts to access and compile near real time NASA satellite data into ArcGIS Server time-enabled map services
+Scripts for calculating TRMM composites from custom time paramaters
+
+Vagrant launcher for Galaxy
+
+
+ruby connector for EDAN API
+tools for managing jbrowse
+Deploy jbrowse with Vagrant
+Information about the Smithsonian github organization.
+Vagrant launcher for QIIME vbox
+Contains the Sidora Smithsonian Drupal theme
+A utility repository for items related to sidora devops.
+Drupal module for demonstration of Sidora analysis API
+Drupal module for sidora CameraTrap analysis API
+A demonstration UI for supporting researchers using camera trap.
+An API for using workflows related to camera trap research
+Automated deployment scripts for SIdora
+
+Implementation of a camera trap research information service
+Sidora Workbench Exhibition module
+Dashboard for monitoring Sidora services.
+Drupal module for generic Taverna workflows in Sidora
+Vagrant launcher for STACKS
+A qsub script generation utility for use on the Smithsonian Institution High Performance Cluster.
+SunPy - Python for solar physics
+EIT Wave Detection (AGU 2011)
+Optional package for the High Energy Replicated Optics to Explore the Sun (HEROES)
+Presentations on and related to SunPy
+Paper describing SunPy 0.4 for submission in the SciPy special edition of CSD 
+Plugins and routines for Ginga to enable the use of solar data
+The SunPy Example Gallery
+SunPy Gallery
+The SunPy Graphical User Interface (GUI)
+Repository for the different versions of the SunPy Logos
+The SunPy website
+Repository for building conda packages needed for SunPy CI testing.
+The Affiliated Package template for SunPy. Lovingly borrowed from astropy/package-template.
+Repository for SunPy Enhancement Proposals
+
+Extrapolation framework for Solar Magnetic Fields
+Feedback and conversation about USA.gov & GobiernoUSA.gov.
+A placeholder page to redirect developers
+Do you have ideas or requests on how to use or improve USAID's APIs or the data we've opened at usaid.gov/data? Click on the \"issues\" tab to start a discussion.
+USAID Latin America and Caribbean Open Data Hackathon 2015
+The Kathmandu Tracing Guide, developed by USAID's GeoCenter for training purposes and hosted on Github for more easily editable and mobile devices.
+Meeting notes from the Ebola Working Group
+
+Redirect pages from old to new website
+Pisces is a time series database and desktop application that graphs and analyzes time series data. Pisces is designed to organize, graph, and analyze natural resource data that varies with time: gauge height, river flow, water temperature, etc. 
+HDB POET Hydrologic Database - Perusal or Editing Tool  
+S&T Project 3265: Investigation of Software Tools for Visualization of Results from Water Resources Planning Models
+Convert dss files to various formats
+This is the GitHub Home for USBR
+Code used to generate TimML files from GIS data.
+Hydro$ense is a Hydro-Economic Net Benefit Maximizer. Provided supply and demand for water with the associated economic supply-cost and demand-price, this program solves for the economic partial-equilibrium solution by maximimizing the Consumer and Producer Surplus.
+Do you have feedback, ideas, or questions for USDA APIs? Use this repository's Issue Tracker to join the discussion. 
+Recreation Information Database
+
+
+
+
+CDH Conserved Transcription Factor Binding Sites
+
+
+Source code for widgets using ERS APIs.
+The Data API provides programmatic access to select data sets.
+
+
+scripts shared with the public
+Federal Data SDK built in the Swift programming language.  Follow the link for the documentation:
+iOS SDK to ease access to DOL's and other federal agencies' APIs.  For a list of APIs that this SDK has been tested against, please see the wiki.  For documentation, please see the readme. For sample code, please visit http://usdepartmentoflabor.github.io/iOS-Sample-App/.
+Sample app using the Swift Federal Data SDK.  For documentation and a how-to, see:
+This code illustrates how to create a dashboard that will display graphs using the JIT, FLOT, and jQuery cycle API's in a section of a website.
+A Mac menu bar app that sends a request every 15 minutes to the RESTful web API of your choice and displays a meter and time in ms for the response.
+The data.json for DOL, including the individual data.json files for each of DOL's \"organizations.\"
+Ruby SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://usdepartmentoflabor.github.io/Ruby-Sample-App/.
+Desktop version of the OSHA Heat Safety Tool, created as a proof of concept by the Office of Public Affairs in response to a suggestion from the public. Inside the ZIP file is the compiled app that you can run on your computer (Mac).
+Get the latest economic indicators from BLS & ETA
+A sample app using the federal API SDK for iOS.  For documentation, see http://usdepartmentoflabor.github.io/iOS-Sample-App/
+This is a sample project using the API SDK for iOS that demonstrates how it can be used for non-DOL APIs.  This universal (iPhone & iPad) app displays a list of agencies provided by a GSA-owned web service that the user can then select to view that agency's progress with the digital strategy.  Currently, the only agency list available is a list of all agencies, regardless of whether they're reporting progress on the federal digital strategy (some are agencies within a cabinet department).
+prototype of a modernization of the OSHA Heat Safety App, built in Swift and employing new features, including a 7-day forecast and wind chill warnings.
+The back-end and admin UI code for the next evolution of DOL's open data API.
+Admin interface for APIv2
+A selection of test cases used to test accessibility and Section 508 compliance of mobile applications
+Having trouble using DOL's API?  Feel free to use the issues tab.  If you are having trouble with any of our SDKs, please see their github pages.
+
+PHP SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.
+.Net SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers.
+Consolidates public data listing files (data.json) into one department-wide JSON file
+
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers. 
+Blackberry SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.
+A sample app using the Ruby Federal SDK.  Documentation can be found at http://USDepartmentofLabor.github.io/Ruby-Sample-App.
+A sample app using the federal API SDK for Android.
+This is a timesheet to record the hours that you work and calculate the amount you may be owed by your employer. It also includes overtime pay calculations at a rate of one and one-half times (1.5) the regular rate of pay for all hours you work over 40 in a workweek. This DOL-Timesheet does not handle items such as tips, commissions, bonuses, deductions, holiday pay, pay for weekends, shift differentials, or pay for regular days of rest.
+Get the latest economic indicators from BLS & ETA
+A class that exposes functions that enable common conversions between US (Imperial) and metric measurements
+Java Class that will calculate the heat index
+A Swift object to support the OSHA Heat Safety App
+The solution begins with the question “Was this page helpful,” which captures the feedback from the user about the page that is displayed on the browser. This can be easily integrated in all or desired pages as per the need. Once the data is gathered and stored in database, the data can be viewed in different views by supervisor(s) or administrator(s). This solution can be applied to as many websites as you desire and connect to one or many database(s).
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers.
+This app allows workers and supervisors to calculate the heat index for their worksite, and, based on the heat index, displays a risk level to outdoor workers.
+A sample app using the federal API SDK for ColdFusion.
+Sample app and documentation for the PHP Federal SDK.  Documentation can be found at http://usdepartmentoflabor.github.io/PHP-Sample-App
+Sample app and documentation for the Blackberry Federal SDK.
+
+Developer.dol.gov
+SDK to ease access to federal APIs, including DOL's
+
+SDK to ease access to DOL's and other federal agencies' APIs. For a list of APIs that this SDK has been tested against, please see the wiki. For documentation, please see the readme. For sample code, please visit http://developer.dol.gov.
+US Department of Veterans Affairs GitHub Organization Page
+VistA Evolution
+US Department of Veterans Affairs Feedback
+ORD - introR
+EPA's Master Look and Feel
+ORD Water Distribution Network Model
+ORD lakemorpho
+OEI - EPA_Public_Esri_Web_AppBuilder
+This application compares toxic chemical releases from individual facilities to releases from other facilities in the same county, as well as to releases from other facilities in the same industry sector.
+OEI FRS-getfacilities-samples repository.
+ORD LakeTrophicModelling
+iOS Sample Envirofacts RadNet Representational State Transfer (REST) Application Programming Interface (API)
+Android Sample: Envirofacts MultiSystem Representational State Transfer (REST) Application Programming Interface (API)
+PHP Sample Code Using Envirofacts Safe Drinking Water Information System (SDWIS) Representational State Transfer (REST) Application Programming Interface (API)
+ORD for R micromap package development
+OEI - elpaso-widget-js
+.Net Sample: Envirofacts Design for the Environment (DfE) Representational State Transfer (REST) Application Programming Interface (API)
+A non-jQuery dependent way to share your content without cookies
+
+E-Enterprise is a transformative approach to make environmental information and data more accessible, efficient, and evidence-based through advances in monitoring, reporting, and information technology.  The Portal is designed to be a modern and efficient interface for environmental transactions.  This includes easier access to information and making transactions with environmental agencies as efficient and effective as possible.
+A general purpose set of python functions for ArcGIS data processing.
+A story map detailing the Río Loco Watershed Project (RLWP)
+A web mapping template built with Leaflet.js
+Data for looking up the status of your Recovery and Interstate Commerce Permit
+A general purpose repo for OS GIS python code.  Focusing on OGR, GDAL, etc that can be run inside the qGIS-python framework.
+A way to solve Chris' concern about managing FWS repos
+A general purpose module for holding non-GIS python subroutines and class specifications
+Statistical Community of Practice and Engagement documents on data dictionaries for online data sets
+Global Change Information System
+Ontology for the Global Change Information System
+Compare contents between instances of the Global Change Information System
+GCIS QA tests
+GCIS Python Client
+
+GCIS RDF import scripts
+Perl GCIS Client
+GCIS synchronization modules
+The link service is used to create links to content and metadata on FDsys
+How to use FDsys sitemaps to crawl for content and metadata
+User Guides for XML on the FDsys Bulk Data Repository
+Information about FDsys metadata
+Web application for displaying earthquake event pages.
+This meta-repository will serve as a reference location for a number of github repositories sharing ANSS ComCat-related code.
+ANSS Quakeml
+Java library for searching the ANSS ComCat comprehensive earthquake catalog.
+Slab2.0 is a three-dimensional compilation of global subduction geometries, separated into regional models for each major subduction zone.
+
+ STREC stands for SeismoTectonic Regime Earthquake Calculator. It’s purpose is to determine automatically the earthquake type (subduction zone interface, active crustal shallow, stable continental region, etc.) and the earthquake focal mechanism.
+NWIS Web Services Snapshot Source Code
+NSHMP Fortran Codes
+ImageMaps implemented as SVG for responsive resizing.
+Web library for getting location information from a user.
+Perl interface to monitor LSI MegaRAID controllers
+Utilities for processing Mini-SEED files.
+
+Quaternary and hazard fault web applications
+
+Earthquake Message Format Utilities
+National Seismic Hazard Mapping Program codes
+Publish hydrograph pages and data for EDEN (Everglades Depth Estimation Network)
+Widget for embedding earthquake list(s) on web pages.
+Utilities commonly used in web applications developed by the EHP HazDev team.
+Web application for computing seismic design values conforming to various design codes in the United States.
+Library of functions and wrapper scripts for accessing NEIC ComCat server data
+
+
+
+ASL Azimuth
+
+Just a temporary demo project.
+
+Widget for displaying ArcGIS services on a leaflet map.
+Geoserve
+
+Tool to monitor a Product Distribution Layer installation.
+Web application for computing design values worldwide.
+
+
+Web interface for viewing heliplot data
+National Climate Change Viewer Code Examples
+
+XMAX waveform display
+Plots of timeseries data for geomagnetic observatories
+Matlab wrapper around ANSS ComCat server
+NSHMP Hazard Web Services
+Tile overlays used in hazdev applications.
+
+Application/library used to invalidate cached pages
+Earthquake catalog statistics and plotting
+Second generation global associator
+ASL Java SeedScan
+Unified application for hazard calculations.
+Global Vs30
+CPT Data
+Widget for creating collapsable regions on web pages.
+
+R library for searching the ANSS ComCat comprehensive earthquake catalog.
+
+Web application for calculating risk targeted ground motions and risk coefficients from hazard curves.
+
+Python version of mdget
+Finite-Fault Modeling of the Earthquake Source using Teleseismic Body Waves
+NSHMP Earthquake Catalogs
+Splits HeliPlot program into separate class files to be used as an API-similar package
+Quantifying coastal habitat utilization with smartphones!
+Lightweight php template framework
+NSHMP Conterminous U.S. 2008
+NSHMP Conterminous U.S. 2014
+Web service and data feeds for seismic event data
+
+
+
+
+Blender plugin to generate 3d DTM renders using GDAL.
+ArcGIS Plugin Repository
+GDAL scripts generally written in Python
+latitude dependent scale bar.
+
+Collection of plugins written for SocetGXP
+A repository of Vagrantfiles for various VMs
+Datasets and docs for CIDA's data visualization challenge
+python module for GDP
+Extensions to the opensource OpenLayers framework
+Model Intercomparison Portal
+Jenkins Plugin to add a parameter dropdown filled with artifact versions existing in Nexus
+A generic scriptable Python client for downloading datasets from the USGS/EPA Water Quality Portal: an alternative to manual use of the website at http://www.waterqualitydata.us.
+GeoTIFF IOSP for NetCDF-Java
+
+Portal for Coastal Change Hazards
+Operational metadata and dataset tools
+GeoExt-Extensions
+
+Customizable Canvas Legend Plugin for Flot
+
+Chef cookbook to create a base Jenkins install
+
+Water Quality Portal User Interface
+JNA bindings for NetCDF
+NetCDF Discrete Sampling Geometry Utilities
+NetCDF Global Summary of Days Example
+java servlet for responding to a MON dashboard request
+
+Custom GeoServer DataStores, WPS Processing  and WAR Overlay supporting GLRI effort
+
+Sediment Mapper
+Display the AFINCH monthly model results
+NUDE Framework functions abstracted into microservices
+Chef role cookbook for setting up a Consul cluster node - https://github.com/johnbellone/consul-cookbook
+Chef role cookbook for setting up a Consul client node - https://github.com/johnbellone/consul-cookbook 
+CIDA generic 52 north wps framework
+Commonly used Java utilites for interacting with various OGC services
+Geoserver specific set of utilities
+
+National Water Census UI
+
+Natural Uniform Data Export
+
+
+NAWQA Annual Reporting Services
+A collection of modules dealing with authentication and authorization
+
+
+
+
+National Water Census User Interface Framework
+
+Web UI for Geo Data Portal
+
+Utilities for interacting with geonetwork
+
+Library for common useful utilities when writing servlets and JSPs
+eXcat OpenGIS CSW client 
+
+Scripts designed for the Water Quality Portal to be used in an WPS4R environment
+This set of recipes compiles the pre-requisite libraries as well as the NetCDF library
+
+
+Core libraries to help implement microservice applications
+
+NAWQA Annual Reporting User Interface
+CIDA Data Access Transformer
+Installs/Configures Rabbit MQ with sane defaults.
+
+Provides the ability to register a service with the consul agent running on the node
+CIDA Checkstyle Repository
+
+
+
+
+
+do_convert.sh
+ESPA module for generating various spectral indices
+
+ESPA module for product formatting
+
+ESPA module for detecting surface water
+Ordering and fulfillment for USGS Climate Data Records and Essential Climate Variables 
+ESPA modules for cloud masking
+
+
+ESPA modules for determining land surface temperature
+
+Examples of using HTCondor to scale scientific processing to a computer cluster
+Examples of simple and complex operations on datalogging and control equipment
+Demo for the fictional state of Superior
+Automated deployment code for Campbell loggers
+NWIS Mapper
+The Aggregate Water-Use Database System (AWUDS) provides for the storage and retrieval of water-use data aggregated by county, hydrologic unit, and aquifer. 
+This R package is designed to obtain its water quality sample data, streamflow data, and metadata directly from either the USGS  or EPA, as well as user-supplied text files.
+R tools for geo-web processing of gridded data via the Geo Data Portal. geoknife slices up gridded data according to overlap with irregular features, such as watersheds, lakes, points, etc.
+Tools for interacting with the General Lake Model (GLM) in R
+Tools for interfacing R with ScienceBase data services
+An R-package for the analysis of long-term changes in water quality and streamflow, including the water-quality method Weighted Regressions on Time, Discharge, and Season (WRTDS)
+Calculates Hydrologic Indicator stats and fundamental properties of daily streamflow for a given set of data
+sensorQC is a flexible framework for QAQCing high-frequency data for a continuously evolving catalogue of sensors
+Graphical USGS water science R functions.
+Services for creating coastal change hazards items for the marine.usgs.gov/coastalchangehazardsportal
+Base USGS water science R functions.
+Statistic USGS water science R functions.
+Splash page for USGS-R organization
+backend tools for powstreams
+
+A set of tools to process Acoustic Doppler Velocimeter data into estimates of the gas transfer velocity (k). 
+Instantaneous rainfall data processing for defining event periods, determination of antecedent rainfall conditions and X-hr intensities. Provides graphical display of instantaneous rainfall with event periods and hydrographs.
+Collection of functions to simplify data retrieval, model creation, and model analysis of censored surrogate regressions.
+Water quality USGS water science R functions.
+Tools for soil moisture data retrieval and visualization
+
+Tools for Powell Center working group on stream metabolism
+
+Introduction material for USGS-R water users.
+
+Scripts and report generator
+lake temperature data package for GLTC
+
+Collection of questions and answers about using R within the USGS.
+Time-series Observation Model
+Data sets as data.frames and as text files for examples in the USGS core pacakges
+Tools for hydrologic optical analysis
+
+USGS water science R functions for LOAD ESTimation of constituents in rivers and streams.
+Initial code for studying ToxCast data in relation to measured concentrations.
+report generation in R
+stream metabolism R package
+Wisconsin Lake Modeling Aggregation
+Tools for the Geological survey R Archive Network
+
+
+Compilation of tools to aid in hydrologic and water quality analysis.
+package for use in splitting flow-weighted samples
+The static content for owi.usgs.gov/R
+A geospatial water feature package for USGS data
+plotting foundation for timeseries reporting
+NetCDF Discrete Sampling Geometry package for R
+Mercury Lab project written in Django with Django Rest Framework
+stn web app
+
+WiM template for building a map application with the ArcGIS API for JavaScript and Twitter Bootstrap, using the 'bootstrap-map-js' extension from Esri
+Flood Event Viewer (formerly STN public)
+code base for the STN Field map
+USGS WiM NSS
+NaWQA Decadal Trends in Groundwater
+Data management system for SiGL
+Light weight angular app that documents ss REST services
+
+This is the GitHub Home for DOI.
+This is a test repo for using Github as a WAF that CKAN can access.
+Code base for the myAmerica Developer Summit 2015
+Federal Register 2.0
+NARA File Analyzer and Metadata Harvester
+Ruby API Client for FederalRegister.gov that handles searching articles and getting information about agencies
+NARA Video Frame Analyzer
+
+National Archives Catalog API
+NARA AVI-MetaEdit
+NARA MediaInfo
+Do you have feedback, ideas, or questions for the US National Archives? Use this repository's Issue Tracker to join the discussion.    
+
+A node client for the National Archives Catalog API
+Experimental twitter bot using NARA's test API.
+A Ruby client for the National Archives Catalog API
+FiPy is a Finite Volume PDE solver written in Python
+A modular single-molecule analysis interface
+Materials Data Curation System
+Object Oriented for Finite Elements 3D version code.
+Tennessee Eastman simulation using Gilbert channel modeling PLC scan failure due to network uncertainties.
+Analyze ERCC spike-in RNA controls in Differential Gene Expression Experiments
+Robotic platform for industrial control systems cybersecurity research.  We use the research-grade Youbot as the robotics platform for our research.  The ROS framework is used for inter-process communication, and Python is the language used for application development.
+Hemang Parikh
+NIST Real-Time Control Systems Library including Posemath, NML communications & Java Plotter
+Plots mulitple lists of Points or Poses(showing orientation) in 3D using JavaFX read from CSV files.
+  This project aims to provide tools for constructing graphical user interfaces (GUIs) that are easily testable. A testable GUI is one in which a user session can be recorded in a log file, after which the log file can be instrumented and replayed to ensure that the GUI is performing correctly.
+Visualization and Planning Software for Obstacle Avoidance with B-Splines to connect to a custom AGV (Autonomous Guided Vehicle) with a NDC8 Controller
+Tool(s) for the collection, display and analysis of position tracking performance metrics 
+Stochastic typing model for ICCM 2015 (International Conference on Cognitive Modeling)
+Cell Imaging.  MML. Michael Halter
+Amazing new tool
+Repository for software and scripts associated with the NIST Standard Reference Simulation Website
+a pure-python symbolic regression library build on deap
+A customizable graphical file manager written in wxpython
+Test cases for ISO15926 interoperability
+Shared work of the Modeling Methodology for Smart Manufacturing project
+John Wack
+Data acquisition for coincidence gamma spectroscopy
+SWIG-based wrapper code around REFPROP for languages such as python, c#, java, etc.
+Framework for Detection Evaluation (F4DE) : set of evaluation tools for detection evaluations and for specific NIST-coordinated evaluations
+Tool to run jobs in parallel, avoiding to rerun a previously run job with the use of a 'jobid'. Comes with a queue processor.
+Dockerfile for F4DE
+Object Oriented for Finite Elements initial code (no longer maintained).
+Object Oriented for Finite Elements 2D version code.
+
+The SP800-90B_EntropyAssessment python package implements the min-entropy assessment methods included in the 2012 draft of Special Publication 800-90B.
+Project to convert Forrestal Building data to Green Button
+Jerod Parsons
+3D viewer for mixture phase envelopes
+the ELSA cookbook for handling webserver installations
+Python code for 1) permuting randomly-generated passwords for easier entry on mobile devices, and 2) for estimating entropy lost as a result of said permutation. 
+iOS 7 typing tester application for usable security behavioral studies
+demo for repro research
+Tool for visualizing password usability and security metrics
+
+The USPTO's open source UI style guide, pattern library, and Bootstrap theme.
+Assignment search html page types
+Proof-of-concept for integrating LeafletJS with external APIs
+
+An upgrade to the US State Department's Diplomacy Explorer (http://diplomacy.state.gov/discoverdiplomacy/explorer/)
+
+
+A quick script using github's API to find who's doing work outside of the USStateDept org
+FPU Bureau Visa Data Analysis
+
+
+AngularJS program to use the cubes API to create data views across many datasets
+A Collection of useful scripts for geoprocessing
+Data and project management for FIND using Django
+State Passive Instrumentation Node (SPIN)
+
+The EAD or Employee Arrival and Departure Database is an attempt to create a central location consolidating all information regarding USDH and TDY moves; e.g. Employee’s name, Family information, Housing information, Office and social sponsors, Visa and diplomatic credential information, and much more!
+A handy application that instructs visa applicants how to apply for a non-immigrant visa
+
+
+
+
+Based on Raw.  A Javascript based visualization package
+Windows production installer for GeoNode
+Clustering algorithm to optimize meeting times
+So there are some handy scripts, but still having issues creating a true sub-repository where a project could be hosted. If anyone knows, please reach out.
+
+The Core Application for the IRM Geo Development team for F/PA
+Infobuttons are context-sensitive links embedded in the electronic health record (EHR). They use clinical context information from the EHR, such as patient demographics, medications, diagnoses, user role, and clinical setting to help find answers to clinicians' and patients' questions using online health information resources. 
+The Mental Healh eScreening (MHE) project gives the VA OEF/OIF, mental health, and primary care communities the ability to automate collection and scoring of screening instruments in order to improve efficiency in treating patients
+The Chemotherapy Ordering Management System (COMS) is a web-based application providing oncology teams with ordering, preparation, and documentation of chemotherapy
+Radiology Protocol Tool Recorder (RAPTOR) is an automated, electronic tool allowing radiologists to optimize advanced medical imaging protocols
+Alert Watch And Respond Engine (AWARE) is an automated tool enabling clinicians, supervisors, and administrations to monitor and track alert responses in CPRS
+eHMP ADK and Applets; a Single Page Application (SPA) written with Marionette/Backbone.js for implementing a VistA EHR User Interface
+The VA After Visit Summary (AVS) is designed to automatically capture data from CPRS including visit information, orders, instructions and more, and reformat the information into a patient-centered, clinic discharge summary for veteran outpatients in an easy to understand format
+Family History in CPRS is an enhancement to the VA's Computerized Patient Record System GUI application that adds the ability to enter a patient's family history data.
+This application stores and forwards reviews of anatomical pathology images for primary diagnosis and consultive services
+Phonak - Hearing Aid App: a solution enabling patients to receive hearing aid adjustments remotely via a Bluetooth, Internet-enabled smartphone. 
+This purpose of this project is to increase enrollment in MyHealtheVet (MHV)
+The Daily Plan was found to increase patient safety during hospitalization. By importing provider orders into a health summary, patients receive an itinerary for each day in the hospital. These patient-specific reports, one or two pages in length, reflect current orders such as allergies, medications, procedures, and diet.
+An enhancement of CPRS/VistA, the “Maternity Tracker”, assists the coordination of maternity care in a seamless fashion between VA and Non-VA providers, in order to support optimal care of pregnant Veterans.
+The Pre-Procedural Checklist Tool is a tool that allows multiple authors to work together in completing pre-procedure statuses for patients in VistA
+GE Pressure Ulcer Prevention and Assessment Tools: the proposed multi-modality solution consists of: a portable real-time prevention system for continuous non-intrusive monitoring of patient pose and motion to ensure the periodic performance of repositioning protocols; a handheld assessment probe for comprehensive skin and pressure ulcer characterization to provide effective assessment and progress tracking; and a decision support system for automatic archiving of ulcer characterization and analytics results, as well as the delivery of high-quality evidence-based ulcer care.  
+A web-based application to enable schedulers to preview, edit and send appointment letters electronically
+Enhanced Lab Order Management Menu
+Elom Demo
+The Automated Surgical Risk Calculator for Mortality Innovation is a project to develop a tool from CPRS through the “Tools” drop down that will auto-fill pertinent information into the developed risk calculator.  The Automated Risk Calculator will utilize the generated data and allow for the user to manually input required information to support clinical decision-making regarding perioperative risk.  The tool will then allow for information to be written back to the patients file in CPRS.  In addition, a secondary tool will be created to store and develop a repository for research of risk calculations developed.  
+REVAMP (Remote Veteran Apnea Management Platform) is a personalized, interactive web application designed to improve management of Veterans with obstructive sleep apnea (OSA)
+
+One VA Pharmacy is the development of a prototype that extends the existing Veterans Health Information Systems and Technology Architecture (VistA) to provide pharmacists direct access to any active, refillable prescription from any VA Healthcare System.
+The Donate My Data (DmD) project allows people to volunteer to donate their medical data residing in VistA for use by developers or other projects.  It obfuscates key identifiers to keep the real identity of the record holders data private.
+The Perceptive Reach innovation combines technology, outreach and clinical support to deliver a clinically based data-driven early intervention and treatment solution aimed at suicide prevention
+Virtual World Framework
+A game designed to teach STEM concepts to high school students under the ADL True Game-based Learning project.
+Public website of the Virtual World Framework project.
+Example VWF applications. 
+Pong implemented in the Virtual World Framework.
+Bootstrap script for the VWF website.
+Source art files for the mars-game repo
+VWF downloads website.
+The NASA Vision Workbench is a general purpose image processing and computer vision library developed by the Autonomous Systems and Robotics (ASR) Area in the Intelligent Systems Division at the NASA Ames Research Center.
+Tools for managing structure point and cadastral datasets for wildland fire
+Tools to automate data collection for WFDSS
+QAACT - Tools for checking WFDSS data for quality, completeness, and for assessing changes between versions
+Tools for calculating metrics on wildland fires
+
+Drupal installation profile powering We The People at petitions.whitehouse.gov
+
+The U.S. Digital Services Playbook
+The data behind the President's 2016 Budget
+
+7.x base theme for White House sites
+
+Management and Oversight of Federal IT Resources
+U.S. Digital Service WhiteHouse.gov website
+
+Note: This project is in active development. Documentation may not be totally up to date. Stable release (and corresponding documentation) hopefully coming soon.
+Note: This project is in active development. Documentation may not be totally up to date. Stable release (and corresponding documentation) hopefully coming soon.
+
+
+
+Sheldon Rampton's project at White House hackathon on 2/22/2013 
+
+Drupal install profile to grab tweets and push up to a CDN for redistribution.
+
+
+Drupal module with a simple interface for Twitter's REST API
+This project has been renamed petitionS.
+Drupal module to help you sync files up to Akamai NetStorage.
+
+
+A drush make file for compiling the code necessary to implement much of the functionality of the new responsive whitehouse.gov
+The webform_submit_button module for Drupal
+Stand-alone version of Tweet Fetch module originally developed for 2014 State of the Union Address as part of Tweet Server, https://github.com/whitehouse/tweetserver.
+Repository for the Drupal Logger module.

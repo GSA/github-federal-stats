@@ -1,0 +1,42 @@
+[
+  {
+    "login": "ehariton",
+    "id": 11527849,
+    "avatar_url": "https://avatars.githubusercontent.com/u/11527849?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ehariton",
+    "html_url": "https://github.com/ehariton",
+    "followers_url": "https://api.github.com/users/ehariton/followers",
+    "following_url": "https://api.github.com/users/ehariton/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ehariton/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ehariton/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ehariton/subscriptions",
+    "organizations_url": "https://api.github.com/users/ehariton/orgs",
+    "repos_url": "https://api.github.com/users/ehariton/repos",
+    "events_url": "https://api.github.com/users/ehariton/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ehariton/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 7
+  },
+  {
+    "login": "jasonduley",
+    "id": 6842640,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6842640?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jasonduley",
+    "html_url": "https://github.com/jasonduley",
+    "followers_url": "https://api.github.com/users/jasonduley/followers",
+    "following_url": "https://api.github.com/users/jasonduley/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jasonduley/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jasonduley/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jasonduley/subscriptions",
+    "organizations_url": "https://api.github.com/users/jasonduley/orgs",
+    "repos_url": "https://api.github.com/users/jasonduley/repos",
+    "events_url": "https://api.github.com/users/jasonduley/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jasonduley/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

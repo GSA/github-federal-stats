@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://api.github.com/repos/informaticslab/photon-droid/releases/1081463",
+    "assets_url": "https://api.github.com/repos/informaticslab/photon-droid/releases/1081463/assets",
+    "upload_url": "https://uploads.github.com/repos/informaticslab/photon-droid/releases/1081463/assets{?name}",
+    "html_url": "https://github.com/informaticslab/photon-droid/releases/tag/v0.2.1",
+    "id": 1081463,
+    "tag_name": "v0.2.1",
+    "target_commitish": "master",
+    "name": "v0.2.1",
+    "draft": false,
+    "author": {
+      "login": "gsledbetter",
+      "id": 304946,
+      "avatar_url": "https://avatars.githubusercontent.com/u/304946?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gsledbetter",
+      "html_url": "https://github.com/gsledbetter",
+      "followers_url": "https://api.github.com/users/gsledbetter/followers",
+      "following_url": "https://api.github.com/users/gsledbetter/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gsledbetter/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gsledbetter/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gsledbetter/subscriptions",
+      "organizations_url": "https://api.github.com/users/gsledbetter/orgs",
+      "repos_url": "https://api.github.com/users/gsledbetter/repos",
+      "events_url": "https://api.github.com/users/gsledbetter/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gsledbetter/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2015-03-23T14:55:53Z",
+    "published_at": "2015-03-23T18:56:35Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/informaticslab/photon-droid/releases/assets/486464",
+        "id": 486464,
+        "name": "photon-release.apk",
+        "label": null,
+        "uploader": {
+          "login": "gsledbetter",
+          "id": 304946,
+          "avatar_url": "https://avatars.githubusercontent.com/u/304946?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/gsledbetter",
+          "html_url": "https://github.com/gsledbetter",
+          "followers_url": "https://api.github.com/users/gsledbetter/followers",
+          "following_url": "https://api.github.com/users/gsledbetter/following{/other_user}",
+          "gists_url": "https://api.github.com/users/gsledbetter/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/gsledbetter/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/gsledbetter/subscriptions",
+          "organizations_url": "https://api.github.com/users/gsledbetter/orgs",
+          "repos_url": "https://api.github.com/users/gsledbetter/repos",
+          "events_url": "https://api.github.com/users/gsledbetter/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/gsledbetter/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "application/vnd.android.package-archive",
+        "state": "uploaded",
+        "size": 2916194,
+        "download_count": 0,
+        "created_at": "2015-03-23T18:56:08Z",
+        "updated_at": "2015-03-23T18:56:19Z",
+        "browser_download_url": "https://github.com/informaticslab/photon-droid/releases/download/v0.2.1/photon-release.apk"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/informaticslab/photon-droid/tarball/v0.2.1",
+    "zipball_url": "https://api.github.com/repos/informaticslab/photon-droid/zipball/v0.2.1",
+    "body": "This release is the first beta release of the MMWR Express app for Android posted to the IIU AppLab site.  It has the following features:\r\n\r\n- Reads content from RSS feed that contains blue box information from MMWR Weekly.\r\n- Persists content in database on device so it is available even when device is offline.\r\n- Displays blue dot next to each article that is unread and clears it once it is read.\r\n- Pull to refresh feature for the published article list, which checks for new content from RSS feed.\r\n- Content is displayed in pagerview with ability to swipe left or right for new content page.\r\n- Previous and Next and Done buttons implemented on content pages as well.\r\n- App icon created using Project Photon name.\r\n\r\n "
+  }
+]

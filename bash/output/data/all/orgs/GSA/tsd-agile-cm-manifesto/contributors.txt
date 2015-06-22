@@ -1,0 +1,42 @@
+[
+  {
+    "login": "davidlarrimore",
+    "id": 5623372,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5623372?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/davidlarrimore",
+    "html_url": "https://github.com/davidlarrimore",
+    "followers_url": "https://api.github.com/users/davidlarrimore/followers",
+    "following_url": "https://api.github.com/users/davidlarrimore/following{/other_user}",
+    "gists_url": "https://api.github.com/users/davidlarrimore/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/davidlarrimore/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/davidlarrimore/subscriptions",
+    "organizations_url": "https://api.github.com/users/davidlarrimore/orgs",
+    "repos_url": "https://api.github.com/users/davidlarrimore/repos",
+    "events_url": "https://api.github.com/users/davidlarrimore/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/davidlarrimore/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 8
+  },
+  {
+    "login": "threeiem",
+    "id": 409803,
+    "avatar_url": "https://avatars.githubusercontent.com/u/409803?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/threeiem",
+    "html_url": "https://github.com/threeiem",
+    "followers_url": "https://api.github.com/users/threeiem/followers",
+    "following_url": "https://api.github.com/users/threeiem/following{/other_user}",
+    "gists_url": "https://api.github.com/users/threeiem/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/threeiem/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/threeiem/subscriptions",
+    "organizations_url": "https://api.github.com/users/threeiem/orgs",
+    "repos_url": "https://api.github.com/users/threeiem/repos",
+    "events_url": "https://api.github.com/users/threeiem/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/threeiem/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

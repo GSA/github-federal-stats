@@ -1,0 +1,22 @@
+[
+  {
+    "login": "seanherron",
+    "id": 297696,
+    "avatar_url": "https://avatars.githubusercontent.com/u/297696?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/seanherron",
+    "html_url": "https://github.com/seanherron",
+    "followers_url": "https://api.github.com/users/seanherron/followers",
+    "following_url": "https://api.github.com/users/seanherron/following{/other_user}",
+    "gists_url": "https://api.github.com/users/seanherron/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/seanherron/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/seanherron/subscriptions",
+    "organizations_url": "https://api.github.com/users/seanherron/orgs",
+    "repos_url": "https://api.github.com/users/seanherron/repos",
+    "events_url": "https://api.github.com/users/seanherron/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/seanherron/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

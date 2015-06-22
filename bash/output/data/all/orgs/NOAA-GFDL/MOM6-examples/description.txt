@@ -1,0 +1,1 @@
+Example configurations for MOM6 and SIS2

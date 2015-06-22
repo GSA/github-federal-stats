@@ -1,0 +1,1 @@
+caImage supports the storage and display of pathology images as well as the capture of and search for annotations associated with those images.

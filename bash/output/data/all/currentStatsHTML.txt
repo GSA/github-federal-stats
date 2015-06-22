@@ -1,0 +1,4 @@
+<td headers='Missing_Descriptions'>13</td>
+<td headers='Average_Watchers'>139.93</td>
+<td headers='Average_Issues'>6.70</td>
+<td headers='Average_Commits'>0.37</td>

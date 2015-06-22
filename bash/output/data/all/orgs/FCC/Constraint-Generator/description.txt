@@ -1,0 +1,1 @@
+TVStudy Data Processing and Constraint Generation software to generate pairwise interference constraint files for use in the repacking process of the incentive auction software

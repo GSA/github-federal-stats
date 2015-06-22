@@ -1,0 +1,1 @@
+A very simple software package example that includes a Makefile

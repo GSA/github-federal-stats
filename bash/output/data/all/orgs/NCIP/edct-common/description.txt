@@ -1,0 +1,1 @@
+eDCT Common project contains the common code used by eDCT Collector, eDCT Formbuilder and eDCT Analytics projects.

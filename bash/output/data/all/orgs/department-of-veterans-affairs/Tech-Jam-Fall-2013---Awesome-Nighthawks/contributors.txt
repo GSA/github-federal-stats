@@ -1,0 +1,22 @@
+[
+  {
+    "login": "jbungertv",
+    "id": 5839145,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5839145?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jbungertv",
+    "html_url": "https://github.com/jbungertv",
+    "followers_url": "https://api.github.com/users/jbungertv/followers",
+    "following_url": "https://api.github.com/users/jbungertv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jbungertv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jbungertv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jbungertv/subscriptions",
+    "organizations_url": "https://api.github.com/users/jbungertv/orgs",
+    "repos_url": "https://api.github.com/users/jbungertv/repos",
+    "events_url": "https://api.github.com/users/jbungertv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jbungertv/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

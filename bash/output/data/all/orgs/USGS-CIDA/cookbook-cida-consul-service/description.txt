@@ -1,0 +1,1 @@
+Provides the ability to register a service with the consul agent running on the node

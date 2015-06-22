@@ -1,0 +1,22 @@
+[
+  {
+    "login": "welschp",
+    "id": 2212456,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2212456?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/welschp",
+    "html_url": "https://github.com/welschp",
+    "followers_url": "https://api.github.com/users/welschp/followers",
+    "following_url": "https://api.github.com/users/welschp/following{/other_user}",
+    "gists_url": "https://api.github.com/users/welschp/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/welschp/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/welschp/subscriptions",
+    "organizations_url": "https://api.github.com/users/welschp/orgs",
+    "repos_url": "https://api.github.com/users/welschp/repos",
+    "events_url": "https://api.github.com/users/welschp/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/welschp/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

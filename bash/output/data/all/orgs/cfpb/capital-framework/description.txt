@@ -1,0 +1,1 @@
+Project-wide documentation for Capital Framework, a set of modular front-end components developed at the Consumer Financial Protection Bureau.

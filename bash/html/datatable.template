@@ -110,6 +110,7 @@
                 <th id="Language"   style="background-color:#C9E8FA;">Language</th>
                 <th id="Description"   style="background-color:#C9E8FA;">Description</th>
                 <th id="Latest_Release"   style="background-color:#C9E8FA;">Latest Release</th>
+                <th id="Contreibutors"   style="background-color:#C9E8FA;">Contributors</th>
             </tr>
         </thead>
  

@@ -1,0 +1,1 @@
+eDCT Analytics is a Web application that provide an easy and dynamic interface to navigate collected data through the eDCT Collector and enable ad-hoc data trend research and detection.

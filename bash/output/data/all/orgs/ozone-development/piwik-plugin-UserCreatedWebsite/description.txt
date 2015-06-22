@@ -1,0 +1,1 @@
+Piwik plugin to enable non-superusers to create and manage their own website metrics

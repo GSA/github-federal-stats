@@ -1,0 +1,42 @@
+[
+  {
+    "login": "jaredbischof",
+    "id": 1944696,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1944696?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jaredbischof",
+    "html_url": "https://github.com/jaredbischof",
+    "followers_url": "https://api.github.com/users/jaredbischof/followers",
+    "following_url": "https://api.github.com/users/jaredbischof/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jaredbischof/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jaredbischof/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jaredbischof/subscriptions",
+    "organizations_url": "https://api.github.com/users/jaredbischof/orgs",
+    "repos_url": "https://api.github.com/users/jaredbischof/repos",
+    "events_url": "https://api.github.com/users/jaredbischof/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jaredbischof/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 26
+  },
+  {
+    "login": "indiagordon",
+    "id": 7736202,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7736202?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/indiagordon",
+    "html_url": "https://github.com/indiagordon",
+    "followers_url": "https://api.github.com/users/indiagordon/followers",
+    "following_url": "https://api.github.com/users/indiagordon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/indiagordon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/indiagordon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/indiagordon/subscriptions",
+    "organizations_url": "https://api.github.com/users/indiagordon/orgs",
+    "repos_url": "https://api.github.com/users/indiagordon/repos",
+    "events_url": "https://api.github.com/users/indiagordon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/indiagordon/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

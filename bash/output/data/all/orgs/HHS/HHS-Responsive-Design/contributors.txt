@@ -1,0 +1,42 @@
+[
+  {
+    "login": "esun",
+    "id": 1518759,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1518759?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/esun",
+    "html_url": "https://github.com/esun",
+    "followers_url": "https://api.github.com/users/esun/followers",
+    "following_url": "https://api.github.com/users/esun/following{/other_user}",
+    "gists_url": "https://api.github.com/users/esun/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/esun/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/esun/subscriptions",
+    "organizations_url": "https://api.github.com/users/esun/orgs",
+    "repos_url": "https://api.github.com/users/esun/repos",
+    "events_url": "https://api.github.com/users/esun/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/esun/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  },
+  {
+    "login": "ckoroma",
+    "id": 7805939,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7805939?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ckoroma",
+    "html_url": "https://github.com/ckoroma",
+    "followers_url": "https://api.github.com/users/ckoroma/followers",
+    "following_url": "https://api.github.com/users/ckoroma/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ckoroma/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ckoroma/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ckoroma/subscriptions",
+    "organizations_url": "https://api.github.com/users/ckoroma/orgs",
+    "repos_url": "https://api.github.com/users/ckoroma/repos",
+    "events_url": "https://api.github.com/users/ckoroma/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ckoroma/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

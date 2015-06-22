@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://api.github.com/repos/informaticslab/photon/releases/1438911",
+    "assets_url": "https://api.github.com/repos/informaticslab/photon/releases/1438911/assets",
+    "upload_url": "https://uploads.github.com/repos/informaticslab/photon/releases/1438911/assets{?name}",
+    "html_url": "https://github.com/informaticslab/photon/releases/tag/1.1.0.6",
+    "id": 1438911,
+    "tag_name": "1.1.0.6",
+    "target_commitish": "master",
+    "name": "Version 1.1.0.6",
+    "draft": false,
+    "author": {
+      "login": "gsledbetter",
+      "id": 304946,
+      "avatar_url": "https://avatars.githubusercontent.com/u/304946?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gsledbetter",
+      "html_url": "https://github.com/gsledbetter",
+      "followers_url": "https://api.github.com/users/gsledbetter/followers",
+      "following_url": "https://api.github.com/users/gsledbetter/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gsledbetter/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gsledbetter/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gsledbetter/subscriptions",
+      "organizations_url": "https://api.github.com/users/gsledbetter/orgs",
+      "repos_url": "https://api.github.com/users/gsledbetter/repos",
+      "events_url": "https://api.github.com/users/gsledbetter/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gsledbetter/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2015-06-19T18:11:52Z",
+    "published_at": "2015-06-19T18:44:45Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/informaticslab/photon/tarball/1.1.0.6",
+    "zipball_url": "https://api.github.com/repos/informaticslab/photon/zipball/1.1.0.6",
+    "body": "Version 1.1.0.6 of MMWR Express is now available and has the following changes:\r\n\r\n* Uses CDC Production RSS feed\r\n* Loads Articles that are built into app at launch"
+  },
+  {
+    "url": "https://api.github.com/repos/informaticslab/photon/releases/1434727",
+    "assets_url": "https://api.github.com/repos/informaticslab/photon/releases/1434727/assets",
+    "upload_url": "https://uploads.github.com/repos/informaticslab/photon/releases/1434727/assets{?name}",
+    "html_url": "https://github.com/informaticslab/photon/releases/tag/1.1.0.2",
+    "id": 1434727,
+    "tag_name": "1.1.0.2",
+    "target_commitish": "master",
+    "name": "Version 1.1.0.2",
+    "draft": false,
+    "author": {
+      "login": "gsledbetter",
+      "id": 304946,
+      "avatar_url": "https://avatars.githubusercontent.com/u/304946?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gsledbetter",
+      "html_url": "https://github.com/gsledbetter",
+      "followers_url": "https://api.github.com/users/gsledbetter/followers",
+      "following_url": "https://api.github.com/users/gsledbetter/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gsledbetter/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gsledbetter/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gsledbetter/subscriptions",
+      "organizations_url": "https://api.github.com/users/gsledbetter/orgs",
+      "repos_url": "https://api.github.com/users/gsledbetter/repos",
+      "events_url": "https://api.github.com/users/gsledbetter/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gsledbetter/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2015-06-18T19:02:38Z",
+    "published_at": "2015-06-18T20:23:18Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/informaticslab/photon/tarball/1.1.0.2",
+    "zipball_url": "https://api.github.com/repos/informaticslab/photon/zipball/1.1.0.2",
+    "body": "Version 1.1.0.2 of MMWR Express is now available and has the following changes:\r\n\r\n* Uses IIU RSS test feed, not production feed \r\n* Use localized case insensitive compare for keyword sorting."
+  }
+]

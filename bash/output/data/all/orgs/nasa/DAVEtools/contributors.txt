@@ -1,0 +1,22 @@
+[
+  {
+    "login": "bjax",
+    "id": 610900,
+    "avatar_url": "https://avatars.githubusercontent.com/u/610900?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bjax",
+    "html_url": "https://github.com/bjax",
+    "followers_url": "https://api.github.com/users/bjax/followers",
+    "following_url": "https://api.github.com/users/bjax/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bjax/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bjax/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bjax/subscriptions",
+    "organizations_url": "https://api.github.com/users/bjax/orgs",
+    "repos_url": "https://api.github.com/users/bjax/repos",
+    "events_url": "https://api.github.com/users/bjax/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bjax/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 125
+  }
+]

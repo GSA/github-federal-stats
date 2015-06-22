@@ -1,0 +1,1 @@
+Java library and command line to support BagIt. A project of the Library of Congress. Note: project members may work on both official Library of Congress projects and non-LC projects.

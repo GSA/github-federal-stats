@@ -1,0 +1,42 @@
+[
+  {
+    "login": "rsignell-usgs",
+    "id": 1872600,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1872600?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rsignell-usgs",
+    "html_url": "https://github.com/rsignell-usgs",
+    "followers_url": "https://api.github.com/users/rsignell-usgs/followers",
+    "following_url": "https://api.github.com/users/rsignell-usgs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rsignell-usgs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rsignell-usgs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rsignell-usgs/subscriptions",
+    "organizations_url": "https://api.github.com/users/rsignell-usgs/orgs",
+    "repos_url": "https://api.github.com/users/rsignell-usgs/repos",
+    "events_url": "https://api.github.com/users/rsignell-usgs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rsignell-usgs/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  },
+  {
+    "login": "comtbot",
+    "id": 6154611,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6154611?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/comtbot",
+    "html_url": "https://github.com/comtbot",
+    "followers_url": "https://api.github.com/users/comtbot/followers",
+    "following_url": "https://api.github.com/users/comtbot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/comtbot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/comtbot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/comtbot/subscriptions",
+    "organizations_url": "https://api.github.com/users/comtbot/orgs",
+    "repos_url": "https://api.github.com/users/comtbot/repos",
+    "events_url": "https://api.github.com/users/comtbot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/comtbot/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  }
+]

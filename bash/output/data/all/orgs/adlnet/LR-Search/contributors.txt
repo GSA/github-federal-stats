@@ -1,0 +1,22 @@
+[
+  {
+    "login": "wegrata",
+    "id": 508073,
+    "avatar_url": "https://avatars.githubusercontent.com/u/508073?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wegrata",
+    "html_url": "https://github.com/wegrata",
+    "followers_url": "https://api.github.com/users/wegrata/followers",
+    "following_url": "https://api.github.com/users/wegrata/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wegrata/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wegrata/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wegrata/subscriptions",
+    "organizations_url": "https://api.github.com/users/wegrata/orgs",
+    "repos_url": "https://api.github.com/users/wegrata/repos",
+    "events_url": "https://api.github.com/users/wegrata/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wegrata/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 70
+  }
+]

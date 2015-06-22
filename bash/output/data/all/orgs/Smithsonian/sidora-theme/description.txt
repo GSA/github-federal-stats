@@ -1,0 +1,1 @@
+Contains the Sidora Smithsonian Drupal theme

@@ -1,0 +1,1 @@
+beginning examples using the flot javascript library to graph from web services such as ncSOS,ndbc SOS and thredds(wms get feature info and ncss)

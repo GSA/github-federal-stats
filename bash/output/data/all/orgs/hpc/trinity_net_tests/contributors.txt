@@ -1,0 +1,22 @@
+[
+  {
+    "login": "hppritcha",
+    "id": 7818666,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7818666?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hppritcha",
+    "html_url": "https://github.com/hppritcha",
+    "followers_url": "https://api.github.com/users/hppritcha/followers",
+    "following_url": "https://api.github.com/users/hppritcha/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hppritcha/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hppritcha/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hppritcha/subscriptions",
+    "organizations_url": "https://api.github.com/users/hppritcha/orgs",
+    "repos_url": "https://api.github.com/users/hppritcha/repos",
+    "events_url": "https://api.github.com/users/hppritcha/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hppritcha/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  }
+]

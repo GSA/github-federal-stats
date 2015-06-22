@@ -1,0 +1,1 @@
+Very simple MPI sanity code. Nothing more, nothing less.

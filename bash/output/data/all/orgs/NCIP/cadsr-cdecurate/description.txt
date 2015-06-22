@@ -1,0 +1,1 @@
+The CDE Curation Tool supports creation and editing of Data Element Concepts, Value Domains, and Data Elements.

@@ -1,0 +1,1 @@
+The NMML Polar Ecosystems Program (PEP) telemetry data model represents the Oracle 11g database structure and objects used to store and process data from telemetry devices.

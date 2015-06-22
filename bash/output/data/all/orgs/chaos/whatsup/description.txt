@@ -1,0 +1,1 @@
+Whatsup is cluster node up/down detection utility.

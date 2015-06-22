@@ -1,0 +1,31 @@
+Distributed I/O Daemon - a 9P file server
+Parallel filesystem I/O benchmark
+SLURM: A Highly Scalable Resource Manager
+Lustre Monitoring Tools
+LLNL's Branch of Lustre
+disk overwrite utility
+Lustre KDMU Development
+Some lustre-related scripts and utilities in use at LLNL.
+Lustre Monitoring Tools Java GUI
+ldiskfs backend filesystem for Lustre
+Cerebro is a collection of cluster monitoring tools and libraries.
+Mrsh is a set of remote shell programs that use munge authentication rather than reserved ports for security.  The code for mrsh is based on the source code for rsh, rshd, rlogin, rlogind, and rcp.
+cluster power control
+network block device over 9P transport
+linux cluster diskless support
+Get Remaining Time library
+quota utilities for NFS and Lustre file systems
+cluster node diagnostics
+e2fsprogs patched to support lustre and renamed to avoid conflicting with e2fsprogs
+
+9P kernel modules
+
+file system benchmark specializing in path search
+dotkit modified for use with dpkg-scripts in /usr/local
+Support for root over network block device
+Genders is a static cluster configuration database used for cluster configuration management.  It is used by a variety of tools and scripts for management of large clusters.
+ tools for packaging software in /usr/local using debs \t
+dpkg modified for use with dpkg-scripts in /usr/local
+apt modified for use with dpkg-scripts in /usr/local
+Whatsup is cluster node up/down detection utility. 
+The Gendersllnl package is a local genders package that contains libraries with extra helper functions.

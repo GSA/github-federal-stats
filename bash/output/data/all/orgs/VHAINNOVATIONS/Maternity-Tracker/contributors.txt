@@ -1,0 +1,42 @@
+[
+  {
+    "login": "tfontana",
+    "id": 1045883,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1045883?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tfontana",
+    "html_url": "https://github.com/tfontana",
+    "followers_url": "https://api.github.com/users/tfontana/followers",
+    "following_url": "https://api.github.com/users/tfontana/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tfontana/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tfontana/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tfontana/subscriptions",
+    "organizations_url": "https://api.github.com/users/tfontana/orgs",
+    "repos_url": "https://api.github.com/users/tfontana/repos",
+    "events_url": "https://api.github.com/users/tfontana/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tfontana/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 35
+  },
+  {
+    "login": "RandyDSS",
+    "id": 7737578,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7737578?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/RandyDSS",
+    "html_url": "https://github.com/RandyDSS",
+    "followers_url": "https://api.github.com/users/RandyDSS/followers",
+    "following_url": "https://api.github.com/users/RandyDSS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/RandyDSS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/RandyDSS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/RandyDSS/subscriptions",
+    "organizations_url": "https://api.github.com/users/RandyDSS/orgs",
+    "repos_url": "https://api.github.com/users/RandyDSS/repos",
+    "events_url": "https://api.github.com/users/RandyDSS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/RandyDSS/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  }
+]

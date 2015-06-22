@@ -1,0 +1,22 @@
+[
+  {
+    "login": "jhaag75",
+    "id": 563526,
+    "avatar_url": "https://avatars.githubusercontent.com/u/563526?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jhaag75",
+    "html_url": "https://github.com/jhaag75",
+    "followers_url": "https://api.github.com/users/jhaag75/followers",
+    "following_url": "https://api.github.com/users/jhaag75/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jhaag75/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jhaag75/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jhaag75/subscriptions",
+    "organizations_url": "https://api.github.com/users/jhaag75/orgs",
+    "repos_url": "https://api.github.com/users/jhaag75/repos",
+    "events_url": "https://api.github.com/users/jhaag75/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jhaag75/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

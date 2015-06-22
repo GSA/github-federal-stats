@@ -1,0 +1,22 @@
+[
+  {
+    "login": "akermanm",
+    "id": 4050614,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4050614?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/akermanm",
+    "html_url": "https://github.com/akermanm",
+    "followers_url": "https://api.github.com/users/akermanm/followers",
+    "following_url": "https://api.github.com/users/akermanm/following{/other_user}",
+    "gists_url": "https://api.github.com/users/akermanm/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/akermanm/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/akermanm/subscriptions",
+    "organizations_url": "https://api.github.com/users/akermanm/orgs",
+    "repos_url": "https://api.github.com/users/akermanm/repos",
+    "events_url": "https://api.github.com/users/akermanm/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/akermanm/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

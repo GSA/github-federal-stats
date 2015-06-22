@@ -1,0 +1,22 @@
+[
+  {
+    "login": "FireDataMan",
+    "id": 6403986,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6403986?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/FireDataMan",
+    "html_url": "https://github.com/FireDataMan",
+    "followers_url": "https://api.github.com/users/FireDataMan/followers",
+    "following_url": "https://api.github.com/users/FireDataMan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/FireDataMan/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/FireDataMan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/FireDataMan/subscriptions",
+    "organizations_url": "https://api.github.com/users/FireDataMan/orgs",
+    "repos_url": "https://api.github.com/users/FireDataMan/repos",
+    "events_url": "https://api.github.com/users/FireDataMan/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/FireDataMan/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 6
+  }
+]

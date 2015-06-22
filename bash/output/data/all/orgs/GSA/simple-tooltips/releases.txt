@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/GSA/simple-tooltips/releases/951115",
+    "assets_url": "https://api.github.com/repos/GSA/simple-tooltips/releases/951115/assets",
+    "upload_url": "https://uploads.github.com/repos/GSA/simple-tooltips/releases/951115/assets{?name}",
+    "html_url": "https://github.com/GSA/simple-tooltips/releases/tag/1.0",
+    "id": 951115,
+    "tag_name": "1.0",
+    "target_commitish": "master",
+    "name": "release-1.0",
+    "draft": false,
+    "author": {
+      "login": "dano-reisys",
+      "id": 3019271,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3019271?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dano-reisys",
+      "html_url": "https://github.com/dano-reisys",
+      "followers_url": "https://api.github.com/users/dano-reisys/followers",
+      "following_url": "https://api.github.com/users/dano-reisys/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dano-reisys/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dano-reisys/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dano-reisys/subscriptions",
+      "organizations_url": "https://api.github.com/users/dano-reisys/orgs",
+      "repos_url": "https://api.github.com/users/dano-reisys/repos",
+      "events_url": "https://api.github.com/users/dano-reisys/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dano-reisys/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-07-29T19:47:23Z",
+    "published_at": "2015-02-13T22:02:01Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/GSA/simple-tooltips/tarball/1.0",
+    "zipball_url": "https://api.github.com/repos/GSA/simple-tooltips/zipball/1.0",
+    "body": ""
+  }
+]

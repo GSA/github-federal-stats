@@ -1,0 +1,42 @@
+[
+  {
+    "login": "feomike",
+    "id": 1706858,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1706858?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/feomike",
+    "html_url": "https://github.com/feomike",
+    "followers_url": "https://api.github.com/users/feomike/followers",
+    "following_url": "https://api.github.com/users/feomike/following{/other_user}",
+    "gists_url": "https://api.github.com/users/feomike/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/feomike/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/feomike/subscriptions",
+    "organizations_url": "https://api.github.com/users/feomike/orgs",
+    "repos_url": "https://api.github.com/users/feomike/repos",
+    "events_url": "https://api.github.com/users/feomike/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/feomike/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 73
+  },
+  {
+    "login": "Scotchester",
+    "id": 1044670,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1044670?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Scotchester",
+    "html_url": "https://github.com/Scotchester",
+    "followers_url": "https://api.github.com/users/Scotchester/followers",
+    "following_url": "https://api.github.com/users/Scotchester/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Scotchester/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Scotchester/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Scotchester/subscriptions",
+    "organizations_url": "https://api.github.com/users/Scotchester/orgs",
+    "repos_url": "https://api.github.com/users/Scotchester/repos",
+    "events_url": "https://api.github.com/users/Scotchester/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Scotchester/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

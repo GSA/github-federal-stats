@@ -1,0 +1,8 @@
+Tools for working with CMS Health Provider Data
+Provider JSON
+A system for assessing whether an individual is income-eligible for Medicaid.
+Certified Health Product List (CHPL) OpenAPI
+Medical License Verification System - A standardized medical licenses code and means for verification (Includes a reference implementation)
+This repository for the Health Resilience Technology project.  It includes source code for this open source, open government project.
+The NPPES Provider Registry as a Django Application Plugin
+A simple RESTful API for Direct Certificate fetching and validation via LDAP and DNS

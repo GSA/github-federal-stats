@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/releases/817668",
+    "assets_url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/releases/817668/assets",
+    "upload_url": "https://uploads.github.com/repos/LibraryOfCongress/bagit-python/releases/817668/assets{?name}",
+    "html_url": "https://github.com/LibraryOfCongress/bagit-python/releases/tag/v1.5.3",
+    "id": 817668,
+    "tag_name": "v1.5.3",
+    "target_commitish": "master",
+    "name": "Version 1.5.3",
+    "draft": false,
+    "author": {
+      "login": "dbrunton",
+      "id": 57850,
+      "avatar_url": "https://avatars.githubusercontent.com/u/57850?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dbrunton",
+      "html_url": "https://github.com/dbrunton",
+      "followers_url": "https://api.github.com/users/dbrunton/followers",
+      "following_url": "https://api.github.com/users/dbrunton/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dbrunton/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dbrunton/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dbrunton/subscriptions",
+      "organizations_url": "https://api.github.com/users/dbrunton/orgs",
+      "repos_url": "https://api.github.com/users/dbrunton/repos",
+      "events_url": "https://api.github.com/users/dbrunton/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dbrunton/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-12-31T16:35:52Z",
+    "published_at": "2014-12-31T16:40:09Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/tarball/v1.5.3",
+    "zipball_url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/zipball/v1.5.3",
+    "body": "Single bugfix that addresses a test failure on test_sha1_tagfile."
+  },
+  {
+    "url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/releases/570204",
+    "assets_url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/releases/570204/assets",
+    "upload_url": "https://uploads.github.com/repos/LibraryOfCongress/bagit-python/releases/570204/assets{?name}",
+    "html_url": "https://github.com/LibraryOfCongress/bagit-python/releases/tag/v1.5.2",
+    "id": 570204,
+    "tag_name": "v1.5.2",
+    "target_commitish": "master",
+    "name": "Version 1.5.2",
+    "draft": false,
+    "author": {
+      "login": "dbrunton",
+      "id": 57850,
+      "avatar_url": "https://avatars.githubusercontent.com/u/57850?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dbrunton",
+      "html_url": "https://github.com/dbrunton",
+      "followers_url": "https://api.github.com/users/dbrunton/followers",
+      "following_url": "https://api.github.com/users/dbrunton/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dbrunton/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dbrunton/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dbrunton/subscriptions",
+      "organizations_url": "https://api.github.com/users/dbrunton/orgs",
+      "repos_url": "https://api.github.com/users/dbrunton/repos",
+      "events_url": "https://api.github.com/users/dbrunton/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dbrunton/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-09-19T19:13:32Z",
+    "published_at": "2014-09-19T19:15:11Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/tarball/v1.5.2",
+    "zipball_url": "https://api.github.com/repos/LibraryOfCongress/bagit-python/zipball/v1.5.2",
+    "body": "Added SHA1 support to tagmanifest."
+  }
+]

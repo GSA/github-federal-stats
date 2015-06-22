@@ -1,0 +1,1 @@
+Allows sites to serve and track changes of root level XML, JSON, and other data files without directly uploading files to the server

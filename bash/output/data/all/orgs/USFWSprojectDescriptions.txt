@@ -1,0 +1,7 @@
+A general purpose set of python functions for ArcGIS data processing.
+A story map detailing the Río Loco Watershed Project (RLWP)
+A web mapping template built with Leaflet.js
+Data for looking up the status of your Recovery and Interstate Commerce Permit
+A general purpose repo for OS GIS python code.  Focusing on OGR, GDAL, etc that can be run inside the qGIS-python framework.
+A way to solve Chris' concern about managing FWS repos
+A general purpose module for holding non-GIS python subroutines and class specifications

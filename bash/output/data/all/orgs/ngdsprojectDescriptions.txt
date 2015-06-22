@@ -1,0 +1,15 @@
+CKAN extension for NGDS-specific customizations
+Use this repository's issue tracker to post comments, bug reports, and help questions on installing and running NGDS CKAN.
+
+
+This repository contains requirements, user story, architectural design and other related documents for the NGDS project.
+A repository for tracking issues with metadata in the National Geothermal Data System
+
+
+
+Code base for transforming publications database metadata to USGIN/ISO XML for NGDS.
+
+Issue tracker for known and upcoming issues with NGDS services
+
+repository for docs and code related to implementing DataOne Tier1 member node API on an NGDS CKAN stack.
+

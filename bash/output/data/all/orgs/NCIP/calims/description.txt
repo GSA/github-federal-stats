@@ -1,0 +1,1 @@
+caLIMS is a Laboratory Information Management System (LIMS) that tracks a complete laboratory workflow to generate experimental results for data repositories or data management services.

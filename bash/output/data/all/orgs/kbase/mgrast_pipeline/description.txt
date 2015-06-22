@@ -1,0 +1,1 @@
+The mgrast_pipeline repository provides KBase release engineering tools for the deployment of the MG-RAST pipeline. The MG-RAST pipeline repository is included as a submodule in the mgrast_pipeline repository and is maintained at http://github.com/MG-RAST/pipeline.

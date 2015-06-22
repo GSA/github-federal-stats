@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://api.github.com/repos/chaos/v9fs/releases/513988",
+    "assets_url": "https://api.github.com/repos/chaos/v9fs/releases/513988/assets",
+    "upload_url": "https://uploads.github.com/repos/chaos/v9fs/releases/513988/assets{?name}",
+    "html_url": "https://github.com/chaos/v9fs/releases/tag/2.6.38.5-23",
+    "id": 513988,
+    "tag_name": "2.6.38.5-23",
+    "target_commitish": "master",
+    "name": "v2.6.38.5-23",
+    "draft": false,
+    "author": {
+      "login": "garlick",
+      "id": 169947,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/garlick",
+      "html_url": "https://github.com/garlick",
+      "followers_url": "https://api.github.com/users/garlick/followers",
+      "following_url": "https://api.github.com/users/garlick/following{/other_user}",
+      "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/garlick/subscriptions",
+      "organizations_url": "https://api.github.com/users/garlick/orgs",
+      "repos_url": "https://api.github.com/users/garlick/repos",
+      "events_url": "https://api.github.com/users/garlick/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/garlick/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2013-05-29T22:45:24Z",
+    "published_at": "2014-08-25T21:31:41Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/chaos/v9fs/releases/assets/220052",
+        "id": 220052,
+        "name": "v9fs-2.6.38.5-23.tar.bz2",
+        "label": null,
+        "uploader": {
+          "login": "garlick",
+          "id": 169947,
+          "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/garlick",
+          "html_url": "https://github.com/garlick",
+          "followers_url": "https://api.github.com/users/garlick/followers",
+          "following_url": "https://api.github.com/users/garlick/following{/other_user}",
+          "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/garlick/subscriptions",
+          "organizations_url": "https://api.github.com/users/garlick/orgs",
+          "repos_url": "https://api.github.com/users/garlick/repos",
+          "events_url": "https://api.github.com/users/garlick/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/garlick/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "application/x-bzip",
+        "state": "uploaded",
+        "size": 73123,
+        "download_count": 0,
+        "created_at": "2014-08-25T21:31:37Z",
+        "updated_at": "2014-08-25T21:31:38Z",
+        "browser_download_url": "https://github.com/chaos/v9fs/releases/download/2.6.38.5-23/v9fs-2.6.38.5-23.tar.bz2"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/chaos/v9fs/tarball/2.6.38.5-23",
+    "zipball_url": "https://api.github.com/repos/chaos/v9fs/zipball/2.6.38.5-23",
+    "body": "* add trusted.* and security.* xattr support\r\n\r\n* remove MUNGE support from 9nbd (prep for upstream)\r\n"
+  }
+]

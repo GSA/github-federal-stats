@@ -1,0 +1,1 @@
+Functions for generating black and white images using Bill Atkinson's dithering algorithm.

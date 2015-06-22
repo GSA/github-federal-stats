@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://api.github.com/repos/nasa/CrisisMappingToolkit/releases/765872",
+    "assets_url": "https://api.github.com/repos/nasa/CrisisMappingToolkit/releases/765872/assets",
+    "upload_url": "https://uploads.github.com/repos/nasa/CrisisMappingToolkit/releases/765872/assets{?name}",
+    "html_url": "https://github.com/nasa/CrisisMappingToolkit/releases/tag/v1.0",
+    "id": 765872,
+    "tag_name": "v1.0",
+    "target_commitish": "master",
+    "name": "CMT v. 1.0",
+    "draft": false,
+    "author": {
+      "login": "bcoltin",
+      "id": 8964736,
+      "avatar_url": "https://avatars.githubusercontent.com/u/8964736?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bcoltin",
+      "html_url": "https://github.com/bcoltin",
+      "followers_url": "https://api.github.com/users/bcoltin/followers",
+      "following_url": "https://api.github.com/users/bcoltin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bcoltin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bcoltin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bcoltin/subscriptions",
+      "organizations_url": "https://api.github.com/users/bcoltin/orgs",
+      "repos_url": "https://api.github.com/users/bcoltin/repos",
+      "events_url": "https://api.github.com/users/bcoltin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bcoltin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2014-12-08T22:51:39Z",
+    "published_at": "2014-12-08T22:53:49Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/nasa/CrisisMappingToolkit/tarball/v1.0",
+    "zipball_url": "https://api.github.com/repos/nasa/CrisisMappingToolkit/zipball/v1.0",
+    "body": "The first public release of the crisis mapping toolkit."
+  }
+]

@@ -1,0 +1,1 @@
+Bambino: SNP caller and Alignment Viewer for Next Gen Data

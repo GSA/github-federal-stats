@@ -1,0 +1,1 @@
+This project aims to provide tools for constructing graphical user interfaces (GUIs) that are easily testable. A testable GUI is one in which a user session can be recorded in a log file, after which the log file can be instrumented and replayed to ensure that the GUI is performing correctly.

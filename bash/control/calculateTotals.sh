@@ -16,6 +16,10 @@ else
   ttlOrgs=`cat $orgIndex | wc -l`
   ttlOrgs=$((ttlOrgs + 0))
 
+  echo "checking project releases"
+  ttlReleases=`cat $outputDataDirectory/releases.txt | wc -l`
+  ttlReleases=$((ttlReleases + 0))
+
   echo "Total Federal Organizations,$ttlOrgs"
   echo "Total Federal Organizations,$ttlOrgs" > $outputDataDirectory/stats.txt
   echo "<tr><td>Total Federal Organizations</td><td align=\"right\">$ttlOrgs</td></tr>" > $outputDataDirectory/htmlstats.txt
@@ -61,7 +65,7 @@ else
 
   echo "inserting word count data into pie chart page template"
 #  $scriptsDirectory/parseData/groupEntriesForPieOther.sh $scriptsDirectory/output/publish/all/frequencyProjectDescriptionsFiltered.txt $outputReportDirectory/frequencyProjectDescriptionsFilteredtop.txt 15 50
-  $scriptsDirectory/parseData/groupEntriesForPieOther.sh $outputReportDirectory/frequencyProjectDescriptionsFiltered.txt $outputReportDirectory/frequencyProjectDescriptionsFilteredtop.txt 15
+  $scriptsDirectory/parseData/groupEntriesForPieOther.sh $outputReportDirectory/frequencyProjectDescriptionsFiltered.txt $outputReportDirectory/frequencyProjectDescriptionsFilteredtop.txt 15 50
   $scriptsDirectory/html/makeChart.sh $configReader $configFile $scriptsDirectory/html/pieChart.template $outputReportDirectory/word.html $outputReportDirectory/frequencyProjectDescriptionsFilteredtop.txt "Top 50 Words Used in Project Repository Descriptions" 15 forward $outputReportDirectory/frequencyProjectDescriptionsFiltered.txt
 
 

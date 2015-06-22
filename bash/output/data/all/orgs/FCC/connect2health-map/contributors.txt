@@ -1,0 +1,42 @@
+[
+  {
+    "login": "brianfunk",
+    "id": 7153236,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7153236?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/brianfunk",
+    "html_url": "https://github.com/brianfunk",
+    "followers_url": "https://api.github.com/users/brianfunk/followers",
+    "following_url": "https://api.github.com/users/brianfunk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/brianfunk/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/brianfunk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/brianfunk/subscriptions",
+    "organizations_url": "https://api.github.com/users/brianfunk/orgs",
+    "repos_url": "https://api.github.com/users/brianfunk/repos",
+    "events_url": "https://api.github.com/users/brianfunk/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/brianfunk/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 7
+  },
+  {
+    "login": "vizui",
+    "id": 3170948,
+    "avatar_url": "https://avatars.githubusercontent.com/u/3170948?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vizui",
+    "html_url": "https://github.com/vizui",
+    "followers_url": "https://api.github.com/users/vizui/followers",
+    "following_url": "https://api.github.com/users/vizui/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vizui/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vizui/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vizui/subscriptions",
+    "organizations_url": "https://api.github.com/users/vizui/orgs",
+    "repos_url": "https://api.github.com/users/vizui/repos",
+    "events_url": "https://api.github.com/users/vizui/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vizui/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

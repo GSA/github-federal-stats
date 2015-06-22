@@ -1,0 +1,17 @@
+ORD - introR
+EPA's Master Look and Feel
+ORD Water Distribution Network Model
+ORD lakemorpho
+OEI - EPA_Public_Esri_Web_AppBuilder
+This application compares toxic chemical releases from individual facilities to releases from other facilities in the same county, as well as to releases from other facilities in the same industry sector.
+OEI FRS-getfacilities-samples repository.
+ORD LakeTrophicModelling
+iOS Sample Envirofacts RadNet Representational State Transfer (REST) Application Programming Interface (API)
+Android Sample: Envirofacts MultiSystem Representational State Transfer (REST) Application Programming Interface (API)
+PHP Sample Code Using Envirofacts Safe Drinking Water Information System (SDWIS) Representational State Transfer (REST) Application Programming Interface (API)
+ORD for R micromap package development
+OEI - elpaso-widget-js
+.Net Sample: Envirofacts Design for the Environment (DfE) Representational State Transfer (REST) Application Programming Interface (API)
+A non-jQuery dependent way to share your content without cookies
+
+E-Enterprise is a transformative approach to make environmental information and data more accessible, efficient, and evidence-based through advances in monitoring, reporting, and information technology.  The Portal is designed to be a modern and efficient interface for environmental transactions.  This includes easier access to information and making transactions with environmental agencies as efficient and effective as possible.

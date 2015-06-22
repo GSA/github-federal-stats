@@ -1,0 +1,42 @@
+[
+  {
+    "login": "TravisCarden",
+    "id": 959246,
+    "avatar_url": "https://avatars.githubusercontent.com/u/959246?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TravisCarden",
+    "html_url": "https://github.com/TravisCarden",
+    "followers_url": "https://api.github.com/users/TravisCarden/followers",
+    "following_url": "https://api.github.com/users/TravisCarden/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TravisCarden/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/TravisCarden/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TravisCarden/subscriptions",
+    "organizations_url": "https://api.github.com/users/TravisCarden/orgs",
+    "repos_url": "https://api.github.com/users/TravisCarden/repos",
+    "events_url": "https://api.github.com/users/TravisCarden/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/TravisCarden/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  },
+  {
+    "login": "darkcody",
+    "id": 5743125,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5743125?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/darkcody",
+    "html_url": "https://github.com/darkcody",
+    "followers_url": "https://api.github.com/users/darkcody/followers",
+    "following_url": "https://api.github.com/users/darkcody/following{/other_user}",
+    "gists_url": "https://api.github.com/users/darkcody/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/darkcody/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/darkcody/subscriptions",
+    "organizations_url": "https://api.github.com/users/darkcody/orgs",
+    "repos_url": "https://api.github.com/users/darkcody/repos",
+    "events_url": "https://api.github.com/users/darkcody/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/darkcody/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

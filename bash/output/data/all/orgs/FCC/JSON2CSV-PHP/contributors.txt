@@ -1,0 +1,42 @@
+[
+  {
+    "login": "bitnovus",
+    "id": 2301447,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2301447?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bitnovus",
+    "html_url": "https://github.com/bitnovus",
+    "followers_url": "https://api.github.com/users/bitnovus/followers",
+    "following_url": "https://api.github.com/users/bitnovus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bitnovus/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bitnovus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bitnovus/subscriptions",
+    "organizations_url": "https://api.github.com/users/bitnovus/orgs",
+    "repos_url": "https://api.github.com/users/bitnovus/repos",
+    "events_url": "https://api.github.com/users/bitnovus/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bitnovus/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  },
+  {
+    "login": "yositune",
+    "id": 2702301,
+    "avatar_url": "https://avatars.githubusercontent.com/u/2702301?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yositune",
+    "html_url": "https://github.com/yositune",
+    "followers_url": "https://api.github.com/users/yositune/followers",
+    "following_url": "https://api.github.com/users/yositune/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yositune/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yositune/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yositune/subscriptions",
+    "organizations_url": "https://api.github.com/users/yositune/orgs",
+    "repos_url": "https://api.github.com/users/yositune/repos",
+    "events_url": "https://api.github.com/users/yositune/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yositune/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  }
+]

@@ -1,0 +1,1 @@
+Experiment doing BagIt processing in a static web application

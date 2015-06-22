@@ -1,0 +1,1 @@
+Extract features from time series using moving windows of regression fits

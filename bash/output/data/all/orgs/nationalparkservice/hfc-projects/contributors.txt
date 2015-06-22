@@ -1,0 +1,42 @@
+[
+  {
+    "login": "mpoyner",
+    "id": 282397,
+    "avatar_url": "https://avatars.githubusercontent.com/u/282397?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mpoyner",
+    "html_url": "https://github.com/mpoyner",
+    "followers_url": "https://api.github.com/users/mpoyner/followers",
+    "following_url": "https://api.github.com/users/mpoyner/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mpoyner/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mpoyner/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mpoyner/subscriptions",
+    "organizations_url": "https://api.github.com/users/mpoyner/orgs",
+    "repos_url": "https://api.github.com/users/mpoyner/repos",
+    "events_url": "https://api.github.com/users/mpoyner/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mpoyner/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 66
+  },
+  {
+    "login": "nateirwin",
+    "id": 10443,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10443?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nateirwin",
+    "html_url": "https://github.com/nateirwin",
+    "followers_url": "https://api.github.com/users/nateirwin/followers",
+    "following_url": "https://api.github.com/users/nateirwin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nateirwin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nateirwin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nateirwin/subscriptions",
+    "organizations_url": "https://api.github.com/users/nateirwin/orgs",
+    "repos_url": "https://api.github.com/users/nateirwin/repos",
+    "events_url": "https://api.github.com/users/nateirwin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nateirwin/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "login": "omegabyte",
+    "id": 5584368,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5584368?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/omegabyte",
+    "html_url": "https://github.com/omegabyte",
+    "followers_url": "https://api.github.com/users/omegabyte/followers",
+    "following_url": "https://api.github.com/users/omegabyte/following{/other_user}",
+    "gists_url": "https://api.github.com/users/omegabyte/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/omegabyte/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/omegabyte/subscriptions",
+    "organizations_url": "https://api.github.com/users/omegabyte/orgs",
+    "repos_url": "https://api.github.com/users/omegabyte/repos",
+    "events_url": "https://api.github.com/users/omegabyte/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/omegabyte/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 30
+  }
+]

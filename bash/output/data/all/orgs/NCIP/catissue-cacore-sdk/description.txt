@@ -1,0 +1,1 @@
+The caTissue caCORE SDK is used by caTissue project to dynamically generate code from a UML model.

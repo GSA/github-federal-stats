@@ -1,0 +1,1 @@
+a little httpony to calculate the shannon entropy for an image

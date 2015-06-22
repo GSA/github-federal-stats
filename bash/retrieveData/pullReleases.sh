@@ -21,9 +21,9 @@ echo "org is $org"
     mkdir -p $currentOrg
   fi
 
-  refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubCommitsInfo $currentOrg/weeklyStats.txt`
+  refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubCommitsInfo $currentOrg/releases.txt`
 
-  echo "refresh for $org weekly commits info from GitHub =$refresh" 
+  echo "refresh for $org weekly releases info from GitHub =$refresh" 
 
   if [[ ( $refresh = "true" ) ]]; then
     echo "Retrieving $org info from GitHub"

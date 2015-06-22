@@ -1,0 +1,1 @@
+A remote (RMI) access wrapper around LexEVS.

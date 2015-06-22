@@ -1,0 +1,1 @@
+Processes incoming fire data from NASA and uses geofencing to trigger SMS messages from FrontlineSMS.

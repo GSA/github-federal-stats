@@ -1,0 +1,138 @@
+Annotation and Image Markup (AIM) is the first project to propose and create a standard means of adding information and knowledge to an image in a clinical environment, so that image content can be easily and automatically searched.
+A CTS2 Framework Service Plugin based on LexEVS
+The LexEVS Terminology Service.
+caAERS is a web application for recording and reporting adverse events that occur during cancer clinical trials
+The caGrid-docs repository contains caGrid-related documentation, including Admin/Developer/User guides, design documents, and presentations.
+The Common Security Module (CSM) provides a comprehensive solution to common security objectives, with flexible delivery of security tools to allow application developers to integrate security with minimal coding effort. This helps eliminate the need for development teams to create their own security methodology. CSM provides solutions for authentication, authorization, and user provisioning.
+caTissue Suite is a modular, open-source, specimen inventory and tracking system.
+ caNanoLab is a web-based portal designed to capture nanotechnology data.
+Patient Study Calendar is a web application for tracking patients in clinical trials.
+This is the repository for the NCIP channel page.  It hosts the wiki pages and the issue tracker related to the migration activity. 
+Common Biorepository Model (CBM) aims to reduce the time and effort required by researchers to locate a biobank that has the specimens they need.
+caIntegrator brings together clinical, microarray and medical imaging data for integrative data query and analysis.
+caAdapter provides model mapping, data mapping and transformation services among data sources like HL7 and Regulatory Data Sets.
+The NCI EVS Mapping Tool supports mapping between term lists, value sets, terminology subsets, or whole terminologies using a mix of automated and manual methods. This initial prototype release is used internally by EVS, but will need further development to reach a broader user community.
+caOBR (Cancer Open Biomedical Resources) is a tool for indexing cancer informatics resources within the NCBO (National Center for Biomedical Ontologies) Resource Index.
+The cancer models database (caMOD) provides information about animal models for human cancer to the public research community.
+The CDE Curation Tool supports creation and editing of Data Element Concepts, Value Domains, and Data Elements.
+ISO 21090 Localization Common Library is a specializead and constrained version of the ISO 21090 Healthcre Data Types. Localization is the list of approved ISO 21090 data types created by CBIIT, along with common implementation artifacts.
+The Pathway Interaction Database (PID) is software supporting the access and display of information about bio-molecular interactions and cellular processes assembled into signaling pathways.
+The caCORE Software Development Kit (SDK) generates a system built on the principles of Model Driven Architecture (MDA), n-tier architecture and a common API for data access. When the caCORE SDK-generated system is combined with controlled vocabularies and registered metadata, the resulting software system, called \"caCORE-like\" system, is \"semantically integrated.\" 
+The Migration Tool is a java application, based on the API and developed within the caTissue project.  The migration involves extracting input legacy data into an interim caTissue staging database and then running the caTissue Migration Tool, which will validate and load the staging data into the target caTissue instance.
+The caGrid2 project includes enhancements to the caGrid core services to support WS* and SHA2, which enables the National Cancer Informatics Platform's interoperability strategy.
+The caGrid core infrastructure project includes the caGrid core services and tooling, which enables the National Cancer Informatics Platform's interoperability strategy.
+caHUB CDR v6.3
+Files needed for Galaxy tools used to run Trinity_CTAT workflows.
+
+caArray is a web-based application supporting the storage, annotation, and sharing of microarray data.
+This repository holds documents for the caCORE SDK project under the NCIP channel. See https://github.com/NCIP/cacore-sdk for further information.
+The XMI Handler provides a set of APIs to read from and write into XMI files. The XMI Handler parses a given XMI file and represent the model in Java objects. The APIs work with both ArgoUML and Enterprise Architect created XMI models.
+Common Logging Module (CLM) is a set of tools that provides a flexible and comprehensive solution for auditing and logging. CLM includes Event Logging, Automated Object State Logging, Asynchronous Logging to database, Query API's and a web based Log Locator Tool.
+This is caCORE SDK pre 4.1.1 version repository. These releases are not being supported. Please visit cacore-sdk repository for current development.
+This is the documentation repository for Cancer Adverse Event Reporting System (caAERS) project that is under the NCIP channel
+The In Vivo Imaging Middleware (IVIM) (better known as IVI Middleware) is a set of open source tools and middleware that provide interoperability between DICOM and the caGrid. IVIM development is driven by common use cases from radiology and pathology for common activities, such as central review in image-based clinical trials and data and application sharing in secure high-performance environments.
+Enterprise Data Collection Tool (eDCT) Form Builder allows users to design data collection instruments utilizing a “drag-and-drop” interface.
+The eDCT Collector is designed to collect and store data submitted to the system in accordance with the model designed in eDCT Form Builder.
+The National Biomedical Imaging Archive (NBIA) is a free and open source service and software application that enables users to securely store, search, and download diagnostic medical images, providing a searchable national repository integrating in vivo cancer images with clinical and genomic data. Using role-based security, NBIA provides web-based access to de-identified DICOM images, image markup, annotations, and rich meta data.
+Alview : Alignment View for BAM files - a fast,portable tool for viewing short reads as native GUI, command line or via webserver
+Cancer Genome-Wide Association Studies (caGWAS) allows researchers to integrate, query, report, and analyze significant associations between genetic variations and disease, drug response or other clinical outcomes
+This is the documentation repository for the caIntegrator project repository under the NCIP channel.
+This is the documentation repository for caArray project that is under the NCIP channel.
+caLIMS is a Laboratory Information Management System (LIMS) that tracks a complete laboratory workflow to generate experimental results for data repositories or data management services.
+GeneConnect is a mapping service that interlinks genomic identifiers.
+Distance Weighted Discrimination performs statistical corrections to reduce systematic biases in microarray data sets.
+This is the documentation repository for the Patient Study Calendar (PSC) Project that is under the NCIP channel.
+The taverna-grid repository is a Taverna Workbench plug-in to support invocation of caGrid 1.x services. 
+The Cancer Clinical Information Suite (caCIS) project contains the middleware components that allow source system to transmit the clinical data to the recipient systems using different transmission formats as well as protocols.
+This repository contains all the documentation for the Clinical Information Suite (caCIS) project under the NCIP channel. 
+The NCI EVS Value Set Editor is used to create and maintain CTS 2 value set and pick list definitions for loading into the LexEVS terminology server, which resolves the definitions against referenced terminologies. This initial prototype release is used internally to generate all value sets published by EVS, but will need further development to reach a broader user community.
+Python tools for accessing caCORE services that include pyCaCORE code generator, caBIO client (pyCaBIO) and EVS client (pyEVS)
+The caGrid2 project includes enhancements to the caGrid core services to support WS* and SHA2, which enables the National Cancer Informatics Platform's interoperability strategy.
+Clinical Connector enables the integration of participant registration and laboratory data between the Cancer Central Clinical Database (C3D) and the C3PR and LabViewer clinical trial management applications.
+The caDSR UML Model Browser supports browsing and searching UML Models that have been transformed into caDSR metadata via the UML Loader
+cgMDR has tools enabling semantic annotation from its own metadata repository but also can resolve metadata and terminologies.
+The caDSR Object Cart application provides shopping cart-type operations for caDSR data objects.
+The Semantic Integration Workbench (SIW) is a caCORE tool that assists users in adding consistent metadata to a UML model, or verifying consistency, by tagging their domain model with matching concepts from the NCI Thesaurus.
+The caDSR Administration Tool is the main administrative interface to all of the basic editing and maintenance features and components of caDSR tools.
+iHub enables data integration between a clinical data management system (CDMS) and clinical trial management applications such as caTissue and the Cancer Adverse Event Reporting System (caAERS).
+WebGenome is a web application for creating genomic plots of gene expression and copy number data.
+The Stats Analysis Commons API handles the messaging services between projects. 
+The Stats Analysis Server performs on-the-fly statistical calculations for other applications.
+Application to integrate WebGenome application with Rembrandt portal to allow plotting of array based data.
+eDCT Common project contains the common code used by eDCT Collector, eDCT Formbuilder and eDCT Analytics projects.
+caDSR Utils contains common utility libraries that are used by other caDSR related projects.
+Contains both the framework for exposing R functions as web services and websites and the R code itself
+caELMIR provides the pre-clinical scientist with a data management system to record experimental data.
+LabViewer is a web application used to view and store clinical laboratory data
+iPhone App for caGrid is an application to access services and data on caGrid and a Grid Summary Service to maintain grid information in support of the app.
+ProtExpress supports proteomics experiment and protocol data management as well as eXperimental Archive (XAR) file creation.
+Bambino: SNP caller and Alignment Viewer for Next Gen Data
+The caTissue Dynamic Extensions allows to quickly make new data or capabilities available in caTissue for discovery and use by the community.
+The caTissue Docs repository holds the documentation related to the caTissue Core and other caTissue related projects.
+The caTissue Test contains a set of utilities to query and get results from each configured caTissue instance.
+The caTissue Tools contain several tools that integrate with the caTissue application.
+The caDSR APIs allow developers to build an application to access caDSR metadata and search the database, or to retrieve caDSR Metadata to customize local data collection applications
+caTissue Suite uses Common Security Module (CSM) software to accomplish the security requirements. caTissue Security Manager is an extention to CSM API addressing caTissue suite needs.
+Resolves URIs for CTS2
+caTissue Utilities include caGridLogger, Bioreposreport, caTissueCoreAPIExamples and caTissueLoader to help caTissue suite users.
+eDCT Analytics is a Web application that provide an easy and dynamic interface to navigate collected data through the eDCT Collector and enable ad-hoc data trend research and detection. 
+
+Wustl Common Package is used by the caTissue project.
+caTissue Suite uses Keyword Search to provide searching and indexing capabilities.
+caTissue Commons Module is used by the caTissue project under the NCIP channel.
+Interfaces to participant manager and registration services to share registration information with other applications.
+Metadata Based Query is used by the caTissue.
+caTissue IDP Authentication Manager is an Open Source project used by caTissue Suite for IDP integration. 
+Digital  Model Repository is a web-based digital repository for the purpose of archiving, retrieving and exchanging cancer modeling modules and the data that link to it.
+caGrid Analytical and Data services for LexEVS.
+caTissue Suite uses JASIG CAS (Common Authentication Service) to provide Single Sign-On support with other applications. The caTissue application uses the HTTP request filter provided by CAS to intercept all requests and redirect the user to the Login page in case the user is not already logged in.
+VISDA (VIsual Statistical Data Analyzer) is analytical tool for cluster modeling and visualization of microarray data.
+
+
+The caDSR Sentinel tool allows users to create and manage Alert Definitions for content in the caDSR
+C3PR is a web-based application that can be used for end-to-end registration of patients in clinical trials.
+This is the document repository of the c3pr project under the NCIP channel.
+cancer Bench-to-Beside (caB2B) is an open-source query tool that permits translational research scientists to search and combine data from virtually any caGrid data service.
+Data for caIntegrator
+caImage supports the storage and display of pathology images as well as the capture of and search for annotations associated with those images.
+This repository holds documents for the Common Security Module (CSM) project under the NCIP channel. See https://github.com/NCIP/common-security-module for further information.
+LabViewer-docs git repository contains relevant documents to LabViewer web application.
+*NOTE* the entire caGrid repository was migrated to capture the total release history, including all branches. Please do not checkout and use this repository, instead use the relevant cagrid-* github project.
+The NCI Term Browser is a web-based browser that allows users to search all terminologies, value sets and mappings on the LexEVS terminology server, to browse individual sources, and to easily follow the many links that connect them.
+The NCI Metathesaurus (NCIm) Browser is a web-based terminology browser that allows users to browse and search the NCI Metathesaurus, a biomedical terminology database that maps terms from more than 70 terminology sources into some 1.5 million biomedical concepts.
+The NCI Term Suggestion application is used both standalone and in the EVS terminology browsers to get community feedback and contributions to both NCI and EVS partner terminology products.
+The NCI EVS Report Writer is a web-based tool that allows users to generate reports from terminologies available through the LexEVS terminology server; it supports download and printing to a variety of file types and formats.
+Grid services for Bioconductor packages for preprocessing of microarray data, DNA copy number assessment, and SELDI-TOF mass spec peak finding.
+The caGrid-portal repository provides a visualization of caGrid services. It includes the open source Liferay portal container, and several Java JSR-compliant portlets to query and invoke grid services
+The caGrid-workflow repository contains the caGrid Workflow Service, which enables orchestration across caGrid services using Taverna's SCUFL language.
+The caGrid-general repository contains third party libraries that are used commonly across the caGrid project.
+caGrid-grid-incubation contains projects that use or enhance caGrid, that were contributed by the community.
+caTRIP (Cancer Translational Research Information Platform) allows users to query across caGrid data services, join on common data elements and view their results in a user-friendly interface, in support of translational research.
+The purpose of the caDSR Password Change Station is to allow users to set and reset the password used for logging in to the caDSR Tools.
+The CDE Browser is the primary starting point for exploring the contents of the caDSR.
+caDSR Form Builder allows users to leverage Common Data Element (CDE) metadata to create forms that replicate the content of Case Report Forms (CRFs).
+cgMDR has tools enabling semantic annotation from its own metadata repository but also can resolve metadata and terminologies.
+The caTissue Print Service provides the framework for printing labels for specimens, specimen collection groups and containers from the caTissue application.
+The caDSR Freestyle Search engine performs weighted semantic searches on the content of Administered Items in the caDSR.
+The caDSR Grid Dataservice is a caGrid enabled dataservice that is generated using caGrid framework.
+The caDSR Bulk Loader uploads metadata from an Excel spreadsheet into the caDSR.
+caBIO (cancer Bioinformatics Infrastructure Objects) is a resource for accessing molecular annotations from curated data sources. 
+This repository holds documents for the Cancer Models Database(caMOD) project under the NCIP channel.
+QFive provides a probabilistic classification algorithm using the spectra from either SELDI or MALDI-TOF mass spectrometry results as input.
+Quality Indicator (QI) Portal allows users to submit and retrieve quality data for biospecimens.
+WUSTL Common Utilities is a Open Source project primarily used by caTissue Suite.
+eDCT caDSR-API-Server Project integrates eDCT Form Builder with caDSR API and caDSR object cart.
+A remote (RMI) access wrapper around LexEVS.
+The caTissue Advanced Query allows users to query any data in caTissue including complex conditions and associations.
+Metadata driven mechanism to provide \"simple query\" functionality in caTissue Suite.
+
+I-spy data portal allows integrative query and analysis of molecular data and clinical annotations.
+Environment And Genetics in Lung cancer Etiology (EAGLE) data portal allows capture and integrative query and analysis of epdemiology and microarray data.
+A collection of libraries for shared functionality across the CTMS workspace, and particularly among the applications in the Clinical Trials Suite.
+Cancer Molecular Analysis (CMA) portal allows integrative query and analysis of molecular data and clinical annotations.
+The Stats Application Commons provides various utility functions such as mail server, scheduling, string manipulation,  data download management, and caching functions.
+The purpose of Stats Analysis API is to allow programmatic and logical access to the underlying Data Mart via clinical genomic domain objects.
+The caTissue caCORE SDK is used by caTissue project to dynamically generate code from a UML model.
+The Global Specimen Identifier (GSID) Service is a NCI Enterprise Service. Global Specimen Identifer (GSID) is defined as the entity that contains a Globally Unique Idenitifer (UUID) and associated attributes that consists of a name value pair. A UUID is defined as a 16 byte identifier that is intended to be globally unique. There are 3 x 10^38 unique identifiers that can be obtained through the service.
+Reporting and analysis of caTissue test scripts and results.
+REMBRANDT (REepository of Molecular BRAin Neoplasia DaTa) database was developed to allow analysis of data from molecularly characterized primary brain tumors and correlate those data with extensive retrospective and prospective clinical data.

@@ -1,0 +1,1 @@
+This repository holds documents for the Cancer Models Database(caMOD) project under the NCIP channel.

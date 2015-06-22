@@ -1,0 +1,1 @@
+The Inter-Widget Communication used by the Ozone Platform

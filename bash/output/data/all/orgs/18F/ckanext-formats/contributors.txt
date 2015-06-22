@@ -1,0 +1,22 @@
+[
+  {
+    "login": "alanswx",
+    "id": 4450166,
+    "avatar_url": "https://avatars.githubusercontent.com/u/4450166?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/alanswx",
+    "html_url": "https://github.com/alanswx",
+    "followers_url": "https://api.github.com/users/alanswx/followers",
+    "following_url": "https://api.github.com/users/alanswx/following{/other_user}",
+    "gists_url": "https://api.github.com/users/alanswx/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/alanswx/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/alanswx/subscriptions",
+    "organizations_url": "https://api.github.com/users/alanswx/orgs",
+    "repos_url": "https://api.github.com/users/alanswx/repos",
+    "events_url": "https://api.github.com/users/alanswx/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/alanswx/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  }
+]

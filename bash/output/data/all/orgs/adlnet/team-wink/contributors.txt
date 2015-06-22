@@ -1,0 +1,22 @@
+[
+  {
+    "login": "craigwiggins",
+    "id": 5214625,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5214625?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/craigwiggins",
+    "html_url": "https://github.com/craigwiggins",
+    "followers_url": "https://api.github.com/users/craigwiggins/followers",
+    "following_url": "https://api.github.com/users/craigwiggins/following{/other_user}",
+    "gists_url": "https://api.github.com/users/craigwiggins/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/craigwiggins/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/craigwiggins/subscriptions",
+    "organizations_url": "https://api.github.com/users/craigwiggins/orgs",
+    "repos_url": "https://api.github.com/users/craigwiggins/repos",
+    "events_url": "https://api.github.com/users/craigwiggins/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/craigwiggins/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

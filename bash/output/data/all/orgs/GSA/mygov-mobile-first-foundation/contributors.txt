@@ -1,0 +1,42 @@
+[
+  {
+    "login": "dannychapman",
+    "id": 281709,
+    "avatar_url": "https://avatars.githubusercontent.com/u/281709?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dannychapman",
+    "html_url": "https://github.com/dannychapman",
+    "followers_url": "https://api.github.com/users/dannychapman/followers",
+    "following_url": "https://api.github.com/users/dannychapman/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dannychapman/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dannychapman/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dannychapman/subscriptions",
+    "organizations_url": "https://api.github.com/users/dannychapman/orgs",
+    "repos_url": "https://api.github.com/users/dannychapman/repos",
+    "events_url": "https://api.github.com/users/dannychapman/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dannychapman/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 6
+  },
+  {
+    "login": "greggersh",
+    "id": 41960,
+    "avatar_url": "https://avatars.githubusercontent.com/u/41960?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/greggersh",
+    "html_url": "https://github.com/greggersh",
+    "followers_url": "https://api.github.com/users/greggersh/followers",
+    "following_url": "https://api.github.com/users/greggersh/following{/other_user}",
+    "gists_url": "https://api.github.com/users/greggersh/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/greggersh/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/greggersh/subscriptions",
+    "organizations_url": "https://api.github.com/users/greggersh/orgs",
+    "repos_url": "https://api.github.com/users/greggersh/repos",
+    "events_url": "https://api.github.com/users/greggersh/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/greggersh/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 4
+  }
+]

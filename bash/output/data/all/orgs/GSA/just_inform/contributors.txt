@@ -1,0 +1,42 @@
+[
+  {
+    "login": "jgrevich",
+    "id": 24955,
+    "avatar_url": "https://avatars.githubusercontent.com/u/24955?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jgrevich",
+    "html_url": "https://github.com/jgrevich",
+    "followers_url": "https://api.github.com/users/jgrevich/followers",
+    "following_url": "https://api.github.com/users/jgrevich/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jgrevich/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jgrevich/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jgrevich/subscriptions",
+    "organizations_url": "https://api.github.com/users/jgrevich/orgs",
+    "repos_url": "https://api.github.com/users/jgrevich/repos",
+    "events_url": "https://api.github.com/users/jgrevich/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jgrevich/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 13
+  },
+  {
+    "login": "adelevie",
+    "id": 86790,
+    "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/adelevie",
+    "html_url": "https://github.com/adelevie",
+    "followers_url": "https://api.github.com/users/adelevie/followers",
+    "following_url": "https://api.github.com/users/adelevie/following{/other_user}",
+    "gists_url": "https://api.github.com/users/adelevie/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/adelevie/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/adelevie/subscriptions",
+    "organizations_url": "https://api.github.com/users/adelevie/orgs",
+    "repos_url": "https://api.github.com/users/adelevie/repos",
+    "events_url": "https://api.github.com/users/adelevie/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/adelevie/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

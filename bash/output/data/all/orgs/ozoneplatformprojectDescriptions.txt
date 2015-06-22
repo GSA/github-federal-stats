@@ -1,0 +1,11 @@
+OZONE Widget Framework
+Metrics module for OZONE Widget Framework
+OZONE Marketplace
+Scripts to customize Tomcat with OZONE development settings
+OZONE Security plugin system
+OZONE App Config plugin
+OZONE Messaging plugin
+OZONE Marketplace documentation
+OZONE Auditing plugin
+OWF Custom Ant Commands 
+Repository locations for the Ozone Platform releases

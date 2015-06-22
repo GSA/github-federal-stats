@@ -1,0 +1,22 @@
+[
+  {
+    "login": "jcscottiii",
+    "id": 7788930,
+    "avatar_url": "https://avatars.githubusercontent.com/u/7788930?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jcscottiii",
+    "html_url": "https://github.com/jcscottiii",
+    "followers_url": "https://api.github.com/users/jcscottiii/followers",
+    "following_url": "https://api.github.com/users/jcscottiii/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jcscottiii/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jcscottiii/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jcscottiii/subscriptions",
+    "organizations_url": "https://api.github.com/users/jcscottiii/orgs",
+    "repos_url": "https://api.github.com/users/jcscottiii/repos",
+    "events_url": "https://api.github.com/users/jcscottiii/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jcscottiii/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 6
+  }
+]

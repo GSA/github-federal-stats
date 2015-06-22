@@ -1,0 +1,42 @@
+[
+  {
+    "login": "wango123",
+    "id": 6223363,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6223363?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wango123",
+    "html_url": "https://github.com/wango123",
+    "followers_url": "https://api.github.com/users/wango123/followers",
+    "following_url": "https://api.github.com/users/wango123/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wango123/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wango123/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wango123/subscriptions",
+    "organizations_url": "https://api.github.com/users/wango123/orgs",
+    "repos_url": "https://api.github.com/users/wango123/repos",
+    "events_url": "https://api.github.com/users/wango123/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wango123/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 11
+  },
+  {
+    "login": "vaslawter",
+    "id": 10730118,
+    "avatar_url": "https://avatars.githubusercontent.com/u/10730118?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vaslawter",
+    "html_url": "https://github.com/vaslawter",
+    "followers_url": "https://api.github.com/users/vaslawter/followers",
+    "following_url": "https://api.github.com/users/vaslawter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vaslawter/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vaslawter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vaslawter/subscriptions",
+    "organizations_url": "https://api.github.com/users/vaslawter/orgs",
+    "repos_url": "https://api.github.com/users/vaslawter/repos",
+    "events_url": "https://api.github.com/users/vaslawter/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vaslawter/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 3
+  }
+]

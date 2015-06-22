@@ -1,0 +1,22 @@
+[
+  {
+    "login": "edwelker",
+    "id": 14247,
+    "avatar_url": "https://avatars.githubusercontent.com/u/14247?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/edwelker",
+    "html_url": "https://github.com/edwelker",
+    "followers_url": "https://api.github.com/users/edwelker/followers",
+    "following_url": "https://api.github.com/users/edwelker/following{/other_user}",
+    "gists_url": "https://api.github.com/users/edwelker/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/edwelker/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/edwelker/subscriptions",
+    "organizations_url": "https://api.github.com/users/edwelker/orgs",
+    "repos_url": "https://api.github.com/users/edwelker/repos",
+    "events_url": "https://api.github.com/users/edwelker/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/edwelker/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 142
+  }
+]

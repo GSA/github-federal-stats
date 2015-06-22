@@ -1,0 +1,1 @@
+Implementation of the Page Object pattern with Robot Framework and selenium. Also facilitites page object pattern independent of Robot Framework

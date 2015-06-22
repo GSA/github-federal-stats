@@ -1,0 +1,1 @@
+WordPress Sidebar Widget to allow filtering indexes by built in and custom taxonomies.

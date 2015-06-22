@@ -1,0 +1,22 @@
+[
+  {
+    "login": "reidpr",
+    "id": 1682574,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1682574?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/reidpr",
+    "html_url": "https://github.com/reidpr",
+    "followers_url": "https://api.github.com/users/reidpr/followers",
+    "following_url": "https://api.github.com/users/reidpr/following{/other_user}",
+    "gists_url": "https://api.github.com/users/reidpr/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/reidpr/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/reidpr/subscriptions",
+    "organizations_url": "https://api.github.com/users/reidpr/orgs",
+    "repos_url": "https://api.github.com/users/reidpr/repos",
+    "events_url": "https://api.github.com/users/reidpr/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/reidpr/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

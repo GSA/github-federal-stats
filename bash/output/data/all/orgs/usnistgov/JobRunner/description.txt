@@ -1,0 +1,1 @@
+Tool to run jobs in parallel, avoiding to rerun a previously run job with the use of a 'jobid'. Comes with a queue processor.

@@ -1,0 +1,1 @@
+caTissue Suite uses JASIG CAS (Common Authentication Service) to provide Single Sign-On support with other applications. The caTissue application uses the HTTP request filter provided by CAS to intercept all requests and redirect the user to the Login page in case the user is not already logged in.

@@ -1,0 +1,22 @@
+[
+  {
+    "login": "mike-mcgann",
+    "id": 3263862,
+    "avatar_url": "https://avatars.githubusercontent.com/u/3263862?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mike-mcgann",
+    "html_url": "https://github.com/mike-mcgann",
+    "followers_url": "https://api.github.com/users/mike-mcgann/followers",
+    "following_url": "https://api.github.com/users/mike-mcgann/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mike-mcgann/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mike-mcgann/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mike-mcgann/subscriptions",
+    "organizations_url": "https://api.github.com/users/mike-mcgann/orgs",
+    "repos_url": "https://api.github.com/users/mike-mcgann/repos",
+    "events_url": "https://api.github.com/users/mike-mcgann/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mike-mcgann/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 101
+  }
+]

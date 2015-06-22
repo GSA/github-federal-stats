@@ -1,0 +1,22 @@
+[
+  {
+    "login": "afeijoo",
+    "id": 400690,
+    "avatar_url": "https://avatars.githubusercontent.com/u/400690?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/afeijoo",
+    "html_url": "https://github.com/afeijoo",
+    "followers_url": "https://api.github.com/users/afeijoo/followers",
+    "following_url": "https://api.github.com/users/afeijoo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/afeijoo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/afeijoo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/afeijoo/subscriptions",
+    "organizations_url": "https://api.github.com/users/afeijoo/orgs",
+    "repos_url": "https://api.github.com/users/afeijoo/repos",
+    "events_url": "https://api.github.com/users/afeijoo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/afeijoo/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1
+  }
+]

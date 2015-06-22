@@ -1,0 +1,22 @@
+[
+  {
+    "login": "cekees",
+    "id": 613654,
+    "avatar_url": "https://avatars.githubusercontent.com/u/613654?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cekees",
+    "html_url": "https://github.com/cekees",
+    "followers_url": "https://api.github.com/users/cekees/followers",
+    "following_url": "https://api.github.com/users/cekees/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cekees/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cekees/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cekees/subscriptions",
+    "organizations_url": "https://api.github.com/users/cekees/orgs",
+    "repos_url": "https://api.github.com/users/cekees/repos",
+    "events_url": "https://api.github.com/users/cekees/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cekees/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

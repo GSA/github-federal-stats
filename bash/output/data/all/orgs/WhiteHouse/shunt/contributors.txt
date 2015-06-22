@@ -1,0 +1,42 @@
+[
+  {
+    "login": "TravisCarden",
+    "id": 959246,
+    "avatar_url": "https://avatars.githubusercontent.com/u/959246?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TravisCarden",
+    "html_url": "https://github.com/TravisCarden",
+    "followers_url": "https://api.github.com/users/TravisCarden/followers",
+    "following_url": "https://api.github.com/users/TravisCarden/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TravisCarden/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/TravisCarden/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TravisCarden/subscriptions",
+    "organizations_url": "https://api.github.com/users/TravisCarden/orgs",
+    "repos_url": "https://api.github.com/users/TravisCarden/repos",
+    "events_url": "https://api.github.com/users/TravisCarden/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/TravisCarden/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 27
+  },
+  {
+    "login": "bryanhirsch",
+    "id": 143202,
+    "avatar_url": "https://avatars.githubusercontent.com/u/143202?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bryanhirsch",
+    "html_url": "https://github.com/bryanhirsch",
+    "followers_url": "https://api.github.com/users/bryanhirsch/followers",
+    "following_url": "https://api.github.com/users/bryanhirsch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bryanhirsch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bryanhirsch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bryanhirsch/subscriptions",
+    "organizations_url": "https://api.github.com/users/bryanhirsch/orgs",
+    "repos_url": "https://api.github.com/users/bryanhirsch/repos",
+    "events_url": "https://api.github.com/users/bryanhirsch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bryanhirsch/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 10
+  }
+]

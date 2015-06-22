@@ -1,0 +1,42 @@
+[
+  {
+    "login": "jedwood",
+    "id": 369060,
+    "avatar_url": "https://avatars.githubusercontent.com/u/369060?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jedwood",
+    "html_url": "https://github.com/jedwood",
+    "followers_url": "https://api.github.com/users/jedwood/followers",
+    "following_url": "https://api.github.com/users/jedwood/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jedwood/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jedwood/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jedwood/subscriptions",
+    "organizations_url": "https://api.github.com/users/jedwood/orgs",
+    "repos_url": "https://api.github.com/users/jedwood/repos",
+    "events_url": "https://api.github.com/users/jedwood/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jedwood/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 286
+  },
+  {
+    "login": "blue-button-builder-bot",
+    "id": 11854140,
+    "avatar_url": "https://avatars.githubusercontent.com/u/11854140?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/blue-button-builder-bot",
+    "html_url": "https://github.com/blue-button-builder-bot",
+    "followers_url": "https://api.github.com/users/blue-button-builder-bot/followers",
+    "following_url": "https://api.github.com/users/blue-button-builder-bot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/blue-button-builder-bot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/blue-button-builder-bot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/blue-button-builder-bot/subscriptions",
+    "organizations_url": "https://api.github.com/users/blue-button-builder-bot/orgs",
+    "repos_url": "https://api.github.com/users/blue-button-builder-bot/repos",
+    "events_url": "https://api.github.com/users/blue-button-builder-bot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/blue-button-builder-bot/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 74
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "login": "chu11",
+    "id": 274859,
+    "avatar_url": "https://avatars.githubusercontent.com/u/274859?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/chu11",
+    "html_url": "https://github.com/chu11",
+    "followers_url": "https://api.github.com/users/chu11/followers",
+    "following_url": "https://api.github.com/users/chu11/following{/other_user}",
+    "gists_url": "https://api.github.com/users/chu11/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/chu11/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/chu11/subscriptions",
+    "organizations_url": "https://api.github.com/users/chu11/orgs",
+    "repos_url": "https://api.github.com/users/chu11/repos",
+    "events_url": "https://api.github.com/users/chu11/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/chu11/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 1214
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "login": "fintler",
+    "id": 143694,
+    "avatar_url": "https://avatars.githubusercontent.com/u/143694?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fintler",
+    "html_url": "https://github.com/fintler",
+    "followers_url": "https://api.github.com/users/fintler/followers",
+    "following_url": "https://api.github.com/users/fintler/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fintler/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fintler/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fintler/subscriptions",
+    "organizations_url": "https://api.github.com/users/fintler/orgs",
+    "repos_url": "https://api.github.com/users/fintler/repos",
+    "events_url": "https://api.github.com/users/fintler/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fintler/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 29
+  },
+  {
+    "login": "dmanno",
+    "id": 1890067,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1890067?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dmanno",
+    "html_url": "https://github.com/dmanno",
+    "followers_url": "https://api.github.com/users/dmanno/followers",
+    "following_url": "https://api.github.com/users/dmanno/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dmanno/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dmanno/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dmanno/subscriptions",
+    "organizations_url": "https://api.github.com/users/dmanno/orgs",
+    "repos_url": "https://api.github.com/users/dmanno/repos",
+    "events_url": "https://api.github.com/users/dmanno/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dmanno/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

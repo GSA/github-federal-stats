@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://api.github.com/repos/cfpb/cf-grunt-config/releases/831695",
+    "assets_url": "https://api.github.com/repos/cfpb/cf-grunt-config/releases/831695/assets",
+    "upload_url": "https://uploads.github.com/repos/cfpb/cf-grunt-config/releases/831695/assets{?name}",
+    "html_url": "https://github.com/cfpb/cf-grunt-config/releases/tag/0.3.1",
+    "id": 831695,
+    "tag_name": "0.3.1",
+    "target_commitish": "master",
+    "name": "PATCH release: Adds support for Modernizr in topdoc task",
+    "draft": false,
+    "author": {
+      "login": "Scotchester",
+      "id": 1044670,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1044670?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Scotchester",
+      "html_url": "https://github.com/Scotchester",
+      "followers_url": "https://api.github.com/users/Scotchester/followers",
+      "following_url": "https://api.github.com/users/Scotchester/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Scotchester/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Scotchester/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Scotchester/subscriptions",
+      "organizations_url": "https://api.github.com/users/Scotchester/orgs",
+      "repos_url": "https://api.github.com/users/Scotchester/repos",
+      "events_url": "https://api.github.com/users/Scotchester/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Scotchester/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2015-01-07T15:07:31Z",
+    "published_at": "2015-01-07T16:25:04Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/cfpb/cf-grunt-config/tarball/0.3.1",
+    "zipball_url": "https://api.github.com/repos/cfpb/cf-grunt-config/zipball/0.3.1",
+    "body": "## 0.3.1 - 2015-01-06\r\n\r\n### Added\r\n- `modernizr` option added to `templateData` in topdoc task options"
+  },
+  {
+    "url": "https://api.github.com/repos/cfpb/cf-grunt-config/releases/542598",
+    "assets_url": "https://api.github.com/repos/cfpb/cf-grunt-config/releases/542598/assets",
+    "upload_url": "https://uploads.github.com/repos/cfpb/cf-grunt-config/releases/542598/assets{?name}",
+    "html_url": "https://github.com/cfpb/cf-grunt-config/releases/tag/0.3.0",
+    "id": 542598,
+    "tag_name": "0.3.0",
+    "target_commitish": "master",
+    "name": "MINOR release: Supports cf-core and fixes source maps.",
+    "draft": false,
+    "author": {
+      "login": "himedlooff",
+      "id": 1093373,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1093373?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/himedlooff",
+      "html_url": "https://github.com/himedlooff",
+      "followers_url": "https://api.github.com/users/himedlooff/followers",
+      "following_url": "https://api.github.com/users/himedlooff/following{/other_user}",
+      "gists_url": "https://api.github.com/users/himedlooff/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/himedlooff/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/himedlooff/subscriptions",
+      "organizations_url": "https://api.github.com/users/himedlooff/orgs",
+      "repos_url": "https://api.github.com/users/himedlooff/repos",
+      "events_url": "https://api.github.com/users/himedlooff/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/himedlooff/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": true,
+    "created_at": "2014-09-08T13:18:13Z",
+    "published_at": "2014-09-08T13:44:02Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/cfpb/cf-grunt-config/tarball/0.3.0",
+    "zipball_url": "https://api.github.com/repos/cfpb/cf-grunt-config/zipball/0.3.0",
+    "body": "## 0.3.0 - 2014-09-05\r\n\r\n### Added\r\n- Added support for cf-core.\r\n- Updated open source docs.\r\n\r\n### Fixed\r\n- Sourcemaps, but they still only work for local testing since we aren't\r\n  committing vendor files."
+  }
+]

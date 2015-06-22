@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://api.github.com/repos/chaos/dpkg-scripts/releases/507463",
+    "assets_url": "https://api.github.com/repos/chaos/dpkg-scripts/releases/507463/assets",
+    "upload_url": "https://uploads.github.com/repos/chaos/dpkg-scripts/releases/507463/assets{?name}",
+    "html_url": "https://github.com/chaos/dpkg-scripts/releases/tag/dpkg-scripts-1.66",
+    "id": 507463,
+    "tag_name": "dpkg-scripts-1.66",
+    "target_commitish": "master",
+    "name": "v1.66",
+    "draft": false,
+    "author": {
+      "login": "garlick",
+      "id": 169947,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/garlick",
+      "html_url": "https://github.com/garlick",
+      "followers_url": "https://api.github.com/users/garlick/followers",
+      "following_url": "https://api.github.com/users/garlick/following{/other_user}",
+      "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/garlick/subscriptions",
+      "organizations_url": "https://api.github.com/users/garlick/orgs",
+      "repos_url": "https://api.github.com/users/garlick/repos",
+      "events_url": "https://api.github.com/users/garlick/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/garlick/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2010-11-10T18:02:20Z",
+    "published_at": "2014-08-22T00:35:57Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/chaos/dpkg-scripts/tarball/dpkg-scripts-1.66",
+    "zipball_url": "https://api.github.com/repos/chaos/dpkg-scripts/zipball/dpkg-scripts-1.66",
+    "body": "\r\n* Fix dpkg-tmplocal option processing to stop at the first non-option\r\n  argument.\r\n"
+  },
+  {
+    "url": "https://api.github.com/repos/chaos/dpkg-scripts/releases/507459",
+    "assets_url": "https://api.github.com/repos/chaos/dpkg-scripts/releases/507459/assets",
+    "upload_url": "https://uploads.github.com/repos/chaos/dpkg-scripts/releases/507459/assets{?name}",
+    "html_url": "https://github.com/chaos/dpkg-scripts/releases/tag/dpkg-scripts-1.67",
+    "id": 507459,
+    "tag_name": "dpkg-scripts-1.67",
+    "target_commitish": "master",
+    "name": "v1.67",
+    "draft": false,
+    "author": {
+      "login": "garlick",
+      "id": 169947,
+      "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/garlick",
+      "html_url": "https://github.com/garlick",
+      "followers_url": "https://api.github.com/users/garlick/followers",
+      "following_url": "https://api.github.com/users/garlick/following{/other_user}",
+      "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/garlick/subscriptions",
+      "organizations_url": "https://api.github.com/users/garlick/orgs",
+      "repos_url": "https://api.github.com/users/garlick/repos",
+      "events_url": "https://api.github.com/users/garlick/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/garlick/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "prerelease": false,
+    "created_at": "2012-09-12T16:01:24Z",
+    "published_at": "2014-08-22T00:35:26Z",
+    "assets": [
+
+    ],
+    "tarball_url": "https://api.github.com/repos/chaos/dpkg-scripts/tarball/dpkg-scripts-1.67",
+    "zipball_url": "https://api.github.com/repos/chaos/dpkg-scripts/zipball/dpkg-scripts-1.67",
+    "body": "* Added dpkg-mkdeb option '-q maintainer' and added package maintainer\r\nto list of values queried by -q all.\r\n"
+  }
+]

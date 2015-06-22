@@ -1,0 +1,10 @@
+The NASA Ames Stereo Pipeline is a suite of automated geodesy & stereogrammetry tools designed for processing planetary imagery captured from orbiting and landed robotic explorers on other planets.
+Tools to do photometric correction and mosaicking
+Script for generating the binary builds of Stereo Pipeline
+This is a collection of scripts that will apply an Autotools build system to the USGS ISIS source code.
+A job dispatcher for distributed processing
+Application-specific scripts
+MVP offers a method for extracting 3D that utilizes all views of the terrain, not just pair-wise combinations.
+Additional tools for working with StereoPipeline data.
+A comprehensive, distributed, and fully automated test suite for the Ames Stereo Pipeline (ASP)
+NGT utility libraries

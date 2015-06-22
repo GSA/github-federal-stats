@@ -1,0 +1,22 @@
+[
+  {
+    "login": "adelevie",
+    "id": 86790,
+    "avatar_url": "https://avatars.githubusercontent.com/u/86790?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/adelevie",
+    "html_url": "https://github.com/adelevie",
+    "followers_url": "https://api.github.com/users/adelevie/followers",
+    "following_url": "https://api.github.com/users/adelevie/following{/other_user}",
+    "gists_url": "https://api.github.com/users/adelevie/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/adelevie/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/adelevie/subscriptions",
+    "organizations_url": "https://api.github.com/users/adelevie/orgs",
+    "repos_url": "https://api.github.com/users/adelevie/repos",
+    "events_url": "https://api.github.com/users/adelevie/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/adelevie/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 10
+  }
+]

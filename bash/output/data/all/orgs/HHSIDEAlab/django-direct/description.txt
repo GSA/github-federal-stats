@@ -1,0 +1,1 @@
+A simple RESTful API for Direct Certificate fetching and validation via LDAP and DNS

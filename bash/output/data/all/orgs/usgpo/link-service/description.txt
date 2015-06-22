@@ -1,0 +1,1 @@
+The link service is used to create links to content and metadata on FDsys

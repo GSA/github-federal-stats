@@ -1,0 +1,42 @@
+[
+  {
+    "login": "aviars",
+    "id": 61345,
+    "avatar_url": "https://avatars.githubusercontent.com/u/61345?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/aviars",
+    "html_url": "https://github.com/aviars",
+    "followers_url": "https://api.github.com/users/aviars/followers",
+    "following_url": "https://api.github.com/users/aviars/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aviars/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/aviars/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aviars/subscriptions",
+    "organizations_url": "https://api.github.com/users/aviars/orgs",
+    "repos_url": "https://api.github.com/users/aviars/repos",
+    "events_url": "https://api.github.com/users/aviars/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/aviars/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  },
+  {
+    "login": "waldoj",
+    "id": 656758,
+    "avatar_url": "https://avatars.githubusercontent.com/u/656758?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/waldoj",
+    "html_url": "https://github.com/waldoj",
+    "followers_url": "https://api.github.com/users/waldoj/followers",
+    "following_url": "https://api.github.com/users/waldoj/following{/other_user}",
+    "gists_url": "https://api.github.com/users/waldoj/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/waldoj/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/waldoj/subscriptions",
+    "organizations_url": "https://api.github.com/users/waldoj/orgs",
+    "repos_url": "https://api.github.com/users/waldoj/repos",
+    "events_url": "https://api.github.com/users/waldoj/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/waldoj/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

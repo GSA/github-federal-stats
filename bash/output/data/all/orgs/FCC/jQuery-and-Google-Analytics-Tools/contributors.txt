@@ -1,0 +1,42 @@
+[
+  {
+    "login": "benbalter",
+    "id": 282759,
+    "avatar_url": "https://avatars.githubusercontent.com/u/282759?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/benbalter",
+    "html_url": "https://github.com/benbalter",
+    "followers_url": "https://api.github.com/users/benbalter/followers",
+    "following_url": "https://api.github.com/users/benbalter/following{/other_user}",
+    "gists_url": "https://api.github.com/users/benbalter/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/benbalter/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/benbalter/subscriptions",
+    "organizations_url": "https://api.github.com/users/benbalter/orgs",
+    "repos_url": "https://api.github.com/users/benbalter/repos",
+    "events_url": "https://api.github.com/users/benbalter/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/benbalter/received_events",
+    "type": "User",
+    "site_admin": true,
+    "contributions": 19
+  },
+  {
+    "login": "ctbarna",
+    "id": 20109,
+    "avatar_url": "https://avatars.githubusercontent.com/u/20109?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ctbarna",
+    "html_url": "https://github.com/ctbarna",
+    "followers_url": "https://api.github.com/users/ctbarna/followers",
+    "following_url": "https://api.github.com/users/ctbarna/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ctbarna/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ctbarna/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ctbarna/subscriptions",
+    "organizations_url": "https://api.github.com/users/ctbarna/orgs",
+    "repos_url": "https://api.github.com/users/ctbarna/repos",
+    "events_url": "https://api.github.com/users/ctbarna/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ctbarna/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

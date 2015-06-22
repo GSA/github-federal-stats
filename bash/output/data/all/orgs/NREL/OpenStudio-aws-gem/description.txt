@@ -1,0 +1,1 @@
+OpenStudio AWS Gem is used to spin up a cluster of computers using Amazon's EC2 for use in OpenStudio Distributed Analysis.

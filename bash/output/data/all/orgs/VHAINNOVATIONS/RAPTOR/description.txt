@@ -1,0 +1,1 @@
+Radiology Protocol Tool Recorder (RAPTOR) is an automated, electronic tool allowing radiologists to optimize advanced medical imaging protocols

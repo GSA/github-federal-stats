@@ -11,14 +11,17 @@ echo -e "\n---------------enter $0---------------"
 outputFile=$3
 pocs=$4
 descrips=$5
+releases=$6
 
 #echo "------descrips=$descrips----------------------------"
 
-$scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles1.middle circle1 'Organization<br>POC' $pocs
-$scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles2.middle circle2 'Repository<br>Descriptions' $descrips 
-#cat $scriptsDirectory/html/circles.top > $outputFile
+$scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles1.middle circle1 'Organizations<br>with Email' $pocs
+$scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles2.middle circle2 'Repositories<br>with Descriptions' $descrips 
+$scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles3.middle circle3 'Repositoriesy<br>with Releases' $releases 
+
 cat $outputTempDirectory/circles1.middle > $outputFile
 cat $outputTempDirectory/circles2.middle >> $outputFile
+cat $outputTempDirectory/circles3.middle >> $outputFile
 
 echo '<HR noshade style="color:#CCC; width:250px">' >> $outputFile
 echo '<P></P>' >> $outputFile

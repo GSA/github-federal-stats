@@ -1,0 +1,1 @@
+ISO 21090 Localization Common Library is a specializead and constrained version of the ISO 21090 Healthcre Data Types. Localization is the list of approved ISO 21090 data types created by CBIIT, along with common implementation artifacts.

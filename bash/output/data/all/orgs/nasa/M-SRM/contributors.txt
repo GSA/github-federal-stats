@@ -1,0 +1,22 @@
+[
+  {
+    "login": "Jwely",
+    "id": 6654994,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6654994?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Jwely",
+    "html_url": "https://github.com/Jwely",
+    "followers_url": "https://api.github.com/users/Jwely/followers",
+    "following_url": "https://api.github.com/users/Jwely/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Jwely/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Jwely/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Jwely/subscriptions",
+    "organizations_url": "https://api.github.com/users/Jwely/orgs",
+    "repos_url": "https://api.github.com/users/Jwely/repos",
+    "events_url": "https://api.github.com/users/Jwely/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Jwely/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 5
+  }
+]

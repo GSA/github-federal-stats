@@ -1,0 +1,22 @@
+[
+  {
+    "login": "hjelmn",
+    "id": 1226817,
+    "avatar_url": "https://avatars.githubusercontent.com/u/1226817?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hjelmn",
+    "html_url": "https://github.com/hjelmn",
+    "followers_url": "https://api.github.com/users/hjelmn/followers",
+    "following_url": "https://api.github.com/users/hjelmn/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hjelmn/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hjelmn/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hjelmn/subscriptions",
+    "organizations_url": "https://api.github.com/users/hjelmn/orgs",
+    "repos_url": "https://api.github.com/users/hjelmn/repos",
+    "events_url": "https://api.github.com/users/hjelmn/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hjelmn/received_events",
+    "type": "User",
+    "site_admin": false,
+    "contributions": 2
+  }
+]

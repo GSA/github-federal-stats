@@ -1,0 +1,15 @@
+
+
+<div class="circle1 circle" style="margin-right:30px">
+     <strong></strong>
+     <br><br><B>Organizations<br>with Email</B>     
+</div>
+
+<script>
+
+$('.circle1.circle').circleProgress({
+    value: 14/100,
+}).on('circle-animation-progress', function(event, progress) {
+    $(this).find('strong').html(parseInt(14 * progress) + '<i>%</i>');
+});
+</script>

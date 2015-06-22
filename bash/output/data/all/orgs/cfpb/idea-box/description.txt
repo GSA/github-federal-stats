@@ -1,0 +1,1 @@
+An application that lets an organization collect ideas, comment on them, and vote them up.

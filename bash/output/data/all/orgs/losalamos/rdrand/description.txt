@@ -1,0 +1,1 @@
+Go language interface to the Intel 64 RDRAND instruction

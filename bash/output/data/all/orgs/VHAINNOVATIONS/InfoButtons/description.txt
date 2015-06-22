@@ -1,0 +1,1 @@
+Infobuttons are context-sensitive links embedded in the electronic health record (EHR). They use clinical context information from the EHR, such as patient demographics, medications, diagnoses, user role, and clinical setting to help find answers to clinicians' and patients' questions using online health information resources.
