@@ -50,6 +50,7 @@ else
 
     if [[ ( $refresh = "true" ) ]]; then
       $scriptsDirectory/retrieveData/pullWeeklyCommits.sh $token $configReader $configFile $line
+      $scriptsDirectory/retrieveData/pullReleases.sh $token $configReader $configFile $line
     fi
     temp=`cat $reposDirectory/weeklyStatsAverage.txt`
 
@@ -95,7 +96,16 @@ else
       language=`cat $reposDirectory/language.txt`
     fi
 echo "language=$language"
-    echo "<tr><td headers='Project_Repository'><a href='https://github.com/$line'>$line</a></td><td headers='Language'>$language</td><td headers='Description'>$description</td></tr>" >> $descriptionHTMLTemp
+
+    echo "getting latest release"
+    release=`grep -m 1 "html_url" $outputSharedDataDirectory/orgs/$line/releases.txt | awk -F "\"" '{print $4}'`
+    if [[ "" == "$release" ]]; then
+      latestRelease="--";
+    else
+      latestRelease="<a href='$release'>$release</a>"
+    fi
+
+    echo "<tr><td headers='Project_Repository'><a href='https://github.com/$line'>$line</a></td><td headers='Language'>$language</td><td headers='Description'>$description</td><td>$latestRelease</td></tr>" >> $descriptionHTMLTemp
   done < "$outputTempDirectory/projects.txt"
 
   ttlProjects=`grep -c ^ $outputSharedDataDirectory/orgs/"$org"projectDescriptions.txt`

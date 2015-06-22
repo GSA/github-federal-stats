@@ -48,8 +48,6 @@
 <P>
 <DIV style="color:#51627e; background-color:#DEF0F8; height:40px; padding-top:22px">
 <a href="datasheets/about.html" style="color:#51627e">About</a> &nbsp; | &nbsp;
-<a href="datasheets/forExecutives.html" style="color:#51627e">Executives</a> &nbsp; | &nbsp;
-<a href="datasheets/forDevelopers.html" style="color:#51627e">Developers</a> &nbsp; |  &nbsp;
 <a href="word.html" style="color:#51627e">Word Frequency</a> &nbsp; | &nbsp;
 <a href="language.html" style="color:#51627e">Language Frequency</a> &nbsp; | &nbsp;
 <a href="mostactive.html" style="color:#51627e">Most Active Repositories</a> &nbsp; | &nbsp;
@@ -111,6 +109,7 @@
                 <th id="Project_Repository"   style="background-color:#C9E8FA;">Project Repository</th>
                 <th id="Language"   style="background-color:#C9E8FA;">Language</th>
                 <th id="Description"   style="background-color:#C9E8FA;">Description</th>
+                <th id="Latest_Release"   style="background-color:#C9E8FA;">Latest Release</th>
             </tr>
         </thead>
  
