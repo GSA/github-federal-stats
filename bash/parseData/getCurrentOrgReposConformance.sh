@@ -103,6 +103,7 @@ echo "language=$language"
       latestRelease="--";
     else
       latestRelease="<a href='$release'>$release</a>"
+      echo $latestRelease >> $outputDataDirectory/releases.txt
     fi
 
     echo "<tr><td headers='Project_Repository'><a href='https://github.com/$line'>$line</a></td><td headers='Language'>$language</td><td headers='Description'>$description</td><td>$latestRelease</td></tr>" >> $descriptionHTMLTemp
