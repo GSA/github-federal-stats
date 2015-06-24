@@ -156,6 +156,7 @@ echo "Script started: $(date)"
   fi
   $scriptsDirectory/control/calculateTotals.sh $token $configReader $configFile
 fi
+rm limit.txt
 echo "Script completed: $(date)"
 
 ENDTIME=$(date +%s)

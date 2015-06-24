@@ -67,6 +67,12 @@ else
     echo " "
     echo " "
     echo "Obtaining organization information for $org ($count/$ttlOrgs)"
+   # echo "$((count%10))"
+   # if  [[ $((count%10)) = 0 ]]; then
+      echo "checking remaining queries..."
+      remaining=`$scriptsDirectory/retrieveData/rateLimitRemaining.sh` 
+      echo "$remaining remaining"
+   # fi
     currentOrg=$outputSharedDataDirectory/orgs/$org.txt
     
     refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubOrgInfo $outputSharedDataDirectory/orgs/$org.txt`
