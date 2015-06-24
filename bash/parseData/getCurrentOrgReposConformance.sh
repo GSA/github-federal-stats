@@ -5,7 +5,9 @@ echo -e "\n---------------enter $0---------------"
   configFile=$3
   token=$4
   org=$5
-
+  limit1=$((500))
+  limit2=$((50))
+  loopcheck=$((10))
 
 #  outputDataDirectory=`$configReader $configFile outputDataDirectory`
 #  outputTempDirectory=`$configReader $configFile outputTempDirectory`
@@ -41,10 +43,29 @@ if [ $projCount -eq 0 ]; then
 else
   #loop through project repos for an org
   echo "looping through project repositories for $org"
+  count=0;
 
   while read -r line
   do
     echo "line is $line"
+    count=$((count+1))
+    echo "checking on $loopcheck call=$((count%loopcheck))"
+    if  [[ $((count%loopcheck)) = 0 ]]; then
+      echo "checking remaining queries against a lower limit of $limit2..."
+      remaining=`$scriptsDirectory/retrieveData/rateLimitRemaining.sh $token`
+      remaining=$((remaining+0))
+      echo "$remaining remaining"
+      if [ "$remaining" -lt "$limit1" ]; then
+        loopcheck=$((1))
+      fi
+      if [ "$remaining" -lt "$limit2" ]; then
+        secondstowait=`$scriptsDirectory/retrieveData/rateLimitSeconds.sh $token`
+        echo "pausing $secondstowait to allow rate limit to reset..."
+
+        sleep "$secondstowait"s
+      fi
+    fi
+
     reposDirectory=$outputSharedDataDirectory/orgs/"$line"
     refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubCommitsInfo $reposDirectory/weeklyStats.txt`
 

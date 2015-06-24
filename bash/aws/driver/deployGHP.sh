@@ -1,16 +1,16 @@
 echo -e "\n---------------enter $0---------------"
 if [[ ( -z $1 || -z $2 || -z $3 || -z $4 ) ]]; then
-  echo "Usage: deployGHP.sh [rootDirectory] [user.email] [deployToken] [iopage]"
+  echo "Usage: deployGHP.sh [outputDirectory] [user.email] [deployToken] [iopage]"
 else
-  rootDirectory=$1
+  outputDirectory=$1
   user=$2
   deployToken=$3
   iopage=$4
-echo "root: $rootDirectory"
+echo "root: $outputDirectory"
 echo "user:$user"
 echo "iopage:$iopage"
   rm -rf ghp
-  cp -R $rootDirectory/output/publish/all/ ghp
+  cp -R $outputDirectory/publish/all/ ghp
   cd ghp 
 
   git init

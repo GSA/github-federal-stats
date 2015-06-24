@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Server: GitHub.com
+Date: Tue, 23 Jun 2015 17:41:38 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 291
+Status: 200 OK
+X-RateLimit-Limit: 5000
+X-RateLimit-Remaining: 3913
+X-RateLimit-Reset: 1435081904
+Cache-Control: no-cache
+X-OAuth-Scopes: public_repo
+X-Accepted-OAuth-Scopes: repo
+X-GitHub-Media-Type: github.v3
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: deny
+Content-Security-Policy: default-src 'none'
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval
+Access-Control-Allow-Origin: *
+X-GitHub-Request-Id: 340B4F85:6D1C:EB4E944:55899A52
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Served-By: 173530fed4bbeb1e264b2ed22e8b5c20
+
+{
+  "resources": {
+    "core": {
+      "limit": 5000,
+      "remaining": 3913,
+      "reset": 1435081904
+    },
+    "search": {
+      "limit": 30,
+      "remaining": 30,
+      "reset": 1435081358
+    }
+  },
+  "rate": {
+    "limit": 5000,
+    "remaining": 3913,
+    "reset": 1435081904
+  }
+}
