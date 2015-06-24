@@ -133,3 +133,8 @@ virtual-world-framework:Grant?:DoD:
 visionworkbench:Government:NASA:
 WFMRDA:Government:Interior:Wildland Fire Management
 whitehouse:Government:Whitehouse:
+usgs-eros:Government:Interior:USGS-EROS
+usda-ars-agil:Government:USDA:Agricultural Research Service
+nasa-tournament-lab:Government:NASA:CoECI
+nps-mojn:Government:Interior:NPS
+bfelob:Government:Education:BFELOB
