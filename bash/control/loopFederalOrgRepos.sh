@@ -43,6 +43,7 @@ else
   echo "Preparing to loop through $ttlOrgs organizations"
 
   cp -R $scriptsDirectory/html/CSS $outputReportDirectory
+  cp -R $scriptsDirectory/html/jqplot $outputReportDirectory
   cp -R $scriptsDirectory/html/Images $outputReportDirectory
   cp -R $scriptsDirectory/html/JS $outputReportDirectory
   cp -R $scriptsDirectory/html/datasheets $outputReportDirectory

@@ -5,19 +5,19 @@
 <title><!--CHART1TITLE--></title>
 
 
-  <script language="javascript" type="text/javascript" src="http://www.jqplot.com/src/jquery.min.js"></script>
+  <script language="javascript" type="text/javascript" src="jqplot/dist/jquery.min.js"></script>
 
-  <script language="javascript" type="text/javascript" src="http://www.jqplot.com/src/jquery.jqplot.min.js"></script>
+  <script language="javascript" type="text/javascript" src="jqplot/dist/jquery.jqplot.min.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="http://www.jqplot.com/src/jquery.jqplot.min.css" />
+  <link rel="stylesheet" type="text/css" href="jqplot/dist/jquery.jqplot.min.css" />
 
-<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.dateAxisRenderer.min.js"></script>
-<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.canvasTextRenderer.min.js"></script>
-<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.canvasAxisTickRenderer.min.js"></script>
-<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.categoryAxisRenderer.min.js"></script>
-<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.barRenderer.min.js"></script>
-<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.pieRenderer.min.js"></script>
-<script type="text/javascript" src="http://www.jqplot.com/src/plugins/jqplot.donutRenderer.min.js"></script>
+<script type="text/javascript" src="jqplot/dist/plugins/jqplot.dateAxisRenderer.min.js"></script>
+<script type="text/javascript" src="jqplot/dist/plugins/jqplot.canvasTextRenderer.min.js"></script>
+<script type="text/javascript" src="jqplot/dist/plugins/jqplot.canvasAxisTickRenderer.min.js"></script>
+<script type="text/javascript" src="jqplot/dist/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+<script type="text/javascript" src="jqplot/dist/plugins/jqplot.barRenderer.min.js"></script>
+<script type="text/javascript" src="jqplot/dist/plugins/jqplot.pieRenderer.min.js"></script>
+<script type="text/javascript" src="jqplot/dist/plugins/jqplot.donutRenderer.min.js"></script>
 
 	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
 	<link href='CSS/custom.css' rel='stylesheet' type='text/css'> 
