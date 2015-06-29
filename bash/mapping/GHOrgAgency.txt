@@ -9,7 +9,7 @@ businessusa:Government:BusinessUSA:BusinessUSA
 CA-CST-Library:Government:State:Consular Systems and Technology Division
 CA-CST-SII:Government:State:Consular Systems and Technology Division
 cfpb:Government:Consumer Financial Protection Bureau:
-chaos:FFRDC:Energy:"Lawrence Livermore National Security: LLC"
+chaos:FFRDC:Energy:Lawrence Livermore National Security LLC
 cmsgov:Government:HHS:Centers for Medicare & Medicaid Services
 cocomans:FFRDC:Energy:Los Alamos National Labs
 commercegov:Government:Commerce:
@@ -68,7 +68,7 @@ NCPP:Grant?:Energy:University of Colorado
 NCRN:Government:Interior:NPS
 NDAR:Government:HHS:NIH
 NeoGeographyToolkit:Government:NASA:
-NERSC:FFRDC:Energy:Lawrence Berkley National Laboratory
+NERSC:FFRDC:Energy:Lawrence Berkley National Laboratories
 ngds:Grant:Energy:
 nhanes:Government:HHS:CDC
 nhlbi:Government:HHS:NIH
@@ -138,3 +138,79 @@ usda-ars-agil:Government:USDA:Agricultural Research Service
 nasa-tournament-lab:Government:NASA:CoECI
 nps-mojn:Government:Interior:NPS
 bfelob:Government:Education:BFELOB
+afseo:Government:DOD:USAF SEEK EAGLE Office
+iadgov:Government:NSA:The Information Assurance Directorate
+info-sharing-environment:Consortium:ISE:ISE
+NationalSecurityAgency:Government:NSA:NSA
+ngageoint:Government:NGA:NGA
+shareandprotect:Consortium:ISE:ISE
+usarmyresearchlab:Government:DOD:US Army Research Laboratory
+ACME-Climate:FFRDC:Energy:Argonne National Laboratory
+ARM-DOE:Government:Energy:Office of Science
+BrookhavenNationalLaboratory:FFRDC:Energy
+CASL:Consortium:Energy:Energy
+CBIIT:Government:NIH:NCI
+ControlSystemStudio:NGE::
+DOE-NEPA:FFRDC:Energy:Argonne National Laboratory
+EarthSystemCoG:Grant?:NOAA:University of Colorado
+EMSL-MSC:FFRDC:Energy:Pacific Northwest National Laboratory
+epicsdeb:NGE::
+exmatex:FFRDC:Energy:Los Alamos National Labs
+GENIEMC:NGE::
+globus:Grant?:Energy
+HipGISAXS:FFRDC:Energy:Lawrence Berkeley National Laboratories
+hpde:NGE:NOAA:
+idaholab:FFRDC:Energy:Idaho National Laboratory
+JGI-Bioinformatics:FFRDC:Energy:Lawrence Berkley National Laboratories
+kbaseIncubator:Government:Energy:Department of Science
+LANL:FFRDC:Energy:Los Alamos National Labs
+LANL-Bioinformatics:FFRDC:Energy:Los Alamos National Labs
+lbl-anp:FFRDC:Energy:Lawrence Berkley National Laboratories
+lbl-cal:FFRDC:Energy:Sandia National Laboratories
+lblpbd:FFRDC:Energy:Lawrence Berkley National Laboratories
+libMesh:NGE::
+magellancloud:FFRDC:Energy:Argonne National Laboratory
+materialsproject:FFRDC:Energy:Lawrence Berkley National Laboratories
+MCSclimate:FFRDC:Energy:Argonne National Laboratory
+mdhim:FFRDC:Energy:Los Alamos National Labs
+MG-RAST:FFRDC:Energy:Argonne National Laboratory
+NASA-Tensegrity-Robotics-Toolkit:Government:NASA:
+ncgmp09:NGE::
+NIAID-RTB:Government:NIH:National Institute of Allergy and Infectious Diseases
+NIFA:Government:USDA:REEIS
+nih-fmrif:Government:NIH:NIMH
+Nikea:FFRDC:Energy:Brookhaven National Laboratory
+nimh-nif:Government:NIH:NIMH
+nist-ionstorage:Government:Commerce:NIST
+NSLS-II:FFRDC:Energy:Brookhaven National Laboratory
+NSLS-II-CSX:FFRDC:Energy:Brookhaven National Laboratory
+nsls2ap:FFRDC:Energy:Brookhaven National Laboratory
+olcf:FFRDC:Energy:Oak Ridge National Laboratory
+ONOP:NGE::
+OpsLabJPL:FFRDC:NASA:Jet Propulsion Laboratory
+ORNL:FFRDC:Energy:Oak Ridge National Laboratory
+ORNL-BTRIC:FFRDC:Energy:Oak Ridge National Laboratory
+ORNL-CEES:FFRDC:Energy:Oak Ridge National Laboratory
+ornl-sava:FFRDC:Energy:Oak Ridge National Laboratory
+ORNL-TechInt:FFRDC:Energy:Oak Ridge National Laboratory
+ornlcda:FFRDC:Energy:Oak Ridge National Laboratory
+ORNLSMRModeling:FFRDC:Energy:Oak Ridge National Laboratory
+PCMDI:FFRDC:Energy:Lawrence Livermore National Laboratory
+plfs:FFRDC:Energy:Los Alamos National Labs
+PNNL-Comp-Mass-Spec:FFRDC:Energy:Pacific Northwest National Laboratory
+pyepics:NGE::
+reflectometry:NGE::
+sandialabs:FFRDC:Energy:Sandia National Laboratories
+scalability-llnl:FFRDC:Energy:Lawrence Livermore National Laboratory
+scattering:NGE::
+sdfdemo:NGE::
+sim-x:FFRDC:Energy:Los Alamos National Labs
+simX:NGE::
+SNEWS-Collaboration:FFRDC:Energy:Brookhaven National Laboratory
+SNL-WaterPower:FFRDC:Energy:Sandia National Laboratories
+swift-lang:Grant:Energy
+TinyTitan:FFRDC:Energy:Oak Ridge National Laboratory
+TriBITSPub:FFRDC:Energy:Oak Ridge National Laboratory
+UV-CDAT:FFRDC:Energy:Lawrence Livermore National Laboratory
+WISDEM:FFRDC:Energy:National Renewable Energy Laboratory
+zfsonlinux:FFRDC:Energy:Lawrence Livermore National Laboratory
