@@ -18,6 +18,8 @@ else
   fi
 
   sed -ne 's/.*\(https[^"]*\).*/\1/p' $outputDataDirectory/federalOrgsRaw.txt | sed -n -e '/18f/,$p' | sed '/whitehouse/q' > $outputDataDirectory/federalOrgs.txt 
+  sed -ne 's/.*\(https[^"]*\).*/\1/p' $outputDataDirectory/federalOrgsRaw.txt | sed -n -e '/afseo/,$p' | sed '/usarmyresearchlab/q' >> $outputDataDirectory/federalOrgs.txt 
+  sed -ne 's/.*\(https[^"]*\).*/\1/p' $outputDataDirectory/federalOrgsRaw.txt | sed -n -e '/ACME-Climate/,$p' | sed '/zfsonlinux/q' >> $outputDataDirectory/federalOrgs.txt 
   #following is for testing the scripts - it stops after articlcc.org repo
   #sed -ne 's/.*\(https[^"]*\).*/\1/p' $outputDataDirectory/federalOrgsRaw.txt | sed -n -e '/18f/,$p' | sed '/arcticlcc/q' > $outputDataDirectory/federalOrgs.txt 
   sed -ni '/png/!p' $outputDataDirectory/federalOrgs.txt 
