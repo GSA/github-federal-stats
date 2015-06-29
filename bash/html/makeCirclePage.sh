@@ -17,7 +17,7 @@ releases=$6
 
 $scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles1.middle circle1 'Organizations<br>with Email' $pocs
 $scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles2.middle circle2 'Repositories<br>with Descriptions' $descrips 
-$scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles3.middle circle3 'Repositoriesy<br>with Releases' $releases 
+$scriptsDirectory/html/createCircle.sh $scriptsDirectory/html/circles.middle $outputTempDirectory/circles3.middle circle3 'Repositories<br>with Releases' $releases 
 
 cat $outputTempDirectory/circles1.middle > $outputFile
 cat $outputTempDirectory/circles2.middle >> $outputFile
