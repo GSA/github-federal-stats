@@ -1,0 +1,12 @@
+alias commit="{LOCALSCRIPTS}/checkin.sh"
+alias code="cd {ROOT}/bash"
+alias latest="find {ROOT}/bash -type f -printf \"%-.22T+ %Tx %.8TX %p\n\" | sort | cut -f 2- -d ' '"
+alias www="cd {WWWDIRECTORY}"
+alias buildnewlocal="{LOCALSCRIPTS}/buildLocal.sh true > /dev/null 2>&1"
+alias buildlocal="{LOCALSCRIPTS}/buildLocal.sh false > /dev/null 2>&1"
+alias buildghp="{LOCALSCRIPTS}/pagesRefresh.sh false > /dev/null 2>&1"
+alias buildnewghp="{LOCALSCRIPTS}/pagesRefresh.sh true > /dev/null 2>&1"
+alias exceeded="find  {ROOT}/output/data/all -name \"*.*\" -print | xargs grep \"API rate limit exceeded\" "
+alias rls="{LOCALSCRIPTS}/rateLimitSeconds.sh"
+alias rlr="{LOCALSCRIPTS}/rateLimitRemaining.sh"
+
