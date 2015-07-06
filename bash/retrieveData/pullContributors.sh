@@ -9,7 +9,7 @@ echo "org is $org"
 
   scriptsDirectory=`$configReader $configFile scriptsDirectory`
   outputDataDirectory=`$configReader $configFile outputDataDirectory`
-  outputSharedDataDirectory=`$configReader $configFile outputDataDirectory`
+  outputSharedDataDirectory=`$configReader $configFile outputSharedDataDirectory`
 
   currentOrg=$outputSharedDataDirectory/orgs/"$org"
   if [ ! -d "$currentOrg" ]; then
