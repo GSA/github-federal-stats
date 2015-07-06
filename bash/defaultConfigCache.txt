@@ -1,0 +1,11 @@
+scriptsDirectory:/home/ec2-user/github/github-federal-stats/bash
+outputGHDirectory:/home/ec2-user/github/github-federal-stats/output/GH
+outputSharedDataDirectory:/home/ec2-user/github/github-federal-stats/output/data/all
+outputDataDirectory:/home/ec2-user/github/github-federal-stats/output/data
+outputReportDirectory:/home/ec2-user/github/github-federal-stats/output/publish
+outputTempDirectory:/home/ec2-user/github/github-federal-stats/output/temp
+refreshUSFederalList:false
+refreshGitHubOrgInfo:false
+refreshGitHubReposInfo:false
+refreshGitHubCommitsInfo:false
+refreshOrgsForAgency:false

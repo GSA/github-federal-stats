@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>U.S. Federal GitHub Usage - About</title>
+
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+	<link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css">
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='../CSS/custom.css' rel='stylesheet' type='text/css'> 
+    <link rel="stylesheet" href="../jquery-circle-progress/page-styles.css">
+       
+	<script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<script type="text/javascript" language="javascript" src="http://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+	<script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+	<script src="../jquery-circle-progress/dist/circle-progress.js"></script></script>
+    <script type="text/javascript" language="javascript" src="JS/custom.js"></script>
+</head>
+
+<body bgcolor="#F8F8F8">
+
+<DIV style="font-size:24px; color:#00427c; background-image:url(../Images/bg.png);" align="center">
+	<A href="index.html"><IMG src="../Images/gsa.png" alt="GSA Logo" title="GSA Logo" border="0"></A> &nbsp; GitHub Dashboard<br>
+</DIV>
+
+
+<h2>About</h2>
+
+<P>
+The data aggregated here is pulled from public GitHub repositories using the GitHub APIs.  The federal organizations included are those who have self-identified themselves as &quot;U.S. Federal&quot; on the page at <a href="https://government.github.com/community/">https://government.github.com/community/</a>.  The list includes federal agencies as well as FFRDCs.
+<br><br>
+Many federal agencies have opted to utilize GitHub to jump-start development efforts, eliminate the costs of maintaining an on premise code repository, increase transparency, and avoid costs associated with transporting code between development teams.
+<br><br>
+This site is intended to:
+<br><br>
+&nbsp;&nbsp;1)	Provide a reference implementation of a metrics-based dashboard of an open-source tool to ensure that the federal government is utilizing such tools as effectively as possible.  High-level metrics are provided on the first tab to include metadata completeness, educational data sheets, and trending data.  
+<br><br>
+&nbsp;&nbsp;2)	Insight for an agency or sub-agency executive into which agency/subagency assets are housed in GitHub.
+<br><br>
+&nbsp;&nbsp;3)	Code discoverability and usability for developers looking to reuse what the federal government has already developed.  Code discoverability depends upon development teams providing point of contacts, effective project descriptions, and packaged releases (which accommodate those federal entities only re-using binaries).
+<br><br>
+&nbsp;&nbsp;4)	Better compartmentalization of IT assets over time.  With continued, effective re-use, agencies should be able to better segregate the components of the code comprising the systems housed in GitHub to promote maximum reusability.
+<br><br><hr>
+<center>This site was created by GSA&#39;s Office of Government-wide Policy.
+<br><br>
+The site is currently in beta, and feedback can be provided by submitting a new issue at <a href="https://github.com/GSA/github-federal-stats/issues ">https://github.com/GSA/github-federal-stats/issues</a>
+<center>
+
+</P>
+
+<P><br><br></P>
+
+<P align="center">
+<DIV style="color:#51627e; background-color:#DEF0F8; height:40px; padding-top:22px; text-align:center">
+<A href="../index.html" style="color:#51627e">Dashboard</a> &nbsp; | &nbsp;
+<a href="about.html" style="color:#51627e">About</a> &nbsp; | &nbsp;
+<a href="../word.html" style="color:#51627e">Word Frequency</a> &nbsp; | &nbsp;
+<a href="../language.html" style="color:#51627e">Language Frequency</a> | &nbsp; 
+<a href="../mostactive.html" style="color:#51627e">Most Active Repositories</a> &nbsp; | &nbsp;
+<a href="../newest.html" style="color:#51627e">Newest Repositories</a> &nbsp; | &nbsp;
+<a href="../day.html" style="color:#51627e">New Repositories - 14 Days</a> &nbsp; | &nbsp;
+<a href="../month.html" style="color:#51627e">New Repositories - 12 months</a> &nbsp; | &nbsp;
+<a href="../year.html" style="color:#51627e">New Repositories by Year</a> 
+</DIV>
+</P>
+
+
+
+
+</body>
+</html>
