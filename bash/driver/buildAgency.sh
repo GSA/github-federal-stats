@@ -7,13 +7,13 @@ else
   wwwDirectory=$3
   buildToken=$4
   refresh=$5
-  agency=$5
+  agency=$6
 
   if [[ ( $refresh = "true" ) ]]; then
     $rootDirectory/buildGitHubIndex.sh $buildToken $rootDirectory/control/getConfigElement.sh $rootDirectory/defaultConfigRefresh.txt true $agency 2>&1 | tee $outputDirectory/alloutput.log
   else
     $rootDirectory/buildGitHubIndex.sh $buildToken $rootDirectory/control/getConfigElement.sh $rootDirectory/defaultConfigCache.txt $agency false 2>&1 | tee $outputDirectory/alloutput.log
   fi
-  cp -R $outputDirectory/publish/all/ $wwwDirectory
+  cp -R $outputDirectory/publish/$agency/ $wwwDirectory
 fi
 echo -e "\n---------------exit $0---------------"
