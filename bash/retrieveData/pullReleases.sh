@@ -9,7 +9,7 @@ echo "org is $org"
 
   scriptsDirectory=`$configReader $configFile scriptsDirectory`
   outputDataDirectory=`$configReader $configFile outputDataDirectory`
-  outputSharedDataDirectory=`$configReader $configFile outputDataDirectory`
+  outputSharedDataDirectory=`$configReader $configFile outputSharedDataDirectory`
 #  outputGHDirectory=`$configReader $configFile outputGHDirectory`
 #  outputReportDirectory=`$configReader $configFile outputReportDirectory`
 #  outputTempDirectory=`$configReader $configFile outputTempDirectory`
@@ -20,14 +20,13 @@ echo "org is $org"
     echo "making $currentOrg directory."
     mkdir -p $currentOrg
   fi
-
-  refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubCommitsInfo $currentOrg/releases.txt`
+  refresh=`$scriptsDirectory/retrieveData/checkRetrievalFlag.sh $configReader $configFile refreshGitHubCommitsInfo  $outputSharedDataDirectory/orgs/$org/releases.txt`
 
   echo "refresh for $org weekly releases info from GitHub =$refresh" 
 
   if [[ ( $refresh = "true" ) ]]; then
     echo "Retrieving $org info from GitHub"
-    curl -s -H "Authorization: token $1" https://api.github.com/repos/$org/releases > $currentOrg/releases.txt
+    curl -s -H "Authorization: token $1" https://api.github.com/repos/$org/releases >  $outputSharedDataDirectory/orgs/$org/releases.txt
   fi
 fi
 
