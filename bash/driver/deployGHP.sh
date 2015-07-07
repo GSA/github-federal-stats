@@ -9,9 +9,10 @@ else
 echo "root: $outputDirectory"
 echo "user:$user"
 echo "iopage:$iopage"
-  rm -rf ghp
-  cp -R $outputDirectory/publish/all/ ghp
-  cd ghp 
+  rm -rf $outputDirectory/ghp
+  mkdir $outputDirectory/ghp
+  cp -R $outputDirectory/publish/all/ $outputDirectory/ghp
+  cd $outputDirectory/ghp 
 
   git init
   git config user.name "GH-PAGES-BUILD"
