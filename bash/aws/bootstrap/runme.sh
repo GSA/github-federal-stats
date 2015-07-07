@@ -4,6 +4,7 @@ sudo yum install git
 mkdir /home/ec2-user/github
 cd /home/ec2-user/github
 curl https://codeload.github.com/GSA/github-federal-stats/tar.gz/v$latestVersion | tar xvz && mv github-federal-stats-$latestVersion github-federal-stats
+mkdir /home/ec2-user/github/github-federal-stats/output
 
 /home/ec2-user/github/github-federal-stats/bash/aws/bootstrap/setEST.sh
 /home/ec2-user/github/github-federal-stats/bash/aws/bootstrap/createWebServer.sh
