@@ -4,6 +4,7 @@ sudo yum install git
 mkdir /home/ec2-user/github
 cd /home/ec2-user/github
 curl https://codeload.github.com/GSA/github-federal-stats/tar.gz/v$latestVersion | tar xvz && mv github-federal-stats-$latestVersion github-federal-stats
+mkdir /home/ec2-user/github/github-federal-stats/output
 
 /home/ec2-user/github/github-federal-stats/bash/aws/bootstrap/setEST.sh
 /home/ec2-user/github/github-federal-stats/bash/aws/bootstrap/createWebServer.sh
@@ -25,7 +26,7 @@ echo "READKEY:$readKey" >> /home/ec2-user/bootstrap.config
 echo "PUSHKEY:$pushKey" >> /home/ec2-user/bootstrap.config
 echo "GHUSERID:$ghUserId" >> /home/ec2-user/bootstrap.config
 echo "GHORGID:$ghOrgId" >> /home/ec2-user/bootstrap.config
-echo "EMAIL:i$email" >> /home/ec2-user/bootstrap.config
+echo "EMAIL:$email" >> /home/ec2-user/bootstrap.config
 echo "WWWDIRECTORY:/var/www/html" >> /home/ec2-user/bootstrap.config
 
 /home/ec2-user/github/github-federal-stats/bash/bootstrap/bootstrap.sh ~/bootstrap.config

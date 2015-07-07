@@ -12,9 +12,10 @@ else
   refresh=$8
   if [ -n $9 ]; then
     $rootDirectory/driver/buildAgency.sh $rootDirectory $outputDirectory $wwwDirectory $buildtoken $refresh $9
+  $rootDirectory/driver/deployGHP.sh $outputDirectory $user $deploytoken $iopage $9
   else
     $rootDirectory/driver/buildAll.sh $rootDirectory $outputDirectory $wwwDirectory $buildtoken $refresh
-  fi
   $rootDirectory/driver/deployGHP.sh $outputDirectory $user $deploytoken $iopage
+  fi
 fi
 echo -e "\n---------------exit $0---------------"

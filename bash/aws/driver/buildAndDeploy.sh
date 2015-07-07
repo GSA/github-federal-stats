@@ -11,9 +11,10 @@ else
   refresh=$7
   if [ -n $8 ]; then
     $rootDirectory/aws/driver/buildAgency.sh $rootDirectory $outputDirectory $buildtoken $refresh $8
+  $rootDirectory/aws/driver/deployGHP.sh $outputDirectory $user $deploytoken $iopage $agency
   else
     $rootDirectory/aws/driver/buildAll.sh $rootDirectory $outputDirectory $buildtoken $refresh
-  fi 
   $rootDirectory/aws/driver/deployGHP.sh $outputDirectory $user $deploytoken $iopage
+  fi 
 fi
 echo -e "\n---------------exit $0---------------"
