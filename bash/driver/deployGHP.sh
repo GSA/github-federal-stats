@@ -13,7 +13,7 @@ echo "iopage:$iopage"
   rm -rf $outputDirectory/ghp
   mkdir $outputDirectory/ghp
   cp -R $outputDirectory/publish/$agency/ $outputDirectory/ghp
-  cd $outputDirectory/ghp 
+  cd $outputDirectory/ghp/$agency/
 
   git init
   git config user.name "GH-PAGES-BUILD"
