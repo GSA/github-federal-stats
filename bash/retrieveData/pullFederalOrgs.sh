@@ -23,6 +23,7 @@ else
   #following is for testing the scripts - it stops after articlcc.org repo
   #sed -ne 's/.*\(https[^"]*\).*/\1/p' $outputDataDirectory/federalOrgsRaw.txt | sed -n -e '/18f/,$p' | sed '/arcticlcc/q' > $outputDataDirectory/federalOrgs.txt 
   sed -ni '/png/!p' $outputDataDirectory/federalOrgs.txt 
+  sed -i '/^https:\/\/avatars/d' $outputDataDirectory/federalOrgs.txt 
   sed -i '$!N; /^\(.*\)\n\1$/!P; D' $outputDataDirectory/federalOrgs.txt 
 fi
 echo -e "---------------exit $0---------------"
