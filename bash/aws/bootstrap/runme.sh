@@ -1,4 +1,4 @@
-latestVersion=0.86
+latestVersion=0.87
 sudo yum update
 sudo yum install git
 mkdir /home/ec2-user/github
