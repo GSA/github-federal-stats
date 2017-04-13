@@ -58,5 +58,12 @@ THEAD, TFOOT { background-color:#FFF; background-image:none;   }
 	padding: 3px;
 	letter-spacing:2px;
 }
-	
+
+.dataTables_scrollBody[style] {
+    height: 100%!important;
+}
+
+#tabs {
+    overflow: auto;
+}
 	
